@@ -13,7 +13,7 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
 - [ ] Optional Rule: Implement firearms proficiency
 - [ ] Implement starting equipment
 - [ ] Find a way to implement Magical Tinkering (could be just Light Cantrip and Minor Illusion Cantrip)
-- [ ] Implement Infusions themselves (get from http://dnd5e.wikidot.com/artificer:infusions). Infusion are learned but **must be prepared.** Not all infusions are interesting. Most of them can be skills copied from Pact of the Blade. 
+- [ ] Implement Infusions themselves (get from http://dnd5e.wikidot.com/artificer:infusions). Infusion are learned but **must be prepared.** Not all infusions are interesting. Most of them can be skills copied from Pact of the Blade. I'd make most non-permanent infusions (basically all of them) as free action so that can be used in fight to power up items or conjure items (like Shillelagh).
   - [ ] Arcane Propulsion Armor -> infuse armor with an effect that increases speed by 5feet.
   - [ ] Armor of Magical Strength -> infuse armor with passive that gives Prone immunity and advantage on Strength checks.
   - [ ] Boots of the Winding Path -> infuse boots with Misty Step skill unlock.
@@ -23,6 +23,10 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
   - [ ] Homunculus Servant -> fast way would be Find Familiar, custom models in the future.
   - [ ] Radiant Weapon -> like Enhanced Weapon (except the +2) but also unlocks Light cantrip.
   - [ ] Repeating Shot -> +1d4 force damage to ranged weapon.
+  - [ ] From 6th level: Repulsion Shield -> once the shield is infused, adds reaction spell to melee attacks to push 15 feet away (might be overpowered to give 4 charges, I'd nerf it to once per fight).
+  - [ ] From 6th level: Resistant Armor -> gives resistance to one damage type, might get the submenu too long, can we make container spells of container spells?
+  - [ ] From 6th level: Returning Weapon -> adds returning effect to weapon.
+  - [ ] From 6th level: Spell-Refueling Ring -> conjure a ring that refuels 1 spell slot once per day, I think this is boring to infuse and then cast, I'd change it to just convert 1 Infusion Slot to 1 Spell Slot. 
   - [ ] Replicate Magic Item -> oh boy.
     - [ ] Bag of Holding: unclear if the game allows for the fixed weight "regardless of contents" and it's not really useful in BG3. I'd just replace it with a spell that costs 2 infusion and replicates Gale's explosion, just for the lol (it's what happens if you put a Bag of Holding inside another).
     - [ ] Other magic items we might want to make. 
