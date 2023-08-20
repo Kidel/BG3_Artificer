@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="206"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive1,Passive2,Passive3"/> TODO
+                    <attribute id="UUID" type="guid" value="31fa3e61-62ae-4d03-a32c-eaa4f91c52eb"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

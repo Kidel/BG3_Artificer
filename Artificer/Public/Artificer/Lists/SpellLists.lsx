@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value=""/> TODO
+                    <attribute id="UUID" type="guid" value="ef3aa11f-cc98-412f-a85e-7fae4561a4d4"/> 
+                </node>
+                <node id="SpellList">
+                    <attribute id="Spells" type="LSString" value=""/> TODO
+                    <attribute id="UUID" type="guid" value="b9808849-c41b-444a-83aa-9748e03e9e16"/> 
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

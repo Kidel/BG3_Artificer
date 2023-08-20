@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="6" build="5"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Constitution);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Artificer"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/> TODO
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectPassives(31fa3e61-62ae-4d03-a32c-eaa4f91c52eb,1);SelectSkills(e6496b02-8d9d-4852-a9d1-dc86a2449b31,2);SelectSpells(b9808849-c41b-444a-83aa-9748e03e9e16,3,0,,,,AlwaysPrepared);SelectSpells(ef3aa11f-cc98-412f-a85e-7fae4561a4d4,4,0)"/>
+					<attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="c1965de9-87f1-47ee-93c7-43c54f685f2d"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="IsMulticlass" type="bool" value="true"/>
+					<attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Artificer"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/> TODO
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(31fa3e61-62ae-4d03-a32c-eaa4f91c52eb,1);SelectSkills(e6496b02-8d9d-4852-a9d1-dc86a2449b31,2);SelectSpells(b9808849-c41b-444a-83aa-9748e03e9e16,2,0,,,,AlwaysPrepared)"/>
+					<attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="0192a55b-231e-4f28-9ad3-c1c0c0ab91d3"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ActionResource(InfusionSlots,2,0);SelectSpells(ef3aa11f-cc98-412f-a85e-7fae4561a4d4,2,0);SelectSpells(ef3aa11f-cc98-412f-a85e-7fae4561a4d4,2,0);SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,6,0);"/> TODO add 2 infusions learned
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Artificer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="6bd67b34-19af-438f-8e9f-dabc19beed3a"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ActionResource(InfusionSlots,2,0)"/> TODO add 2 infusions learned
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Artificer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="6bd67b34-19af-438f-8e9f-dabc19beed3a"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="16fbaf2f-5b9a-46f4-806f-06b62a8ce24f"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Alchemist"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="64cee649-5ec9-4b73-8195-51c857928ed9"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Armorer"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="65cee649-5ec9-4b73-8195-51c857928ed9"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Artillerist"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="66cee649-5ec9-4b73-8195-51c857928ed9"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="BattleSmith"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="119dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="63cee649-5ec9-4b73-8195-51c857928ed9"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
