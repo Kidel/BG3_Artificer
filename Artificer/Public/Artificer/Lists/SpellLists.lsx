@@ -9,8 +9,32 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer cantrips (Intelligence)"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_AcidSplash;Shout_BladeWard;Target_ChillTouch;Target_DancingLights;Projectile_FireBolt;Target_Friends;Target_Light;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Projectile_RayOfFrost;Target_ShockingGrasp;Target_TrueStrike"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_AcidSplash;Shout_BladeWard;Target_ChillTouch;Target_DancingLights;Projectile_FireBolt;Target_Friends;Target_MageHand;Projectile_PoisonSpray;Projectile_RayOfFrost;Target_ShockingGrasp;Target_TrueStrike"/>
                     <attribute id="UUID" type="guid" value="b9808849-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Magical Tinkering"/>
+                    <attribute id="Spells" type="LSString" value="Target_Light;Target_MinorIllusion"/>
+                    <attribute id="UUID" type="guid" value="c9808849-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Flash of Genius"/>
+                    <attribute id="Spells" type="LSString" value="Target_Guidance"/> TODO placeholder
+                    <attribute id="UUID" type="guid" value="d9808849-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Magic Item Adept"/>
+                    <attribute id="Spells" type="LSString" value=""/> TODO placeholder
+                    <attribute id="UUID" type="guid" value="e9808849-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Spell-Storing Item"/>
+                    <attribute id="Spells" type="LSString" value=""/> TODO placeholder
+                    <attribute id="UUID" type="guid" value="f9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
 
                 Infusions
