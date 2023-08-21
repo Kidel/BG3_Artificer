@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="AbilityDistributionPreset">
-                    <attribute id="ClassUUID" type="guid" value="03f972eb-de3c-4cdb-9050-e8e3fa0526eb"/> UUID for the class
+                    <attribute id="ClassUUID" type="guid" value="03f972eb-de3c-4cdb-9050-e8e3fa0526eb"/>
                     <attribute id="Charisma" type="int32" value="10"/>
 					<attribute id="Constitution" type="int32" value="14"/>
                     <attribute id="Dexterity" type="int32" value="13"/>

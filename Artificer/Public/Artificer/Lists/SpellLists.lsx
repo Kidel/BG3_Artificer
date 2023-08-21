@@ -9,8 +9,28 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer cantrips (Intelligence)"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_AcidSplash;Shout_BladeWard;Target_ChillTouch;Target_DancingLights;Projectile_FireBolt;Target_Friends;Target_Light;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Projectile_RayOfFrost;Target_ShockingGrasp;Target_TrueStrike"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_AcidSplash;Shout_BladeWard;Target_ChillTouch;Target_DancingLights;Projectile_FireBolt;Target_Friends;Target_MageHand;Projectile_PoisonSpray;Projectile_RayOfFrost;Target_ShockingGrasp;Target_TrueStrike"/>
                     <attribute id="UUID" type="guid" value="b9808849-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Magical Tinkering"/>
+                    <attribute id="Spells" type="LSString" value="Target_Light;Target_MinorIllusion"/>
+                    <attribute id="UUID" type="guid" value="c9808849-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Flash of Genius"/>
+                    <attribute id="Spells" type="LSString" value="Target_Guidance"/> TODO placeholder
+                    <attribute id="UUID" type="guid" value="d9808849-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Magic Item Adept"/>
+                    <attribute id="Spells" type="LSString" value="placeholder"/> TODO placeholder
+                    <attribute id="UUID" type="guid" value="e9808849-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Spell-Storing Item"/>
+                    <attribute id="Spells" type="LSString" value="placeholder"/> TODO placeholder
+                    <attribute id="UUID" type="guid" value="f9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
 
                 Infusions
@@ -29,6 +49,14 @@
                     <attribute id="Comment" type="LSString" value="Infusions Placeholder lv10"/>
                     <attribute id="Spells" type="LSString" value="Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_Hex;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
                     <attribute id="UUID" type="guid" value="22345678-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+
+                The Right Tool For the Job
+
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="The Right Tool for the Job"/>
+					<attribute id="Spells" type="LSString" value="Shout_RightToolForTheJob"/>
+					<attribute id="UUID" type="guid" value="4cad4983-86fd-4855-8fb5-68d2b8d84b9c"/>
                 </node>
 
                 Spells
@@ -51,7 +79,14 @@
                     <attribute id="UUID" type="guid" value="3f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
 
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artificer spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness;Shout_Aid;Shout_Blur;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web;Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify;Target_FindFamiliar"/>
+                    <attribute id="UUID" type="guid" value="af3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+
                 Unused, lv12 Artificer has only up to 3rd level spells
+
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spells level 4"/>
                     <attribute id="Spells" type="LSString" value="Target_FreedomOfMovement;Target_Stoneskin;Target_ConjureElementals_Minor_Container;Teleportation_DimensionDoor;Target_Invisibility_Greater;Target_ResilientSphere;Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify;Target_FindFamiliar;Shout_Aid;Shout_Blur;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web;Target_CureWounds;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness"/>
