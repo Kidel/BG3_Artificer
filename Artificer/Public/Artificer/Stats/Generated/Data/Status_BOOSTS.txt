@@ -1,4 +1,4 @@
-// Example //
+// Example - TODO remove //
 new entry "BOOST_EXAMPLE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -20,6 +20,7 @@ data "Icon" "Spell_Abjuration_ShieldOfFaith"
 data "StackId" "INFUSION_ENHANCED_DEFENSE"
 data "TickType" "StartTurn"
 data "Boosts" "AC(1)"
+data "BoostConditions" "WearingArmor(context.Source) or HasShieldEquipped(context.Source)"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "87356553-5bed-4e2b-86eb-f0697e5ec648"
 
@@ -32,9 +33,9 @@ data "Icon" "Spell_Abjuration_ShieldOfFaith"
 data "StackId" "INFUSION_ENHANCED_DEFENSE_L10"
 data "TickType" "StartTurn"
 data "Boosts" "AC(2)"
+data "BoostConditions" "WearingArmor(context.Source) or HasShieldEquipped(context.Source)"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "87356553-5bed-4e2b-86eb-f0697e5ec648"
-
 
 new entry "INFUSION_ENHANCED_WEAPON"
 type "StatusData"
