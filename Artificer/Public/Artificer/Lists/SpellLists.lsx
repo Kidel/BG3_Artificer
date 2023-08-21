@@ -123,6 +123,15 @@
                     <attribute id="UUID" type="guid" value="9b5aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
 
+				The Right Tool For the Job
+
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Artificer - The Right Tool for the Job"/>
+					<attribute id="Spells" type="LSString" value="Shout_RightToolForTheJob"/>
+					<attribute id="UUID" type="guid" value="4cad4983-86fd-4855-8fb5-68d2b8d84b9c"/>
+                </node>
+
+
 			</children>
         </node>
     </region>
