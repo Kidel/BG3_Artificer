@@ -20,9 +20,9 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
   - [ ] Arcane Propulsion Armor -> infuse armor with an effect that increases speed by 5feet.
   - [ ] Armor of Magical Strength -> infuse armor with passive that gives Prone immunity and advantage on Strength checks.
   - [ ] Boots of the Winding Path -> infuse boots with Misty Step skill unlock.
-  - [ ] Enhanced Arcane Focus -> infuse weapon to get +1 to spell attack rolls.
-  - [ ] Enhanced Defense -> shield or armor give +1 to AC, +2 after level 10.
-  - [ ] Enhanced Weapon -> weapon gives +1 to attack and damage, +2 after level 10.
+  - [x] Enhanced Arcane Focus -> infuse weapon to get +1 to spell attack rolls.
+  - [x] Enhanced Defense -> shield or armor give +1 to AC, +2 after level 10.
+  - [x] Enhanced Weapon -> weapon gives +1 to attack and damage, +2 after level 10.
   - [ ] Homunculus Servant -> fast way would be Find Familiar, custom models in the future.
   - [ ] Radiant Weapon -> like Enhanced Weapon (except the +2) but also unlocks Light cantrip.
   - [ ] Repeating Shot -> +1d4 force damage to ranged weapon.
