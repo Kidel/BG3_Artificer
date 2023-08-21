@@ -14,7 +14,8 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
 - [ ] Optional Rule: Implement firearms proficiency
 - [x] Implement starting equipment
 - [x] Optional: custom medium armor?
-- [x] Find a way to implement Magical Tinkering (could be just Light Cantrip and Minor Illusion Cantrip in a spell list at level 1)
+- [ ] Find a way to implement Magical Tinkering (could be just Light Cantrip and Minor Illusion Cantrip in a spell list at level 1)
+- [x] Implement 'The Right Tool for the Job'
 - [ ] Implement Infusions themselves (get from http://dnd5e.wikidot.com/artificer:infusions). Infusion are learned but **must be prepared.** Not all infusions are interesting. Most of them can be skills copied from Pact of the Blade, Shillelagh and Goodberry (so items can't be stockpiled). I'd make most non-permanent infusions (basically all of them) as **free action** so that can be used in fight if people forget to re-conjure them after long rest.
   - [ ] Arcane Propulsion Armor -> infuse armor with an effect that increases speed by 5feet.
   - [ ] Armor of Magical Strength -> infuse armor with passive that gives Prone immunity and advantage on Strength checks.
