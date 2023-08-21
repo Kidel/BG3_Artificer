@@ -4,13 +4,13 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
-				<node id="GameObjects"> Sample Magic Ring 4 / Star Athlete's Ring
-					<attribute id="Description" type="TranslatedString" handle="h1917ba70gca8bg43cbgba15g954b2b61a505" version="4" /> Points to Localization xml file. Generate new handle with BG3 Modder's Multitool
-					<attribute id="DisplayName" type="TranslatedString" handle="h02ff4011g4112g47a8g8ea2gffb18f4a1284" version="2" /> Points to Localization xml file. Generate new handle with BG3 Modder's Multitool
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_F_Silver_A" /> Use the same icon as the ParentTemplate ring			
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h1917ba70gca8bg43cbgba15g954b2b61a505" version="4" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h02ff4011g4112g47a8g8ea2gffb18f4a1284" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_F_Silver_A" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="26c7f88f-0ac8-48fd-9a88-e7cd84a42554" />
-					<attribute id="Name" type="LSString" value="OBJ_Experimental_Elixir_Of_Boldness" /> Same as Stats
+					<attribute id="Name" type="LSString" value="OBJ_Experimental_Elixir_Of_Boldness" />
 					<attribute id="ParentTemplateId" type="FixedString" value="eef254dd-b983-4e59-bf49-5ed76a536220" /> 
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
