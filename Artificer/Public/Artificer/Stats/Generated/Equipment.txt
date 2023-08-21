@@ -1,7 +1,13 @@
 new equipment "EQP_CC_Artificer"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Rapier"
+add equipment entry "WPN_LightHammer"
+add equipmentgroup
+add equipment entry "WPN_LightCrossbow"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
@@ -9,9 +15,11 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
-add equipment entry "ARM_ScaleMail_Body"
+add equipment entry "ARM_Artificer_RingMail_Body"
 add equipmentgroup
 add equipment entry "ARM_Shield"
+add equipmentgroup
+add equipment entry "WPN_LightCrossbow"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup

@@ -4,15 +4,18 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
 ## TODO List
 ### Base Class
 - [x] Make class icon and push it to ImprovedUI
-- [ ] Implement Spell Slot progression up to level 12 (get from here: http://dnd5e.wikidot.com/artificer)
+- [x] Implement Spell Slot progression up to level 12 (get from here: http://dnd5e.wikidot.com/artificer)
 - [x] Implement Infusion Slot resource
-- [ ] Implement Infusion Slot progression up to level 12 (get from here: http://dnd5e.wikidot.com/artificer)
-- [ ] Implement Infusion learning progression
-- [ ] Implement cantrip progression up to level 12 (get from here: http://dnd5e.wikidot.com/artificer)
+- [x] Implement Infusion Slot progression up to level 12 (get from here: http://dnd5e.wikidot.com/artificer)
+- [x] Implement Infusion learning progression
+- [ ] Test infusion learning and swap (should work like prepared spells)
+- [x] Implement cantrip progression up to level 12 (get from here: http://dnd5e.wikidot.com/artificer)
 - [x] Implement base proficiencies
 - [ ] Optional Rule: Implement firearms proficiency
-- [ ] Implement starting equipment
-- [ ] Find a way to implement Magical Tinkering (could be just Light Cantrip and Minor Illusion Cantrip)
+- [x] Implement starting equipment
+- [x] Optional: custom medium armor?
+- [ ] Find a way to implement Magical Tinkering (could be just Light Cantrip and Minor Illusion Cantrip in a spell list at level 1)
+- [x] Implement 'The Right Tool for the Job'
 - [ ] Implement Infusions themselves (get from http://dnd5e.wikidot.com/artificer:infusions). Infusion are learned but **must be prepared.** Not all infusions are interesting. Most of them can be skills copied from Pact of the Blade, Shillelagh and Goodberry (so items can't be stockpiled). I'd make most non-permanent infusions (basically all of them) as **free action** so that can be used in fight if people forget to re-conjure them after long rest.
   - [ ] Arcane Propulsion Armor -> infuse armor with an effect that increases speed by 5feet.
   - [ ] Armor of Magical Strength -> infuse armor with passive that gives Prone immunity and advantage on Strength checks.
@@ -36,16 +39,19 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
       - [ ] From 10th level: Gauntlets of Giant Strength -> this is already in the game.
       - [ ] From 10th level: Cape Of The Mountebank -> allows casting of Dimension Door once per long rest.
       - [ ] From 10th level: Helm of Brilliance -> allows casting of FireBall once per long rest.
-- [ ] Implement Flash of Genius (similar to Guidance Cantrip)
-- [ ] Implement Magic Item Adept (create a magic item once per long rest using Gold or a Magic Item resource)
-- [ ] Implement Spell-Storing Item (create a spell scroll)
+- [ ] Implement Flash of Genius (similar to Guidance cantrip, but requires icon)
+- [ ] Implement Magic Item Adept (create a magic item once per long rest using Gold or a Magic Item resource similar to slots)
+- [ ] Implement Spell-Storing Item (conjure a spell scroll)
 
 ### Battle Smith
-- [ ] Implement Always Prepared spell progression up to level 9 (get from http://dnd5e.wikidot.com/artificer:battle-smith)
-- [ ] Add proficiency with Martial Weapons
-- [ ] Implement Battle Ready (magic weapons use Intelligence instead of Strength or Dexterity, see Pact of the Blade)
-- [ ] Implement Steel Defender (can initially copy Beast Master pet and go from there, a smart idea could be adding a metalling effect on it, and of course customize stats and attacks)
-- [ ] Add Extra Attack at level 5
+- [x] Implement Always Prepared spell progression up to level 9 (get from http://dnd5e.wikidot.com/artificer:battle-smith)
+- [x] Add proficiency with Martial Weapons
+- [ ] Implement Battle Ready (magic weapons use Intelligence instead of Strength or Dexterity, see Pact of the Blade, but should be automatic)
+- [x] Implement Steel Defender (can initially copy Beast Master pet and go from there, a smart idea could be adding a metalling effect on it, and of course customize stats and attacks)
+- [ ] Customize Steel defender
+  - [ ] looks
+  - [ ] skills
+- [x] Add Extra Attack at level 5
 - [ ] Add Arcane Jolt (2d6 force damage added to weapon attacks and Steel Defender -> unlocks a temporary spell to heal a target, see Storm Sorcerer fly after spell)
 
 ### Alchemist 
