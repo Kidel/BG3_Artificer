@@ -29,7 +29,13 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
   - [ ] From 6th level: Spell-Refueling Ring -> conjure a ring that refuels 1 spell slot once per day, I think this is boring to infuse and then cast, I'd change it to just convert 1 Infusion Slot to 1 Spell Slot. 
   - [ ] Replicate Magic Item -> oh boy.
     - [ ] Bag of Holding: unclear if the game allows for the fixed weight "regardless of contents" and it's not really useful in BG3. I'd just replace it with a spell that costs 2 infusion and replicates Gale's explosion, just for the lol (it's what happens if you put a Bag of Holding inside another).
-    - [ ] Other magic items we might want to make. 
+    - [ ] Other magic items we might want to make, some examples:
+      - [ ] Googgles of Night -> passive darkvision up to 60 feet.
+      - [ ] From 6th level: Staff of Defense -> allows cast of Mage Armor and Shield.
+      - [ ] From 10th level: Amulet Of Health -> this is already in the game.
+      - [ ] From 10th level: Gauntlets of Giant Strength -> this is already in the game.
+      - [ ] From 10th level: Cape Of The Mountebank -> allows casting of Dimension Door once per long rest.
+      - [ ] From 10th level: Helm of Brilliance -> allows casting of FireBall once per long rest.
 - [ ] Implement Flash of Genius (similar to Guidance Cantrip)
 - [ ] Implement Magic Item Adept (create a magic item once per long rest using Gold or a Magic Item resource)
 - [ ] Implement Spell-Storing Item (create a spell scroll)
@@ -38,7 +44,7 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
 - [ ] Implement Always Prepared spell progression up to level 9 (get from http://dnd5e.wikidot.com/artificer:battle-smith)
 - [ ] Add proficiency with Martial Weapons
 - [ ] Implement Battle Ready (magic weapons use Intelligence instead of Strength or Dexterity, see Pact of the Blade)
-- [ ] Implement Steel Defender (can initially copy Beast Master pet and go from there, a custom model would be great in the future)
+- [ ] Implement Steel Defender (can initially copy Beast Master pet and go from there, a smart idea could be adding a metalling effect on it, and of course customize stats and attacks)
 - [ ] Add Extra Attack at level 5
 - [ ] Add Arcane Jolt (2d6 force damage added to weapon attacks and Steel Defender -> unlocks a temporary spell to heal a target, see Storm Sorcerer fly after spell)
 
