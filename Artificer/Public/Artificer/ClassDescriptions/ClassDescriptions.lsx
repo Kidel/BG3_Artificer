@@ -14,6 +14,7 @@
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Artificer"/>
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="0.5"/>
                     <attribute id="Name" type="FixedString" value="Artificer"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
@@ -58,7 +59,7 @@
                     <attribute id="ParentGuid" type="guid" value="03f972eb-de3c-4cdb-9050-e8e3fa0526eb"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
-                    <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="4"/>
                     <attribute id="UUID" type="guid" value="18fbaf2f-5b9a-46f4-806f-06b62a8ce24f"/>
                     <children>
@@ -78,7 +79,7 @@
                     <attribute id="ParentGuid" type="guid" value="03f972eb-de3c-4cdb-9050-e8e3fa0526eb"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
-                    <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Warlock"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="4"/>
                     <attribute id="UUID" type="guid" value="19fbaf2f-5b9a-46f4-806f-06b62a8ce24f"/>
                     <children>
@@ -98,7 +99,7 @@
                     <attribute id="ParentGuid" type="guid" value="03f972eb-de3c-4cdb-9050-e8e3fa0526eb"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="119dfad5-31e0-41b6-aad9-41a55c2f8354"/>
-                    <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="4"/>
                     <attribute id="UUID" type="guid" value="16fbaf2f-5b9a-46f4-806f-06b62a8ce24f"/>
                     <children>

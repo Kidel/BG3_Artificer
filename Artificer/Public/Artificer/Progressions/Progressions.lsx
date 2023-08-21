@@ -6,11 +6,10 @@
             <children>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Constitution);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);ActionResource(SpellSlot,2,1);"/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Constitution);Proficiency(SimpleWeapons);Proficiency(HandCrossbows);Proficiency(LightCrossbows);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);ActionResource(SpellSlot,2,1);"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1"/>
-                    <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectPassives(31fa3e61-62ae-4d03-a32c-eaa4f91c52eb,1);SelectSkills(e6496b02-8d9d-4852-a9d1-dc86a2449b31,2);SelectSpells(b9808849-c41b-444a-83aa-9748e03e9e16,2,0,,,,AlwaysPrepared);SelectSpells(ef3aa11f-cc98-412f-a85e-7fae4561a4d4,3,0)"/>
 					<attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
@@ -23,7 +22,6 @@
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1"/>
-                    <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="SelectPassives(31fa3e61-62ae-4d03-a32c-eaa4f91c52eb,1);SelectSkills(e6496b02-8d9d-4852-a9d1-dc86a2449b31,2);SelectSpells(b9808849-c41b-444a-83aa-9748e03e9e16,2,0,,,,AlwaysPrepared)"/>
 					<attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
