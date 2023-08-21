@@ -12,7 +12,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="e3a5099a-397a-4bbc-932c-cd0a00043b79" />
 					<attribute id="VisualTemplate" type="FixedString" value="01b3ae81-1e37-cee7-88ea-57e0935f4314" />
 					<attribute id="DisplayName" type="TranslatedString" handle="777a55579g9844g4302g89e0ga6279822397b" version="1" />
-					<attribute id="Icon" type="FixedString" value="Item_ARM_RingMail_1" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_RingMail" />
 					<attribute id="Stats" type="FixedString" value="ARM_Artificer_RingMail_Body" />
 					<children>
 						<node id="Equipment">
