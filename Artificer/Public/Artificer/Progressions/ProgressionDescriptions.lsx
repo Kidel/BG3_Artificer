@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="22523fb3deaa14de1766304e0911fbc49ae22" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="11523fb3deaa14de1766304e0911fbc49ae11" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MagicalTinkering"/>
+                    <attribute id="PassivePrototype" type="FixedString" value="MagicalTinkering"/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="77b1412a-32c5-4471-919b-8c991a26ba0a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
