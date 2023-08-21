@@ -3,7 +3,7 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
 
 ## TODO List
 ### Base Class
-- [ ] Make class icon and push it to ImprovedUI
+- [x] Make class icon and push it to ImprovedUI
 - [ ] Implement Spell Slot progression up to level 12 (get from here: http://dnd5e.wikidot.com/artificer)
 - [x] Implement Infusion Slot resource
 - [ ] Implement Infusion Slot progression up to level 12 (get from here: http://dnd5e.wikidot.com/artificer)
