@@ -63,6 +63,24 @@
                     <attribute id="UUID" type="guid" value="5f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
 
+                Alchemist always prepared
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 3rd"/>
+                    <attribute id="Spells" type="LSString" value="Target_HealingWord;Projectile_RayOfSickness"/>
+                    <attribute id="UUID" type="guid" value="e40f44d4-653b-4fbd-ad74-64625cb21ba3"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 5th"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlamingSphere;Projectile_AcidArrow"/>
+                    <attribute id="UUID" type="guid" value="b95acc73-fa09-4f76-a829-fc8512c40a41"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 9th"/>
+                    <attribute id="Spells" type="LSString" value="Target_GaseousForm;Shout_HealingWord_Mass"/>
+                    <attribute id="UUID" type="guid" value="9f213030-d4da-4c03-add9-59810e0a96af"/>
+                </node>
+
                 BattleSmith always prepared
 
                 <node id="SpellList">
