@@ -1,4 +1,9 @@
 new entry "UnlockedInfusionSlots"
 type "PassiveData"
-data "DisplayName" "88523fb3deaa14de1766304e0911fbc49ae88;1"
+data "DisplayName" "88523fb3deaa14de1766304e0911fbc49ae88"
+data "Properties" "IsHidden"
+
+new entry "MagicalTinkering"
+type "PassiveData"
+data "DisplayName" "11523fb3deaa14de1766304e0911fbc49ae11"
 data "Properties" "IsHidden"
