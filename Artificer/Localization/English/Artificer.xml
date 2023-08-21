@@ -20,6 +20,27 @@
 	<content contentuid="11523fb3deaa14de1766304e0911fbc49ae11" version="1">Magical Tinkering</content>
 	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">At 1st level, you've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand.</content>
 
+	<content contentuid="0e5ba292-48ab-4b1c-aa79-f25a635635a7" version="1">The Right Tool for the Job</content> Right Tool for the Job - Thieve's Tools - Display Name
+	<content contentuid="ce18c051-d126-46dd-8447-8363b055f388" version="1">You've learned how to produce exactly the tool you need:  You can magically create thieves Tools, a trap disarmimg kit, or a shovel.</content> 
+	<content contentuid="67f3c1eb-1289-42da-bf15-f72516588147" version="1">Craft: Thieves Tools</content> 
+	<content contentuid="f3965b5b-adde-474a-b0ef-064552e3a491" version="1">Craft: Trap Disarm Kit</content> 
+	<content contentuid="4a070d6a-fc4d-4a4a-b27d-5a00672af556" version="1">Craft: Shovel</content>
+	<content contentuid="4893a0cc-7b69-47ab-9f1e-5480eb2f9f45" version="1">Infusions</content>
+	<content contentuid="3a67dabd-e997-44ee-9c00-0a7e61628927" version="1">You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
+	<content contentuid="33d835bc-f003-4155-87a5-e4885eee5c90" version="1">Infusion: Enhanced Defense</content>
+	<content contentuid="4513988f-89ea-4dde-a3b2-77de32ee9ecc" version="1">This infusion give a +1 bonus to Armor Class.  The bonus increases to +2 when you reach 10th level in this class.</content>
+	<content contentuid="353ba4cc-52e7-4c22-aa6b-152f09fbbd84" version="1">Infusion: Enhanced Arcane Focus</content>
+	<content contentuid="ba5ea8ae-f16a-4f8e-9170-e2825dfec9af" version="1">Target creature gains a + 1 bonus to spell attack rolls and spell save DCs.  The bonus increases to +2 when you reach 10th level in this class.</content>
+	<content contentuid="6f872d77-0743-41eb-a23c-59128e28b124" version="1">Infusion: Enhanced Weapon</content>
+	<content contentuid="94cfcf4e-5099-45b1-87e6-8d1440727a34" version="1">Target weapon becomes magical and grants a +1 bonus to attack and damage rolls made with it.  The bonus increases to +2 when you reach 10th level in this class.</content>
+	<content contentuid="7bffca0d-2093-4911-97b9-ef5dbfc221a5" version="1">Infusion: Armor of Magical Strength</content>
+	<content contentuid="e91f4da6-5297-4c7c-bd72-ca3dd2c4aa04" version="1">Infusion: Boots of the Winding Path</content>
+	<content contentuid="52cb721b-dae9-40eb-ba8b-55ff8fcc19ea" version="1">Infusion: Helm of Awareness</content>
+	<content contentuid="b27cabec-3fcb-424a-8557-c90330b28877" version="1">Infusion: Homunculus Servant</content>
+	<content contentuid="d36daf64-1cf7-4c37-9bb2-99113afe8a1b" version="1">Infusion: Mind Sharpener</content>
+	<content contentuid="c4672755-ea0e-4b0b-ba99-1f40f844b0ac" version="1">Infusion: Radiant Weapon</content>
+	<content contentuid="df0307ba-33f3-4191-90c1-a56c4d717e00" version="1">Infusion: Repeating Shot</content>
+
 
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Ring Mail Armour</content>
 </contentList>
