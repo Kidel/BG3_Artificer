@@ -90,11 +90,13 @@ data "Boosts" "RollBonus(MeleeSpellAttack,2);RollBonus(RangedSpellAttack,2);Spel
 
 // Steel Defender effects
 
+// TODO UNARMEDATTACK_OVERRIDE_STEELDEFENDER not working (even if it gets applied...)
+
 new entry "UNARMEDATTACK_OVERRIDE_STEELDEFENDER"
 type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "77062bb49gc270g4353gb6ebgf4c2248ea879;1"
-data "Boosts" "AttackSpellOverride(Target_Bite_SteelDefender, Target_UnarmedAttack) "
+data "Boosts" "AttackSpellOverride(Target_Bite_SteelDefender,Target_UnarmedAttack)"
 
 // data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 

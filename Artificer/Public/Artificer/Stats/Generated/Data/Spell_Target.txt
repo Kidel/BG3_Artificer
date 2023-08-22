@@ -23,6 +23,9 @@ data "SpellFlags" "IsMelee;IsHarmful"
 data "SpellAnimationIntentType" "Aggressive"
 data "PrepareEffect" "29daf5c1-0870-4c3e-ae1d-3408621a033b"
 
+
+// TODO use dash animation 
+
 new entry "Target_Mending_SteelDefender"
 type "SpellData"
 data "SpellType" "Target"
