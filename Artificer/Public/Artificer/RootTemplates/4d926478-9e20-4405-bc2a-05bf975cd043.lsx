@@ -13,12 +13,12 @@
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="VisualTemplate" type="FixedString" value="8ec3829e-4da5-28f5-64aa-9bbf75d13269" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="93f26259-41e2-2caa-9e8a-a5bc8f021cc2" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h02ff4011g4112g47a8g8ea2gffb18f4a1284" version="2" />
-					<attribute id="Icon" type="FixedString" value=" " />
+					<attribute id="DisplayName" type="TranslatedString" handle="he840f63fgd75eg459egbaa0gd40813a27ad1" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_ExperimentalElixir" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Experimental_Elixir_Of_Resilience" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
-					<attribute id="Description" type="TranslatedString" handle="h1917ba70gca8bg43cbgba15g954b2b61a505" version="4" />
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="he873af54g80d9g45f7g9e67gb2b728f5df6c" version="4" />
+					<attribute id="Description" type="TranslatedString" handle="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="4" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hc54f8986ge0e9g4129g9641ga485f5688c75" version="4" />
 					<children>
 						<node id="Bounds">
 							<children>

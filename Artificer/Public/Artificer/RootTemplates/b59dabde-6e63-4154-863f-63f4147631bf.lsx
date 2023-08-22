@@ -13,12 +13,12 @@
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="VisualTemplate" type="FixedString" value="8ec3829e-4da5-28f5-64aa-9bbf75d13269" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="93f26259-41e2-2caa-9e8a-a5bc8f021cc2" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h02ff4011g4112g47a8g8ea2gffb18f4a1284" version="2" />
-					<attribute id="Icon" type="FixedString" value=" " />
+					<attribute id="DisplayName" type="TranslatedString" handle="he0ea98c8g0da5g4800ga908g82799e9f9554" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_ExperimentalElixir" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Experimental_Elixir_Of_Transformation" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
-					<attribute id="Description" type="TranslatedString" handle="h1917ba70gca8bg43cbgba15g954b2b61a505" version="4" />
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="he873af54g80d9g45f7g9e67gb2b728f5df6c" version="4" />
+					<attribute id="Description" type="TranslatedString" handle="h7ca563b1g6296g4a15g8599gfe48be37da86" version="4" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hf4498c39g63d5g41e8g8c3dg9e76f58ddd16" version="4" />
 					<children>
 						<node id="Bounds">
 							<children>
@@ -56,7 +56,7 @@
 										<node id="Attributes">
 											<attribute id="Animation" type="FixedString" value="" />
 											<attribute id="Conditions" type="LSString" value="" />
-											<attribute id="StatsId" type="FixedString" value="Experimental_Elixir_Of_Transformation" /> 
+											<attribute id="StatsId" type="FixedString" value="Shout_WildShape" /> 
 											<attribute id="StatusDuration" type="int32" value="-1" />
 											<attribute id="Consume" type="bool" value="True" />
 											<attribute id="IsHiddenStatus" type="bool" value="False" />

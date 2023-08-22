@@ -47,5 +47,26 @@
 	<content contentuid="c4672755-ea0e-4b0b-ba99-1f40f844b0ac" version="1">Infusion: Radiant Weapon</content>
 	<content contentuid="df0307ba-33f3-4191-90c1-a56c4d717e00" version="1">Infusion: Repeating Shot</content>
 
+	//Alchemist
+	<content contentuid="" version="1"></content>
+	<content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Experimental Elixir Of Healing</content>
+	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">Experimental Elixir Of Healing Description</content>
+	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">Experimental Elixir Of Healing Technical Description</content>
+	<content contentuid="h881a9a60g86efg4d27g938bg44ccdfa66007" version="1">Experimental Elixir Of Swiftness</content>
+	<content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">Experimental Elixir Of Swiftness Description</content>
+	<content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1">Experimental Elixir Of Swiftness Technical Description</content>
+	<content contentuid="he840f63fgd75eg459egbaa0gd40813a27ad1" version="1">Experimental Elixir Of Resilience</content>
+	<content contentuid="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="1">Experimental Elixir Of Resilience Description</content>
+	<content contentuid="hc54f8986ge0e9g4129g9641ga485f5688c75" version="1">Experimental Elixir Of Resilience Technical Description</content>
+	<content contentuid="hdf075fecg7f0bg4c71gb53cge98be513a083" version="1">Experimental Elixir Of Boldness</content>
+	<content contentuid="he260c9deg7786g4fe1gba1cg78ffb2b44c90" version="1">Experimental Elixir Of Boldness Description</content>
+	<content contentuid="h1c005ea1g2c9dg4796g8997g2fd5ca6f03d2" version="1">Experimental Elixir Of Boldness Technical Description</content>
+	<content contentuid="h0cf06693gf819g4d28g9a80g335e3824f691" version="1">Experimental Elixir Of Flight</content>
+	<content contentuid="hc624c03eg6925g4a0dg8955gd270d880ca11" version="1">Experimental Elixir Of Flight Description</content>
+	<content contentuid="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="1">Experimental Elixir Of Flight Technical Description</content>
+	<content contentuid="he0ea98c8g0da5g4800ga908g82799e9f9554" version="1">Experimental Elixir Of Transformation</content>
+	<content contentuid="h7ca563b1g6296g4a15g8599gfe48be37da86" version="1">Experimental Elixir Of Transformation Description</content>
+	<content contentuid="hf4498c39g63d5g41e8g8c3dg9e76f58ddd16" version="1">Experimental Elixir Of Transformation Technical Description</content>
+	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Elemental Elixir</content>
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Ring Mail Armour</content>
 </contentList>
