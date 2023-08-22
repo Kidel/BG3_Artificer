@@ -14,9 +14,12 @@
 	
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith</content>
 	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel.  To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation.  Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</content>
+	<content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">This companion's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and damage increase with the &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; of its artificer.</content>
 	
 	<content contentuid="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Steel Defender</content>
 	<content contentuid="999f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Your tinkering has borne you a faithful companion, a steel defender.  You can summon it freely and give it commands in battle</content>
+    <content contentuid="77062bb49gc270g4353gb6ebgf4c2248ea879" version="1">Force-Empowered Rend</content>
+	<content contentuid="77bf1636cgabfcg4312gbf40g99c410daea86" version="2">Lunge at a target to bite it</content>
 
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
 	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">At 2nd level, you've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
@@ -33,9 +36,9 @@
 	<content contentuid="33d835bc-f003-4155-87a5-e4885eee5c90" version="1">Infusion: Enhanced Defense</content>
 	<content contentuid="4513988f-89ea-4dde-a3b2-77de32ee9ecc" version="1">This infusion give a +1 bonus to Armor Class.  The bonus increases to +2 when you reach 10th level in this class.</content>
 	<content contentuid="353ba4cc-52e7-4c22-aa6b-152f09fbbd84" version="1">Infusion: Enhanced Arcane Focus</content>
-	<content contentuid="ba5ea8ae-f16a-4f8e-9170-e2825dfec9af" version="1">Target creature gains a + 1 bonus to spell attack rolls and spell save DCs.  The bonus increases to +2 when you reach 10th level in this class.</content>
+	<content contentuid="ba5ea8ae-f16a-4f8e-9170-e2825dfec9af" version="1">The target creature gains a +1 bonus to spell attack rolls and spell save DCs.  The bonus increases to +2 when you reach 10th level in this class.</content>
 	<content contentuid="6f872d77-0743-41eb-a23c-59128e28b124" version="1">Infusion: Enhanced Weapon</content>
-	<content contentuid="94cfcf4e-5099-45b1-87e6-8d1440727a34" version="1">Target weapon becomes magical and grants a +1 bonus to attack and damage rolls made with it.  The bonus increases to +2 when you reach 10th level in this class.</content>
+	<content contentuid="94cfcf4e-5099-45b1-87e6-8d1440727a34" version="1">The target weapon becomes magical and grants a +1 bonus to attack and damage rolls made with it.  The bonus increases to +2 when you reach 10th level in this class.</content>
 	<content contentuid="7bffca0d-2093-4911-97b9-ef5dbfc221a5" version="1">Infusion: Armor of Magical Strength</content>
 	<content contentuid="e91f4da6-5297-4c7c-bd72-ca3dd2c4aa04" version="1">Infusion: Boots of the Winding Path</content>
 	<content contentuid="52cb721b-dae9-40eb-ba8b-55ff8fcc19ea" version="1">Infusion: Helm of Awareness</content>
@@ -43,7 +46,6 @@
 	<content contentuid="d36daf64-1cf7-4c37-9bb2-99113afe8a1b" version="1">Infusion: Mind Sharpener</content>
 	<content contentuid="c4672755-ea0e-4b0b-ba99-1f40f844b0ac" version="1">Infusion: Radiant Weapon</content>
 	<content contentuid="df0307ba-33f3-4191-90c1-a56c4d717e00" version="1">Infusion: Repeating Shot</content>
-
 
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Ring Mail Armour</content>
 </contentList>
