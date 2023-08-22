@@ -88,12 +88,30 @@ data "StackId" "INFUSION_ENHANCED_ARCANE_FOCUS_L10"
 data "Boosts" "RollBonus(MeleeSpellAttack,2);RollBonus(RangedSpellAttack,2);SpellSaveDC(2)"
 
 
-new entry "UNARMEDATTACK_OVERRIDE_STEELDEFENDER" // TODO Not working... can probably be deleted
+new entry "UNARMEDATTACK_OVERRIDE_STEELDEFENDER"
 type "StatusData"
 data "StatusType" "BOOST"
+using "UNARMEDATTACK_OVERRIDE_WOLF"
 data "DisplayName" "77062bb49gc270g4353gb6ebgf4c2248ea879;1"
-data "Boosts" "AttackSpellOverride(Target_Bite_SteelDefender_act, Target_UnarmedAttack) "
+data "Boosts" "AttackSpellOverride(Target_Bite_SteelDefender, Target_UnarmedAttack);AttackSpellOverride(Target_Bite_SteelDefender, Target_MainHandAttack)"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
+new entry "UNARMEDATTACK_OVERRIDE_CANNON_ori"
+type "StatusData"
+data "StatusType" "BOOST"
+using "UNARMEDATTACK_OVERRIDE_WOLF"
+data "DisplayName" "77062bb49gc270g4353gb6ebgf4c2248ea879;1"
+data "Boosts" "AttackSpellOverride(Target_EldritchBlast_EldritchCannon, Target_UnarmedAttack);AttackSpellOverride(Target_EldritchBlast_EldritchCannon, Target_MainHandAttack);AttackSpellOverride(Target_EldritchBlast_EldritchCannon, Projectile_MainHandAttack)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
+new entry "UNARMEDATTACK_OVERRIDE_CANNON"
+type "StatusData"
+data "StatusType" "BOOST"
+using "UNARMEDATTACK_OVERRIDE_WOLF"
+data "DisplayName" "77062bb49gc270g4353gb6ebgf4c2248ea879;1"
+data "Boosts" "AttackSpellOverride(Target_EldritchBlast_EldritchCannon, Target_UnarmedAttack) "
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
 
 new entry "FAKE_METAL_SKIN"
 type "StatusData"
@@ -120,3 +138,4 @@ data "Boosts" ""
 data "ApplyEffect" "a9c27d75-ec3d-445f-b055-1b37832b17fc"
 data "StatusEffect" "f1f32058-58e9-4b39-98e4-eef5fa389a25"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+

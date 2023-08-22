@@ -11,7 +11,15 @@
 	
 	<content contentuid="38523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist</content>
 	<content contentuid="49523fb3deaa14de1766304e0911fbc49ae44" version="1">An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield.  This destructive power is valued by armies in the wars on many different worlds.  And when war passes, some members of this specialization seek to build a more peaceful world by using their powers to fight the resurgence of strife.</content>
-	
+	<content contentuid="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1">Eldritch Cannon</content>
+	<content contentuid="7736e61e8g9b89g4f30gb649gb3a97346a443" version="1">You've learned how to create a magical cannon.  Using woodcarver's tools or smith's tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you.  A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.</content>
+	<content contentuid="1126e61e8g9b89g4f30gb649gb3a97346a443" version="1">Flamethrower</content>
+	<content contentuid="1136e61e8g9b89g4f30gb649gb3a97346a443" version="1">The cannon exhales fire in an adjacent 15-foot cone that you designate.  Each creature in that area must make a Dexterity saving throw against your spell save DC, taking 2d8 fire damage on a failed save or half as much damage on a successful one.  The fire ignites any flammable objects in the area that aren't being worn or carried.</content>
+	<content contentuid="2226e61e8g9b89g4f30gb649gb3a97346a443" version="1">Force Ballista</content>
+	<content contentuid="2236e61e8g9b89g4f30gb649gb3a97346a443" version="1">Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it.  On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.</content>
+	<content contentuid="3326e61e8g9b89g4f30gb649gb3a97346a443" version="1">Protector</content>
+	<content contentuid="3336e61e8g9b89g4f30gb649gb3a97346a443" version="1">The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Proficiency Bonus (minimum of +1).</content>
+
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith</content>
 	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel.  To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation.  Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</content>
 	<content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">This companion's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and damage increase with the &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; of its artificer.</content>
