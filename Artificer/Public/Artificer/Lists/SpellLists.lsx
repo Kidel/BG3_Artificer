@@ -119,6 +119,11 @@
                 BattleSmith always prepared
 
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BattleSmith Companion"/>
+                    <attribute id="Spells" type="LSString" value="Target_BattleSmithCompanion"/>
+                    <attribute id="UUID" type="guid" value="c05aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="BattleSmith spells at 3rd"/>
                     <attribute id="Spells" type="LSString" value="Target_Heroism;Shout_Shield_Wizard"/>
                     <attribute id="UUID" type="guid" value="3b5aa11f-cc98-412f-a85e-7fae4561a4d4"/>

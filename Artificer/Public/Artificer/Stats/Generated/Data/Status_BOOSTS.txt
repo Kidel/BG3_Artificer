@@ -88,3 +88,38 @@ data "StackId" "INFUSION_ENHANCED_ARCANE_FOCUS_L10"
 data "Boosts" "RollBonus(MeleeSpellAttack,2);RollBonus(RangedSpellAttack,2);SpellSaveDC(2)"
 
 
+// Steel Defender effects
+
+new entry "UNARMEDATTACK_OVERRIDE_STEELDEFENDER"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "77062bb49gc270g4353gb6ebgf4c2248ea879;1"
+data "Boosts" "AttackSpellOverride(Target_Bite_SteelDefender, Target_UnarmedAttack) "
+
+// data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
+new entry "FAKE_METAL_SKIN"
+type "StatusData"
+data "StatusType" "BOOST"
+using "STONESKIN"
+data "DisplayName" "hbb90b1b8g1619g4071gafbcg81eaf57810a6;2"
+data "Description" "haf0ed4aega409g43cbga8efgda59a33d0bed;1"
+data "Icon" "GenericIcon_Intent_Buff"
+data "StackId" "FAKE_METALLIC"
+data "Boosts" ""
+data "ApplyEffect" "0c3f3375-681f-4253-9432-24450007e464"
+data "StatusEffect" "698752b6-55fb-4448-8bb6-f7fdb510ac93"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+
+new entry "FAKE_MAG_CHARGED_LIGHTNING"
+type "StatusData"
+data "StatusType" "BOOST"
+using "STONESKIN"
+data "DisplayName" "hbb90b1b8g1619g4071gafbcg81eaf57810a6;2"
+data "Description" "haf0ed4aega409g43cbga8efgda59a33d0bed;1"
+data "Icon" "GenericIcon_Intent_Buff"
+data "StackId" "FAKE_CHARGED"
+data "Boosts" ""
+data "ApplyEffect" "a9c27d75-ec3d-445f-b055-1b37832b17fc"
+data "StatusEffect" "f1f32058-58e9-4b39-98e4-eef5fa389a25"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
