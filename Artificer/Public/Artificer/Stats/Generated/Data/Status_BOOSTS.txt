@@ -88,7 +88,7 @@ data "StackId" "INFUSION_ENHANCED_ARCANE_FOCUS_L10"
 data "Boosts" "RollBonus(MeleeSpellAttack,2);RollBonus(RangedSpellAttack,2);SpellSaveDC(2)"
 
 
-new entry "UNARMEDATTACK_OVERRIDE_STEELDEFENDER"
+new entry "UNARMEDATTACK_OVERRIDE_STEELDEFENDER" // TODO Not working... can probably be deleted
 type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "77062bb49gc270g4353gb6ebgf4c2248ea879;1"
