@@ -13,7 +13,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1" />
 					<attribute id="Icon" type="FixedString" value="75ab3738-3a01-4900-e0fb-be039451e8f6-_(Icon_SteelDefender)" />
 					<attribute id="Stats" type="FixedString" value="Companion_BattleMaster_6" />
-					<attribute id="LevelOverride" type="int32" value="5" />
+					<attribute id="LevelOverride" type="int32" value="6" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="75ab3738-3a01-4900-e0fb-be039451e8f6" />
 					<children>
 						<node id="SkillList">
