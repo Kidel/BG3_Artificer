@@ -32,7 +32,7 @@ data "Boosts" "AC(2)"
 data "StatusEffect" "87356553-5bed-4e2b-86eb-f0697e5ec648"
 
 new entry "Experimental_Elixir_Of_Boldness"
-ype "StatusData"
+type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "heb2888f4gf7cfg47b8gb302gaeac48d044ce;3"
 data "Description" "h3297dd76g7e72g436fg9ad1ge8266700ffdc;3"
