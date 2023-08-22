@@ -9,8 +9,8 @@
                     <attribute id="Width" type="int64" value="64"/>
                 </node>
                 <node id="TextureAtlasPath">
-                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/Icons_Artificer.dds"/> Rename
-                    <attribute id="UUID" type="FixedString" value="f8f4b892-8767-4e45-b43a-64010923aeb3"/> Generate new UUID
+                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/Icons_Artificer.dds"/>
+                    <attribute id="UUID" type="FixedString" value="77f4b892-8767-4e45-b43a-64010923aeb3"/>
                 </node>
                 <node id="TextureAtlasTextureSize">
                     <attribute id="Height" type="int64" value="2048"/>
@@ -23,49 +23,49 @@
         <node id="root">
             <children>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Skill_SteelDefender"/> 1
+                    <attribute id="MapKey" type="FixedString" value="Skill_SteelDefender"/>
                     <attribute id="U1" type="float" value="0.0"/> Left
                     <attribute id="U2" type="float" value="0.03125"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Skill_Infusion_EnhancedDefense"/> 2
+                    <attribute id="MapKey" type="FixedString" value="Skill_Infusion_EnhancedDefense"/>
                     <attribute id="U1" type="float" value="0.03125"/> Left
                     <attribute id="U2" type="float" value="0.0625"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>							
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Skill_Infusion_EnhancedWeapon"/> 3
+                    <attribute id="MapKey" type="FixedString" value="Skill_Infusion_EnhancedWeapon"/>
                     <attribute id="U1" type="float" value="0.0625"/> Left
                     <attribute id="U2" type="float" value="0.09375"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>							
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Skill_Infusion_EnhancedArcaneFocus"/> 4 - It is best not to leave these MapKeys blank, but you can safely leave your prefix here.
+                    <attribute id="MapKey" type="FixedString" value="Skill_Infusion_EnhancedArcaneFocus"/>
                     <attribute id="U1" type="float" value="0.09375"/> Left
                     <attribute id="U2" type="float" value="0.125"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 5
+                    <attribute id="MapKey" type="FixedString" value="Skill_SteelDefender_ForceEmpoweredRend"/>
                     <attribute id="U1" type="float" value="0.125"/> Left
                     <attribute id="U2" type="float" value="0.15625"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 6
+                    <attribute id="MapKey" type="FixedString" value="Skill_ExperimentalElixir"/>
                     <attribute id="U1" type="float" value="0.15625"/> Left
                     <attribute id="U2" type="float" value="0.1875"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>					
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 7
+                    <attribute id="MapKey" type="FixedString" value="Item_ExperimentalElixir"/>
                     <attribute id="U1" type="float" value="0.1875"/> Left
                     <attribute id="U2" type="float" value="0.21875"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
