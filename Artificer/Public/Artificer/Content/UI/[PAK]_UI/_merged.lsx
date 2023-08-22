@@ -9,7 +9,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Icons_Artificer" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Public/Artificer/Assets/Textures/Icons/Icons_Artificer.dds" />
+					<attribute id="SourceFile" type="LSString" value="Public/Artificer/Assets/Textures/Icons/Icons_Artificer.DDS" /> 
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Icons_Items" />
 					<attribute id="Type" type="int64" value="0" />
