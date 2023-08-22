@@ -5,7 +5,7 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="bb27cc17-5af9-4d53-818b-3e620f3f59f2" />
+					<attribute id="MapKey" type="FixedString" value="62721953-cc79-4776-bc4a-96ce23500455" />
 					<attribute id="Name" type="LSString" value="CONS_Potion_Heroism_A" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
@@ -14,8 +14,8 @@
 					<attribute id="VisualTemplate" type="FixedString" value="8ec3829e-4da5-28f5-64aa-9bbf75d13269" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="93f26259-41e2-2caa-9e8a-a5bc8f021cc2" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h02ff4011g4112g47a8g8ea2gffb18f4a1284" version="2" />
-					<attribute id="Icon" type="FixedString" value="Item_CONS_Potion_Heroism" />
-					<attribute id="Stats" type="FixedString" value="OBJ_Experimental_Elixir_Of_Boldness" />
+					<attribute id="Icon" type="FixedString" value=" " />
+					<attribute id="Stats" type="FixedString" value="OBJ_Experimental_Elixir_Of_Swiftness" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Description" type="TranslatedString" handle="h1917ba70gca8bg43cbgba15g954b2b61a505" version="4" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="he873af54g80d9g45f7g9e67gb2b728f5df6c" version="4" />
@@ -56,7 +56,7 @@
 										<node id="Attributes">
 											<attribute id="Animation" type="FixedString" value="" />
 											<attribute id="Conditions" type="LSString" value="" />
-											<attribute id="StatsId" type="FixedString" value="Experimental_Elixir_Of_Boldness" /> 
+											<attribute id="StatsId" type="FixedString" value="Experimental_Elixir_Of_Swiftness" /> 
 											<attribute id="StatusDuration" type="int32" value="-1" />
 											<attribute id="Consume" type="bool" value="True" />
 											<attribute id="IsHiddenStatus" type="bool" value="False" />
