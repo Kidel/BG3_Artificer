@@ -14,9 +14,12 @@
 	
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith</content>
 	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel.  To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation.  Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</content>
+	<content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">This companion's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and damage increase with the &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; of its artificer.</content>
 	
 	<content contentuid="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Steel Defender</content>
 	<content contentuid="999f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Your tinkering has borne you a faithful companion, a steel defender.  You can summon it freely and give it commands in battle</content>
+    <content contentuid="77062bb49gc270g4353gb6ebgf4c2248ea879" version="1">Force-Empowered Rend</content>
+	<content contentuid="77bf1636cgabfcg4312gbf40g99c410daea86" version="2">Lunge at a target to bite it</content>
 
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
 	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">At 2nd level, you've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
@@ -43,7 +46,6 @@
 	<content contentuid="d36daf64-1cf7-4c37-9bb2-99113afe8a1b" version="1">Infusion: Mind Sharpener</content>
 	<content contentuid="c4672755-ea0e-4b0b-ba99-1f40f844b0ac" version="1">Infusion: Radiant Weapon</content>
 	<content contentuid="df0307ba-33f3-4191-90c1-a56c4d717e00" version="1">Infusion: Repeating Shot</content>
-
 
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Ring Mail Armour</content>
 </contentList>
