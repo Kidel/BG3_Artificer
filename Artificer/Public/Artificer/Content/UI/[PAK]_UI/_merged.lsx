@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="4" build="602" />
+	<version major="4" minor="0" revision="6" build="5" />
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="e38b6810-3953-4f4a-ab17-3a6d7d73c468" />
+					<attribute id="ID" type="FixedString" value="77f4b892-8767-4e45-b43a-64010923aeb3" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Icons_Artificer" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Public/Artificer/Assets/Textures/Icons/Icons_Artificer.dds" />
+					<attribute id="SourceFile" type="LSString" value="Public/Artificer/Assets/Textures/Icons/Icons_Artificer.DDS" /> 
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Icons_Items" />
-					<attribute id="Type" type="int32" value="0" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855873" />
+					<attribute id="Type" type="int64" value="0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
 				</node>
 			</children>
 		</node>

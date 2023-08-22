@@ -37,7 +37,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Infusions Placeholder lv1"/>
-                    <attribute id="Spells" type="LSString" value="Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_Hex;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus"/>
                     <attribute id="UUID" type="guid" value="12345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
@@ -118,6 +118,11 @@
 
                 BattleSmith always prepared
 
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BattleSmith Companion"/>
+                    <attribute id="Spells" type="LSString" value="Target_BattleSmithCompanion"/>
+                    <attribute id="UUID" type="guid" value="c05aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="BattleSmith spells at 3rd"/>
                     <attribute id="Spells" type="LSString" value="Target_Heroism;Shout_Shield_Wizard"/>
