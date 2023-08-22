@@ -203,12 +203,31 @@
                 Artillerist
 
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Artillerist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+					<attribute id="PassivesAdded" type="LSString" value=""/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(1a70cb52-82f5-43ac-902f-df674795d7e2,Artillerist,,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
-                    <attribute id="UUID" type="guid" value="66cee649-5ec9-4b73-8195-51c857928ed9"/>
+                    <attribute id="UUID" type="guid" value="0b5c6714-754b-4cb3-bd7b-c0068092b14b"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="Artillerist"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+					<attribute id="PassivesAdded" type="LSString" value=""/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(6b549067-9fab-4c77-8390-32eb257f1d00,Artillerist,,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="0b7c6714-754b-4cb3-bd7b-c0068092b14b"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="Artillerist"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>					
+					<attribute id="Selectors" type="LSString" value="AddSpells(93ba8d5f-e25a-40d6-ab25-a19af93130c7,Artillerist,,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="0b9c6714-754b-4cb3-bd7b-c0068092b14b"/>
                 </node>
 
                 BattleSmith
