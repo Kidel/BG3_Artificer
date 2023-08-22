@@ -17,6 +17,7 @@ data "DefaultBoosts" "ProficiencyBonus(Skill, Perception);ProficiencyBonus(Skill
 data "PersonalStatusImmunities" "SG_Charmed;SG_Poisoned;BLEEDING;GAPING_WOUND;SURPRISED"
 data "ActionResources" "ActionPoint:1;BonusActionPoint:1;Movement:12;ReactionActionPoint:1"
 data "PoisonResistance" "Immune"
+data "Class" "Artificer"
 
 new entry "Companion_BattleMaster_6"
 type "Character"
