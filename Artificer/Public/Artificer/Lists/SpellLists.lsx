@@ -18,11 +18,6 @@
                     <attribute id="UUID" type="guid" value="c9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Flash of Genius"/>
-                    <attribute id="Spells" type="LSString" value="Target_Guidance"/> TODO placeholder
-                    <attribute id="UUID" type="guid" value="d9808849-c41b-444a-83aa-9748e03e9e16"/>
-                </node>
-                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Magic Item Adept"/>
                     <attribute id="Spells" type="LSString" value="placeholder"/> TODO placeholder
                     <attribute id="UUID" type="guid" value="e9808849-c41b-444a-83aa-9748e03e9e16"/>
@@ -36,18 +31,18 @@
                 Infusions
 
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Infusions Placeholder lv1"/>
+                    <attribute id="Comment" type="LSString" value="Infusions lv1"/>
                     <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus"/>
                     <attribute id="UUID" type="guid" value="12345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Infusions Placeholder lv6"/>
-                    <attribute id="Spells" type="LSString" value="Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_Hex;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
+                    <attribute id="Comment" type="LSString" value="Infusions lv6"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus"/>
                     <attribute id="UUID" type="guid" value="62345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Infusions Placeholder lv10"/>
-                    <attribute id="Spells" type="LSString" value="Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_Hex;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
+                    <attribute id="Comment" type="LSString" value="Infusions lv10"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus"/>
                     <attribute id="UUID" type="guid" value="22345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
 
@@ -114,6 +109,24 @@
                     <attribute id="Comment" type="LSString" value="Alchemist spells at 9th"/>
                     <attribute id="Spells" type="LSString" value="Target_GaseousForm;Shout_HealingWord_Mass"/>
                     <attribute id="UUID" type="guid" value="9f213030-d4da-4c03-add9-59810e0a96af"/>
+                </node>
+
+                Artillerist always prepared
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Shield_Wizard;Zone_Thunderwave"/>
+                    <attribute id="UUID" type="guid" value="1a70cb52-82f5-43ac-902f-df674795d7e2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 5"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_ScorchingRay;Target_Shatter"/>
+                    <attribute id="UUID" type="guid" value="6b549067-9fab-4c77-8390-32eb257f1d00"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 9"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Wall_WallOfFire"/> TODO create Wind Wall spell to replace WallOfFire
+                    <attribute id="UUID" type="guid" value="9354865e-0af9-48c1-94d4-a2760cba91e3"/>
                 </node>
 
                 BattleSmith always prepared
