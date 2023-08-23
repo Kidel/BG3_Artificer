@@ -15,7 +15,7 @@ data "Description" "h5af41faag16e8g4399g8efbgc2af8304f248;1"
 data "Icon" "PassiveFeature_CompanionsBond"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnCreate;OnEquip;OnUnequip"
-data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnCreate)):ApplyStatus(SELF,BATTLE_READY_MAINTENANCE,100,-1);IF(not context.HasContextFlag(StatsFunctorContext.OnCreate)):ApplyStatus(SELF,BATTLE_READY_EQUIP,100,1)"
+data "StatsFunctors" "ApplyStatus(SELF,BATTLE_READY_MAINTENANCE,100,-1);ApplyStatus(SELF,BATTLE_READY_EQUIP,100,1)"
 
 new entry "CompanionsBond_Creature"
 type "PassiveData"
