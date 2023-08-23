@@ -14,7 +14,7 @@ data "DisplayName" "he53dd9c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
 data "Description" "h5af41faag16e8g4399g8efbgc2af8304f248;1"
 data "Icon" "PassiveFeature_CompanionsBond"
 data "Properties" "Highlighted"
-data "Boosts" "WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+data "Boosts" "ApplyStatus(BATTLE_READY, 100, -1)"
 
 new entry "CompanionsBond_Creature"
 type "PassiveData"
