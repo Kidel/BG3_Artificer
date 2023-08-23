@@ -8,7 +8,7 @@ type "PassiveData"
 data "DisplayName" "11523fb3deaa14de1766304e0911fbc49ae11"
 data "Properties" "IsHidden"
 
-new entry "CompanionsBond_Creature"
+new entry "Artificer_CompanionsBond_Creature"
 type "PassiveData"
 data "DisplayName" "h0caa271dg838fg43cfgbb0bg029e8fa4e67a;2"
 data "Description" "772d30149g1349g4008g9807g532569db7932;2"
