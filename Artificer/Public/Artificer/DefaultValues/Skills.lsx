@@ -10,6 +10,12 @@
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="77e3a25c-1707-41a9-8809-471f4a6d746c"/>
                 </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="SleightOfHand"/>
+                    <attribute id="Level" type="int32" value="6"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="7763a25c-1707-41a9-8809-471f4a6d746c"/>
+                </node>
             </children>
         </node>
     </region>
