@@ -160,3 +160,13 @@ data "SpellProperties" "ApplyStatus(FLASH_OF_GENIUS, 100, 1)"
 data "TooltipStatusApply" "ApplyStatus(FLASH_OF_GENIUS, 100, 1)"
 data "UseCosts" "ReactionActionPoint:1"
 
+
+new entry "Target_Artificer_ArcaneJolt_Damage"
+using "Projectile_EldritchBlast" // TEMP
+data "Conditions" "StatusGroupDurationEqualOrMoreThan(context.Target,'ARCANE_JOLT_RESOURCE',1)"
+data "StatsFunctors" "ApplyStatus(ARCANE_JOLT_RESOURCE,100,Target.ARCANE_JOLT_RESOURCE.Duration-1)"
+
+new entry "Target_Artificer_ArcaneJolt_Heal" 
+using "Target_Heal" // TEMP
+data "Conditions" "StatusGroupDurationEqualOrMoreThan(context.Target,'ARCANE_JOLT_RESOURCE',1)"
+data "StatsFunctors" "ApplyStatus(ARCANE_JOLT_RESOURCE,100,Target.ARCANE_JOLT_RESOURCE.Duration-1)"
