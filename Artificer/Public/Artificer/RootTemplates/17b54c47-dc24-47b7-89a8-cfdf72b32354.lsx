@@ -22,6 +22,7 @@
 					<attribute id="Icon" type="FixedString" value="Portrait_Creature_ArcaneTurret_Activated" />
 					<attribute id="Stats" type="FixedString" value="Companion_Artillerist_EldritchCannon" />
 					<attribute id="LadderAttachOffset" type="float" value="0" />
+					<attribute id="Scale" type="float" value="0.5" />
 					<attribute id="LadderLoopSpeed" type="float" value="4" />
 					<attribute id="CanClimbLadders" type="bool" value="False" />
 					<attribute id="BloodType" type="FixedString" value="" />
@@ -47,6 +48,13 @@
 					<attribute id="Archetype" type="FixedString" value="base" />
 					<attribute id="AiHint" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+							</children>
+						</node>
 						<node id="Tags">
 							<children>
 								<node id="Tag">
@@ -213,7 +221,7 @@
 						</node>
 						<node id="FootStepInfos" />
 						<node id="LocomotionParams">
-							<attribute id="IsMovementEnabled" type="bool" value="False" />
+							<attribute id="IsMovementEnabled" type="bool" value="True" />
 							<attribute id="MovementAcceleration" type="float" value="12" />
 							<attribute id="MovementTiltToRemap" type="FixedString" value="1df9c9ee-8dd8-ebeb-3b1a-83d31f141f0a" />
 							<attribute id="SteeringSpeedCurveWithoutTransitions" type="FixedString" value="522881b9-ce7f-4259-9e81-4cbe55f1fc3f" />

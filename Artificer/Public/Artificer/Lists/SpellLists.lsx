@@ -133,7 +133,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="BattleSmith Companion"/>
-                    <attribute id="Spells" type="LSString" value="Target_BattleSmithCompanion"/>
+                    <attribute id="Spells" type="LSString" value="Target_BattleSmithCompanion;Target_ArtilleristCompanion"/>
                     <attribute id="UUID" type="guid" value="c05aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
                 <node id="SpellList">
