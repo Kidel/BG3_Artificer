@@ -274,7 +274,7 @@
                     <attribute id="Name" type="LSString" value="BattleSmith"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(9b5aa11f-cc98-412f-a85e-7fae4561a4d4,BattleSmith,,,AlwaysPrepared)"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/> TODO Arcane Jolt
+                    <attribute id="PassivesAdded" type="LSString" value="Artificer_ArcaneJolt_OnAttack_Passive;Artificer_ArcaneJolt_Passive"/>
                     <attribute id="TableUUID" type="guid" value="119dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="639ee649-5ec9-4b73-8195-51c857928ed9"/>
                 </node>

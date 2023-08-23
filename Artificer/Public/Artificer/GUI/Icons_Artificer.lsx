@@ -114,7 +114,7 @@
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 14
+                    <attribute id="MapKey" type="FixedString" value="Passive_BattleReady"/> 14
                     <attribute id="U1" type="float" value="0.40625"/> Left
                     <attribute id="U2" type="float" value="0.4375"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
