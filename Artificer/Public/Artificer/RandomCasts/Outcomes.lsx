@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="Outcomes">
+        <node id="root">
+            <children>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ExperimentalElixir"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_Produce_Experimental_Healing"/>
+                    <attribute id="UUID" type="guid" value="a043dfb1-fbd7-44ac-9488-72e68ccacef4"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ExperimentalElixir"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_Produce_Experimental_Swiftness"/>
+                    <attribute id="UUID" type="guid" value="8331cacd-7338-41da-8278-7a521a69cebd"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ExperimentalElixir"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_Produce_Experimental_Resilience"/>
+                    <attribute id="UUID" type="guid" value="2abcae9c-98a2-4731-88e4-57a082e130a7"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ExperimentalElixir"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_Produce_Experimental_Boldness"/>
+                    <attribute id="UUID" type="guid" value="699e14d0-eba7-48bf-bb51-938b1cfe0df7"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ExperimentalElixir"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_Produce_Experimental_Flight"/>
+                    <attribute id="UUID" type="guid" value="1f8c73ed-e591-4a61-939b-ec211bb69e56"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ExperimentalElixir"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_Produce_Experimental_Transformation"/>
+                    <attribute id="UUID" type="guid" value="b30897da-8f2a-4fca-a95e-c6a0353c0483"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
