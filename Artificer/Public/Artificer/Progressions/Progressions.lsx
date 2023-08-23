@@ -89,7 +89,7 @@
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/> TODO tool expertise
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(2f3aa11f-cc98-412f-a85e-7fae4561a4d4,1,0);SelectSpells(62345678-c41b-444a-83aa-9748e03e9e16,2,0,,,,AlwaysPrepared);SelectSkillsExpertise(7774ebd6-3725-4b90-bb5c-2b647d41615d,2)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(2f3aa11f-cc98-412f-a85e-7fae4561a4d4,1,0);SelectSpells(62345678-c41b-444a-83aa-9748e03e9e16,2,0,,,,AlwaysPrepared);SelectSkillsExpertise(7774ebd6-3725-4b90-bb5c-2b647d41615d,1,true)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="70d67b34-19af-438f-8e9f-dabc19beed3a"/>
@@ -98,8 +98,8 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/>
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(d9808849-c41b-444a-83aa-9748e03e9e16);SelectSpells(2f3aa11f-cc98-412f-a85e-7fae4561a4d4,1,0)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Artificer_FlashOfGenius_Passive"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(2f3aa11f-cc98-412f-a85e-7fae4561a4d4,1,0)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="71d67b34-19af-438f-8e9f-dabc19beed3a"/>
