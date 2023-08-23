@@ -192,12 +192,30 @@
                 Armorer
 
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Armorer"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
-                    <attribute id="UUID" type="guid" value="65cee649-5ec9-4b73-8195-51c857928ed9"/>
+                    <attribute id="UUID" type="guid" value="4040f93c-b0dd-4d23-b090-0228575af1b9"/>
+                </node>
+
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="Armorer"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="6cd84705-0651-4db5-83ef-e00e93440510"/>
+                </node>
+
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="Armorer"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack"/>
+                    <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="9caaa751-aa60-4252-91e2-aab40fbf1bd4"/>
                 </node>
 
                 Artillerist
