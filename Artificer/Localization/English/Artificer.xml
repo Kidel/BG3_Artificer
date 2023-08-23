@@ -33,6 +33,8 @@
 	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">At 2nd level, you've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
 	<content contentuid="11523fb3deaa14de1766304e0911fbc49ae11" version="1">Magical Tinkering</content>
 	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">At 1st level, you've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand.</content>
+    <content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
+	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">At 7th level, you've gained the ability to come up with solutions under pressure.  When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add their Proficiency Bonus to the roll.</content>
 
 	<content contentuid="0e5ba292-48ab-4b1c-aa79-f25a635635a7" version="1">The Right Tool for the Job</content> Right Tool for the Job - Thieve's Tools - Display Name
 	<content contentuid="ce18c051-d126-46dd-8447-8363b055f388" version="1">You've learned how to produce exactly the tool you need:  You can magically create thieves Tools, a trap disarmimg kit, or a shovel.</content> 

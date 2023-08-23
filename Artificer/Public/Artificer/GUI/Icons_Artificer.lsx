@@ -79,14 +79,14 @@
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 9
+                    <attribute id="MapKey" type="FixedString" value="Skill_FlashOfGenius"/>
                     <attribute id="U1" type="float" value="0.25"/> Left
                     <attribute id="U2" type="float" value="0.28125"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 10
+                    <attribute id="MapKey" type="FixedString" value="Interrupt_FlashOfGenius"/> 10
                     <attribute id="U1" type="float" value="0.28125"/> Left
                     <attribute id="U2" type="float" value="0.3125"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top

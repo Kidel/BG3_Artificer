@@ -19,7 +19,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Flash of Genius"/>
-                    <attribute id="Spells" type="LSString" value="Target_Guidance"/> TODO placeholder
+                    <attribute id="Spells" type="LSString" value="Interrupt_FlashOfGenius_SavingThrow;Interrupt_FlashOfGenius_Attack"/>
                     <attribute id="UUID" type="guid" value="d9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
