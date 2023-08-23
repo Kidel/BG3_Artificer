@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Projectile_AcidSplash;Target_DancingLights;Projectile_FireBolt;Target_MageHand;Projectile_PoisonSpray;Target_ShockingGrasp"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="Artificer Cantrips"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="77b7e0ec-e9d5-421c-824c-ace09640c31a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
