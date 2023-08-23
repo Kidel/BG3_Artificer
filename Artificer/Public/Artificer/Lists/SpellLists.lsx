@@ -31,18 +31,18 @@
                 Infusions
 
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Infusions Placeholder lv1"/>
+                    <attribute id="Comment" type="LSString" value="Infusions lv1"/>
                     <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus"/>
                     <attribute id="UUID" type="guid" value="12345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Infusions Placeholder lv6"/>
-                    <attribute id="Spells" type="LSString" value="Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_Hex;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
+                    <attribute id="Comment" type="LSString" value="Infusions lv6"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus"/>
                     <attribute id="UUID" type="guid" value="62345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Infusions Placeholder lv10"/>
-                    <attribute id="Spells" type="LSString" value="Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_Hex;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
+                    <attribute id="Comment" type="LSString" value="Infusions lv10"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus"/>
                     <attribute id="UUID" type="guid" value="22345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
 
