@@ -119,20 +119,20 @@
                 Artillerist always prepared
 
                 <node id="SpellList">
-		    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 3"/>
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 3"/>
                     <attribute id="Spells" type="LSString" value="Shout_Shield_Wizard;Zone_Thunderwave"/>
                     <attribute id="UUID" type="guid" value="1a70cb52-82f5-43ac-902f-df674795d7e2"/>
                 </node>
-		<node id="SpellList">
-		    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 5"/>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 5"/>
                     <attribute id="Spells" type="LSString" value="Projectile_ScorchingRay;Target_Shatter"/>
                     <attribute id="UUID" type="guid" value="6b549067-9fab-4c77-8390-32eb257f1d00"/>
                 </node>
-		<node id="SpellList">
-		    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 9"/>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 9"/>
                     <attribute id="Spells" type="LSString" value="Projectile_Fireball;Wall_WallOfFire"/> TODO create Wind Wall spell to replace WallOfFire
                     <attribute id="UUID" type="guid" value="9354865e-0af9-48c1-94d4-a2760cba91e3"/>
-		</node>
+                </node>
 
                 BattleSmith always prepared
 
