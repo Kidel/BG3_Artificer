@@ -17,7 +17,7 @@ data "Properties" "IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn;Highligh
 data "StatsFunctorContext" "OnEquip;OnUnequip"
 data "StatsFunctors" "ApplyStatus(SELF,BATTLE_READY_EQUIP,100,1)"
 data "ToggleOffFunctors" "RemoveStatus(BATTLE_READY_MAINTENANCE);RemoveStatus(BATTLE_READY_EQUIP)"
-data "ToggleOnFunctors" "ApplyStatus(BATTLE_READY_MAINTENANCE, 100, -1)"
+data "ToggleOnFunctors" "ApplyStatus(BATTLE_READY_MAINTENANCE, 100, -1);ApplyStatus(SELF,BATTLE_READY_EQUIP,100,1)"
 
 new entry "CompanionsBond_Creature"
 type "PassiveData"
