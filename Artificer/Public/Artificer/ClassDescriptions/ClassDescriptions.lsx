@@ -28,9 +28,9 @@
                         </node>
                     </children>
                 </node>
-				<node id="ClassDescription">
+                <node id="ClassDescription">
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-					<attribute id="Description" type="TranslatedString" handle="45523fb3deaa14de1766304e0911fbc49ae44" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="45523fb3deaa14de1766304e0911fbc49ae44" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="34523fb3deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
@@ -51,7 +51,7 @@
                 <node id="ClassDescription">
                     <attribute id="CanLearnSpells" type="bool" value="true"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-					<attribute id="Description" type="TranslatedString" handle="47523fb3deaa14de1766304e0911fbc49ae44" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="47523fb3deaa14de1766304e0911fbc49ae44" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="36523fb3deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
@@ -72,7 +72,7 @@
                 <node id="ClassDescription">
                     <attribute id="CanLearnSpells" type="bool" value="true"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-					<attribute id="Description" type="TranslatedString" handle="49523fb3deaa14de1766304e0911fbc49ae44" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="49523fb3deaa14de1766304e0911fbc49ae44" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="38523fb3deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
