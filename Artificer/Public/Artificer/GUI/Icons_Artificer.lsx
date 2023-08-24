@@ -121,7 +121,7 @@
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 15
+                    <attribute id="MapKey" type="FixedString" value="Skill_ChemicalAdept"/> 15
                     <attribute id="U1" type="float" value="0.4375"/> Left
                     <attribute id="U2" type="float" value="0.46875"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
