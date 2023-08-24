@@ -32,7 +32,7 @@ data "Armor" "12"
 
 new entry "Companion_Artillerist_EldritchCannon"
 type "Character"
-using "_Construct"
+using "Companion_Wolf"
 data "Strength" "10"
 data "Dexterity" "10"
 data "Constitution" "10"

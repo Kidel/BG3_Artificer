@@ -45,7 +45,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_ArtilleristCompanion"
 data "SpellContainerID" "Target_ArtilleristCompanion"
-data "SpellProperties" "GROUND:Summon(17b54c47-dc24-47b7-89a8-cfdf72b32354,Permanent,,,'CombatSummonStack',UNSUMMON_ABLE,FAKE_METAL_SKIN,FAKE_MAG_CHARGED_LIGHTNING)"
+data "SpellProperties" "GROUND:Summon(1128c4e0-d3ca-449c-a5c5-9e0fb310081a,Permanent,,,'CombatSummonStack',UNSUMMON_ABLE,FAKE_METAL_SKIN,FAKE_MAG_CHARGED_LIGHTNING,DISGUISE_SELF_ELDRITCH_CANNON)"
 data "TargetConditions" "CanStand('d642d398-f349-4eab-b98c-a82cbda19918') and not Character() and not Self()"
 
 new entry "Target_Bite_SteelDefender"
