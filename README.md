@@ -39,20 +39,20 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
       - [ ] From 10th level: Gauntlets of Giant Strength -> this is already in the game.
       - [ ] From 10th level: Cape Of The Mountebank -> allows casting of Dimension Door once per long rest.
       - [ ] From 10th level: Helm of Brilliance -> allows casting of FireBall once per long rest.
-- [ ] Implement Flash of Genius (similar to Guidance cantrip, but requires icon)
+- [x] Implement Flash of Genius (similar to Guidance cantrip, but requires icon)
 - [ ] Implement Magic Item Adept (create a magic item once per long rest using Gold or a Magic Item resource similar to slots)
 - [ ] Implement Spell-Storing Item (conjure a spell scroll)
 
 ### Battle Smith
 - [x] Implement Always Prepared spell progression up to level 9 (get from http://dnd5e.wikidot.com/artificer:battle-smith)
 - [x] Add proficiency with Martial Weapons
-- [ ] Implement Battle Ready (magic weapons use Intelligence instead of Strength or Dexterity, see Pact of the Blade, but should be automatic)
+- [x] Implement Battle Ready (magic weapons use Intelligence instead of Strength or Dexterity, see Pact of the Blade, but should be automatic)
 - [x] Implement Steel Defender (can initially copy Beast Master pet and go from there, a smart idea could be adding a metalling effect on it, and of course customize stats and attacks)
-- [ ] Customize Steel defender
-  - [ ] looks
-  - [ ] skills
+- [x] Customize Steel defender
+  - [x] looks
+  - [x] skills
 - [x] Add Extra Attack at level 5
-- [ ] Add Arcane Jolt (2d6 force damage added to weapon attacks and Steel Defender -> unlocks a temporary spell to heal a target, see Storm Sorcerer fly after spell)
+- [x] Add Arcane Jolt (2d6 force damage added to weapon attacks and Steel Defender -> unlocks a temporary spell to heal a target, see Storm Sorcerer fly after spell)
 
 ### Alchemist 
 - [ ] Implement Always Prepared spell progression up to level 9 (get from http://dnd5e.wikidot.com/artificer:alchemist)
@@ -72,5 +72,7 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
 ### Artillerist 
 - [ ] Implement Always Prepared spell progression up to level 9 (get from http://dnd5e.wikidot.com/artificer:artillerist)
 - [ ] Implement Eldritch Cannon (easy way: conjure a cannon ranged weapon that gives skills equivalent to Flaming Hands, Eldritch Blast and False Life, hard way: make a pet that looks like a cannon)
+  - [x] Pet
+  - [ ] Weapon
 - [ ] Implement Arcane Firearm (similar to Pact Weapon, gives 1 extra d8 damage to spells passive)
 - [ ] Implement Explosive Cannon (better version of whatever we used as Eldritch Cannon)
