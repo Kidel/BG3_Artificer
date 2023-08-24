@@ -58,6 +58,9 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-43b9-e7751bfa41fa" />
+								</node>
+								<node id="Tag">
 									<attribute id="Object" type="guid" value="fe2e65d3-a8de-45bf-72a3-39c3ecad9e66" />
 								</node>
 							</children>
