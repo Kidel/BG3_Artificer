@@ -34,8 +34,6 @@ data "DisplayName" "11888f820e5gfdf7g4cc2g9309gb90acd0d2f;1"
 data "Description" "22888f820e5gfdf7g4cc2g9309gb90acd0d2f;1"
 data "Boosts" "UnlockInterrupt(Interrupt_FlashOfGenius_SavingThrow);UnlockSpell(Target_FlashOfGenius)"
 
-
-
 new entry "Artificer_ArcaneJolt_OnAttack_Passive"
 type "PassiveData"
 data "DisplayName" "7773dd9c1g0a96g40f7g8606gd0e9a5b0d3a4"
