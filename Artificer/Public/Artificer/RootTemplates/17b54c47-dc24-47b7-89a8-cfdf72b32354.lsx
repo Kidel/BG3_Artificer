@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="17b54c47-dc24-47b7-89a8-cfdf72b32354" />
-					<attribute id="Name" type="LSString" value="Artillerist_EldritchCannon" />
+					<attribute id="Name" type="LSString" value="Artillerist_EldritchCannon_POLYMORPH" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="" />
