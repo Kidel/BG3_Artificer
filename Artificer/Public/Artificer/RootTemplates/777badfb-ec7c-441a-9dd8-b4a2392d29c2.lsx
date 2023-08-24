@@ -16,10 +16,11 @@
 					<attribute id="MapKey" type="FixedString" value="777badfb-ec7c-441a-9dd8-b4a2392d29c2" />
 					<attribute id="Name" type="LSString" value="WPN_Artillerist_Eldritch_Cannon" />
 					<attribute id="ParentTemplateId" type="FixedString" value="a5d843ab-c3af-4e60-a925-bb2e15828938" />
-					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" /> points to WPN_Dagger
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
 					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="Stats" type="FixedString" value="WPN_Artillerist_Eldritch_Cannon" />
 					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Scale" type="float" value="2.5" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="77707404-da41-44dd-a0d8-9f75fd43c071" />
 					<attribute id="WalkThrough" type="bool" value="True" />

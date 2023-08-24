@@ -169,6 +169,14 @@ data "DisplayName" "77062bb49gc270g4353gb6ebgf4c2248ea879;1"
 data "Boosts" "AttackSpellOverride(Target_EldritchBlast_EldritchCannon, Target_UnarmedAttack) "
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
+new entry "UNARMEDATTACK_OVERRIDE_HAND_CANNON"
+type "StatusData"
+data "StatusType" "BOOST"
+using "UNARMEDATTACK_OVERRIDE_CANNON"
+data "StackId" "UNARMEDATTACK_OVERRIDE_HAND_CANNON"
+data "Boosts" "AttackSpellOverride(Projectile_Artillerist_MagicMissile_Shot, Projectile_MainHandAttack)"
+data "StatusPropertyFlags" "DisableCombatlog"
+
 
 new entry "ARCANE_JOLT_RESOURCE"
 type "StatusData"
