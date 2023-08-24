@@ -28,14 +28,24 @@
 	<content contentuid="999f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Your tinkering has borne you a faithful companion, a steel defender.  You can summon it freely and give it commands in battle</content>
     <content contentuid="77062bb49gc270g4353gb6ebgf4c2248ea879" version="1">Force-Empowered Rend</content>
 	<content contentuid="77bf1636cgabfcg4312gbf40g99c410daea86" version="2">Lunge at a target to bite it</content>
+	<content contentuid="he53dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Battle Ready</content>
+	<content contentuid="h5af41faag16e8g4399g8efbgc2af8304f248" version="1">When attacking with a magical weapon, you use your Intelligence for your attack and damage rolls instead of your Strength or Dexterity.</content>
+	<content contentuid="7773dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt</content>
+	<content contentuid="778f41faag16e8g4399g8efbgc2af8304f248" version="1">You've learn new ways to channel arcane energy to harm or heal.  When you hit a target with a magic weapon attack, you can channel magical energy through the strike to deal an extra 2d6 Force damage to the target or to restoring 2d6 hit points to a creature or construct you can see.</content>
+	<content contentuid="8883dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt Uses</content>
+	<content contentuid="889f41faag16e8g4399g8efbgc2af8304f248" version="1">You can use this energy a number of times equal to your Intelligence modifier (minimum of once).  You regain all expended uses when you finish a long rest.</content>
+    <content contentuid="6969dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Damage)</content>
+	<content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">You can deal 2d6 Force damage to a target you've hit during this turn.  Expends 1 use of Arcane Jolt.</content>
+    <content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Heal)</content>
+	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see within 30 feet of the target.  Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.  Expends 1 use of Arcane Jolt.</content>
 
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
-	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">At 2nd level, you've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
+	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
 	<content contentuid="11523fb3deaa14de1766304e0911fbc49ae11" version="1">Magical Tinkering</content>
-	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">At 1st level, you've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand.</content>
+	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">You've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand.</content>
     <content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
-	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">At 7th level, you've gained the ability to come up with solutions under pressure.  When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add their Proficiency Bonus to the roll.</content>
+	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">You've gained the ability to come up with solutions under pressure.  When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add their Proficiency Bonus to the roll.</content>
 
 	<content contentuid="0e5ba292-48ab-4b1c-aa79-f25a635635a7" version="1">The Right Tool for the Job</content> Right Tool for the Job - Thieve's Tools - Display Name
 	<content contentuid="ce18c051-d126-46dd-8447-8363b055f388" version="1">You've learned how to produce exactly the tool you need:  You can magically create thieves Tools, a trap disarmimg kit, or a shovel.</content> 
@@ -60,7 +70,5 @@
 
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Ring Mail Armour</content>
 
-	<content contentuid="he53dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Battle Ready</content>
-	<content contentuid="h5af41faag16e8g4399g8efbgc2af8304f248" version="1">When attacking with a magical weapon, you use your Intelligence for your attack and damage rolls instead of your Strength or Dexterity.</content>
-
+	
 </contentList>

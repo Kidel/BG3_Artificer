@@ -270,7 +270,7 @@
                     <attribute id="UUID" type="guid" value="635ee649-5ec9-4b73-8195-51c857928ed9"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="8"/> TODO change to 9
+                    <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="BattleSmith"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(9b5aa11f-cc98-412f-a85e-7fae4561a4d4,BattleSmith,,,AlwaysPrepared)"/>
