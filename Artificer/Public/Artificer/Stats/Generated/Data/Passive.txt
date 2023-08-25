@@ -4,7 +4,7 @@ data "DisplayName" "88523fb3deaa14de1766304e0911fbc49ae88"
 data "Properties" "IsHidden"
 
 
-new entry "Artificer_MagicalTinkering"
+new entry "MagicalTinkering"
 type "PassiveData"
 data "DisplayName" "11523fb3deaa14de1766304e0911fbc49ae11"
 data "Properties" "IsHidden"

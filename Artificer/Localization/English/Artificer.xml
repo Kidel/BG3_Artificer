@@ -4,12 +4,15 @@
 	<content contentuid="77523fb3deaa14de1766304e0911fbc49ae77" version="1">Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects.  They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.  You can find everything you need to play one of these inventors in the next few sections.</content>
 	
 	<content contentuid="34523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist</content>
+	<content contentuid="35523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist Spells</content>
 	<content contentuid="45523fb3deaa14de1766304e0911fbc49ae44" version="1">An Alchemist is an expert at combining reagents to produce mystical effects.  Alchemists use their creations to give life and to leech it away.  Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.</content>
 	
 	<content contentuid="36523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer</content>
+	<content contentuid="37523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer Spells</content>
 	<content contentuid="47523fb3deaa14de1766304e0911fbc49ae44" version="1">An artificer who specializes as an Armorer modifies armor to function almost like a second skin.  The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense.  The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.</content>
 	
 	<content contentuid="38523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist</content>
+	<content contentuid="39523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist Spells</content>
 	<content contentuid="49523fb3deaa14de1766304e0911fbc49ae44" version="1">An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield.  This destructive power is valued by armies in the wars on many different worlds.  And when war passes, some members of this specialization seek to build a more peaceful world by using their powers to fight the resurgence of strife.</content>
 	<content contentuid="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1">Eldritch Cannon</content>
 	<content contentuid="7727e61e8g9b89g4f30gb649gb3a97346a443" version="1">Eldritch Cannon - Tiny</content>
@@ -22,6 +25,7 @@
 	<content contentuid="3336e61e8g9b89g4f30gb649gb3a97346a443" version="1">The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Proficiency Bonus (minimum of +1).</content>
 
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith</content>
+	<content contentuid="34623fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith Spells</content>
 	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel.  To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation.  Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</content>
 	<content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">This companion's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and damage increase with the &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; of its artificer.</content>
 	
@@ -43,6 +47,8 @@
 	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend less resources to craft them.</content>
 
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
+	<content contentuid="88623fb3deaa14de1766304e0911fbc49ae88" version="1">Infusions</content>
+	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots: [3]</content>
 	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
 	<content contentuid="11523fb3deaa14de1766304e0911fbc49ae11" version="1">Magical Tinkering</content>
 	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">You've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand.</content>
