@@ -10,6 +10,14 @@ data "DisplayName" "11523fb3deaa14de1766304e0911fbc49ae11"
 data "Properties" "IsHidden"
 
 
+new entry "AstralPlane_BagOfHolding_Check"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnStatusApplied"
+data "Conditions" "StatusId('ASTRAL_PLANE') or StatusId('CRE_ASTRALPRISON_GRAVITY')"
+data "StatsFunctors" "RemoveStatus(INFUSION_BAG_OF_HOLDING)"
+
+
 new entry "Artificer_BattleReady"
 type "PassiveData"
 data "DisplayName" "he53dd9c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
