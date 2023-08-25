@@ -6,7 +6,7 @@
 			<children>	
 				<node id="GameObjects"> WPN_Artillerist_Eldritch_Cannon
 					<attribute id="CanShootThrough" type="bool" value="True" />
-					<attribute id="DisplayName" type="TranslatedString" handle="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="7727e61e8g9b89g4f30gb649gb3a97346a443" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="7736e61e8g9b89g4f30gb649gb3a97346a443" version="1" />
 					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-fb95-ea56cb3f229e" /> WPN_HUM_HandCrossbow_A_0
 					<attribute id="Icon" type="FixedString" value="Weapon_EldritchCannon" />
