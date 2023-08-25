@@ -20,7 +20,7 @@
 					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="Stats" type="FixedString" value="WPN_Artillerist_Eldritch_Cannon" />
 					<attribute id="Tooltip" type="uint8" value="2" />
-					<attribute id="Scale" type="float" value="2.5" />
+					<attribute id="Scale" type="float" value="1.5" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="77707404-da41-44dd-a0d8-9f75fd43c071" />
 					<attribute id="WalkThrough" type="bool" value="True" />
