@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="326"/>
+    <region id="TooltipExtraTexts">
+        <node id="root">
+            <children>
+                <node id="TooltipExtraTexts"> Bag of Holding warning
+                    <attribute id="Text" type="TranslatedString" handle="777463d7fg404cg4825g8dedgdeebc97b9914" version="1"/>
+                    <attribute id="UUID" type="guid" value="7779a885-0f45-4bc9-93c7-1e0c39eb39ec"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
