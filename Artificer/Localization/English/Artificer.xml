@@ -5,14 +5,17 @@
 	
 	<content contentuid="34523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist</content>
 	<content contentuid="35523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist Spells</content>
+	<content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="45523fb3deaa14de1766304e0911fbc49ae44" version="1">An Alchemist is an expert at combining reagents to produce mystical effects.  Alchemists use their creations to give life and to leech it away.  Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.</content>
 	
 	<content contentuid="36523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer</content>
 	<content contentuid="37523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer Spells</content>
+	<content contentuid="37523773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="47523fb3deaa14de1766304e0911fbc49ae44" version="1">An artificer who specializes as an Armorer modifies armor to function almost like a second skin.  The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense.  The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.</content>
 	
 	<content contentuid="38523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist</content>
 	<content contentuid="39523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist Spells</content>
+	<content contentuid="39523773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="49523fb3deaa14de1766304e0911fbc49ae44" version="1">An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield.  This destructive power is valued by armies in the wars on many different worlds.  And when war passes, some members of this specialization seek to build a more peaceful world by using their powers to fight the resurgence of strife.</content>
 	<content contentuid="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1">Eldritch Cannon</content>
 	<content contentuid="7727e61e8g9b89g4f30gb649gb3a97346a443" version="1">Eldritch Cannon - Tiny</content>
@@ -26,6 +29,7 @@
 
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith</content>
 	<content contentuid="34623fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith Spells</content>
+	<content contentuid="34623773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel.  To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation.  Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</content>
 	<content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">This companion's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and damage increase with the &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; of its artificer.</content>
 	
