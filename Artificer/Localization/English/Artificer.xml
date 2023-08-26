@@ -23,6 +23,8 @@
 	<content contentuid="2236e61e8g9b89g4f30gb649gb3a97346a443" version="1">Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it.  On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.</content>
 	<content contentuid="3326e61e8g9b89g4f30gb649gb3a97346a443" version="1">Protector</content>
 	<content contentuid="3336e61e8g9b89g4f30gb649gb3a97346a443" version="1">The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Proficiency Bonus (minimum of +1).</content>
+	<content contentuid="h4d740fa9g3b35g4011ga4d0g6a00e076ca21" version="1">Arcane Firearm</content>
+	<content contentuid="h99fef735gf7bcg4fa4gbec8g8a8500cd5f69" version="1">You know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells.</content>
 
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith</content>
 	<content contentuid="34623fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith Spells</content>

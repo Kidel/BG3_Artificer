@@ -116,3 +116,11 @@ using "Artificer_ArcaneJolt_Passive_1"
 data "Conditions" "ConditionResult((GetModifier(context.Source.Intelligence) + context.Source.ProficiencyBonus) >= 10) and (not HasStatus('ARCANE_JOLT_RESOURCE', context.Source))"
 data "StatsFunctors" "ApplyStatus(SELF,ARCANE_JOLT_RESOURCE,100,10)"
 
+new entry "ArcaneFirearm"
+type "PassiveData"
+data "DisplayName" "h4d740fa9g3b35g4011ga4d0g6a00e076ca21"
+data "Description" "h99fef735gf7bcg4fa4gbec8g8a8500cd5f69"
+data "Icon" "Passive_BattleReady" TODO needs an icon
+data "Properties" "Highlighted"
+data "BoostConditions" "HasWeaponInMainHand('WPN_STAVE', GetActiveWeapon(context.Source, true))"
+data "Boosts" "IF(IsSpell()):DamageBonus(1d8)"
