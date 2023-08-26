@@ -79,16 +79,29 @@
 	<content contentuid="7bffca0d-2093-4911-97b9-ef5dbfc221a5"  version="1">Infusion: Armor of Magical Strength</content>
 	<content contentuid="e91f4da6-5297-4c7c-bd72-ca3dd2c4aa04"  version="1">Infusion: Boots of the Winding Path</content>
 	<content contentuid="52cb721b-dae9-40eb-ba8b-55ff8fcc19ea"  version="1">Infusion: Helm of Awareness</content>
-	<content contentuid="b27cabec-3fcb-424a-8557-c90330b28877"  version="1">Infusion: Homunculus Servant</content>
 	<content contentuid="d36daf64-1cf7-4c37-9bb2-99113afe8a1b"  version="1">Infusion: Mind Sharpener</content>
 	<content contentuid="c4672755-ea0e-4b0b-ba99-1f40f844b0ac"  version="1">Infusion: Radiant Weapon</content>
+	<content contentuid="777ea8ae-f16a-4f8e-9170-e2825dfec9af"  version="1">The target weapon becomes magical and grants a +1 bonus to attack and damage rolls made with it.  It sheds a bright light in a 30-foot radius.</content>
 	<content contentuid="df0307ba-33f3-4191-90c1-a56c4d717e00"  version="1">Infusion: Repeating Shot</content>
 	<content contentuid="798bc974-6e2d-4168-98da-92a1ed45b199"  version="1">Infusion: Bag of Holding</content>
 	<content contentuid="777463d7fg404cg4825g8dedgdeebc97b9914" version="1">&lt;LSTag Type="Image" Info="Warning"/&gt; Using it twice will create a brief portal to the Astral Plane</content>
 	<content contentuid="99f19290-41d2-4b0a-a94b-dae2730546a5"  version="1">You learned how to infuse your backpack with magical energy to transform it into a Bag of Holding that allows you to place items in an extradimensional space, greatly increasing the amount of items it can carry and disregarding weight.  The Bag of Holding won't work in the Astral Plane.  Using this infusion twice or placing the Bag of Holding inside another extradimensional space instantly destroys both items and opens a gate to the Astral Plane.  The gate originates where the one item was placed inside the other.  Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane.  The gate then closes.  The gate is one-way only and can't be reopened.</content>
-
-	//Alchemist
-	<content contentuid="" version="1"></content>
+	
+	<content contentuid="123bc974-6e2d-4168-98da-92a1ed45b199"  version="1">Infusion: Homunculus Servant</content>
+	<content contentuid="456bc974-6e2d-4168-98da-92a1ed45b199"  version="1">You learn intricate methods for magically creating a special homunculus that serves you.  You determine the homunculus's appearance.  The homunculus is friendly to you and your companions, and it obeys your commands.</content>
+	<content contentuid="77715041bga873g4f1cgb45eg7774bac4a109" version="1">Homunculus Shape: Cat</content>
+	<content contentuid="777633996g3e8ag4cb8ga616g141d6dad37af" version="3">Summon a cat-shaped homunculus that can &lt;LSTag Type="Spell" Tooltip="Shout_Distract_Cat_Summon"&gt;Meow&lt;/LSTag&gt; to distract your enemies.</content>
+	<content contentuid="777b7d430gea4ag42abg92c0gf2f646e967f1" version="1">Homunculus Shape: Crab</content>
+	<content contentuid="77785d10bg98d0g4722gba69g69b592c53677" version="3">Summon a crab-shaped homunculus that can slow enemies with its &lt;LSTag Type="Spell" Tooltip="Target_CripplingPinch_Crab_Summon"&gt;Crippling Pinch&lt;/LSTag&gt;.</content>
+	<content contentuid="777e6ae06g0e2eg43cfga2feg7a59d317dca8" version="1">Homunculus Shape: Frog</content>
+	<content contentuid="77735e6e7g2d4dg43b4ga7e6gcc1852abb392" version="4">Summon a frog-shaped homunculus who can spread its &lt;LSTag Type="Spell" Tooltip="Target_Bufotoxin_Frog_Summon"&gt;Bufotoxin&lt;/LSTag&gt; to enemies.</content>
+	<content contentuid="777f2a45bg24ebg4a3ega2b1gc157a1b738d2" version="1">Homunculus Shape: Rat</content>
+	<content contentuid="777547a2fg2225g4052g86c9g1a7a03f6c207" version="3">Summon a rat-shaped homunculus with an &lt;LSTag Type="Spell" Tooltip="Target_Bite_Rat_Summon"&gt;Infectious Bite&lt;/LSTag&gt;.</content>
+	<content contentuid="777341008gfad0g4868g817eg856bada1bff8" version="1">Homunculus Shape: Raven</content>
+	<content contentuid="77721bdf5g81ebg495fg864ag4f6686879bcb" version="4">Summon a raven-shaped homunculus that can &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Blind&lt;/LSTag&gt; enemies with its beak.</content>
+	<content contentuid="7775497e1g3067g4b9egb505ge1ee8e3f7aab" version="1">Homunculus Shape: Spider</content>
+	<content contentuid="777f10276g7415g42b3g9b15g056514104f5f" version="3">Summon a spider-shaped homunculus with a poisonous &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;Bite&lt;/LSTag&gt;.</content>
+	
 	<content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Experimental Elixir Of Healing</content>
 	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">Experimental Elixir Of Healing Description</content>
 	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">Experimental Elixir Of Healing Technical Description</content>
