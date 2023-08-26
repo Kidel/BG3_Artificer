@@ -44,8 +44,15 @@
     <content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Heal)</content>
 	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see within 30 feet of the target.  Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.  Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemical Adept</content>
-	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend less resources to craft them.</content>
-
+	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Chemicals to craft them.</content>
+	<content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvage Chemicals</content>
+	<content contentuid="011112faag16e8g4399g8efbgc2af8304f248" version="1">Magically extract useful chemical elements to craft consumable items useful in combat with Chemical Adept.  Certain items might require more units to craft.</content>
+	<content contentuid="1111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvaged Chemicals</content>
+	<content contentuid="111112faag16e8g4399g8efbgc2af8304f248" version="1">You have magically extracted useful chemical elements to craft consumable items useful in combat with Chemical Adept.  Certain items might require more units to craft.</content>
+	<content contentuid="9992b93b-721f-4b99-b9b4-05ac25aadb33"  version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Requires 2 units of Salvaged Chemicals</content>
+	<content contentuid="2111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemicals Extracted</content>
+	<content contentuid="211112faag16e8g4399g8efbgc2af8304f248" version="1">Useful chemical elements have been already extracted.</content>
+	
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
 	<content contentuid="88623fb3deaa14de1766304e0911fbc49ae88" version="1">Infusions</content>
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots: [3]</content>

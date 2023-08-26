@@ -19,7 +19,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Magic Item Adept"/> Replaced by Chemical Adept
-                    <attribute id="Spells" type="LSString" value="Shout_ChemicalAdept"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ChemicalAdept;Target_FindMaterial_Resources"/>
                     <attribute id="UUID" type="guid" value="e9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
