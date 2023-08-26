@@ -1,7 +1,7 @@
 new entry "Target_FindMaterial_Resources"
 type "SpellData"
 data "SpellType" "Target"
-data "Icon" "TODO"
+data "Icon" "Skill_ResourceExtracted"
 data "DisplayName" "0111119c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
 data "Description" "011112faag16e8g4399g8efbgc2af8304f248;1"
 data "SpellProperties" "ApplyStatus(SELF, ADEPT_MATERIAL_RESOURCE_STACK_ADD, 100, 0);ApplyStatus(ADEPT_MATERIAL_RESOURCE_LOOTED, 100, -1)"
