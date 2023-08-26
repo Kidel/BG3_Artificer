@@ -246,7 +246,7 @@
                     <attribute id="Name" type="LSString" value="Artillerist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>					
-                    <attribute id="Selectors" type="LSString" value="AddSpells(93ba8d5f-e25a-40d6-ab25-a19af93130c7,Artillerist,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(9354865e-0af9-48c1-94d4-a2760cba91e3,Artillerist,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="0b9c6714-754b-4cb3-bd7b-c0068092b14b"/>
                 </node>
