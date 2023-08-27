@@ -34,8 +34,8 @@ data "StackType" "Ignore"
 data "TickType" "EndTurn"
 data "TickFunctors" "IF(not HasStatus('ARTIFICER_AC_BOOST') and (HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target)))):ApplyStatus(ARTIFICER_AC_BOOST,100,-1);IF(not HasStatus('ARTIFICER_AC_BOOST_2') and (HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target)))):ApplyStatus(ARTIFICER_AC_BOOST_2,100,-1);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_AC_BOOST);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_AC_BOOST_2)"
 data "OnRemoveFunctors" "RemoveStatus(ARTIFICER_AC_BOOST)"
-//data "Properties" "IsHidden"
-//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "Properties" "IsHidden"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 
 new entry "ARTIFICER_AC_BOOST"
