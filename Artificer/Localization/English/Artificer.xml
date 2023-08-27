@@ -62,9 +62,12 @@
 	<content contentuid="011112faag16e8g4399g8efbgc2af8304f248" version="1">Magically extract useful chemical elements to craft consumable items useful in combat with Chemical Adept.  Certain items might require more units to craft.</content>
 	<content contentuid="1111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvaged Chemicals</content>
 	<content contentuid="111112faag16e8g4399g8efbgc2af8304f248" version="1">You have magically extracted useful chemical elements to craft consumable items useful in combat with Chemical Adept.  Certain items might require more units to craft.</content>
-	<content contentuid="9992b93b-721f-4b99-b9b4-05ac25aadb33" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Requires 2 units of Salvaged Chemicals</content>
+	<content contentuid="h27112faag16e8g4399g8efbgc2af8304f248" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Requires 2 units of Salvaged Chemicals</content>
 	<content contentuid="2111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemicals Extracted</content>
 	<content contentuid="211112faag16e8g4399g8efbgc2af8304f248" version="1">Useful chemical elements have been already extracted.</content>
+	<content contentuid="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item</content>
+	<content contentuid="hf3234g16e8321g4399g8efbgc2af8304f248" version="1">You've learned to store spells into scrolls.  The magic lasts until a long rest, and you can create a number of scrolls equal to your Intelligence Modifier.</content>
+	
 	
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
 	<content contentuid="88623fb3deaa14de1766304e0911fbc49ae88" version="1">Infusions</content>
