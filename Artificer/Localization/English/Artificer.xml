@@ -98,7 +98,8 @@
 	<content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfa9" version="1">Infusion: Bag of Holding</content>
 	<content contentuid="777463d7fg404cg4825g8dedgdeebc97b9914" version="1">&lt;LSTag Type="Image" Info="Warning"/&gt; Using it twice will create a brief portal to the Astral Plane</content>
 	<content contentuid="hcc921844g2288g4c8dg9663gc53d74cf0c28" version="1">You learned how to infuse your backpack with magical energy to transform it into a Bag of Holding that allows you to place items in an extradimensional space, greatly increasing the amount of items it can carry and disregarding weight.  The Bag of Holding won't work in the Astral Plane.  Using this infusion twice or placing the Bag of Holding inside another extradimensional space instantly destroys both items and opens a gate to the Astral Plane.  The gate originates where the one item was placed inside the other.  Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane.  The gate then closes.  The gate is one-way only and can't be reopened.</content>
-	
+	<content contentuid="h77821844g2288g4c8dg9663gc53d74456c29" version="1">Repeating Shot</content>
+	<content contentuid="h8358452eg4441g4385gae6fg12d286bfd567" version="1">You can shoot your ranged weapon twice at the same target.</content>
 	<content contentuid="h42f3f78bg17bdg4a51g9e7dg7e26feeef846" version="1">Infusion: Homunculus Servant</content>
 	<content contentuid="h399ba2a0g7772g4072g944dgbcd0e11c885a" version="1">You learn intricate methods for magically creating a special homunculus that serves you.  You determine the homunculus's appearance.  The homunculus is friendly to you and your companions, and it obeys your commands.</content>
 	<content contentuid="77715041bga873g4f1cgb45eg7774bac4a109" version="1">Homunculus Shape: Cat</content>
@@ -134,6 +135,4 @@
 	<content contentuid="hf4498c39g63d5g41e8g8c3dg9e76f58ddd16" version="1">Experimental Elixir Of Transformation Technical Description</content>
 	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Elemental Elixir</content>
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Ring Mail Armour</content>
-
-	
 </contentList>
