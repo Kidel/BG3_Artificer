@@ -9,7 +9,7 @@
                     <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(Skill,SleightOfHand);Proficiency(SimpleWeapons);Proficiency(HandCrossbows);Proficiency(LightCrossbows);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);ActionResource(SpellSlot,2,1)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;AuraOfArtificer_Technical;AuraOfArtificer_Passive_Technical_Self"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;AuraOfArtificer_Technical;AuraOfArtificer_Passive_Technical_Self;AuraOfArtificer_Passive_Technical_Self_2"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 
                     <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(e6496b02-8d9d-4852-a9d1-dc86a2449b31,2);AddSpells(c9808849-c41b-444a-83aa-9748e03e9e16,MagicalTinkering,,,AlwaysPrepared);SelectSpells(b9808849-c41b-444a-83aa-9748e03e9e16,2,0,,,,AlwaysPrepared);AddSpells(ef3aa11f-cc98-412f-a85e-7fae4561a4d4)"/>
 					<attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
@@ -21,7 +21,7 @@
                     <attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;AuraOfArtificer_Technical;AuraOfArtificer_Passive_Technical_Self"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;AuraOfArtificer_Technical;AuraOfArtificer_Passive_Technical_Self;AuraOfArtificer_Passive_Technical_Self_2"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 
                     <attribute id="Selectors" type="LSString" value="AddSpells(c9808849-c41b-444a-83aa-9748e03e9e16,MagicalTinkering,,,AlwaysPrepared);SelectSpells(b9808849-c41b-444a-83aa-9748e03e9e16,2,0,,,,AlwaysPrepared);AddSpells(ef3aa11f-cc98-412f-a85e-7fae4561a4d4)"/>
 					<attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
