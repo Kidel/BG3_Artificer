@@ -9,9 +9,8 @@ data "AuraRadius" "30"
 data "AuraStatuses" "TARGET:IF((Ally()) and (not Tagged('ARTIFICER')) and (not HasPassive('AuraOfArtificer_Technical'))):ApplyStatus(AURA_OF_ARTIFICER_PASSIVE_TECHNICAL,100,-1)"
 data "StatusPropertyFlags" ""
 data "StatusEffect" ""
-
-//data "Properties" "IsHidden"
-//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "Properties" "IsHidden"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 new entry "AURA_OF_ARTIFICER_PASSIVE_TECHNICAL"
 type "StatusData"
@@ -21,9 +20,8 @@ data "Description" "h277777777777777777777777777777777777;1"
 data "Icon" "statIcons_CurseOfRegret"
 data "StackId" "AURA_OF_ARTIFICER_PASSIVE_TECHNICAL"
 data "OnApplyFunctors" "IF(not HasStatus('AURA_OF_ARTIFICER_PASSIVE')):ApplyStatus(AURA_OF_ARTIFICER_PASSIVE,100,-1)"
-
-//data "Properties" "IsHidden"
-//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "Properties" "IsHidden"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 new entry "AURA_OF_ARTIFICER_PASSIVE"
 type "StatusData"
@@ -33,14 +31,12 @@ data "Description" "h377777777777777777777777777777777777;1"
 data "Icon" "PassiveFeature_WarPriest"
 data "StackId" "AURA_OF_ARTIFICER_PASSIVE"
 data "StackType" "Ignore"
-data "TickType" "StartTurn"
-data "TickFunctors" "IF(not HasStatus('ARTIFICER_AC_BOOST') and HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):ApplyStatus(ARTIFICER_AC_BOOST,100,-1);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_AC_BOOST)"
+data "TickType" "EndTurn"
+data "TickFunctors" "IF(not HasStatus('ARTIFICER_AC_BOOST') and (HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target)))):ApplyStatus(ARTIFICER_AC_BOOST,100,-1);IF(not HasStatus('ARTIFICER_AC_BOOST_2') and (HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target)))):ApplyStatus(ARTIFICER_AC_BOOST_2,100,-1);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_AC_BOOST);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_AC_BOOST_2)"
 data "OnRemoveFunctors" "RemoveStatus(ARTIFICER_AC_BOOST)"
-
-// data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
-
 //data "Properties" "IsHidden"
-//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;FreezeDuration"
+//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
 
 new entry "ARTIFICER_AC_BOOST"
 type "StatusData"
@@ -51,8 +47,6 @@ data "Description" "h39958a9dg4375g4b4egb042ga1ad0cfd6907;1"
 data "StackId" "ARTIFICER_AC_BOOST"
 data "Boosts" "AC(1)"
 
-//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
-
 new entry "ARTIFICER_AC_BOOST_2"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -61,8 +55,6 @@ data "DisplayName" "h57787c50g9efdg4c02g928dg551847b111f0;1"
 data "Description" "h39958a9dg4375g4b4egb042ga1ad0cfd6907;1"
 data "StackId" "ARTIFICER_AC_BOOST"
 data "Boosts" "AC(2)"
-
-//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 
 new entry "Experimental_Elixir_Of_Healing"
