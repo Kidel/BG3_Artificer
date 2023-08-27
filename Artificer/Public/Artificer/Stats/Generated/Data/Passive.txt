@@ -46,6 +46,13 @@ data "DisplayName" "11888f820e5gfdf7g4cc2g9309gb90acd0d2f;1"
 data "Description" "22888f820e5gfdf7g4cc2g9309gb90acd0d2f;1"
 data "Boosts" "UnlockInterrupt(Interrupt_FlashOfGenius_SavingThrow);UnlockSpell(Target_FlashOfGenius)"
 
+new entry "Artificer_RepeatingShot_Passive"
+type "PassiveData"
+data "Icon" "Passive_RepeatingShot"
+data "DisplayName" "TODO;1"
+data "Description" "TODO;1"
+data "Boosts" "UnlockSpell(Projectile_RepeatingShot)"
+
 
 new entry "Artificer_ArcaneJolt_OnAttack_Passive"
 type "PassiveData"
