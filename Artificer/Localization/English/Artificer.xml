@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
+	<content contentuid="h777777777777777777777777777777777777" version="1">Debug</content>
+	<content contentuid="h177777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer</content>
+	<content contentuid="h277777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer - Passive (Technical)</content>
+	<content contentuid="h377777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer - Passive</content>
+	<content contentuid="h477777777777777777777777777777777777" version="1">Debug: Passive Aura of Artificer - Technical</content>
+	<content contentuid="h577777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck</content>
+	<content contentuid="h677777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck L10</content>
+
 	<content contentuid="66523fb3deaa14de1766304e0911fbc49ae66" version="1">Artificer</content>
 	<content contentuid="77523fb3deaa14de1766304e0911fbc49ae77" version="1">Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects.  They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.  You can find everything you need to play one of these inventors in the next few sections.</content>
 	

@@ -1,41 +1,44 @@
 new entry "AURA_OF_ARTIFICER"
 type "StatusData"
 data "StatusType" "BOOST"
-data "DisplayName" "h5a7885bcg7a17g4e59gb16dgc9a329a9dc2d;1"
-data "Description" "hfd6a82b5g9da0g4dcfga8d9gee67398a6e2a;3"
+data "DisplayName" "h177777777777777777777777777777777777;1"
+data "Description" "h177777777777777777777777777777777777;3"
 data "Icon" "statIcons_SussurBloom"
 data "StackId" "AURA_OF_ARTIFICER_PERMANENT_BUFF_STACK"
 data "AuraRadius" "30"
 data "AuraStatuses" "TARGET:IF((Ally()) and (not HasPassive('AuraOfArtificer_Technical'))):ApplyStatus(AURA_OF_ARTIFICER_PASSIVE_TECHNICAL,100,-1)"
 data "StatusPropertyFlags" ""
 data "StatusEffect" ""
-//data "Properties" "IsHidden" // comment for debug
-//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator" // comment for debug
+
+//data "Properties" "IsHidden"
+//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 new entry "AURA_OF_ARTIFICER_PASSIVE_TECHNICAL"
 type "StatusData"
 data "StatusType" "BOOST"
-data "DisplayName" "TODO;1"
-data "Description" "TODO;1"
+data "DisplayName" "h277777777777777777777777777777777777;1"
+data "Description" "h277777777777777777777777777777777777;1"
 data "Icon" "statIcons_CurseOfRegret"
 data "StackId" "AURA_OF_ARTIFICER_PASSIVE_TECHNICAL"
 data "StackType" "Additive"
 data "OnApplyFunctors" "ApplyStatus(AURA_OF_ARTIFICER_PASSIVE,100,-1)"
-//data "Properties" "IsHidden" // comment for debug
-//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator" // comment for debug
+
+//data "Properties" "IsHidden"
+//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 new entry "AURA_OF_ARTIFICER_PASSIVE"
 type "StatusData"
 data "StatusType" "BOOST"
-data "DisplayName" "TODO;1"
-data "Description" "TODO;1"
+data "DisplayName" "h377777777777777777777777777777777777;1"
+data "Description" "h377777777777777777777777777777777777;1"
 data "Icon" "PassiveFeature_WarPriest"
 data "StackId" "AURA_OF_ARTIFICER_PASSIVE"
 data "StackType" "Ignore"
-data "Passives" "AuraOfArtificer_EnhancedDefense_Check" // add passives here
+data "Passives" "AuraOfArtificer_EnhancedDefense_Check;AuraOfArtificer_EnhancedDefense_Check_10"
 data "StatusPropertyFlags" "FreezeDuration"
-//data "Properties" "IsHidden" // comment for debug
-//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;FreezeDuration" // comment for debug
+
+//data "Properties" "IsHidden"
+//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;FreezeDuration"
 
 new entry "ARTIFICER_AC_BOOST"
 type "StatusData"
@@ -45,7 +48,8 @@ data "DisplayName" "h4b087c50g9efdg4c02g928dg551847b111f0;1"
 data "Description" "h39958a9dg4375g4b4egb042ga1ad0cfd6907;1"
 data "StackId" "ARTIFICER_AC_BOOST"
 data "Boosts" "AC(1)"
-data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
+//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 new entry "ARTIFICER_AC_BOOST_2"
 type "StatusData"
@@ -55,7 +59,8 @@ data "DisplayName" "h4b087c50g9efdg4c02g928dg551847b111f0;1"
 data "Description" "h39958a9dg4375g4b4egb042ga1ad0cfd6907;1"
 data "StackId" "ARTIFICER_AC_BOOST"
 data "Boosts" "AC(2)"
-data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
+//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 
 new entry "Experimental_Elixir_Of_Healing"
