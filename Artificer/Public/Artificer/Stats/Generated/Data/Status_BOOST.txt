@@ -6,7 +6,7 @@ data "Description" "h177777777777777777777777777777777777;3"
 data "Icon" "statIcons_SussurBloom"
 data "StackId" "AURA_OF_ARTIFICER_PERMANENT_BUFF_STACK"
 data "AuraRadius" "30"
-data "AuraStatuses" "TARGET:IF((Ally()) and (not HasPassive('AuraOfArtificer_Technical'))):ApplyStatus(AURA_OF_ARTIFICER_PASSIVE_TECHNICAL,100,-1)"
+data "AuraStatuses" "TARGET:IF((Ally()) and not Tagged('ARTIFICER') and (not HasPassive('AuraOfArtificer_Technical'))):ApplyStatus(AURA_OF_ARTIFICER_PASSIVE_TECHNICAL,100,-1)"
 data "StatusPropertyFlags" ""
 data "StatusEffect" ""
 
