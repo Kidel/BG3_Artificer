@@ -21,22 +21,42 @@ data "StatsFunctors" "IF(not HasStatus('AURA_OF_ARTIFICER')):ApplyStatus(SELF,AU
 //data "Properties" "IsHidden"
 
 
+new entry "AuraOfArtificer_EnhancedDefense_Check_EquipChange"
+type "PassiveData"
+data "DisplayName" "h577777777777777777777777777777777777;1"
+data "Description" "h577777777777777777777777777777777777;1"
+data "Icon" "Skill_Infusion_EnhancedDefense"
+data "StatsFunctorContext" "OnEquip;OnUnequip;OnInventoryChanged"
+data "StatsFunctors" "IF(not HasStatus('ARTIFICER_AC_BOOST') and HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):ApplyStatus(ARTIFICER_AC_BOOST,100,-1);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_AC_BOOST)"
+//data "Properties" "IsHidden"
+
+new entry "AuraOfArtificer_EnhancedDefense_Check_SelfOnCast"
+type "PassiveData"
+data "DisplayName" "h577777777777777777777777777777777777;1"
+data "Description" "h577777777777777777777777777777777777;1"
+data "Icon" "Skill_Infusion_EnhancedDefense"
+data "StatsFunctorContext" "OnCast"
+data "StatsFunctors" "IF(Self() and not HasStatus('ARTIFICER_AC_BOOST', context.Source) and HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Source)) or HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Source))):ApplyStatus(SELF, ARTIFICER_AC_BOOST,100,-1)"
+//data "Properties" "IsHidden"
+
 new entry "AuraOfArtificer_EnhancedDefense_Check"
 type "PassiveData"
 data "DisplayName" "h577777777777777777777777777777777777;1"
 data "Description" "h577777777777777777777777777777777777;1"
 data "Icon" "Skill_Infusion_EnhancedDefense"
-data "StatsFunctorContext" "OnApply;OnRemove;OnEquip;OnUnequip;OnCast;OnDamaged;OnHealed;OnAttacked;OnHeal;OnEntityDrop"
-data "StatsFunctors" "IF(HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):ApplyStatus(SELF,ARTIFICER_AC_BOOST,100,-1);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(SELF,ARTIFICER_AC_BOOST)"
+data "StatsFunctorContext" "OnCast"
+data "StatsFunctors" "IF(not Self() and not HasStatus('ARTIFICER_AC_BOOST', context.Target) and HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):ApplyStatus(ARTIFICER_AC_BOOST,100,-1)"
 //data "Properties" "IsHidden"
+
+
 
 new entry "AuraOfArtificer_EnhancedDefense_Check_10"
 type "PassiveData"
 data "DisplayName" "h677777777777777777777777777777777777;1"
 data "Description" "h677777777777777777777777777777777777;1"
 data "Icon" "Skill_Infusion_EnhancedDefense"
-data "StatsFunctorContext" "OnApply;OnRemove;OnEquip;OnUnequip;OnCast;OnDamaged;OnHealed;OnAttacked;OnHeal;OnEntityDrop"
-data "StatsFunctors" "IF(HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):ApplyStatus(SELF,ARTIFICER_AC_BOOST_2,100,-1);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(SELF,ARTIFICER_AC_BOOST_2)"
+data "StatsFunctorContext" "OnEquip;OnUnequip;OnMove;OnCombatEnded;OnTurn"
+data "StatsFunctors" "IF(not not HasStatus('ARTIFICER_AC_BOOST_2') and HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):ApplyStatus(ARTIFICER_AC_BOOST_2,100,-1);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_AC_BOOST_2)"
 //data "Properties" "IsHidden"
 
 
