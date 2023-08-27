@@ -20,6 +20,17 @@ data "StatsFunctors" "IF(not HasStatus('AURA_OF_ARTIFICER')):ApplyStatus(SELF,AU
 
 //data "Properties" "IsHidden"
 
+new entry "AuraOfArtificer_Passive_Technical_Self"
+type "PassiveData"
+data "DisplayName" "h877777777777777777777777777777777777;1"
+data "Description" "h877777777777777777777777777777777777;1"
+data "Icon" "Spell_Conjuration_CallLightning"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "Self() and not HasStatus('AURA_OF_ARTIFICER_PASSIVE')"
+data "StatsFunctors" "IF(not HasStatus('AURA_OF_ARTIFICER_PASSIVE')):ApplyStatus(SELF,AURA_OF_ARTIFICER_PASSIVE,100,-1)"
+
+//data "Properties" "IsHidden"
+
 
 new entry "AuraOfArtificer_EnhancedDefense_Check_EquipChange"
 type "PassiveData"
@@ -39,7 +50,7 @@ data "StatsFunctorContext" "OnCast"
 data "StatsFunctors" "IF(Self() and not HasStatus('ARTIFICER_AC_BOOST', context.Source) and HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Source)) or HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Source))):ApplyStatus(SELF, ARTIFICER_AC_BOOST,100,-1)"
 //data "Properties" "IsHidden"
 
-new entry "AuraOfArtificer_EnhancedDefense_Check"
+new entry "AuraOfArtificer_EnhancedDefense_Check_xxx"
 type "PassiveData"
 data "DisplayName" "h577777777777777777777777777777777777;1"
 data "Description" "h577777777777777777777777777777777777;1"
