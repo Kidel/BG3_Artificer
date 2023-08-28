@@ -125,7 +125,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 9"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Wall_WallOfFire"/> TODO create Wind Wall spell to replace WallOfFire
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Zone_GustOfWind"/> TODO create Wind Wall spell to replace Gust of Wind
                     <attribute id="UUID" type="guid" value="9354865e-0af9-48c1-94d4-a2760cba91e3"/>
                 </node>
 
