@@ -89,7 +89,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(InfusionSlots,1,0);"/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/> TODO tool expertise
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(62345678-c41b-444a-83aa-9748e03e9e16,2,0,Infusion,,,AlwaysPrepared);SelectSkillsExpertise(7774ebd6-3725-4b90-bb5c-2b647d41615d,1,true)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
@@ -140,7 +140,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3)"/>
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="SpellStoring_Item_Passive_1;SpellStoring_Item_Passive_2;SpellStoring_Item_Passive_3;SpellStoring_Item_Passive_4;SpellStoring_Item_Passive_5;SpellStoring_Item_Passive_6"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(f9808849-c41b-444a-83aa-9748e03e9e16,SpellStoring_Item,,,AlwaysPrepared);SelectSpells(3f3aa11f-cc98-412f-a85e-7fae4561a4d4,1,0)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>

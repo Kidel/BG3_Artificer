@@ -67,6 +67,7 @@
 	<content contentuid="211112faag16e8g4399g8efbgc2af8304f248" version="1">Useful chemical elements have been already extracted.</content>
 	<content contentuid="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item</content>
 	<content contentuid="hf3234g16e8321g4399g8efbgc2af8304f248" version="1">You've learned to store spells into scrolls.  The magic lasts until a long rest, and you can create a number of scrolls equal to your Intelligence Modifier.</content>
+	<content contentuid="h863423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item Charges</content>
 	
 	
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
@@ -78,6 +79,7 @@
     <content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">You've gained the ability to come up with solutions under pressure.  When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add their Proficiency Bonus to the roll.</content>
+
 
 	<content contentuid="h9efaa994g1470g4e9fgb79eg5b65ca0eabab" version="1">The Right Tool for the Job</content> Right Tool for the Job - Thieve's Tools - Display Name
 	<content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">You've learned how to produce exactly the tool you need:  You can magically create thieves Tools, a trap disarmimg kit, or a shovel.</content> 
