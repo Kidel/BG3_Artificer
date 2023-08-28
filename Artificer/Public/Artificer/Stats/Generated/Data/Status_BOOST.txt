@@ -484,7 +484,6 @@ data "Icon" "Passive_BattleReady"
 data "Boosts" "WeaponAttackRollAbilityOverride(Intelligence)"
 
 
-
 new entry "SPELLSTORING_ITEM_RESOURCE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -499,7 +498,6 @@ data "Passives" ""
 data "StatusPropertyFlags" "FreezeDuration;DisableCombatlog;DisableOverhead"
 data "StatusGroups" "SG_RemoveOnRespec"
 
-
 new entry "SPELLSTORING_ITEM_RESOURCE_REMOVE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -509,8 +507,8 @@ data "Icon" "Passive_SpellStoring_Item"
 data "StackId" "SPELLSTORING_ITEM_RESOURCE_REMOVE"
 data "OnApplyFunctors" "ApplyStatus(SPELLSTORING_ITEM_RESOURCE,100,max(0,Target.SPELLSTORING_ITEM_RESOURCE.Duration-1))"
 data "TickType" "StartTurn"
-//data "Properties" "IsHidden"
-//data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "Properties" "IsHidden"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 
 
