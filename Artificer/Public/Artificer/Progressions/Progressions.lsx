@@ -65,7 +65,7 @@
                     </children>
                 </node>
                 <node id="Progression">
-		    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
                     <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
@@ -106,7 +106,7 @@
                     <attribute id="UUID" type="guid" value="71d67b34-19af-438f-8e9f-dabc19beed3a"/>
                 </node>
                 <node id="Progression">
-	    	    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
@@ -147,7 +147,7 @@
                     <attribute id="UUID" type="guid" value="75d67b34-19af-438f-8e9f-dabc19beed3a"/>
                 </node>
                 <node id="Progression">
-		    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
