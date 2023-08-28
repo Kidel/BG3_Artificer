@@ -9,6 +9,7 @@ data "AuraRadius" "30"
 data "AuraStatuses" "TARGET:IF((Ally()) and (not Tagged('ARTIFICER')) and (not HasPassive('AuraOfArtificer_Technical'))):ApplyStatus(AURA_OF_ARTIFICER_PASSIVE_TECHNICAL,100,-1)"
 data "StatusPropertyFlags" ""
 data "StatusEffect" ""
+data "SoundLoop" ""
 data "Properties" "IsHidden"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
@@ -20,6 +21,7 @@ data "Description" "h277777777777777777777777777777777777;1"
 data "Icon" "statIcons_CurseOfRegret"
 data "StackId" "AURA_OF_ARTIFICER_PASSIVE_TECHNICAL"
 data "OnApplyFunctors" "IF(not HasStatus('AURA_OF_ARTIFICER_PASSIVE')):ApplyStatus(AURA_OF_ARTIFICER_PASSIVE,100,-1);IF(not HasStatus('AURA_OF_ARTIFICER_PASSIVE_2')):ApplyStatus(AURA_OF_ARTIFICER_PASSIVE_2,100,-1);IF(not HasStatus('AURA_OF_ARTIFICER_PASSIVE_3')):ApplyStatus(AURA_OF_ARTIFICER_PASSIVE_3,100,-1)"
+data "SoundLoop" ""
 data "Properties" "IsHidden"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
@@ -34,6 +36,7 @@ data "StackType" "Ignore"
 data "TickType" "EndTurn"
 data "TickFunctors" "IF(not HasStatus('ARTIFICER_AC_BOOST') and (HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target)))):ApplyStatus(ARTIFICER_AC_BOOST,100,-1);IF(not HasStatus('ARTIFICER_AC_BOOST_2') and (HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) or HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target)))):ApplyStatus(ARTIFICER_AC_BOOST_2,100,-1);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_AC_BOOST);IF(not HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)) and not HasStatus('INFUSION_ENHANCED_DEFENSE_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_AC_BOOST_2)"
 data "OnRemoveFunctors" "RemoveStatus(ARTIFICER_AC_BOOST);RemoveStatus(ARTIFICER_AC_BOOST_2)"
+data "SoundLoop" ""
 data "Properties" "IsHidden"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
@@ -48,6 +51,7 @@ data "StackType" "Ignore"
 data "TickType" "EndTurn"
 data "TickFunctors" "IF(not HasStatus('UNARMEDATTACK_OVERRIDE_REPEATINGSHOT') and (HasStatus('INFUSION_REPEATING_SHOT', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, context.Target)))):ApplyStatus(UNARMEDATTACK_OVERRIDE_REPEATINGSHOT,100,-1);IF(not HasStatus('INFUSION_REPEATING_SHOT', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, context.Target))):RemoveStatus(UNARMEDATTACK_OVERRIDE_REPEATINGSHOT)"
 data "OnRemoveFunctors" "RemoveStatus(UNARMEDATTACK_OVERRIDE_REPEATINGSHOT)"
+data "SoundLoop" ""
 data "Properties" "IsHidden"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
@@ -60,7 +64,7 @@ data "Icon" "PassiveFeature_WarPriest"
 data "StackId" "AURA_OF_ARTIFICER_PASSIVE_3"
 data "StackType" "Ignore"
 data "TickType" "EndTurn"
-data "TickFunctors" "IF((HasStatus('INFUSION_RESISTANT_ARMOR_ACID', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_ACID,100,-1);IF((HasStatus('INFUSION_RESISTANT_ARMOR_COLD', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_COLD,100,-1);IF((HasStatus('INFUSION_RESISTANT_ARMOR_FIRE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_FIRE,100,-1);IF((HasStatus('INFUSION_RESISTANT_ARMOR_FORCE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_FORCE,100,-1);IF((HasStatus('INFUSION_RESISTANT_ARMOR_LIGHTNING', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_LIGHTNING,100,-1);IF((HasStatus('INFUSION_RESISTANT_ARMOR_NECROTIC', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_NECROTIC,100,-1);IF((HasStatus('INFUSION_RESISTANT_ARMOR_POISON', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_POISON,100,-1);IF((HasStatus('INFUSION_RESISTANT_ARMOR_PSYCHIC', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_PSYCHIC,100,-1);IF((HasStatus('INFUSION_RESISTANT_ARMOR_RADIANT', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_RADIANT,100,-1);IF((HasStatus('INFUSION_RESISTANT_ARMOR_THUNDER', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_THUNDER,100,-1);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_ACID', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_ACID));IF(not HasStatus('INFUSION_RESISTANT_ARMOR_COLD', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_COLD));IF(not HasStatus('INFUSION_RESISTANT_ARMOR_FIRE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_FIRE));IF(not HasStatus('INFUSION_RESISTANT_ARMOR_FORCE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_FORCE));IF(not HasStatus('INFUSION_RESISTANT_ARMOR_LIGHTNING', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_LIGHTNING));IF(not HasStatus('INFUSION_RESISTANT_ARMOR_NECROTIC', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_NECROTIC));IF(not HasStatus('INFUSION_RESISTANT_ARMOR_POISON', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_POISON));IF(not HasStatus('INFUSION_RESISTANT_ARMOR_PSYCHIC', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_PSYCHIC));IF(not HasStatus('INFUSION_RESISTANT_ARMOR_RADIANT', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_RADIANT));IF(not HasStatus('INFUSION_RESISTANT_ARMOR_THUNDER', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_THUNDER))"
+data "TickFunctors" "IF((not HasStatus('ARTIFICER_RESISTANCE_BOOST_ACID')) and (HasStatus('INFUSION_RESISTANT_ARMOR_ACID', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_ACID,100,-1);IF((not HasStatus('ARTIFICER_RESISTANCE_BOOST_THUNDER')) and (HasStatus('INFUSION_RESISTANT_ARMOR_THUNDER', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_THUNDER,100,-1);IF((not HasStatus('ARTIFICER_RESISTANCE_BOOST_NECROTIC')) and (HasStatus('INFUSION_RESISTANT_ARMOR_NECROTIC', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_NECROTIC,100,-1);IF((not HasStatus('ARTIFICER_RESISTANCE_BOOST_FIRE')) and (HasStatus('INFUSION_RESISTANT_ARMOR_FIRE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_FIRE,100,-1);IF((not HasStatus('ARTIFICER_RESISTANCE_BOOST_LIGHTNING')) and (HasStatus('INFUSION_RESISTANT_ARMOR_LIGHTNING', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_LIGHTNING,100,-1);IF((not HasStatus('ARTIFICER_RESISTANCE_BOOST_COLD')) and (HasStatus('INFUSION_RESISTANT_ARMOR_COLD', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_COLD,100,-1);IF((not HasStatus('ARTIFICER_RESISTANCE_BOOST_PSYCHIC')) and (HasStatus('INFUSION_RESISTANT_ARMOR_PSYCHIC', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_PSYCHIC,100,-1);IF((not HasStatus('ARTIFICER_RESISTANCE_BOOST_POISON')) and (HasStatus('INFUSION_RESISTANT_ARMOR_POISON', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_POISON,100,-1);IF((not HasStatus('ARTIFICER_RESISTANCE_BOOST_FORCE')) and (HasStatus('INFUSION_RESISTANT_ARMOR_FORCE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_FORCE,100,-1);IF((not HasStatus('ARTIFICER_RESISTANCE_BOOST_RADIANT')) and (HasStatus('INFUSION_RESISTANT_ARMOR_RADIANT', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target)))):ApplyStatus(ARTIFICER_RESISTANCE_BOOST_RADIANT,100,-1);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_ACID', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_ACID);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_THUNDER', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_THUNDER);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_NECROTIC', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_NECROTIC);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_FIRE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_FIRE);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_LIGHTNING', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_LIGHTNING);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_COLD', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_COLD);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_PSYCHIC', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_PSYCHIC);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_POISON', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_POISON);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_FORCE', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_FORCE);IF(not HasStatus('INFUSION_RESISTANT_ARMOR_RADIANT', GetItemInEquipmentSlot(EquipmentSlot.Breast, context.Target))):RemoveStatus(ARTIFICER_RESISTANCE_BOOST_RADIANT)"
 data "OnRemoveFunctors" "RemoveStatus(ARTIFICER_RESISTANCE_BOOST_ACID);RemoveStatus(ARTIFICER_RESISTANCE_BOOST_COLD);RemoveStatus(ARTIFICER_RESISTANCE_BOOST_FIRE);RemoveStatus(ARTIFICER_RESISTANCE_BOOST_FORCE);RemoveStatus(ARTIFICER_RESISTANCE_BOOST_LIGHTNING);RemoveStatus(ARTIFICER_RESISTANCE_BOOST_NECROTIC);RemoveStatus(ARTIFICER_RESISTANCE_BOOST_POISON);RemoveStatus(ARTIFICER_RESISTANCE_BOOST_PSYCHIC);RemoveStatus(ARTIFICER_RESISTANCE_BOOST_RADIANT);RemoveStatus(ARTIFICER_RESISTANCE_BOOST_THUNDER)"
 data "Properties" "IsHidden"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
@@ -73,6 +77,7 @@ data "DisplayName" "h57787c50g9efdg4c02g928dg551847b111f0;1"
 data "Description" "h39958a9dg4375g4b4egb042ga1ad0cfd6907;1"
 data "StackId" "ARTIFICER_AC_BOOST"
 data "Boosts" "AC(1)"
+data "SoundLoop" ""
 
 new entry "ARTIFICER_AC_BOOST_2"
 type "StatusData"
@@ -82,6 +87,7 @@ data "DisplayName" "h57787c50g9efdg4c02g928dg551847b111f0;1"
 data "Description" "h39958a9dg4375g4b4egb042ga1ad0cfd6907;1"
 data "StackId" "ARTIFICER_AC_BOOST"
 data "Boosts" "AC(2)"
+data "SoundLoop" ""
 
 
 new entry "ARTIFICER_RESISTANCE_BOOST_ACID"
@@ -397,6 +403,7 @@ data "Boosts" "Tag(INFUSION_ENHANCED_DEFENSE)"
 data "BoostConditions" "WearingArmor(context.Source) or HasShieldEquipped(context.Source)"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "a522953e-74e1-447e-88c8-323d549c801f"
+data "SoundLoop" ""
 
 new entry "INFUSION_ENHANCED_DEFENSE_L10"
 type "StatusData"
@@ -410,6 +417,7 @@ data "Boosts" "Tag(INFUSION_ENHANCED_DEFENSE_L10)"
 data "BoostConditions" "WearingArmor(context.Source) or HasShieldEquipped(context.Source)"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "a522953e-74e1-447e-88c8-323d549c801f"
+data "SoundLoop" ""
 
 new entry "INFUSION_ENHANCED_WEAPON"
 type "StatusData"
@@ -418,7 +426,7 @@ data "DisplayName" "h74c2b6ddg453cg4554ga247g3c7e9847b8bd;1"
 data "Description" "haaeb23b5g8c4eg421dgba6cg788a69febd7e;1"
 data "DescriptionParams" "1"
 data "Icon" "Skill_Infusion_EnhancedWeapon"
-data "SoundLoop" "Spell_Status_MagicWeapon_MO"
+data "SoundLoop" ""
 data "SoundStop" "Spell_Status_MagicWeapon_MO_Stop"
 data "StackId" "INFUSION_ENHANCED_WEAPON"
 data "StackPriority" "0"
@@ -434,7 +442,7 @@ data "DisplayName" "h74c2b6ddg453cg4554ga247g3c7e9847b8bd;1"
 data "Description" "hc1c5fa118a71741abbd83b33be3817a64ccc;1" 
 data "DescriptionParams" "1"
 data "Icon" "Skill_Infusion_EnhancedWeapon"
-data "SoundLoop" "Spell_Status_MagicWeapon_MO"
+data "SoundLoop" ""
 data "SoundStop" "Spell_Status_MagicWeapon_MO_Stop"
 data "StackId" "INFUSION_ENHANCED_WEAPON"
 data "StackPriority" "0"
@@ -450,7 +458,7 @@ data "DisplayName" "h35a784f2gfef9g4d32g909dgb2596a0f2baa;1"
 data "Description" "had7f84f2gfef9g4d32g909dgb2596a0f2ccc;1"
 data "DescriptionParams" "1"
 data "Icon" "Skill_Infusion_RepeatingShot"
-data "SoundLoop" "Spell_Status_MagicWeapon_MO"
+data "SoundLoop" ""
 data "SoundStop" "Spell_Status_MagicWeapon_MO_Stop"
 data "StackId" "INFUSION_REPEATING_SHOT"
 data "StackPriority" "0"
@@ -466,7 +474,7 @@ data "DisplayName" "h5660aa44gdd6dg475cgb896g1ee6e25f8066;1"
 data "Description" "h9960aa4499d6dg477cgb896g1ee6e25f8997;1"
 data "DescriptionParams" "1"
 data "Icon" "Skill_Infusion_ReturningWeapon"
-data "SoundLoop" "Spell_Status_MagicWeapon_MO"
+data "SoundLoop" ""
 data "SoundStop" "Spell_Status_MagicWeapon_MO_Stop"
 data "StackId" "INFUSION_RETURNING_WEAPON"
 data "StackPriority" "0"
@@ -483,6 +491,7 @@ data "Description" "h60cef40bg0029g48d8ga8eeg9c64c231b614;1"
 data "Icon" "Skill_Infusion_EnhancedArcaneFocus"
 data "StackId" "INFUSION_ENHANCED_ARCANE_FOCUS"
 data "Boosts" "RollBonus(MeleeSpellAttack,1);RollBonus(RangedSpellAttack,1);SpellSaveDC(1)"
+data "SoundLoop" ""
 
 new entry "INFUSION_ENHANCED_ARCANE_FOCUS_L10"
 type "StatusData"
@@ -492,6 +501,7 @@ data "Description" "h60cef40bg0029g48d8ga8eeg9c64c231b614;1"
 data "Icon" "Skill_Infusion_EnhancedArcaneFocus"
 data "StackId" "INFUSION_ENHANCED_ARCANE_FOCUS_L10"
 data "Boosts" "RollBonus(MeleeSpellAttack,2);RollBonus(RangedSpellAttack,2);SpellSaveDC(2)"
+data "SoundLoop" ""
 
 new entry "INFUSION_RADIANT_WEAPON"
 type "StatusData"
@@ -500,7 +510,7 @@ data "DisplayName" "h74c2b6ddg453cg4554ga247g3c7e9847b8bd;1"
 data "Description" "haaeb23b5g8c4eg421dgba6cg788a69febd7e;1"
 data "DescriptionParams" "1"
 data "Icon" "Skill_Infusion_RadiantWeapon"
-data "SoundLoop" "Spell_Status_MagicWeapon_MO"
+data "SoundLoop" ""
 data "SoundStop" "Spell_Status_MagicWeapon_MO_Stop"
 data "StackId" "INFUSION_ENHANCED_WEAPON"
 data "StackPriority" "0"
@@ -519,6 +529,7 @@ data "StackId" "INFUSION_BAG_OF_HOLDING"
 data "Boosts" "IF(not HasStatus('ASTRAL_PLANE',context.Target) and not HasStatus('CRE_ASTRALPRISON_GRAVITY', context.Target)):CarryCapacityMultiplier(99)"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "Passives" "AstralPlane_BagOfHolding_Check"
+data "SoundLoop" ""
 
 new entry "INFUSION_DOUBLE_BAG_OF_HOLDING"
 type "StatusData"
@@ -536,6 +547,7 @@ type "StatusData"
 data "StatusType" "BOOST"
 using "UNARMEDATTACK_OVERRIDE_WOLF"
 data "DisplayName" "77062bb49gc270g4353gb6ebgf4c2248ea879;1"
+data "SoundLoop" ""
 data "Boosts" "AttackSpellOverride(Target_Bite_SteelDefender, Target_UnarmedAttack);AttackSpellOverride(Target_Bite_SteelDefender, Target_MainHandAttack)"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
@@ -750,30 +762,6 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 new entry "FAKE_METAL_SKIN"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -782,10 +770,11 @@ data "DisplayName" "hbb90b1b8g1619g4071gafbcg81eaf57810a6;2"
 data "Description" "haf0ed4aega409g43cbga8efgda59a33d0bed;1"
 data "Icon" "GenericIcon_Intent_Buff"
 data "StackId" "FAKE_METALLIC"
-data "Boosts" ""
+data "Boosts" "Tag(ACT2_SHADOW_CURSE_IMMUNE);Tag(CONSTRUCT)"
 data "ApplyEffect" "0c3f3375-681f-4253-9432-24450007e464"
 data "StatusEffect" "698752b6-55fb-4448-8bb6-f7fdb510ac93"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+data "SoundLoop" ""
 
 new entry "FAKE_MAG_CHARGED_LIGHTNING"
 type "StatusData"
@@ -799,5 +788,6 @@ data "Boosts" ""
 data "ApplyEffect" "a9c27d75-ec3d-445f-b055-1b37832b17fc"
 data "StatusEffect" "f1f32058-58e9-4b39-98e4-eef5fa389a25"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+data "SoundLoop" ""
 
 
