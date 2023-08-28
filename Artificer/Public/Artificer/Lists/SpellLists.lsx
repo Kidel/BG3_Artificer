@@ -33,6 +33,13 @@
                     <attribute id="Spells" type="LSString" value="Shout_SpellStoring_Item"/>
                     <attribute id="UUID" type="guid" value="f9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Flash of Genius"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlashOfGenius"/>
+                    <attribute id="UUID" type="guid" value="f7778849-c41b-444a-83aa-9777e03e9e16"/>
+                </node>
+
+                
 
                 Infusions
 
