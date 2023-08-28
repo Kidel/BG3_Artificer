@@ -13,3 +13,4 @@ Some of the core functionalities of Artificer are already in the game available 
 - Magic Item Adept: not really interesting as described in the manual, we decided to take Chemical Mastery (more on that later) from Alchemist and make a weaker version for base Artificer with Chemical Adept. This one was super fun to make and use. Allows the Artificer to magically extract chemicals from medium size objects and bodies. Extracted camicals can be used to craft base ingredients for potions and explosives.
 - Chemical Mastery: now tied to the Chemical Adept skill of the base class, allows to create rare ingredients for the in-game Alchemy system.
 - Battle Smith and Artillerist pets: stronger overall and scale better with the base class.
+- Focus-related abilities in general: BG3 has no spellcasting focus, so we made those as a buff. 
