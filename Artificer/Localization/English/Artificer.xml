@@ -140,7 +140,6 @@
 	<content contentuid="hc5e87b2a8f9bc4046902b677a3a3143a8ccc" version="1">While wearing this armor, a creature has resistance to radiant damage.</content>
 	<content contentuid="hc328b59e9ad994d0fa282fc6f7d8fa65accc" version="1">While wearing this armor, a creature has resistance to thunder damage.</content>
 
-
 	<content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfa9" version="1">Infusion: Bag of Holding</content>
 	<content contentuid="777463d7fg404cg4825g8dedgdeebc97b9914" version="1">&lt;LSTag Type="Image" Info="Warning"/&gt; Using it twice will create a brief portal to the Astral Plane</content>
 	<content contentuid="hcc921844g2288g4c8dg9663gc53d74cf0c28" version="1">You learned how to infuse your backpack with magical energy to transform it into a Bag of Holding that allows you to place items in an extradimensional space, greatly increasing the amount of items it can carry and disregarding weight.  The Bag of Holding won't work in the Astral Plane.  Using this infusion twice or placing the Bag of Holding inside another extradimensional space instantly destroys both items and opens a gate to the Astral Plane.  The gate originates where the one item was placed inside the other.  Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane.  The gate then closes.  The gate is one-way only and can't be reopened.</content>
@@ -181,4 +180,9 @@
 	<content contentuid="hf4498c39g63d5g41e8g8c3dg9e76f58ddd16" version="1">Experimental Elixir Of Transformation Technical Description</content>
 	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Elemental Elixir</content>
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Sturdy Armour</content>
+
+	<content contentuid="h777cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Circlet of Mind Reading</content>
+	<content contentuid="h777550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">This magic circlet enables its wearer to read minds.  Unlocks Detect Thoughts and Counterspell.</content>
+	<content contentuid="h888cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Flying Boots</content>
+	<content contentuid="h888550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">These boots allow their wearer to fly.</content>
 </contentList>
