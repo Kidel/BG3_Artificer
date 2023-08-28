@@ -228,7 +228,7 @@ data "Requirements" "!Combat"
 new entry "Infusion_Homunculus"
 type "SpellData"
 data "SpellType" "Target"
-data "Level" "1"
+data "Level" "0"
 data "SpellSchool" "Conjuration"
 data "ContainerSpells" "Infusion_Homunculus_Cat;Infusion_Homunculus_Crab;Infusion_Homunculus_Frog;Infusion_Homunculus_Rat;Infusion_Homunculus_Raven;Infusion_Homunculus_Spider"
 data "Cooldown" "OncePerShortRest"
@@ -342,7 +342,6 @@ data "Description" "777f10276g7415g42b3g9b15g056514104f5f;3"
 data "CastSound" "Spell_Cast_Summon_FindFamiliar_L1to3"
 data "TargetSound" "Spell_Impact_Summon_FindFamiliar_L1to3"
 data "PrepareEffect" "9a8d6d5e-8b27-48dd-9c8f-72fa9ef07e28"
-
 
 
 new entry "Target_Infusion_ResistantArmor"
