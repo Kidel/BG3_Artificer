@@ -41,8 +41,8 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="ProgressionType" type="uint8" value="0"/>
-					<attribute id="Selectors" type="LSString" value="AddSpells(4cad4983-86fd-4855-8fb5-68d2b8d84b9c,,,,AlwaysPrepared)"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> TODO remove f9808849-c41b-444a-83aa-9748e03e9e16
+					<attribute id="Selectors" type="LSString" value="AddSpells(f9808849-c41b-444a-83aa-9748e03e9e16,SpellStoring_Item,,,AlwaysPrepared);AddSpells(4cad4983-86fd-4855-8fb5-68d2b8d84b9c,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="6dd67b34-19af-438f-8e9f-dabc19beed3a"/>
                     <children>
