@@ -61,6 +61,39 @@
                 </node>
 
                 <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9efaa994g1470g4e9fgb79eg5b65ca0eabab" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="TheRightToolForTheJob"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ProgressionTableId" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="11111111-8425-472b-9488-9c385d580bf4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf3234g16e8321g4399g8efbgc2af8304f248" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="SpellStoring_Item"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ProgressionTableId" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="22111111-8425-472b-9488-9c385d580bf4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="456741faag16e8g4399g8efbgc2af8304f248" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="ChemicalAdept"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ProgressionTableId" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="33111111-8425-472b-9488-9c385d580bf4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="FlashOfGenius"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ProgressionTableId" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="44111111-8425-472b-9488-9c385d580bf4"/>
+                </node>
+
+                <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="44523fb3deaa14de1766304e0911fbc49ae44" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="33523fb3deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="ProgressionTableId" type="guid" value="119dfad5-31e0-41b6-aad9-41a55c2f8354"/>
