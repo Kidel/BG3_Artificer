@@ -68,7 +68,7 @@
                     <attribute id="UUID" type="guid" value="1119d1d1-e7dc-4b37-b26c-199505c5f63f"/>
                 </node>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="TODO" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="34623773deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="34623fb3deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="SelectorId" type="FixedString" value="BattleSmith"/>
                     <attribute id="Hidden" type="bool" value="false"/>
@@ -84,7 +84,7 @@
                     <attribute id="UUID" type="guid" value="4449d1d1-e7dc-4b37-b26c-199505c5f63f"/>
                 </node>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="TODO" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="39523773deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="39523fb3deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="SelectorId" type="FixedString" value="Artillerist"/>
                     <attribute id="Hidden" type="bool" value="false"/>
@@ -100,7 +100,7 @@
                     <attribute id="UUID" type="guid" value="2229d1d1-e7dc-4b37-b26c-199505c5f63f"/>
                 </node>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="TODO" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="35523773deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="35523fb3deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="SelectorId" type="FixedString" value="Alchemist"/>
                     <attribute id="Hidden" type="bool" value="false"/>
@@ -116,7 +116,7 @@
                     <attribute id="UUID" type="guid" value="3339d1d1-e7dc-4b37-b26c-199505c5f63f"/>
                 </node>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="TODO" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="37523773deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="37523fb3deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="SelectorId" type="FixedString" value="Armorer"/>
                     <attribute id="Hidden" type="bool" value="false"/>

@@ -1,18 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
+	<content contentuid="h777777777777777777777777777777777777" version="1">Debug</content>
+	<content contentuid="h177777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer</content>
+	<content contentuid="h277777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer - Passive (Technical)</content>
+	<content contentuid="h377777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer - Passive</content>
+	<content contentuid="h477777777777777777777777777777777777" version="1">Debug: Passive Aura of Artificer - Technical</content>
+	<content contentuid="h577777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck</content>
+	<content contentuid="h677777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck L10</content>
+	<content contentuid="h877777777777777777777777777777777777" version="1">Debug: Passive Aura of Artificer - Passive (Technical) - Self</content>
+
 	<content contentuid="66523fb3deaa14de1766304e0911fbc49ae66" version="1">Artificer</content>
 	<content contentuid="77523fb3deaa14de1766304e0911fbc49ae77" version="1">Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects.  They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.  You can find everything you need to play one of these inventors in the next few sections.</content>
 	
 	<content contentuid="34523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist</content>
 	<content contentuid="35523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist Spells</content>
+	<content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="45523fb3deaa14de1766304e0911fbc49ae44" version="1">An Alchemist is an expert at combining reagents to produce mystical effects.  Alchemists use their creations to give life and to leech it away.  Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.</content>
 	
 	<content contentuid="36523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer</content>
 	<content contentuid="37523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer Spells</content>
+	<content contentuid="37523773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="47523fb3deaa14de1766304e0911fbc49ae44" version="1">An artificer who specializes as an Armorer modifies armor to function almost like a second skin.  The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense.  The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.</content>
 	
 	<content contentuid="38523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist</content>
 	<content contentuid="39523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist Spells</content>
+	<content contentuid="39523773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="49523fb3deaa14de1766304e0911fbc49ae44" version="1">An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield.  This destructive power is valued by armies in the wars on many different worlds.  And when war passes, some members of this specialization seek to build a more peaceful world by using their powers to fight the resurgence of strife.</content>
 	<content contentuid="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1">Eldritch Cannon</content>
 	<content contentuid="7727e61e8g9b89g4f30gb649gb3a97346a443" version="1">Eldritch Cannon - Tiny</content>
@@ -28,6 +40,7 @@
 
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith</content>
 	<content contentuid="34623fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith Spells</content>
+	<content contentuid="34623773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel.  To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation.  Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</content>
 	<content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">This companion's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and damage increase with the &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; of its artificer.</content>
 	
@@ -46,8 +59,18 @@
     <content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Heal)</content>
 	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see within 30 feet of the target.  Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.  Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemical Adept</content>
-	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend less resources to craft them.</content>
-
+	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Chemicals to craft them.</content>
+	<content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvage Chemicals</content>
+	<content contentuid="011112faag16e8g4399g8efbgc2af8304f248" version="1">Magically extract useful chemical elements to craft consumable items useful in combat with Chemical Adept.  Certain items might require more units to craft.</content>
+	<content contentuid="1111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvaged Chemicals</content>
+	<content contentuid="111112faag16e8g4399g8efbgc2af8304f248" version="1">You have magically extracted useful chemical elements to craft consumable items useful in combat with Chemical Adept.  Certain items might require more units to craft.</content>
+	<content contentuid="h27112faag16e8g4399g8efbgc2af8304f248" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Requires 2 units of Salvaged Chemicals</content>
+	<content contentuid="2111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemicals Extracted</content>
+	<content contentuid="211112faag16e8g4399g8efbgc2af8304f248" version="1">Useful chemical elements have been already extracted.</content>
+	<content contentuid="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item</content>
+	<content contentuid="hf3234g16e8321g4399g8efbgc2af8304f248" version="1">You've learned to store spells into scrolls.  The magic lasts until a long rest, and you can create a number of scrolls equal to your Intelligence Modifier.</content>
+	
+	
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
 	<content contentuid="88623fb3deaa14de1766304e0911fbc49ae88" version="1">Infusions</content>
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots: [3]</content>
@@ -58,32 +81,49 @@
 	<content contentuid="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">You've gained the ability to come up with solutions under pressure.  When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add their Proficiency Bonus to the roll.</content>
 
-	<content contentuid="0e5ba292-48ab-4b1c-aa79-f25a635635a7"  version="1">The Right Tool for the Job</content> Right Tool for the Job - Thieve's Tools - Display Name
-	<content contentuid="ce18c051-d126-46dd-8447-8363b055f388"  version="1">You've learned how to produce exactly the tool you need:  You can magically create thieves Tools, a trap disarmimg kit, or a shovel.</content> 
-	<content contentuid="67f3c1eb-1289-42da-bf15-f72516588147"  version="1">Craft: Thieves Tools</content> 
-	<content contentuid="f3965b5b-adde-474a-b0ef-064552e3a491"  version="1">Craft: Trap Disarm Kit</content> 
-	<content contentuid="4a070d6a-fc4d-4a4a-b27d-5a00672af556"  version="1">Craft: Shovel</content>
-	<content contentuid="4893a0cc-7b69-47ab-9f1e-5480eb2f9f45"  version="1">Infusions</content>
-	<content contentuid="3a67dabd-e997-44ee-9c00-0a7e61628927"  version="1">You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
-	<content contentuid="33d835bc-f003-4155-87a5-e4885eee5c90"  version="1">Infusion: Enhanced Defense</content>
-	<content contentuid="4513988f-89ea-4dde-a3b2-77de32ee9ecc"  version="1">This infusion give a +1 bonus to Armor Class.  The bonus increases to +2 when you reach 10th level in this class.</content>
-	<content contentuid="353ba4cc-52e7-4c22-aa6b-152f09fbbd84"  version="1">Infusion: Enhanced Arcane Focus</content>
-	<content contentuid="ba5ea8ae-f16a-4f8e-9170-e2825dfec9af"  version="1">The target creature gains a +1 bonus to spell attack rolls and spell save DCs.  The bonus increases to +2 when you reach 10th level in this class.</content>
-	<content contentuid="6f872d77-0743-41eb-a23c-59128e28b124"  version="1">Infusion: Enhanced Weapon</content>
-	<content contentuid="94cfcf4e-5099-45b1-87e6-8d1440727a34"  version="1">The target weapon becomes magical and grants a +1 bonus to attack and damage rolls made with it.  The bonus increases to +2 when you reach 10th level in this class.</content>
-	<content contentuid="7bffca0d-2093-4911-97b9-ef5dbfc221a5"  version="1">Infusion: Armor of Magical Strength</content>
-	<content contentuid="e91f4da6-5297-4c7c-bd72-ca3dd2c4aa04"  version="1">Infusion: Boots of the Winding Path</content>
-	<content contentuid="52cb721b-dae9-40eb-ba8b-55ff8fcc19ea"  version="1">Infusion: Helm of Awareness</content>
-	<content contentuid="b27cabec-3fcb-424a-8557-c90330b28877"  version="1">Infusion: Homunculus Servant</content>
-	<content contentuid="d36daf64-1cf7-4c37-9bb2-99113afe8a1b"  version="1">Infusion: Mind Sharpener</content>
-	<content contentuid="c4672755-ea0e-4b0b-ba99-1f40f844b0ac"  version="1">Infusion: Radiant Weapon</content>
-	<content contentuid="df0307ba-33f3-4191-90c1-a56c4d717e00"  version="1">Infusion: Repeating Shot</content>
-	<content contentuid="798bc974-6e2d-4168-98da-92a1ed45b199"  version="1">Infusion: Bag of Holding</content>
+	<content contentuid="h9efaa994g1470g4e9fgb79eg5b65ca0eabab" version="1">The Right Tool for the Job</content> Right Tool for the Job - Thieve's Tools - Display Name
+	<content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">You've learned how to produce exactly the tool you need:  You can magically create thieves Tools, a trap disarmimg kit, or a shovel.</content> 
+	<content contentuid="hde264abbg9d67g4000gb383g12ce2ac80341" version="1">Craft: Thieves Tools</content> 
+	<content contentuid="hd0f27fc2gffb5g4e11ga18dg0b0634fb3ac7" version="1">Craft: Trap Disarm Kit</content> 
+	<content contentuid="h95a73c80ga7a2g4049g8329g92e1048cf2eb" version="1">Craft: Shovel</content>
+	<content contentuid="h4b087c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Enhanced Defense</content>
+	<content contentuid="h57787c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Enhanced Defense Equipped</content>
+	<content contentuid="h39958a9dg4375g4b4egb042ga1ad0cfd6907" version="1">This infusion gives a +1 bonus to Armor Class to armor or shield.  The bonus increases to +2 when you reach 10th level in this class.</content>
+	<content contentuid="hacae19c9gd05cg4e61ga0b9gdcc364c0ae32" version="1">Infusion: Enhanced Arcane Focus</content>
+	<content contentuid="h60cef40bg0029g48d8ga8eeg9c64c231b614" version="1">The target creature gains a +1 bonus to spell attack rolls and spell save DCs.  The bonus increases to +2 when you reach 10th level in this class.</content>
+	<content contentuid="h74c2b6ddg453cg4554ga247g3c7e9847b8bd" version="1">Infusion: Enhanced Weapon</content>
+	<content contentuid="haaeb23b5g8c4eg421dgba6cg788a69febd7e" version="1">The target weapon becomes magical and grants a +1 bonus to attack and damage rolls made with it.  The bonus increases to +2 when you reach 10th level in this class.</content>
+	<content contentuid="he90dc261g9bf3g4b67gbf1eg3f728c2cdf7c" version="1">Infusion: Armor of Magical Strength</content>
+	<content contentuid="hb4c39b3dgd96dg4076g8bdcg302e2029ba5f" version="1">Infusion: Boots of the Winding Path</content>
+	<content contentuid="hca0258e6g810eg49adga6c2gf721366b6d9c" version="1">Infusion: Helm of Awareness</content>
+	<content contentuid="he89f91cagc783g4f8dg9ac7gbba426757c6e" version="1">Infusion: Mind Sharpener</content>
+	<content contentuid="h5bb0aa44gdd6dg475cgb896g1ee6e25f808a" version="1">Infusion: Radiant Weapon</content>
+	<content contentuid="h78612d52g9edeg471eg9c3fg2e0bf8c4d057" version="1">The target weapon becomes magical and grants a +1 bonus to attack and damage rolls made with it.  It sheds a bright light in a 30-foot radius.</content>
+	<content contentuid="h5660aa44gdd6dg475cgb896g1ee6e25f8066" version="1">Infusion: Returning Weapon</content>
+	<content contentuid="h7760aa44gdd6dg477cgb896g1ee6e25f8077" version="1">You can infuse a weapon to grant a + 1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</content>
+	<content contentuid="h9960aa4499d6dg477cgb896g1ee6e25f8997" version="1">This magic weapon grants a + 1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</content>
+	<content contentuid="h35a784f2gfef9g4d32g909dgb2596a0f2baa" version="1">Infusion: Repeating Shot</content>
+	<content contentuid="had7f84f2gfef9g4d32g909dgb2596a0f2ccc" version="1">This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.  If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it, allowing to attack twice per turn.  The ammunition created by the weapon vanishes the instant after it hits or misses a target.</content>
+	<content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfa9" version="1">Infusion: Bag of Holding</content>
 	<content contentuid="777463d7fg404cg4825g8dedgdeebc97b9914" version="1">&lt;LSTag Type="Image" Info="Warning"/&gt; Using it twice will create a brief portal to the Astral Plane</content>
-	<content contentuid="99f19290-41d2-4b0a-a94b-dae2730546a5"  version="1">You learned how to infuse your backpack with magical energy to transform it into a Bag of Holding that allows you to place items in an extradimensional space, greatly increasing the amount of items it can carry and disregarding weight.  The Bag of Holding won't work in the Astral Plane.  Using this infusion twice or placing the Bag of Holding inside another extradimensional space instantly destroys both items and opens a gate to the Astral Plane.  The gate originates where the one item was placed inside the other.  Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane.  The gate then closes.  The gate is one-way only and can't be reopened.</content>
-
-	//Alchemist
-	<content contentuid="" version="1"></content>
+	<content contentuid="hcc921844g2288g4c8dg9663gc53d74cf0c28" version="1">You learned how to infuse your backpack with magical energy to transform it into a Bag of Holding that allows you to place items in an extradimensional space, greatly increasing the amount of items it can carry and disregarding weight.  The Bag of Holding won't work in the Astral Plane.  Using this infusion twice or placing the Bag of Holding inside another extradimensional space instantly destroys both items and opens a gate to the Astral Plane.  The gate originates where the one item was placed inside the other.  Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane.  The gate then closes.  The gate is one-way only and can't be reopened.</content>
+	<content contentuid="h77821844g2288g4c8dg9663gc53d74456c29" version="1">Repeating Shot</content>
+	<content contentuid="h8358452eg4441g4385gae6fg12d286bfd567" version="1">You can shoot your ranged weapon twice at the same target.</content>
+	<content contentuid="h42f3f78bg17bdg4a51g9e7dg7e26feeef846" version="1">Infusion: Homunculus Servant</content>
+	<content contentuid="h399ba2a0g7772g4072g944dgbcd0e11c885a" version="1">You learn intricate methods for magically creating a special homunculus that serves you.  You determine the homunculus's appearance.  The homunculus is friendly to you and your companions, and it obeys your commands.</content>
+	<content contentuid="77715041bga873g4f1cgb45eg7774bac4a109" version="1">Homunculus Shape: Cat</content>
+	<content contentuid="777633996g3e8ag4cb8ga616g141d6dad37af" version="3">Summon a cat-shaped homunculus that can &lt;LSTag Type="Spell" Tooltip="Shout_Distract_Cat_Summon"&gt;Meow&lt;/LSTag&gt; to distract your enemies.</content>
+	<content contentuid="777b7d430gea4ag42abg92c0gf2f646e967f1" version="1">Homunculus Shape: Crab</content>
+	<content contentuid="77785d10bg98d0g4722gba69g69b592c53677" version="3">Summon a crab-shaped homunculus that can slow enemies with its &lt;LSTag Type="Spell" Tooltip="Target_CripplingPinch_Crab_Summon"&gt;Crippling Pinch&lt;/LSTag&gt;.</content>
+	<content contentuid="777e6ae06g0e2eg43cfga2feg7a59d317dca8" version="1">Homunculus Shape: Frog</content>
+	<content contentuid="77735e6e7g2d4dg43b4ga7e6gcc1852abb392" version="4">Summon a frog-shaped homunculus who can spread its &lt;LSTag Type="Spell" Tooltip="Target_Bufotoxin_Frog_Summon"&gt;Bufotoxin&lt;/LSTag&gt; to enemies.</content>
+	<content contentuid="777f2a45bg24ebg4a3ega2b1gc157a1b738d2" version="1">Homunculus Shape: Rat</content>
+	<content contentuid="777547a2fg2225g4052g86c9g1a7a03f6c207" version="3">Summon a rat-shaped homunculus with an &lt;LSTag Type="Spell" Tooltip="Target_Bite_Rat_Summon"&gt;Infectious Bite&lt;/LSTag&gt;.</content>
+	<content contentuid="777341008gfad0g4868g817eg856bada1bff8" version="1">Homunculus Shape: Raven</content>
+	<content contentuid="77721bdf5g81ebg495fg864ag4f6686879bcb" version="4">Summon a raven-shaped homunculus that can &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Blind&lt;/LSTag&gt; enemies with its beak.</content>
+	<content contentuid="7775497e1g3067g4b9egb505ge1ee8e3f7aab" version="1">Homunculus Shape: Spider</content>
+	<content contentuid="777f10276g7415g42b3g9b15g056514104f5f" version="3">Summon a spider-shaped homunculus with a poisonous &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;Bite&lt;/LSTag&gt;.</content>
+	
 	<content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Experimental Elixir Of Healing</content>
 	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">Experimental Elixir Of Healing Description</content>
 	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">Experimental Elixir Of Healing Technical Description</content>
@@ -104,6 +144,4 @@
 	<content contentuid="hf4498c39g63d5g41e8g8c3dg9e76f58ddd16" version="1">Experimental Elixir Of Transformation Technical Description</content>
 	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Elemental Elixir</content>
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Ring Mail Armour</content>
-
-	
 </contentList>
