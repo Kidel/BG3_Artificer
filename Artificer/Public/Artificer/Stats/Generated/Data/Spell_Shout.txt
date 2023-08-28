@@ -4,7 +4,7 @@ data "SpellType" "Shout"
 data "ContainerSpells" "Shout_ForgeThievesTools;Shout_ForgeTrapDisarm;Shout_ForgeShovel"
 data "Cooldown" "OncePerShortRest"
 data "TargetConditions" "Self()"
-data "Icon" "Item_TOOL_GEN_Hammer_Repair_A"
+data "Icon" "Skill_RightToolForTheJob"
 data "DisplayName" "h9efaa994g1470g4e9fgb79eg5b65ca0eabab;1"
 data "Description" "h8a9b92f5g7834g4c30gbeaag4063ee1c94e8;1"
 data "SpellStyleGroup" "Class"
@@ -281,8 +281,6 @@ data "SpellProperties" "ApplyStatus(ADEPT_MATERIAL_RESOURCE_STACK_REMOVE, 100, 1
 data "DisplayName" "had96ed60gbf44g45afgb9d0g222bf65f6016;1"
 data "Description" "h6670949fg6445g4390g9e6eg885b09a366de;1"
 data "Icon" "Item_ARR_Arrow_Of_Smokepowder"
-
-
 
 
 

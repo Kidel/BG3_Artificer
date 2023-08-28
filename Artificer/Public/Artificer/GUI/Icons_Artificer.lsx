@@ -205,21 +205,21 @@
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 27
+                    <attribute id="MapKey" type="FixedString" value="Passive_SpellStoring_Item"/> 27
                     <attribute id="U1" type="float" value="0.8125"/> Left
                     <attribute id="U2" type="float" value="0.84375"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 28
+                    <attribute id="MapKey" type="FixedString" value="Skill_SpellStoring_Item"/> 28
                     <attribute id="U1" type="float" value="0.84375"/> Left
                     <attribute id="U2" type="float" value="0.875"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 29
+                    <attribute id="MapKey" type="FixedString" value="Skill_RightToolForTheJob"/> 29
                     <attribute id="U1" type="float" value="0.875"/> Left
                     <attribute id="U2" type="float" value="0.90625"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
