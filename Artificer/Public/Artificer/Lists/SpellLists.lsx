@@ -14,7 +14,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Magical Tinkering as cantrips"/>
-                    <attribute id="Spells" type="LSString" value="Target_Light;Target_MinorIllusion"/>
+                    <attribute id="Spells" type="LSString" value="Target_Mending_Artificer_Cantrip;Target_Light;Target_MinorIllusion"/>
                     <attribute id="UUID" type="guid" value="c9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
