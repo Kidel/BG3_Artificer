@@ -71,6 +71,26 @@ data "StackId" "ARTIFICER_AC_BOOST"
 data "Boosts" "AC(2)"
 
 
+new entry "INFUSION_RESISTANT_ARMOR_ACID"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Icon" "Skill_Infusion_ResistantArmorAcid"
+data "DisplayName" "4ad6526d-1972-4cf9-8e69-fb6fa0d7818a;1"
+data "Description" "a760a388-a7eb-4633-a6af-4092572fa8ef;1"
+data "StackId" "ARTIFICER_RESISTANCE"
+data "Boosts" "Resistance(Acid, Resistant)"
+
+new entry "INFUSION_RESISTANT_ARMOR_COLD"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Icon" "Skill_Infusion_ResistantArmorCold"
+data "DisplayName" "62d5b1e0-ead2-4bfb-906f-25805193eeea;1"
+data "Description" "0afdae88-0960-456f-b4d2-bf44ffff43f6;1"
+data "StackId" "ARTIFICER_RESISTANCE"
+data "Boosts" "Resistance(Cold, Resistant)"
+
+
+
 new entry "Experimental_Elixir_Of_Healing"
 type "StatusData"
 data "StatusType" "BOOST"

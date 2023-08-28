@@ -104,6 +104,42 @@
 	<content contentuid="h9960aa4499d6dg477cgb896g1ee6e25f8997" version="1">This magic weapon grants a + 1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</content>
 	<content contentuid="h35a784f2gfef9g4d32g909dgb2596a0f2baa" version="1">Infusion: Repeating Shot</content>
 	<content contentuid="had7f84f2gfef9g4d32g909dgb2596a0f2ccc" version="1">This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.  If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it, allowing to attack twice per turn.  The ammunition created by the weapon vanishes the instant after it hits or misses a target.</content>
+
+	<content contentuid="0f7ac543-91a4-4206-88e6-f814692e99a8" version="1">Infusion: Resistant Armor</content>
+	<content contentuid="6bbc38e4-1b25-457c-b813-aa8a4c96b313" version="1">While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.</content>
+	<content contentuid="4ad6526d-1972-4cf9-8e69-fb6fa0d7818a" version="1">Infusion: Resistant Armor (Acid)</content>
+	<content contentuid="62d5b1e0-ead2-4bfb-906f-25805193eeea" version="1">Infusion: Resistant Armor (Cold)</content>
+	<content contentuid="c9e86190-64b8-40da-ae42-49fb7177c7ca" version="1">Infusion: Resistant Armor (Fire)</content>
+	<content contentuid="e3ac2645-372e-4876-9b07-6e38e72977c5" version="1">Infusion: Resistant Armor (Force)</content>
+	<content contentuid="a53abab6-abbc-40f4-b435-a8c028d32b1a" version="1">Infusion: Resistant Armor (Lightning)</content>
+	<content contentuid="d403f76b-c97c-4d16-bfbe-fb19fb065071" version="1">Infusion: Resistant Armor (Necrotic)</content>
+	<content contentuid="54fb9987-4318-412c-9b0b-aecf0e2cc8aa" version="1">Infusion: Resistant Armor (Poison)</content>
+	<content contentuid="8c916b9b-b524-451a-aa3a-dc087b2c424d" version="1">Infusion: Resistant Armor (Psychic)</content>
+	<content contentuid="7dd67db4-36c6-4dd4-a8ff-9dec8751431b" version="1">Infusion: Resistant Armor (Radiant)</content>
+	<content contentuid="d3f25c1a-acdd-4847-a4d7-7b4e16fdd2b6" version="1">Infusion: Resistant Armor (Thunder)</content>
+	<content contentuid="ec2b945d-6c06-49a6-949b-b647334bdd66" version="1">Infusion: Repeating Shot</content>
+	<content contentuid="a760a388-a7eb-4633-a6af-4092572fa8ef" version="1">You are resistant to acid damage.</content>
+	<content contentuid="0afdae88-0960-456f-b4d2-bf44ffff43f6" version="1">You are resistant to cold damage.</content>
+	<content contentuid="df653a5d-d3cb-4aae-a3e3-d6b5fc195200" version="1">You are resistant to fire damage.</content>
+	<content contentuid="291f57d7-88e3-4ab2-889e-27d8b9e1aaf1" version="1">You are resistant to force damage.</content>
+	<content contentuid="6ceab6e1-3592-43a1-ae80-ec83b51bbb4b" version="1">You are resistant to lightning damage.</content>
+	<content contentuid="660fd183-6327-4526-94bc-d112c6b11bc3" version="1">You are resistant to necrotic damage.</content>
+	<content contentuid="49935aa1-569f-4e5f-9097-49cc8767c56c" version="1">You are resistant to poison damage.</content>
+	<content contentuid="a072064f-5627-4e06-9a4a-9445a80c288d" version="1">You are resistant to psychic damage.</content>
+	<content contentuid="2ddb2c55-9adf-4f55-b86e-68aa120bf0f1" version="1">You are resistant to radiant damage.</content>
+	<content contentuid="59fddbd2-39e8-41a8-bcbf-f79706acce0d" version="1">You are resistant to thunder damage.</content>
+	<content contentuid="3e7d9c30-1225-4b64-ade4-61c1fd99f581" version="1">While wearing this armor, a creature has resistance to acid damage.</content>
+	<content contentuid="8172ad15-9b9f-4da3-aa19-338a69c54830" version="1">While wearing this armor, a creature has resistance to cold damage.</content>
+	<content contentuid="f3dd50c9-796c-41d5-8af3-9e9916f7e93c" version="1">While wearing this armor, a creature has resistance to fire damage.</content>
+	<content contentuid="69d85df1-4b96-48c3-9fef-35677442e74b" version="1">While wearing this armor, a creature has resistance to force damage.</content>
+	<content contentuid="816b6cf9-b38a-4517-b984-13cad0a13bd4" version="1">While wearing this armor, a creature has resistance to lightning damage.</content>
+	<content contentuid="d39e633c-e7b2-4d6e-8eca-3d167535895a" version="1">While wearing this armor, a creature has resistance to necrotic damage.</content>
+	<content contentuid="f8df4d6d-1a4a-41b2-b060-bded89db3f39" version="1">While wearing this armor, a creature has resistance to poison damage.</content>
+	<content contentuid="7d2e8187-9804-4bd4-92f7-a5150b9c91c5" version="1">While wearing this armor, a creature has resistance to psychic damage.</content>
+	<content contentuid="5e87b2a8-f9bc-4046-902b-677a3a3143a8" version="1">While wearing this armor, a creature has resistance to radiant damage.</content>
+	<content contentuid="328b59e9-ad99-4d0f-a282-fc6f7d8fa65a" version="1">While wearing this armor, a creature has resistance to thunder damage.</content>
+
+
 	<content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfa9" version="1">Infusion: Bag of Holding</content>
 	<content contentuid="777463d7fg404cg4825g8dedgdeebc97b9914" version="1">&lt;LSTag Type="Image" Info="Warning"/&gt; Using it twice will create a brief portal to the Astral Plane</content>
 	<content contentuid="hcc921844g2288g4c8dg9663gc53d74cf0c28" version="1">You learned how to infuse your backpack with magical energy to transform it into a Bag of Holding that allows you to place items in an extradimensional space, greatly increasing the amount of items it can carry and disregarding weight.  The Bag of Holding won't work in the Astral Plane.  Using this infusion twice or placing the Bag of Holding inside another extradimensional space instantly destroys both items and opens a gate to the Astral Plane.  The gate originates where the one item was placed inside the other.  Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane.  The gate then closes.  The gate is one-way only and can't be reopened.</content>
