@@ -193,7 +193,7 @@
 						<node id="StatusList">
 							<children>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_CANNON" />
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_CANNON_2" />
 								</node>
 								<node id="Status">
 									<attribute id="Object" type="FixedString" value="DISGUISE_SELF_ELDRITCH_CANNON" />

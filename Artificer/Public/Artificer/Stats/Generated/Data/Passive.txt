@@ -8,6 +8,12 @@ type "PassiveData"
 data "DisplayName" "11523fb3deaa14de1766304e0911fbc49ae11"
 data "Properties" "IsHidden"
 
+new entry "Artillerist_Fake_ExplosiveCannon_Passive"
+type "PassiveData"
+data "DisplayName" "TODO"
+data "Description" "TODO"
+data "Icon" "TODO"
+
 
 new entry "AuraOfArtificer_Technical"
 type "PassiveData"
