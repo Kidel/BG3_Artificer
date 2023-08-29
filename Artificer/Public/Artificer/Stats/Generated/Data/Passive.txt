@@ -195,3 +195,9 @@ new entry "SpellStoring_Item_Passive_6"
 using "SpellStoring_Item_Passive_1"
 data "Conditions" "ConditionResult((GetModifier(context.Source.Intelligence)) >= 6) and (not HasStatus('SPELLSTORING_ITEM_RESOURCE', context.Source))"
 data "StatsFunctors" "ApplyStatus(SELF,SPELLSTORING_ITEM_RESOURCE,100,6)"
+
+new entry "Artificer_ArmorModifications_Passive
+type "PassiveData"
+data "Icon" "Passive_ArmorModifications"
+data "DisplayName" "habe83eaag7ea6g4b29ga470g909b8380079d;1"
+data "Description" "hd5df559eg3214g4772g9085gce3dcff90a4d;1"

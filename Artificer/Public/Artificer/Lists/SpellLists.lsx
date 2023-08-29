@@ -157,6 +157,29 @@
                     <attribute id="UUID" type="guid" value="9b5aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
 
+                Armorer Level Abilities/Skills/Spells
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 3rd Additions"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Artificer_ArcaneArmor;Shout_Artificer_ArmorModel_Container"/>
+                    <attribute id="UUID" type="guid" value="c8ce4326-daab-48c0-a800-71af91fc2f47"/>
+                </node>
+                Armorer Always Prepared
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 3rd"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MagicMissile;Zone_Thunderwave"/>
+                    <attribute id="UUID" type="guid" value="3b69fa1c-f33d-4e18-890c-ec2078c8af47"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 5th"/>
+                    <attribute id="Spells" type="LSString" value="Shout_MirrorImage;Target_Shatter"/>
+                    <attribute id="UUID" type="guid" value="312ce41d-bdc7-4407-932e-b49a9f313185"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 9th"/>
+                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Zone_LightningBolt"/>
+                    <attribute id="UUID" type="guid" value="dc5ab940-770c-431a-9e5c-af1713cc6d36"/>
+                </node>
+
 			</children>
         </node>
     </region>

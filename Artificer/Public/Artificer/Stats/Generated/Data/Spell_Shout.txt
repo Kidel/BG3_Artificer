@@ -346,3 +346,18 @@ data "SpellProperties" "ApplyStatus(SPELLSTORING_ITEM_RESOURCE_REMOVE, 100, 1);S
 data "DisplayName" "hd01f46a9g460cg4f82ga5e4gf326a8aedfcf"
 data "Description" ""
 data "Icon" "Item_LOOT_SCROLL_VampiricTouch"
+
+new entry "Shout_Artificer_ArcaneArmor"
+type "SpellData"
+data "SpellType" "Shout"
+data "SpellProperties" ""
+data "DisplayName" "he272fe27g5fa7g4b7ag8392g5e7d606c554e;1"
+data "Description" "hb788c89dga6c8g40f1gb35cg8ccca36f35b3;1"
+data "ExtraDescription" "h12038142g6632g489cg9caeg5e2f719edf9b;1"
+
+new entry "Shout_Artificer_ArcaneArmor"
+type "SpellData"
+data "SpellType" "Shout"
+data "SpellProperties" ""
+data "DisplayName" "h6a9ad1a9g9066g43cfgb1f5gea489c26ab59;1"
+data "Description" "h2785af98gb6fbg4886gb117gce88cc53ea55;1"

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="206"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Artificer_ArmorModifications_Passive"/>
+                    <attribute id="UUID" type="guid" value="791ff2a3-8930-4943-9606-6d8a9c9c9f29"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

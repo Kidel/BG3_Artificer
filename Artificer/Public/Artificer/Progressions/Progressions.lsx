@@ -196,26 +196,27 @@
                     <attribute id="Name" type="LSString" value="Armorer"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(3b69fa1c-f33d-4e18-890c-ec2078c8af47,Armorer,,,AlwaysPrepared);AddSpells(c8ce4326-daab-48c0-a800-71af91fc2f47)"/>
                     <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="4040f93c-b0dd-4d23-b090-0228575af1b9"/>
                 </node>
-
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="4"/>
-                    <attribute id="Name" type="LSString" value="Armorer"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
-                    <attribute id="UUID" type="guid" value="6cd84705-0651-4db5-83ef-e00e93440510"/>
-                </node>
-
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Armorer"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value="ExtraAttack"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(312ce41d-bdc7-4407-932e-b49a9f313185,Armorer,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="9caaa751-aa60-4252-91e2-aab40fbf1bd4"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="Armorer"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Artificer_ArmorModifications_Passive"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(dc5ab940-770c-431a-9e5c-af1713cc6d36,Armorer,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="4bf5f26f-cf74-4bfd-a15d-b14c9150abd0"/>
                 </node>
 
                 Artillerist
