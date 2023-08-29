@@ -600,6 +600,12 @@ data "DisplayName" "2226e61e8g9b89g4f30gb649gb3a97346a443;1"
 data "Boosts" "AttackSpellOverride(Target_EldritchBlast_EldritchCannon, Target_UnarmedAttack) "
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
+new entry "UNARMEDATTACK_OVERRIDE_CANNON_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "UNARMEDATTACK_OVERRIDE_CANNON"
+data "Boosts" "AttackSpellOverride(Target_EldritchBlast_2_EldritchCannon, Target_UnarmedAttack) "
+
 new entry "UNARMEDATTACK_OVERRIDE_REPEATINGSHOT"
 type "StatusData"
 data "StatusType" "BOOST"
