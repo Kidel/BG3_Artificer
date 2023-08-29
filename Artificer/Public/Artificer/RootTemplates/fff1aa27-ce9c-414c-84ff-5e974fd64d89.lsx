@@ -10,7 +10,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="ParentTemplateId" type="FixedString" value="ca434b15-c387-4557-810a-d11fcf773b15" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hf97574eagad02g478bga5b9gff638f0f278e" version="3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfff574eagad02g478bga5b9gff638f0f278e" version="3" />
 					<attribute id="Stats" type="FixedString" value="REPLICA_OfGiantHillStrength_Gloves" />
 					<attribute id="Description" type="TranslatedString" handle="h56e2b61ag3695g4d9dg8834g6e3133239bf3" version="1" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="" version="0" />
