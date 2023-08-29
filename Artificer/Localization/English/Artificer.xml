@@ -96,7 +96,7 @@
 	<content contentuid="haaeb23b5g8c4eg421dgba6cg788a69febd7e" version="1">The target weapon becomes magical and grants a +1 bonus to attack and damage rolls made with it.  The bonus increases to +2 when you reach 10th level in this class.</content>
 	<content contentuid="he90dc261g9bf3g4b67gbf1eg3f728c2cdf7c" version="1">Infusion: Armor of Magical Strength</content>
 	<content contentuid="hb4c39b3dgd96dg4076g8bdcg302e2029ba5f" version="1">Infusion: Boots of the Winding Path</content>
-	<content contentuid="h22f3c61276f345b7af738e62c34e8f8defef" version="1">You can infuse a pair of boots allowing the wearer to cast Misty Step once per combat.</content>
+	<content contentuid="h22f3c61276f345b7af738e62c34e8f8defef" version="1">You can infuse a pair of boots allowing the wearer to increase their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [1] and don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
 	<content contentuid="hca0258e6g810eg49adga6c2gf721366b6d9c" version="1">Infusion: Helm of Awareness</content>
 	<content contentuid="he89f91cagc783g4f8dg9ac7gbba426757c6e" version="1">Infusion: Mind Sharpener</content>
 	<content contentuid="h5bb0aa44gdd6dg475cgb896g1ee6e25f808a" version="1">Infusion: Radiant Weapon</content>
@@ -182,6 +182,8 @@
 	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Elemental Elixir</content>
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Sturdy Armour</content>
 
+	<content contentuid="h1234564ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replicate Magic Item</content>
+	<content contentuid="h7891014ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Using this infusion, you replicate a particular magic items. Each item will consume an Infusion Slot.</content>
 	<content contentuid="h777cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Circlet of Mind Reading</content>
 	<content contentuid="h777550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">This magic circlet enables its wearer to read minds.  Unlocks Detect Thoughts and Counterspell.</content>
 	<content contentuid="h888cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Flying Boots</content>
