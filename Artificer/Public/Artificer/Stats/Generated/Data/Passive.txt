@@ -220,3 +220,12 @@ data "DisplayName" "2222222c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
 data "Description" "3222223aag16e8g4399g8efbgc2af8304f248;1"
 data "Icon" "PassiveFeature_DeflectMissiles"
 data "Boosts" "UnlockInterrupt(Interrupt_WardingFlare)"
+
+
+new entry "Armorer_ArcaneArmor"
+type "PassiveData"
+data "DisplayName" "TODO;1"
+data "Description" "TODO;1"
+data "Icon" "PassiveFeature_FavoredEnemy_RangerKnight"
+data "Properties" "Highlighted"
+data "Boosts" "Proficiency(HeavyArmor)"
