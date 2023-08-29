@@ -219,9 +219,11 @@ type "PassiveData"
 data "DisplayName" "he272fe27g5fa7g4b7ag8392g5e7d606c554e;1"
 data "Description" "hb788c89dga6c8g40f1gb35cg8ccca36f35b3;1"
 data "ExtraDescription" "h12038142g6632g489cg9caeg5e2f719edf9b;1"
-data "Properties" "IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn;Highlighted"
+data "Properties" "Highlighted"
 data "Icon" "PassiveFeature_HeavilyArmored"
-data "Boosts" "Proficiency(HeavyArmor)"
+data "StatsFunctors" ""
+data "ToggleOffFunctors" ""
+data "ToggleOnFunctors" ""
 
 
 new entry "Artificer_BattleCompanion_Deflect"

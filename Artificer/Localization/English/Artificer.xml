@@ -196,7 +196,7 @@
 
 	<content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Arcane Armor </content>
 	<content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith's tools in hand.&lt;br&gt;The armor continues to be Arcane Armor until you don another suit of armor or you die.</content>
-	<content contentuid="h12038142g6632g489cg9caeg5e2f719edf9b" version="1">You gain the following benefits while wearing this armor: TODO&lt;br&gt;</content>
+	<content contentuid="h12038142g6632g489cg9caeg5e2f719edf9b" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Heavy Armour.</content>
 	<content contentuid="h6a9ad1a9g9066g43cfgb1f5gea489c26ab59" version="1">Armor Model</content>
 	<content contentuid="h2785af98gb6fbg4886gb117gce88cc53ea55" version="1">ARMORMODEL DESC TODO</content>
 	<content contentuid="h5dd62355g3b68g457aga31dg36e1b81ae6f3" version="1">Armor Model: Guardian</content>
