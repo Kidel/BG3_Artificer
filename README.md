@@ -5,7 +5,7 @@ Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
 https://github.com/users/Kidel/projects/1
 
 ## Changes from 5e
-Like Larian, we had to make some changes to Artificer due to the nature of the medium. There is also the fact that we had to adapt toLarian's pre-existing design choices.
+Like Larian, we had to make some changes to Artificer due to the nature of the medium. There is also the fact that we had to adapt to Larian's pre-existing design choices.
 Some of the core functionalities of Artificer are already in the game available to any class, so we had to get creative. 
 
 - Repeating Shot: most of the qualities of this infusion have been included by Larian by default on crossbow and bows (no ammunition expended, no reload action), so we made it as a buff on the crossbow that unlocks a skill to use 2 force type projectiles per attack and changes the damage type to Force.
@@ -15,3 +15,4 @@ Some of the core functionalities of Artificer are already in the game available 
 - Battle Smith and Artillerist pets: stronger overall and scale better with the base class.
 - Arcane Focus related abilities in general: BG3 has no spellcasting focus, so we made those as a buff you can apply to the character. 
 - Spell-storing Item: even if we developed a system to add effects to items and have those effects unlock skills on the caster, the system is complex and convoluted and wouldn't be wise to use it for a wide variety of spells. Instead we decided to take advantage of scrolls. We made it onto a skill that can create {IntModifier} scrolls per day storing spells that the Artificer knows. Scrolls disappear at long rest, but you're not limited to {IntModifier} uses of 1 spell, you can craft different ones and give them to friends. This way you can have your Fighter cast stuff like Heat Metal or Web, also without having to pass a weapon back and forth. 
+- Replicate Magic Item: BG3 throws magic items at you like crazy. We didn't want precious learned infusions to be wasted when you find a better item, so we made this a lv10 unlock, and unlocks 5 really poweful items you can create at will. 
