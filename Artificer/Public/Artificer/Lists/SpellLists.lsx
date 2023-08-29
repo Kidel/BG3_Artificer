@@ -50,12 +50,12 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Infusions lv6"/>
-                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath"/>
                     <attribute id="UUID" type="guid" value="62345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Infusions lv10"/>
-                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_ReplicateItem"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath;Target_Infusion_ReplicateItem"/>
                     <attribute id="UUID" type="guid" value="22345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
 
