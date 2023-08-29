@@ -12,7 +12,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="d5676054-fe07-4c6d-8433-b79b33a80a89" />
 					<attribute id="VisualTemplate" type="FixedString" value="" />
 					<attribute id="Scale" type="float" value="0.5" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hefa2b8dfga29ag43c0g8894g2066876e80ce" version="4" />
+					<attribute id="DisplayName" type="TranslatedString" handle="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1" />
 					<attribute id="Icon" type="FixedString" value="Portrait_Creature_ArcaneTurret_Activated" />
 					<attribute id="Stats" type="FixedString" value="Companion_Artillerist_EldritchCannon" />
 					<attribute id="DeathEffect" type="guid" value="eb0aa43b-fcdc-4ef2-548c-0ef60775834e" />

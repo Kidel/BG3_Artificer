@@ -346,3 +346,16 @@ data "SpellProperties" "ApplyStatus(SPELLSTORING_ITEM_RESOURCE_REMOVE, 100, 1);S
 data "DisplayName" "hd01f46a9g460cg4f82ga5e4gf326a8aedfcf"
 data "Description" ""
 data "Icon" "Item_LOOT_SCROLL_VampiricTouch"
+
+
+new entry "Shout_Cannon_SelfDestruct"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_WYR_PotentDrink_Stone"
+data "TargetConditions" "Self()"
+data "Cooldown" "OncePerRest"
+data "UseCosts" "ActionPoint:1"
+data "DisplayName" "hd8e5c037gaf3cg4fedg94aag42bb0695a4ba;2"
+data "Description" "hf76f314fg3191g45b9g8850g5b978c824349;4"
+data "Icon" "PassiveFeature_Generic_Explosion"
+data "SpellProperties" "ApplyStatus(CANNON_SELFDESTRUCT,100,2)"
