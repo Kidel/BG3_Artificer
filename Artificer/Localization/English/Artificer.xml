@@ -11,17 +11,17 @@
 
 	<content contentuid="66523fb3deaa14de1766304e0911fbc49ae66" version="1">Artificer</content>
 	<content contentuid="77523fb3deaa14de1766304e0911fbc49ae77" version="1">Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects.  They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.  You can find everything you need to play one of these inventors in the next few sections.</content>
-	
+
 	<content contentuid="34523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist</content>
 	<content contentuid="35523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist Spells</content>
 	<content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="45523fb3deaa14de1766304e0911fbc49ae44" version="1">An Alchemist is an expert at combining reagents to produce mystical effects.  Alchemists use their creations to give life and to leech it away.  Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.</content>
-	
+
 	<content contentuid="36523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer</content>
 	<content contentuid="37523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer Spells</content>
 	<content contentuid="37523773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="47523fb3deaa14de1766304e0911fbc49ae44" version="1">An artificer who specializes as an Armorer modifies armor to function almost like a second skin.  The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense.  The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.</content>
-	
+
 	<content contentuid="38523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist</content>
 	<content contentuid="39523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist Spells</content>
 	<content contentuid="39523773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
@@ -41,10 +41,10 @@
 	<content contentuid="34623773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel.  To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation.  Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</content>
 	<content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">This companion's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and damage increase with the &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; of its artificer.</content>
-	
+
 	<content contentuid="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Steel Defender</content>
 	<content contentuid="999f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Your tinkering has borne you a faithful companion, a steel defender.  You can summon it freely and give it commands in battle</content>
-    <content contentuid="77062bb49gc270g4353gb6ebgf4c2248ea879" version="1">Force-Empowered Rend</content>
+	<content contentuid="77062bb49gc270g4353gb6ebgf4c2248ea879" version="1">Force-Empowered Rend</content>
 	<content contentuid="77bf1636cgabfcg4312gbf40g99c410daea86" version="2">Lunge at a target to bite it</content>
 	<content contentuid="he53dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Battle Ready</content>
 	<content contentuid="h5af41faag16e8g4399g8efbgc2af8304f248" version="1">When attacking with a magical weapon, you use your Intelligence for your attack and damage rolls instead of your Strength or Dexterity.</content>
@@ -52,9 +52,9 @@
 	<content contentuid="778f41faag16e8g4399g8efbgc2af8304f248" version="1">You've learn new ways to channel arcane energy to harm or heal.  When you hit a target with a magic weapon attack, you can channel magical energy through the strike to deal an extra 2d6 Force damage to the target or to restoring 2d6 hit points to a creature or construct you can see.</content>
 	<content contentuid="8883dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt Uses</content>
 	<content contentuid="889f41faag16e8g4399g8efbgc2af8304f248" version="1">You can use this energy a number of times equal to your Intelligence modifier (minimum of once).  You regain all expended uses when you finish a long rest.</content>
-    <content contentuid="6969dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Damage)</content>
+	<content contentuid="6969dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Damage)</content>
 	<content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">You can deal 2d6 Force damage to a target you've hit during this turn.  Expends 1 use of Arcane Jolt.</content>
-    <content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Heal)</content>
+	<content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Heal)</content>
 	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see within 30 feet of the target.  Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.  Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemical Adept</content>
 	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Chemicals to craft them.</content>
@@ -68,15 +68,15 @@
 	<content contentuid="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item</content>
 	<content contentuid="hf3234g16e8321g4399g8efbgc2af8304f248" version="1">You've learned to store spells into scrolls.  The magic lasts until a long rest, and you can create a number of scrolls equal to your Intelligence Modifier.</content>
 	<content contentuid="h863423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item Charges</content>
-	
-	
+
+
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
 	<content contentuid="88623fb3deaa14de1766304e0911fbc49ae88" version="1">Infusions</content>
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots: [3]</content>
 	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
 	<content contentuid="11523fb3deaa14de1766304e0911fbc49ae11" version="1">Magical Tinkering</content>
 	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">You've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand.</content>
-    <content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
+	<content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">You've gained the ability to come up with solutions under pressure.  When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add their Proficiency Bonus to the roll.</content>
 	<content contentuid="h77795291g7885g4073gae09ge965b053adee" version="1">Create Spell Slot</content>
@@ -159,7 +159,7 @@
 	<content contentuid="77721bdf5g81ebg495fg864ag4f6686879bcb" version="4">Summon a raven-shaped homunculus that can &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Blind&lt;/LSTag&gt; enemies with its beak.</content>
 	<content contentuid="7775497e1g3067g4b9egb505ge1ee8e3f7aab" version="1">Homunculus Shape: Spider</content>
 	<content contentuid="777f10276g7415g42b3g9b15g056514104f5f" version="3">Summon a spider-shaped homunculus with a poisonous &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;Bite&lt;/LSTag&gt;.</content>
-	
+
 	<content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Experimental Elixir Of Healing</content>
 	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">Experimental Elixir Of Healing Description</content>
 	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">Experimental Elixir Of Healing Technical Description</content>
@@ -186,18 +186,17 @@
 	<content contentuid="h888cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Flying Boots</content>
 	<content contentuid="h888550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">These boots allow their wearer to fly.</content>
 
-	ARMORER ADDITIONS
-    <content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Arcane Armor </content>
-    <content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith's tools in hand.&lt;br&gt;The armor continues to be Arcane Armor until you don another suit of armor or you die.</content>
-    <content contentuid="h12038142g6632g489cg9caeg5e2f719edf9b" version="1">You gain the following benefits while wearing this armor: TODO&lt;br&gt;</content>
-    <content contentuid="h6a9ad1a9g9066g43cfgb1f5gea489c26ab59" version="1">Armor Model</content>
-    <content contentuid="h2785af98gb6fbg4886gb117gce88cc53ea55" version="1">ARMORMODEL DESC TODO</content>
+	<content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Arcane Armor </content>
+	<content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith's tools in hand.&lt;br&gt;The armor continues to be Arcane Armor until you don another suit of armor or you die.</content>
+	<content contentuid="h12038142g6632g489cg9caeg5e2f719edf9b" version="1">You gain the following benefits while wearing this armor: TODO&lt;br&gt;</content>
+	<content contentuid="h6a9ad1a9g9066g43cfgb1f5gea489c26ab59" version="1">Armor Model</content>
+	<content contentuid="h2785af98gb6fbg4886gb117gce88cc53ea55" version="1">ARMORMODEL DESC TODO</content>
 	<content contentuid="h5dd62355g3b68g457aga31dg36e1b81ae6f3" version="1">Armor Model: Guardian</content>
-    <content contentuid="he76d1b71g575fg459fg84b3geb09d829dec0" version="1">Armor Model: Guardian Desc TODO</content>
+	<content contentuid="he76d1b71g575fg459fg84b3geb09d829dec0" version="1">Armor Model: Guardian Desc TODO</content>
 	<content contentuid="h83fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Armor Model: Infiltrator</content>
-    <content contentuid="ha81b99e3gdfebg41b3gbef7gecc642f765c5" version="1">Armor Model: Infiltrator DESC TODO</content>
-    <content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Armor Modifications </content>
-    <content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">You've learned how to use your artificer infusions to specially modify your  Arcane Armor. Each piece of equipment you wear can bear eone of your infusions, and the infusions transfer over if yo ucahnge your armor's model with the Armor Model feature.</content>
-    <content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">In addtion, the maximum number of items you can infuse at once increases by [2], but those extra items must be part of your Arcane Armor. </content>
+	<content contentuid="ha81b99e3gdfebg41b3gbef7gecc642f765c5" version="1">Armor Model: Infiltrator DESC TODO</content>
+	<content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Armor Modifications </content>
+	<content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">You've learned how to use your artificer infusions to specially modify your  Arcane Armor. Each piece of equipment you wear can bear eone of your infusions, and the infusions transfer over if yo ucahnge your armor's model with the Armor Model feature.</content>
+	<content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">In addtion, the maximum number of items you can infuse at once increases by [2], but those extra items must be part of your Arcane Armor. </content>
 
 </contentList>
