@@ -39,7 +39,7 @@
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith</content>
 	<content contentuid="34623fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith Spells</content>
 	<content contentuid="34623773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
-	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel.  To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation.  Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</content>
+	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armies require protection, and someone has to put things back together if defenses fail.  A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel.  To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation.  Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</content>
 	<content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">This companion's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and damage increase with the &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; of its artificer.</content>
 
 	<content contentuid="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Steel Defender</content>
@@ -77,8 +77,8 @@
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots: [3]</content>
 	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
 	<content contentuid="11523fb3deaa14de1766304e0911fbc49ae11" version="1">Magical Tinkering</content>
-	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">You've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand.</content>
-	<content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
+	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">You've learned how to invest a spark of magic into mundane objects.  To use this ability, you must have thieves' tools or artisan's tools in hand.</content>
+    <content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">You've gained the ability to come up with solutions under pressure.  When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add their Proficiency Bonus to the roll.</content>
 	<content contentuid="h77795291g7885g4073gae09ge965b053adee" version="1">Create Spell Slot</content>
@@ -185,11 +185,14 @@
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Sturdy Armour</content>
 
 	<content contentuid="h1234564ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replicate Magic Item</content>
-	<content contentuid="h7891014ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Using this infusion, you replicate a particular magic items. Each item will consume an Infusion Slot.</content>
-	<content contentuid="h777cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Circlet of Mind Reading</content>
+	<content contentuid="h7891014ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Using this infusion, you replicate a particular magic items.  Each item will consume an Infusion Slot and will disappear at Long Rest.</content>
+	<content contentuid="h777cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replica: Circlet of Mind Reading</content>
 	<content contentuid="h777550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">This magic circlet enables its wearer to read minds.  Unlocks Detect Thoughts and Counterspell.</content>
-	<content contentuid="h888cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Flying Boots</content>
+	<content contentuid="h888cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replica: Flying Boots</content>
 	<content contentuid="h888550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">These boots allow their wearer to fly.</content>
+	<content contentuid="hfff13be0g55d1g413dg93b9g2f0b17780151" version="1">Replica: Crypt Lord Ring</content>
+	<content contentuid="hfff60a15geebfg4c4dga6a1g741690720575" version="1">Replica: Amulet of Health</content>
+	<content contentuid="hfff574eagad02g478bga5b9gff638f0f278e" version="1">Replica: Gauntlets of Giant Strength</content>
 
 	<content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Arcane Armor </content>
 	<content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith's tools in hand.&lt;br&gt;The armor continues to be Arcane Armor until you don another suit of armor or you die.</content>
@@ -203,5 +206,4 @@
 	<content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Armor Modifications </content>
 	<content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">You've learned how to use your artificer infusions to specially modify your  Arcane Armor. Each piece of equipment you wear can bear eone of your infusions, and the infusions transfer over if yo ucahnge your armor's model with the Armor Model feature.</content>
 	<content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">In addtion, the maximum number of items you can infuse at once increases by [2], but those extra items must be part of your Arcane Armor. </content>
-
 </contentList>

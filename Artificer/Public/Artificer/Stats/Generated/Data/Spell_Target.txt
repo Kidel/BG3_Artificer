@@ -116,6 +116,7 @@ data "TargetSound" "Spell_Impact_Healing_Heal_L6to8"
 data "Sheathing" "DontChange"
 data "PrepareSound" "Generic_GeneralAction_Start"
 data "PrepareLoopSound" "Generic_GeneralAction_Loop"
+data "Cooldown" "OncePerShortRest"
 
 
 new entry "Target_ArtilleristCompanion"
@@ -274,3 +275,15 @@ data "TooltipUpcastDescription" ""
 data "UseCosts" "BonusActionPoint:1"
 data "MemoryCost" ""
 
+
+new entry "Target_Deflect_Interrupt"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_DampenElements_Interrupt"
+data "Level" ""
+data "SpellSchool" ""
+data "Icon" "PassiveFeature_DeflectMissiles"
+data "DisplayName" "2222222c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
+data "Description" "3222223aag16e8g4399g8efbgc2af8304f248;1"
+data "SpellAnimation" ",,;,,;f67fc499-6be4-47f3-a65e-1570b4b1d64a,,;,,;,,;,,;,,;,,;,,"
+data "HitAnimationType" "None"
