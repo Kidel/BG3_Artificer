@@ -119,6 +119,11 @@
                 Artillerist always prepared
 
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Companion"/>
+                    <attribute id="Spells" type="LSString" value="Target_ArtilleristCompanion"/>
+                    <attribute id="UUID" type="guid" value="a05aa11f-aa98-412f-a85e-7fae4561a4aa"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 3"/>
                     <attribute id="Spells" type="LSString" value="Shout_Shield_Wizard;Zone_Thunderwave"/>
                     <attribute id="UUID" type="guid" value="1a70cb52-82f5-43ac-902f-df674795d7e2"/>
@@ -138,7 +143,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="BattleSmith Companion"/>
-                    <attribute id="Spells" type="LSString" value="Target_BattleSmithCompanion;Target_ArtilleristCompanion"/> TODO move Target_ArtilleristCompanion to Artillerist
+                    <attribute id="Spells" type="LSString" value="Target_BattleSmithCompanion"/>
                     <attribute id="UUID" type="guid" value="c05aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
                 <node id="SpellList">
