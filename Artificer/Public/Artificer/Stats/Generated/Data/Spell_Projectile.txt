@@ -23,6 +23,12 @@ data "SpellRoll" "Attack(AttackType.RangedSpellAttack)"
 data "TooltipAttackSave" "RangedSpellAttack"
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;AddFallDamageOnLand"
 
+new entry "Projectile_Artillerist_MagicMissile_Shot_2"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_Artillerist_MagicMissile_Shot"
+data "SpellSuccess" "DealDamage(max(1,3d8+ProficiencyBonus),Force,Magical);Force(5, OriginToTarget)"
+data "TooltipDamageList" "DealDamage(3d8+ProficiencyBonus,Force)"
 
 new entry "Projectile_Astral_Plane"
 type "SpellData"
