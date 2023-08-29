@@ -210,8 +210,18 @@ data "StatsFunctors" "ApplyStatus(SELF,SPELLSTORING_ITEM_RESOURCE,100,6)"
 new entry "Artificer_ArmorModifications_Passive
 type "PassiveData"
 data "Icon" "Passive_ArmorModifications"
+data "Properties" "IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn;Highlighted"
 data "DisplayName" "habe83eaag7ea6g4b29ga470g909b8380079d;1"
 data "Description" "hd5df559eg3214g4772g9085gce3dcff90a4d;1"
+
+new entry "Artificer_ArcaneArmor_Passive"
+type "PassiveData"
+data "DisplayName" "he272fe27g5fa7g4b7ag8392g5e7d606c554e;1"
+data "Description" "hb788c89dga6c8g40f1gb35cg8ccca36f35b3;1"
+data "ExtraDescription" "h12038142g6632g489cg9caeg5e2f719edf9b;1"
+data "Properties" "IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn;Highlighted"
+data "Icon" "PassiveFeature_HeavilyArmored"
+data "Boosts" "Proficiency(HeavyArmor)"
 
 
 new entry "Artificer_BattleCompanion_Deflect"
@@ -220,12 +230,3 @@ data "DisplayName" "2222222c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
 data "Description" "3222223aag16e8g4399g8efbgc2af8304f248;1"
 data "Icon" "PassiveFeature_DeflectMissiles"
 data "Boosts" "UnlockInterrupt(Interrupt_Deflect)"
-
-
-new entry "Armorer_ArcaneArmor"
-type "PassiveData"
-data "DisplayName" "TODO;1"
-data "Description" "TODO;1"
-data "Icon" "PassiveFeature_FavoredEnemy_RangerKnight"
-data "Properties" "Highlighted"
-data "Boosts" "Proficiency(HeavyArmor)"
