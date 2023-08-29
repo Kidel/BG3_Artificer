@@ -226,21 +226,21 @@
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>					
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 30
+                    <attribute id="MapKey" type="FixedString" value="Skill_Infusion_BootsOfTheWindingPath"/> 30
                     <attribute id="U1" type="float" value="0.90625"/> Left
                     <attribute id="U2" type="float" value="0.9375"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>							
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 31
+                    <attribute id="MapKey" type="FixedString" value="Skill_Infusion_ReplicateMagicItem"/> 31
                     <attribute id="U1" type="float" value="0.9375"/> Left
                     <attribute id="U2" type="float" value="0.96875"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 32
+                    <attribute id="MapKey" type="FixedString" value="Passive_AlchemicalSavant"/> 32
                     <attribute id="U1" type="float" value="0.96875"/> Left
                     <attribute id="U2" type="float" value="1.0"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
@@ -325,21 +325,21 @@
                     <attribute id="V2" type="float" value="0.09375"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 76 ROW 3 = 12
+                    <attribute id="MapKey" type="FixedString" value="Passive_RestorativeReagents"/> 76 ROW 3 = 12
                     <attribute id="U1" type="float" value="0.34375"/> Left
                     <attribute id="U2" type="float" value="0.375"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 77 ROW 3 = 13
+                    <attribute id="MapKey" type="FixedString" value="Passive_ChemicalMastery"/> 77 ROW 3 = 13
                     <attribute id="U1" type="float" value="0.375"/> Left
                     <attribute id="U2" type="float" value="0.40625"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 78 ROW 3 = 14
+                    <attribute id="MapKey" type="FixedString" value="Passive_ArcaneFirearm"/> 78 ROW 3 = 14
                     <attribute id="U1" type="float" value="0.40625"/> Left
                     <attribute id="U2" type="float" value="0.4375"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
