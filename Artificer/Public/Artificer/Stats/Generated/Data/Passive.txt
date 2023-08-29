@@ -49,6 +49,16 @@ data "Conditions" "not HasStatus('AURA_OF_ARTIFICER_PASSIVE_3')"
 data "StatsFunctors" "ApplyStatus(SELF,AURA_OF_ARTIFICER_PASSIVE_3,100,-1)"
 data "Properties" "IsHidden"
 
+new entry "AuraOfArtificer_Passive_Technical_Self_4"
+type "PassiveData"
+data "DisplayName" "h877777777777777777777777777777777777;1"
+data "Description" "h877777777777777777777777777777777777;1"
+data "Icon" "Spell_Conjuration_CallLightning"
+data "StatsFunctorContext" "OnCreate;OnTurn;OnCast"
+data "Conditions" "not HasStatus('AURA_OF_ARTIFICER_PASSIVE_4')"
+data "StatsFunctors" "ApplyStatus(SELF,AURA_OF_ARTIFICER_PASSIVE_4,100,-1)"
+data "Properties" "IsHidden"
+
 
 new entry "AstralPlane_BagOfHolding_Check"
 type "PassiveData"

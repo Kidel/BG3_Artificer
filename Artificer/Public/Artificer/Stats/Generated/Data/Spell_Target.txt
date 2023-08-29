@@ -262,3 +262,15 @@ data "TargetConditions" "Character() and not Dead() and not Tagged('UNDEAD')"
 data "RequirementConditions" "not HasStatus('ARCANE_JOLT_SKILLS_LOCKED_FOR_THE_TURN')"
 data "SpellFlags" "Temporary;RangeIgnoreVerticalThreshold"
 data "TargetRadius" "9"
+
+
+new entry "Target_WindingPath"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MistyStep"
+data "Level" "0"
+data "Cooldown" "OncePerShortRest"
+data "TooltipUpcastDescription" ""
+data "UseCosts" "BonusActionPoint:1"
+data "MemoryCost" ""
+
