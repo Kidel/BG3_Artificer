@@ -56,6 +56,9 @@
 	<content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">You can deal 2d6 Force damage to a target you've hit during this turn.  Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Heal)</content>
 	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see within 30 feet of the target.  Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.  Expends 1 use of Arcane Jolt.</content>
+	<content contentuid="2222222c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Deflect Attack</content>
+	<content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">The defender imposes disadvantage on the attack roll of one creature it can see, provided the attack roll is against a creature other than the defender.</content>
+	
 	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemical Adept</content>
 	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Chemicals to craft them.</content>
 	<content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvage Chemicals</content>
@@ -68,7 +71,6 @@
 	<content contentuid="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item</content>
 	<content contentuid="hf3234g16e8321g4399g8efbgc2af8304f248" version="1">You've learned to store spells into scrolls.  The magic lasts until a long rest, and you can create a number of scrolls equal to your Intelligence Modifier.</content>
 	<content contentuid="h863423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item Charges</content>
-
 
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
 	<content contentuid="88623fb3deaa14de1766304e0911fbc49ae88" version="1">Infusions</content>
@@ -96,7 +98,7 @@
 	<content contentuid="haaeb23b5g8c4eg421dgba6cg788a69febd7e" version="1">The target weapon becomes magical and grants a +1 bonus to attack and damage rolls made with it.  The bonus increases to +2 when you reach 10th level in this class.</content>
 	<content contentuid="he90dc261g9bf3g4b67gbf1eg3f728c2cdf7c" version="1">Infusion: Armor of Magical Strength</content>
 	<content contentuid="hb4c39b3dgd96dg4076g8bdcg302e2029ba5f" version="1">Infusion: Boots of the Winding Path</content>
-	<content contentuid="h22f3c61276f345b7af738e62c34e8f8defef" version="1">You can infuse a pair of boots allowing the wearer to cast Misty Step once per combat.</content>
+	<content contentuid="h22f3c61276f345b7af738e62c34e8f8defef" version="1">You can infuse a pair of boots allowing the wearer to increase their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [1] and don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
 	<content contentuid="hca0258e6g810eg49adga6c2gf721366b6d9c" version="1">Infusion: Helm of Awareness</content>
 	<content contentuid="he89f91cagc783g4f8dg9ac7gbba426757c6e" version="1">Infusion: Mind Sharpener</content>
 	<content contentuid="h5bb0aa44gdd6dg475cgb896g1ee6e25f808a" version="1">Infusion: Radiant Weapon</content>
@@ -182,6 +184,8 @@
 	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Elemental Elixir</content>
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Sturdy Armour</content>
 
+	<content contentuid="h1234564ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replicate Magic Item</content>
+	<content contentuid="h7891014ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Using this infusion, you replicate a particular magic items. Each item will consume an Infusion Slot.</content>
 	<content contentuid="h777cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Circlet of Mind Reading</content>
 	<content contentuid="h777550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">This magic circlet enables its wearer to read minds.  Unlocks Detect Thoughts and Counterspell.</content>
 	<content contentuid="h888cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Flying Boots</content>
