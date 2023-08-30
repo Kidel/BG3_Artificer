@@ -223,6 +223,25 @@ data "CastEffect" "fb2cd1f1-3fb7-4efc-87cc-61f08868f567"
 data "Sheathing" "Ranged"
 
 
+new entry "Target_EldritchBlast_Tiny_EldritchCannon"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Target_EldritchBlast_EldritchCannon"
+data "UseCosts" "BonusActionPoint:1"
+
+new entry "Target_EldritchBlast_2_Tiny_EldritchCannon"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Target_EldritchBlast_2_EldritchCannon"
+data "UseCosts" "BonusActionPoint:1"
+
+new entry "Target_FalseLife_Tiny_EldritchCannon"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_FalseLife_EldritchCannon"
+data "UseCosts" "BonusActionPoint:1"
+
+
 new entry "Target_FlashOfGenius"
 type "SpellData"
 data "SpellType" "Target"
