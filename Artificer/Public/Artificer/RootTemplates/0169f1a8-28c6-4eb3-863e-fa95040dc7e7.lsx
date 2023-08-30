@@ -5,8 +5,8 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="0069f1a8-28c6-4eb3-863e-fa95040dc7e7" />
-					<attribute id="Name" type="LSString" value="Artillerist_EldritchCannon" />
+					<attribute id="MapKey" type="FixedString" value="0169f1a8-28c6-4eb3-863e-fa95040dc7e7" />
+					<attribute id="Name" type="LSString" value="Artillerist_EldritchCannon_2" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="d5676054-fe07-4c6d-8433-b79b33a80a89" />
@@ -14,7 +14,7 @@
 					<attribute id="Scale" type="float" value="0.5" />
 					<attribute id="DisplayName" type="TranslatedString" handle="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1" />
 					<attribute id="Icon" type="FixedString" value="Portrait_Creature_ArcaneTurret_Activated" />
-					<attribute id="Stats" type="FixedString" value="Companion_Artillerist_EldritchCannon" />
+					<attribute id="Stats" type="FixedString" value="Companion_Artillerist_EldritchCannon_2" />
 					<attribute id="DeathEffect" type="guid" value="eb0aa43b-fcdc-4ef2-548c-0ef60775834e" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="3dd938ff-cd2f-797b-459a-6f3113a96bfa" />
 					<attribute id="DisintegratedResourceID" type="FixedString" value="a8df0d5a-d171-89d2-fd37-424a7f914ec6" />
@@ -53,7 +53,7 @@
 						<node id="SkillList">
 							<children>
 								<node id="Skill">
-									<attribute id="Skill" type="FixedString" value="Zone_BurningHands_EldritchCannon" />
+									<attribute id="Skill" type="FixedString" value="Zone_BurningHands_2_EldritchCannon" />
 									<attribute id="SpellCastingAbility" type="uint8" value="4" />
 									<attribute id="LearningStrategy" type="uint8" value="0" />
 									<attribute id="ScoreModifier" type="float" value="3" />
@@ -80,7 +80,7 @@
 									</children>
 								</node>
 								<node id="Skill">
-									<attribute id="Skill" type="FixedString" value="Target_EldritchBlast_EldritchCannon" />
+									<attribute id="Skill" type="FixedString" value="Target_EldritchBlast_2_EldritchCannon" />
 									<attribute id="SpellCastingAbility" type="uint8" value="4" />
 									<attribute id="LearningStrategy" type="uint8" value="0" />
 									<attribute id="ScoreModifier" type="float" value="3" />
@@ -108,6 +108,60 @@
 								</node>
 								<node id="Skill">
 									<attribute id="Skill" type="FixedString" value="Target_FalseLife_EldritchCannon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="4" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="3" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_SelfDescruct_EldritchCannon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="4" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="3" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Shout_Cannon_SelfDestruct" />
 									<attribute id="SpellCastingAbility" type="uint8" value="4" />
 									<attribute id="LearningStrategy" type="uint8" value="0" />
 									<attribute id="ScoreModifier" type="float" value="3" />
@@ -166,7 +220,7 @@
 						<node id="StatusList">
 							<children>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_CANNON" />
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_CANNON_2" />
 								</node>
 								<node id="Status">
 									<attribute id="Object" type="FixedString" value="DISGUISE_SELF_ELDRITCH_CANNON" />

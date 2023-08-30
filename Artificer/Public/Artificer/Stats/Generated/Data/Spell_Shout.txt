@@ -50,7 +50,6 @@ data "Description" ""
 data "Icon" "Item_TOOL_GEN_Shovel_A"
 
 
-
 new entry "Shout_Produce_Experimental_Elixir"
 type "SpellData"
 data "SpellType" "Shout"
@@ -371,3 +370,16 @@ data "Icon" "Skill_ArcaneArmor_Infiltrator"
 data "SpellProperties" ""
 data "DisplayName" "h83fd3cd2gb9a3g45aegb17ag371fd93e0c06;1"
 data "Description" "ha81b99e3gdfebg41b3gbef7gecc642f765c5;1"
+
+
+new entry "Shout_Cannon_SelfDestruct"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_WYR_PotentDrink_Stone"
+data "TargetConditions" "Self()"
+data "Cooldown" "OncePerRest"
+data "UseCosts" "ActionPoint:1"
+data "DisplayName" "h3250c3cfg334bg448dgad59g079e7e0a2b46;1"
+data "Description" "he26b31c4g0908g4b94g872ag9e61113a5b65;1"
+data "Icon" "PassiveFeature_Generic_Explosion"
+data "SpellProperties" "ApplyStatus(CANNON_SELFDESTRUCT,100,2)"

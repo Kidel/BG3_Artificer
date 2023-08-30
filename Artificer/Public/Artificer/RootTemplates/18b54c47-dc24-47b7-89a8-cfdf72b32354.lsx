@@ -5,8 +5,8 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="17b54c47-dc24-47b7-89a8-cfdf72b32354" />
-					<attribute id="Name" type="LSString" value="Artillerist_EldritchCannon_POLYMORPH" />
+					<attribute id="MapKey" type="FixedString" value="18b54c47-dc24-47b7-89a8-cfdf72b32354" />
+					<attribute id="Name" type="LSString" value="Artillerist_EldritchCannon_POLYMORPH_2" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="" />
@@ -20,7 +20,7 @@
 					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
 					<attribute id="DisplayName" type="TranslatedString" handle="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1" />
 					<attribute id="Icon" type="FixedString" value="Portrait_Creature_ArcaneTurret_Activated" />
-					<attribute id="Stats" type="FixedString" value="Companion_Artillerist_EldritchCannon" />
+					<attribute id="Stats" type="FixedString" value="Companion_Artillerist_EldritchCannon_2" />
 					<attribute id="LadderAttachOffset" type="float" value="0" />
 					<attribute id="Scale" type="float" value="0.5" />
 					<attribute id="LadderLoopSpeed" type="float" value="4" />
@@ -40,7 +40,7 @@
 					<attribute id="IsLootable" type="bool" value="False" />
 					<attribute id="LightChannel" type="uint8" value="5" />
 					<attribute id="InventoryType" type="uint8" value="41" />
-					<attribute id="AnubisConfigName" type="FixedString" value="Artillerist_EldritchCannon" />
+					<attribute id="AnubisConfigName" type="FixedString" value="Artillerist_EldritchCannon_2" />
 					<attribute id="DeathRaycastMinLength" type="float" value="1" />
 					<attribute id="DeathRaycastMaxLength" type="float" value="1.5" />
 					<attribute id="Race" type="guid" value="959e884c-d96c-4f09-ea91-4ae9355871bf" />
@@ -105,7 +105,7 @@
 						<node id="SkillList">
 							<children>
 								<node id="Skill">
-									<attribute id="Skill" type="FixedString" value="Zone_BurningHands_EldritchCannon" />
+									<attribute id="Skill" type="FixedString" value="Zone_BurningHands_2_EldritchCannon" />
 									<attribute id="SpellCastingAbility" type="uint8" value="4" />
 									<attribute id="LearningStrategy" type="uint8" value="0" />
 									<attribute id="ScoreModifier" type="float" value="3" />
@@ -132,7 +132,7 @@
 									</children>
 								</node>
 								<node id="Skill">
-									<attribute id="Skill" type="FixedString" value="Target_EldritchBlast_EldritchCannon" />
+									<attribute id="Skill" type="FixedString" value="Target_EldritchBlast_2_EldritchCannon" />
 									<attribute id="SpellCastingAbility" type="uint8" value="4" />
 									<attribute id="LearningStrategy" type="uint8" value="0" />
 									<attribute id="ScoreModifier" type="float" value="3" />
@@ -160,6 +160,33 @@
 								</node>
 								<node id="Skill">
 									<attribute id="Skill" type="FixedString" value="Target_FalseLife_EldritchCannon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="4" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="3" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Shout_Cannon_SelfDestruct" />
 									<attribute id="SpellCastingAbility" type="uint8" value="4" />
 									<attribute id="LearningStrategy" type="uint8" value="0" />
 									<attribute id="ScoreModifier" type="float" value="3" />
@@ -218,7 +245,7 @@
 						<node id="StatusList">
 							<children>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_CANNON" />
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_CANNON_2" />
 								</node>
 								<node id="Status">
 									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />

@@ -9,6 +9,8 @@
 	<content contentuid="h677777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck L10</content>
 	<content contentuid="h877777777777777777777777777777777777" version="1">Debug: Passive Aura of Artificer - Passive (Technical) - Self</content>
 
+	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Sturdy Armour</content>
+
 	<content contentuid="66523fb3deaa14de1766304e0911fbc49ae66" version="1">Artificer</content>
 	<content contentuid="77523fb3deaa14de1766304e0911fbc49ae77" version="1">Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects.  They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.  You can find everything you need to play one of these inventors in the next few sections.</content>
 
@@ -16,6 +18,25 @@
 	<content contentuid="35523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist Spells</content>
 	<content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="45523fb3deaa14de1766304e0911fbc49ae44" version="1">An Alchemist is an expert at combining reagents to produce mystical effects.  Alchemists use their creations to give life and to leech it away.  Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.</content>
+	<content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Experimental Elixir Of Healing</content>
+	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">Experimental Elixir Of Healing Description</content>
+	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">Experimental Elixir Of Healing Technical Description</content>
+	<content contentuid="h881a9a60g86efg4d27g938bg44ccdfa66007" version="1">Experimental Elixir Of Swiftness</content>
+	<content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">Experimental Elixir Of Swiftness Description</content>
+	<content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1">Experimental Elixir Of Swiftness Technical Description</content>
+	<content contentuid="he840f63fgd75eg459egbaa0gd40813a27ad1" version="1">Experimental Elixir Of Resilience</content>
+	<content contentuid="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="1">Experimental Elixir Of Resilience Description</content>
+	<content contentuid="hc54f8986ge0e9g4129g9641ga485f5688c75" version="1">Experimental Elixir Of Resilience Technical Description</content>
+	<content contentuid="hdf075fecg7f0bg4c71gb53cge98be513a083" version="1">Experimental Elixir Of Boldness</content>
+	<content contentuid="he260c9deg7786g4fe1gba1cg78ffb2b44c90" version="1">Experimental Elixir Of Boldness Description</content>
+	<content contentuid="h1c005ea1g2c9dg4796g8997g2fd5ca6f03d2" version="1">Experimental Elixir Of Boldness Technical Description</content>
+	<content contentuid="h0cf06693gf819g4d28g9a80g335e3824f691" version="1">Experimental Elixir Of Flight</content>
+	<content contentuid="hc624c03eg6925g4a0dg8955gd270d880ca11" version="1">Experimental Elixir Of Flight Description</content>
+	<content contentuid="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="1">Experimental Elixir Of Flight Technical Description</content>
+	<content contentuid="he0ea98c8g0da5g4800ga908g82799e9f9554" version="1">Experimental Elixir Of Transformation</content>
+	<content contentuid="h7ca563b1g6296g4a15g8599gfe48be37da86" version="1">Experimental Elixir Of Transformation Description</content>
+	<content contentuid="hf4498c39g63d5g41e8g8c3dg9e76f58ddd16" version="1">Experimental Elixir Of Transformation Technical Description</content>
+	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Elemental Elixir</content>
 
 	<content contentuid="36523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer</content>
 	<content contentuid="37523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer Spells</content>
@@ -35,6 +56,12 @@
 	<content contentuid="2236e61e8g9b89g4f30gb649gb3a97346a443" version="1">Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it.  On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.</content>
 	<content contentuid="3326e61e8g9b89g4f30gb649gb3a97346a443" version="1">Protector</content>
 	<content contentuid="3336e61e8g9b89g4f30gb649gb3a97346a443" version="1">The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Proficiency Bonus (minimum of +1).</content>
+	<content contentuid="h4d740fa9g3b35g4011ga4d0g6a00e076ca21" version="1">Arcane Firearm</content>
+	<content contentuid="h99fef735gf7bcg4fa4gbec8g8a8500cd5f69" version="1">You know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you cast a spell, you can add 1d8 to one damage roll.</content>
+	<content contentuid="h7750c3cfg334bg448dgad59g079e7e0a2b46" version="1">Explosive Cannon</content>
+	<content contentuid="h776b31c4g0908g4b94g872ag9e61113a5b65" version="1">The cannon's damage rolls all increase by 1d8.  You can command the cannon to detonate.  Doing so destroys the cannon and forces each creature in range to make a Dexterity saving throw.</content>
+	<content contentuid="h3250c3cfg334bg448dgad59g079e7e0a2b46" version="1">Self Destruct</content>
+	<content contentuid="he26b31c4g0908g4b94g872ag9e61113a5b65" version="1">Orders the cannon to eject all stored energy into a violent explosion.</content>
 
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith</content>
 	<content contentuid="34623fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith Spells</content>
@@ -58,7 +85,7 @@
 	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see within 30 feet of the target.  Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.  Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="2222222c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Deflect Attack</content>
 	<content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">The defender imposes disadvantage on the attack roll of one creature it can see, provided the attack roll is against a creature other than the defender.</content>
-	
+
 	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemical Adept</content>
 	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Chemicals to craft them.</content>
 	<content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvage Chemicals</content>
@@ -78,16 +105,15 @@
 	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
 	<content contentuid="11523fb3deaa14de1766304e0911fbc49ae11" version="1">Magical Tinkering</content>
 	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">You've learned how to invest a spark of magic into mundane objects.  To use this ability, you must have thieves' tools or artisan's tools in hand.</content>
-    <content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
+	<content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">You've gained the ability to come up with solutions under pressure.  When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add their Proficiency Bonus to the roll.</content>
 	<content contentuid="h77795291g7885g4073gae09ge965b053adee" version="1">Create Spell Slot</content>
 	<content contentuid="h777b555eg9c5fg4a37gb370g47cab9a77bf3" version="1">Spend Infusion Slots to unlock a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
-
-	<content contentuid="h9efaa994g1470g4e9fgb79eg5b65ca0eabab" version="1">The Right Tool for the Job</content> Right Tool for the Job - Thieve's Tools - Display Name
-	<content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">You've learned how to produce exactly the tool you need:  You can magically create thieves Tools, a trap disarmimg kit, or a shovel.</content> 
-	<content contentuid="hde264abbg9d67g4000gb383g12ce2ac80341" version="1">Craft: Thieves Tools</content> 
-	<content contentuid="hd0f27fc2gffb5g4e11ga18dg0b0634fb3ac7" version="1">Craft: Trap Disarm Kit</content> 
+	<content contentuid="h9efaa994g1470g4e9fgb79eg5b65ca0eabab" version="1">The Right Tool for the Job</content>
+	<content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">You've learned how to produce exactly the tool you need:  You can magically create thieves Tools, a trap disarmimg kit, or a shovel.</content>
+	<content contentuid="hde264abbg9d67g4000gb383g12ce2ac80341" version="1">Craft: Thieves Tools</content>
+	<content contentuid="hd0f27fc2gffb5g4e11ga18dg0b0634fb3ac7" version="1">Craft: Trap Disarm Kit</content>
 	<content contentuid="h95a73c80ga7a2g4049g8329g92e1048cf2eb" version="1">Craft: Shovel</content>
 	<content contentuid="h4b087c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Enhanced Defense</content>
 	<content contentuid="h57787c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Enhanced Defense Equipped</content>
@@ -108,7 +134,6 @@
 	<content contentuid="h9960aa4499d6dg477cgb896g1ee6e25f8997" version="1">This magic weapon grants a + 1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</content>
 	<content contentuid="h35a784f2gfef9g4d32g909dgb2596a0f2baa" version="1">Infusion: Repeating Shot</content>
 	<content contentuid="had7f84f2gfef9g4d32g909dgb2596a0f2ccc" version="1">This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.  If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it, allowing to attack twice per turn.  The ammunition created by the weapon vanishes the instant after it hits or misses a target.</content>
-
 	<content contentuid="hc0f7ac54391a4420688e6f814692e99a8ccc" version="1">Infusion: Resistant Armor</content>
 	<content contentuid="hc6bbc38e41b25457cb813aa8a4c96b313ccc" version="1">While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.</content>
 	<content contentuid="hc4ad6526d19724cf98e69fb6fa0d7818accc" version="1">Infusion: Resistant Armor (Acid)</content>
@@ -142,7 +167,6 @@
 	<content contentuid="hc7d2e818798044bd492f7a5150b9c91c5ccc" version="1">While wearing this armor, a creature has resistance to psychic damage.</content>
 	<content contentuid="hc5e87b2a8f9bc4046902b677a3a3143a8ccc" version="1">While wearing this armor, a creature has resistance to radiant damage.</content>
 	<content contentuid="hc328b59e9ad994d0fa282fc6f7d8fa65accc" version="1">While wearing this armor, a creature has resistance to thunder damage.</content>
-
 	<content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfa9" version="1">Infusion: Bag of Holding</content>
 	<content contentuid="777463d7fg404cg4825g8dedgdeebc97b9914" version="1">&lt;LSTag Type="Image" Info="Warning"/&gt; Using it twice will create a brief portal to the Astral Plane</content>
 	<content contentuid="hcc921844g2288g4c8dg9663gc53d74cf0c28" version="1">You learned how to infuse your backpack with magical energy to transform it into a Bag of Holding that allows you to place items in an extradimensional space, greatly increasing the amount of items it can carry and disregarding weight.  The Bag of Holding won't work in the Astral Plane.  Using this infusion twice or placing the Bag of Holding inside another extradimensional space instantly destroys both items and opens a gate to the Astral Plane.  The gate originates where the one item was placed inside the other.  Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane.  The gate then closes.  The gate is one-way only and can't be reopened.</content>
@@ -162,27 +186,6 @@
 	<content contentuid="77721bdf5g81ebg495fg864ag4f6686879bcb" version="4">Summon a raven-shaped homunculus that can &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Blind&lt;/LSTag&gt; enemies with its beak.</content>
 	<content contentuid="7775497e1g3067g4b9egb505ge1ee8e3f7aab" version="1">Homunculus Shape: Spider</content>
 	<content contentuid="777f10276g7415g42b3g9b15g056514104f5f" version="3">Summon a spider-shaped homunculus with a poisonous &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;Bite&lt;/LSTag&gt;.</content>
-
-	<content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Experimental Elixir Of Healing</content>
-	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">Experimental Elixir Of Healing Description</content>
-	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">Experimental Elixir Of Healing Technical Description</content>
-	<content contentuid="h881a9a60g86efg4d27g938bg44ccdfa66007" version="1">Experimental Elixir Of Swiftness</content>
-	<content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">Experimental Elixir Of Swiftness Description</content>
-	<content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1">Experimental Elixir Of Swiftness Technical Description</content>
-	<content contentuid="he840f63fgd75eg459egbaa0gd40813a27ad1" version="1">Experimental Elixir Of Resilience</content>
-	<content contentuid="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="1">Experimental Elixir Of Resilience Description</content>
-	<content contentuid="hc54f8986ge0e9g4129g9641ga485f5688c75" version="1">Experimental Elixir Of Resilience Technical Description</content>
-	<content contentuid="hdf075fecg7f0bg4c71gb53cge98be513a083" version="1">Experimental Elixir Of Boldness</content>
-	<content contentuid="he260c9deg7786g4fe1gba1cg78ffb2b44c90" version="1">Experimental Elixir Of Boldness Description</content>
-	<content contentuid="h1c005ea1g2c9dg4796g8997g2fd5ca6f03d2" version="1">Experimental Elixir Of Boldness Technical Description</content>
-	<content contentuid="h0cf06693gf819g4d28g9a80g335e3824f691" version="1">Experimental Elixir Of Flight</content>
-	<content contentuid="hc624c03eg6925g4a0dg8955gd270d880ca11" version="1">Experimental Elixir Of Flight Description</content>
-	<content contentuid="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="1">Experimental Elixir Of Flight Technical Description</content>
-	<content contentuid="he0ea98c8g0da5g4800ga908g82799e9f9554" version="1">Experimental Elixir Of Transformation</content>
-	<content contentuid="h7ca563b1g6296g4a15g8599gfe48be37da86" version="1">Experimental Elixir Of Transformation Description</content>
-	<content contentuid="hf4498c39g63d5g41e8g8c3dg9e76f58ddd16" version="1">Experimental Elixir Of Transformation Technical Description</content>
-	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Elemental Elixir</content>
-	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Sturdy Armour</content>
 
 	<content contentuid="h1234564ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replicate Magic Item</content>
 	<content contentuid="h7891014ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Using this infusion, you replicate a particular magic items.  Each item will consume an Infusion Slot and will disappear at Long Rest.</content>
