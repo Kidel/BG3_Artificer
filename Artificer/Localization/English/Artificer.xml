@@ -197,16 +197,14 @@
 	<content contentuid="hfff60a15geebfg4c4dga6a1g741690720575" version="1">Replica: Amulet of Health</content>
 	<content contentuid="hfff574eagad02g478bga5b9gff638f0f278e" version="1">Replica: Gauntlets of Giant Strength</content>
 
-	<content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Arcane Armor </content>
-	<content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith's tools in hand.&lt;br&gt;The armor continues to be Arcane Armor until you don another suit of armor or you die.</content>
+	<content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Arcane Armor</content>
+	<content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor.</content>
 	<content contentuid="h12038142g6632g489cg9caeg5e2f719edf9b" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Heavy Armour.</content>
-	<content contentuid="h6a9ad1a9g9066g43cfgb1f5gea489c26ab59" version="1">Armor Model</content>
-	<content contentuid="h2785af98gb6fbg4886gb117gce88cc53ea55" version="1">ARMORMODEL DESC TODO</content>
 	<content contentuid="h5dd62355g3b68g457aga31dg36e1b81ae6f3" version="1">Armor Model: Guardian</content>
-	<content contentuid="he76d1b71g575fg459fg84b3geb09d829dec0" version="1">Armor Model: Guardian Desc TODO</content>
+	<content contentuid="he76d1b71g575fg459fg84b3geb09d829dec0" version="1">You design your armor to be in the front line of conflict</content>
 	<content contentuid="h83fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Armor Model: Infiltrator</content>
-	<content contentuid="ha81b99e3gdfebg41b3gbef7gecc642f765c5" version="1">Armor Model: Infiltrator DESC TODO</content>
-	<content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Armor Modifications </content>
-	<content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">You've learned how to use your artificer infusions to specially modify your  Arcane Armor. Each piece of equipment you wear can bear eone of your infusions, and the infusions transfer over if yo ucahnge your armor's model with the Armor Model feature.</content>
-	<content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">In addtion, the maximum number of items you can infuse at once increases by [2], but those extra items must be part of your Arcane Armor. </content>
+	<content contentuid="ha81b99e3gdfebg41b3gbef7gecc642f765c5" version="1">You customize your armor for subtle undertakings.</content>
+	<content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Perfected Armor </content>
+	<content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">Your Arcane Armor gains additional benefits based on its model.</content>
+	<content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">Guardian: When a Huge or smaller creature you can see arrives within 30 feet of you, you can use your reaction to magically force the creature to make a Strength saving throw against your spell save DC, pulling the creature up to 9 meters toward you to an unoccupied space and dealing damage in the process. &lt;br&gt;Infiltrator: Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn.  It has disadvantage on attack rolls against you and takes an extra 1d6 lightning damage from your attacks.</content>
 </contentList>
