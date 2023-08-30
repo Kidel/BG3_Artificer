@@ -867,10 +867,11 @@ data "Boosts" "UnlockSpell(Target_Artificer_ThunderGauntlets);UnlockSpell(Target
 data "OnRemoveFunctors" ""
 data "StatusGroups" ""
 data "Properties" "IsHidden"
-data "RemoveConditions" "not (WearingArmor() or HasMetalArmor())"
+data "RemoveConditions" "not ((GetActiveArmor(context.Source).ArmorType ~= ArmorType.None)) or ((HasPassive('MAG_HellDusk_Proficiency_Passive',context.Source) or HasPassive('MAG_PHB_ElvenChain_Armor_Passive',context.Source)))"
 data "RemoveEvents" "OnEquip;OnTurn"
 data "StatusEffect" "b605de22-7474-4f7b-9eeb-287ef6a94dce"
 data "StatusPropertyFlags" "IgnoreResting"
+
 
 new entry "ARMOR_MODEL_GUARDIAN_IMPROVED"
 type "StatusData"
