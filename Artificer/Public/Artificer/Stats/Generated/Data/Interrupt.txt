@@ -28,11 +28,12 @@ data "InterruptDefaultValue" "Ask;Enabled"
 data "ExtraDescription" ""
 
 
-Interrupt_ArmorModel_Guardian
+new entry "Interrupt_ArmorModel_Guardian"
 type "InterruptData"
-using "Interrupt_PolearmMaster"
+using "Interrupt_Sentinel"
 data "DisplayName" "h6222259eg3214g4772g9085gce3dcff90a4d;1"
 data "Description" "h722224bcg3365g4812ga6a5gb0fa92c75165;1"
 data "Icon" "Passive_PerfectedArmor"
-data "Conditions" "IsAbleToReact(context.Observer) and Enemy() and not WieldingWeapon('Ammunition', false, false, context.Source) and not (not Player(context.Source) and Tagged('AI_IGNORED_TARGET') and not HasStatus('GNOLL_SUDDENRUSH')) and not HasStatus('SHOCKWAVE') and not (HasStatus('MOBILE_NO_AOO', context.Source) and HasStatus('MOBILE_NO_AOO_SOURCE', context.Target)) and not HasStatus('FLAMING_SPHERE_AURA') and not HasStatus('SNEAKING',context.Target) and not HasStatus('SG_Ignore_AOO',context.Target) and not AnyEntityIsItem()"
+data "InterruptContext" "OnPostRoll"
 data "Properties" "UseSpell(OBSERVER_SOURCE,Target_ArmorModel_Guardian_Sentinel_Thunder,true,true,true)"
+data "Conditions" "not Self(context.Target,context.Observer) and not Self(context.Source,context.Observer) and Ally(context.Target, context.Observer) and Enemy(context.Source, context.Observer) and not HasPassive('Sentinel_Attack',context.Target) and IsAbleToReact(context.Observer) and IsAttack() and not DistanceToEntityGreaterThan(9, context.ObserverPosition, context.Source) and not AnyEntityIsItem() and HasLastAttackTriggered()"
