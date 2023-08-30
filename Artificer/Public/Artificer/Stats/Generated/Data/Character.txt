@@ -29,6 +29,8 @@ type "Character"
 using "Companion_BattleSmith_6"
 data "Vitality" "60"
 data "Armor" "12"
+data "Passives" "Artificer_ArcaneJolt_Passive_3;Artificer_BattleCompanion_Deflect;PackTactics;ShortResting;Artificer_CompanionsBond_Creature;AttackOfOpportunity;DarknessRules;Darkvision"
+
 
 new entry "Companion_Artillerist_EldritchCannon"
 type "Character"
