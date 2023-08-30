@@ -282,7 +282,6 @@ data "Description" "h6670949fg6445g4390g9e6eg885b09a366de;1"
 data "Icon" "Item_ARR_Arrow_Of_Smokepowder"
 
 
-
 new entry "Shout_SpellStoring_Item"
 type "SpellData"
 data "SpellType" "Shout"

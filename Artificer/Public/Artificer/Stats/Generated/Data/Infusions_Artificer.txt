@@ -253,6 +253,7 @@ data "PrepareEffect" "33302a46-4a12-41dd-8845-6b7314d50022"
 data "CastEffect" "bcd66fb0-b0bc-41d0-abba-ad443d63dd72"
 data "Requirements" "!Combat"
 
+
 new entry "Infusion_Homunculus"
 type "SpellData"
 data "SpellType" "Target"
@@ -492,7 +493,6 @@ data "TooltipStatusApply" "ApplyStatus(INFUSION_RESISTANT_ARMOR_THUNDER,100,-1)"
 data "DisplayName" "hcd3f25c1aacdd4847a4d77b4e16fdd2b6ccc;1" 
 data "Description" "hc328b59e9ad994d0fa282fc6f7d8fa65accc;1" 
 data "Icon" "Skill_Infusion_ResistantArmor_Thunder"
-
 
 
 new entry "Target_Infusion_ReplicateItem"
