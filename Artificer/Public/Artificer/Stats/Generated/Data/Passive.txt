@@ -10,8 +10,8 @@ data "Properties" "IsHidden"
 
 new entry "Fake_ExplosiveCannon_Passive"
 type "PassiveData"
-data "DisplayName" "TODO;1"
-data "Description" "TODO;1"
+data "DisplayName" "h3250c3cfg334bg448dgad59g079e7e0a2b46;1"
+data "Description" "he26b31c4g0908g4b94g872ag9e61113a5b65;1"
 data "Icon" "PassiveFeature_Generic_Explosion"
 
 
@@ -178,7 +178,7 @@ data "DisplayName" "h4d740fa9g3b35g4011ga4d0g6a00e076ca21"
 data "Description" "h99fef735gf7bcg4fa4gbec8g8a8500cd5f69"
 data "Icon" "Passive_BattleReady" TODO needs an icon
 data "Properties" "Highlighted"
-data "BoostConditions" "HasWeaponInMainHand()"
+data "BoostConditions" ""
 data "Boosts" "IF(IsSpell()):DamageBonus(1d8)"
 
 new entry "SpellStoring_Item_Passive_0"
