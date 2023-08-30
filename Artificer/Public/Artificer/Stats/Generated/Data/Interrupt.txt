@@ -13,7 +13,7 @@ data "InterruptDefaultValue" "Ask;Enabled"
 data "EnableCondition" "not HasStatus('SG_Polymorph')"
 
 
-new entry "Interrupt_Deflect"
+new entry "Interrupt_BattleSmith_Deflect"
 type "InterruptData"
 using "Interrupt_WardingFlare"
 data "DisplayName" "2222222c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
@@ -30,7 +30,7 @@ data "ExtraDescription" ""
 
 new entry "Interrupt_ArmorModel_Guardian"
 type "InterruptData"
-using "Interrupt_Deflect"
+using "Interrupt_BattleSmith_Deflect"
 data "DisplayName" "h6222259eg3214g4772g9085gce3dcff90a4d;1"
 data "Description" "h722224bcg3365g4812ga6a5gb0fa92c75165;1"
 data "Icon" "Passive_PerfectedArmor"
