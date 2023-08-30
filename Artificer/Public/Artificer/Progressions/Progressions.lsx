@@ -197,7 +197,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value="Artificer_ArcaneArmor_Passive"/>
                     <attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor)"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(3b69fa1c-f33d-4e18-890c-ec2078c8af47,Armorer,,,AlwaysPrepared);AddSpells(c8ce4326-daab-48c0-a800-71af91fc2f47)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(3b69fa1c-f33d-4e18-890c-ec2078c8af47,Armorer,,,AlwaysPrepared);AddSpells(c8ce4326-daab-48c0-a800-71af91fc2f47,ArmorModels,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="4040f93c-b0dd-4d23-b090-0228575af1b9"/>
                 </node>

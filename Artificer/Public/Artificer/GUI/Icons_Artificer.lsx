@@ -353,49 +353,49 @@
                     <attribute id="V2" type="float" value="0.09375"/> Bottom	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 80 ROW 3 = 16
+                    <attribute id="MapKey" type="FixedString" value="Skill_ArmorModel_Guardian"/> 80 ROW 3 = 16
                     <attribute id="U1" type="float" value="0.46875"/> Left
                     <attribute id="U2" type="float" value="0.5"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 81 ROW 3 = 17
+                    <attribute id="MapKey" type="FixedString" value="Skill_ArmorModel_Infiltrator"/> 81 ROW 3 = 17
                     <attribute id="U1" type="float" value="0.5"/> Left
                     <attribute id="U2" type="float" value="0.53125"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom		
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 82 ROW 3 = 18
+                    <attribute id="MapKey" type="FixedString" value="Skill_ThunderGauntlets"/> 82 ROW 3 = 18
                     <attribute id="U1" type="float" value="0.53125"/> Left
                     <attribute id="U2" type="float" value="0.5625"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 83 ROW 3 = 19
+                    <attribute id="MapKey" type="FixedString" value="Skill_LightningLauncher"/> 83 ROW 3 = 19
                     <attribute id="U1" type="float" value="0.5625"/> Left
                     <attribute id="U2" type="float" value="0.59375"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom		
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 84 ROW 3 = 20
+                    <attribute id="MapKey" type="FixedString" value="Skill_DefensiveField"/> 84 ROW 3 = 20
                     <attribute id="U1" type="float" value="0.59375"/> Left
                     <attribute id="U2" type="float" value="0.625"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom			
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 85 ROW 3 = 21
+                    <attribute id="MapKey" type="FixedString" value="Skill_DampeningField"/> 85 ROW 3 = 21
                     <attribute id="U1" type="float" value="0.625"/> Left
                     <attribute id="U2" type="float" value="0.65625"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 86 ROW 3 = 22
+                    <attribute id="MapKey" type="FixedString" value="Passive_PerfectedArmor"/> 86 ROW 3 = 22
                     <attribute id="U1" type="float" value="0.65625"/> Left
                     <attribute id="U2" type="float" value="0.6875"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top

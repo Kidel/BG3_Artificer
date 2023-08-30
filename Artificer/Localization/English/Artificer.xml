@@ -57,7 +57,7 @@
 	<content contentuid="3326e61e8g9b89g4f30gb649gb3a97346a443" version="1">Protector</content>
 	<content contentuid="3336e61e8g9b89g4f30gb649gb3a97346a443" version="1">The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Proficiency Bonus (minimum of +1).</content>
 	<content contentuid="h4d740fa9g3b35g4011ga4d0g6a00e076ca21" version="1">Arcane Firearm</content>
-	<content contentuid="h99fef735gf7bcg4fa4gbec8g8a8500cd5f69" version="1">You know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you cast a spell, you can add 1d8 to one damage roll.</content>
+	<content contentuid="h99fef735gf7bcg4fa4gbec8g8a8500cd5f69" version="1">You know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells.  hen you cast a spell, you can add 1d8 to one damage roll.</content>
 	<content contentuid="h7750c3cfg334bg448dgad59g079e7e0a2b46" version="1">Explosive Cannon</content>
 	<content contentuid="h776b31c4g0908g4b94g872ag9e61113a5b65" version="1">The cannon's damage rolls all increase by 1d8.  You can command the cannon to detonate.  Doing so destroys the cannon and forces each creature in range to make a Dexterity saving throw.</content>
 	<content contentuid="h3250c3cfg334bg448dgad59g079e7e0a2b46" version="1">Self Destruct</content>
@@ -198,13 +198,25 @@
 	<content contentuid="hfff574eagad02g478bga5b9gff638f0f278e" version="1">Replica: Gauntlets of Giant Strength</content>
 
 	<content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Arcane Armor</content>
-	<content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor.</content>
+	<content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Your metallurgical pursuits have led to you making armor a conduit for your magic.  s an action, you can turn a suit of armor you are wearing into Arcane Armor.</content>
 	<content contentuid="h12038142g6632g489cg9caeg5e2f719edf9b" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Heavy Armour.</content>
 	<content contentuid="h5dd62355g3b68g457aga31dg36e1b81ae6f3" version="1">Armor Model: Guardian</content>
 	<content contentuid="he76d1b71g575fg459fg84b3geb09d829dec0" version="1">You design your armor to be in the front line of conflict</content>
 	<content contentuid="h83fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Armor Model: Infiltrator</content>
 	<content contentuid="ha81b99e3gdfebg41b3gbef7gecc642f765c5" version="1">You customize your armor for subtle undertakings.</content>
-	<content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Perfected Armor </content>
+	<content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Perfected Armor</content>
 	<content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">Your Arcane Armor gains additional benefits based on its model.</content>
 	<content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">Guardian: When a Huge or smaller creature you can see arrives within 30 feet of you, you can use your reaction to magically force the creature to make a Strength saving throw against your spell save DC, pulling the creature up to 9 meters toward you to an unoccupied space and dealing damage in the process. &lt;br&gt;Infiltrator: Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn.  It has disadvantage on attack rolls against you and takes an extra 1d6 lightning damage from your attacks.</content>
+	<content contentuid="h1111159eg3214g4772g9085gce3dcff90a4d" version="1">Thunder Gauntlets</content>
+	<content contentuid="h111114bcg3365g4812ga6a5gb0fa92c75165" version="1">Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals Thunder damage on a hit.   creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.</content>
+	<content contentuid="h2111159eg3214g4772g9085gce3dcff90a4d" version="1">Defensive Field</content>
+	<content contentuid="h211114bcg3365g4812ga6a5gb0fa92c75165" version="1">As a bonus action, you can gain temporary hit points.</content>
+	<content contentuid="h1222259eg3214g4772g9085gce3dcff90a4d" version="1">Lightning Launcher</content>
+	<content contentuid="h222224bcg3365g4812ga6a5gb0fa92c75165" version="1">You can emit lightnings from your hands.  Once on each of your turns when you hit a creature with it, you can deal an extra Lightning damage to that target.</content>
+	<content contentuid="h2222259eg3214g4772g9085gce3dcff90a4d" version="1">Powered Steps</content>
+	<content contentuid="h322224bcg3365g4812ga6a5gb0fa92c75165" version="1">Your walking speed increases by 1.5.</content>
+	<content contentuid="h4222259eg3214g4772g9085gce3dcff90a4d" version="1">Dampening Field</content>
+	<content contentuid="h522224bcg3365g4812ga6a5gb0fa92c75165" version="1">You have advantage on Dexterity (Stealth) checks.  f the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.</content>
+
+	
 </contentList>

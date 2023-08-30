@@ -164,8 +164,8 @@
 
                 Armorer Level Abilities/Skills/Spells
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Armorer Level 3rd Additions"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Artificer_ArmorModel_Container"/>
+                    <attribute id="Comment" type="LSString" value="Armorer Armor Models"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Artificer_ArmorModel_Guardian;Shout_Artificer_ArmorModel_Infiltrator"/>
                     <attribute id="UUID" type="guid" value="c8ce4326-daab-48c0-a800-71af91fc2f47"/>
                 </node>
                 Armorer Always Prepared
