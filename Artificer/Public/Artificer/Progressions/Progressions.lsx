@@ -233,7 +233,7 @@
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Artillerist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="ArcaneFirearm"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Artificer_ArcaneFirearm_OnAttack_Passive"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(6b549067-9fab-4c77-8390-32eb257f1d00,Artillerist,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="0b7c6714-754b-4cb3-bd7b-c0068092b14b"/>
