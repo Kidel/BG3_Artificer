@@ -381,14 +381,14 @@
                     <attribute id="V2" type="float" value="0.09375"/> Bottom		
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Skill_DefensiveField"/> 84 ROW 3 = 20
+                    <attribute id="MapKey" type="FixedString" value="Passive_DefensiveField"/> 84 ROW 3 = 20
                     <attribute id="U1" type="float" value="0.59375"/> Left
                     <attribute id="U2" type="float" value="0.625"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom			
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Skill_DampeningField"/> 85 ROW 3 = 21
+                    <attribute id="MapKey" type="FixedString" value="Passive_DampeningField"/> 85 ROW 3 = 21
                     <attribute id="U1" type="float" value="0.625"/> Left
                     <attribute id="U2" type="float" value="0.65625"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
@@ -402,14 +402,14 @@
                     <attribute id="V2" type="float" value="0.09375"/> Bottom	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 87 ROW 3 = 23
+                    <attribute id="MapKey" type="FixedString" value="Skill_DefensiveField"/> 87 ROW 3 = 23
                     <attribute id="U1" type="float" value="0.6875"/> Left
                     <attribute id="U2" type="float" value="0.71875"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom		
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 88 ROW 3 = 24
+                    <attribute id="MapKey" type="FixedString" value="Skill_DampeningField"/> 88 ROW 3 = 24
                     <attribute id="U1" type="float" value="0.71875"/> Left
                     <attribute id="U2" type="float" value="0.75"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
