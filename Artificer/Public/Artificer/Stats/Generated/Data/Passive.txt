@@ -255,7 +255,7 @@ data "StatsFunctors" ""
 data "ToggleOffFunctors" ""
 data "ToggleOnFunctors" ""
 
-//
+// 
 
 new entry "Artificer_Elixir_Passive_1"
 type "PassiveData"
