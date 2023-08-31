@@ -208,6 +208,77 @@ data "Conditions" "ConditionResult((GetModifier(context.Source.Intelligence) + c
 data "StatsFunctors" "ApplyStatus(SELF,ARCANE_JOLT_RESOURCE,100,10)"
 
 
+// TODO change and make visible. This will have the descriptions for the 2 bottom ones
+
+new entry "Artificer_AlchemicalSavant_Passive"
+type "PassiveData"
+data "DisplayName" "TODO;1"
+data "Description" "TODO;1"
+data "Icon" "TODO"
+data "Properties" "Highlighted"
+data "StatsFunctors" ""
+data "ToggleOffFunctors" ""
+data "ToggleOnFunctors" ""
+
+// TODO change and make hidden v
+
+new entry "Artificer_Alchemical_Savant"
+type "PassiveData"
+data "StatusType" "BOOST"
+data "DisplayName" "TODO"
+data "Description" "TODO"
+data "Icon" "TODO"
+data "StackId" "ALCHEMICAL_SAVANT"
+data "Boosts" "IF(SpellDamageTypeIs(DamageType.Acid) or SpellDamageTypeIs(DamageType.Fire) or SpellDamageTypeIs(DamageType.Necrotic) or SpellDamageTypeIs(DamageType.Poison)):DamageBonus(max(1,IntelligenceModifier))"
+
+new entry "Artificer_Alchemical_Savant_Healing"
+type "PassiveData"
+data "DisplayName" "TODO"
+data "Description" "TODO"
+data "Icon" "TODO"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnHeal"
+data "Conditions" "HealDoneGreaterThan(0) and IsSpell()"
+data "StatsFunctors" "RegainHitPoints(max(1,IntelligenceModifier))"
+
+//
+
+// TODO change and make visible. This will have the description and unlock Lesser Restoration 
+
+new entry "Artificer_RestorativeReagents_Passive"
+type "PassiveData"
+data "DisplayName" "TODO;1"
+data "Description" "TODO;1"
+data "Icon" "TODO"
+data "Properties" "Highlighted"
+data "StatsFunctors" ""
+data "ToggleOffFunctors" ""
+data "ToggleOnFunctors" ""
+
+//
+
+new entry "Artificer_Elixir_Passive_1"
+type "PassiveData"
+data "DisplayName" "7773dd9c1g0a96g40f7g8606gd0e9a5b0d3a4"
+data "Description" "778f41faag16e8g4399g8efbgc2af8304f248"
+data "DescriptionParams" "IntelligenceModifier"
+data "ExtraDescriptionParams" "1"
+data "Icon" "Skill_ArcaneJolt"
+data "PriorityOrder" "2"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnLongRest;OnCreate"
+data "StatsFunctors" "ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,2)"
+data "Properties" "IsHidden"
+
+new entry "Artificer_Elixir_Passive_2"
+using "Artificer_Elixir_Passive_1"
+data "StatsFunctors" "ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,4)"
+
+new entry "Artificer_Elixir_Passive_3"
+using "Artificer_Elixir_Passive_1"
+data "StatsFunctors" "ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,6)"
+
+
 new entry "SpellStoring_Item_Passive_0"
 type "PassiveData"
 data "DisplayName" "h863423c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
@@ -271,3 +342,4 @@ data "Properties" "Highlighted;ForceShowInCC"
 data "BoostContext" "OnEquip;OnCreate"
 data "BoostConditions" ""
 data "Boosts" "ActionResource(Movement, 1.5, 0)"
+
