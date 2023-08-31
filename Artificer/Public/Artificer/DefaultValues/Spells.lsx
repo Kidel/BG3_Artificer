@@ -11,6 +11,28 @@
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="77b7e0ec-e9d5-421c-824c-ace09640c31a"/>
                 </node>
+
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_RepeatingShot"/>
+                    <attribute id="Level" type="int32" value="2"/>
+                    <attribute id="SelectorId" type="LSString" value="Artificer Infusions"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="88b7e0ec-e9d5-421c-824c-ace09640c31a"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath"/>
+                    <attribute id="Level" type="int32" value="6"/>
+                    <attribute id="SelectorId" type="LSString" value="Artificer Infusions"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="99b7e0ec-e9d5-421c-824c-ace09640c31a"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Infusion_CreateSpellSlot;Target_Infusion_ReplicateItem;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus"/>
+                    <attribute id="Level" type="int32" value="10"/>
+                    <attribute id="SelectorId" type="LSString" value="Artificer Infusions"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="aab7e0ec-e9d5-421c-824c-ace09640c31a"/>
+                </node>
             </children>
         </node>
     </region>
