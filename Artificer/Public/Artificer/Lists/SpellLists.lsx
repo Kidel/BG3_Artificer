@@ -117,7 +117,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Alchemist spells at 9th"/>
-                    <attribute id="Spells" type="LSString" value="Target_GaseousForm;Shout_HealingWord_Mass;Target_Alchemist_LesserRestoration"/> TODO move lesser restoration to passive unlock?
+                    <attribute id="Spells" type="LSString" value="Target_GaseousForm;Shout_HealingWord_Mass"/>
                     <attribute id="UUID" type="guid" value="9f213030-d4da-4c03-add9-59810e0a96af"/>
                 </node>
                 <node id="SpellList">
