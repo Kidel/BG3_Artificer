@@ -19,7 +19,7 @@ data "PrepareLoopSound" "Spell_Prepare_Damage_Force_Gen_L1to3_Loop"
 data "SpellProperties" ""
 data "SpellSuccess" "DealDamage(max(1,2d8+ProficiencyBonus),Force,Magical);Force(5, OriginToTarget)"
 data "TooltipDamageList" "DealDamage(2d8+ProficiencyBonus,Force)"
-data "SpellRoll" "Attack(AttackType.RangedSpellAttack)"
+data "SpellRoll" "Attack(AttackType.RangedSpellAttack) and not HasStatus('WeaponAttackCheese')"
 data "TooltipAttackSave" "RangedSpellAttack"
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;AddFallDamageOnLand"
 

@@ -416,7 +416,7 @@
                     <attribute id="V2" type="float" value="0.09375"/> Bottom	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 89 ROW 3 = 25
+                    <attribute id="MapKey" type="FixedString" value="Spell_AbsorbElements_Artificer"/> 89 ROW 3 = 25
                     <attribute id="U1" type="float" value="0.75"/> Left
                     <attribute id="U2" type="float" value="0.78125"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
