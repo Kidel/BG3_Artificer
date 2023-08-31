@@ -102,7 +102,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Experimental Elixirs"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Produce_Experimental_Elixir;Shout_Produce_Experimental_Elixir_SpellSlot"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Produce_Experimental_Elixir"/>
                     <attribute id="UUID" type="guid" value="000f44d4-653b-4fbd-ad74-64625cb21ba3"/>
                 </node>
                 <node id="SpellList">
