@@ -155,7 +155,6 @@
                     <attribute id="UUID" type="guid" value="76d67b34-19af-438f-8e9f-dabc19beed3a"/>
                 </node>
 
-
                 Subclasses
 
                 Alchemist
@@ -196,7 +195,6 @@
                     <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="fb8b7a59-ecdf-4bdb-9829-368aaf61eede"/>
                 </node>
-                
 
                 Armorer
 
@@ -289,7 +287,6 @@
                     <attribute id="TableUUID" type="guid" value="119dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="639ee649-5ec9-4b73-8195-51c857928ed9"/>
                 </node>
-
             </children>
         </node>
     </region>
