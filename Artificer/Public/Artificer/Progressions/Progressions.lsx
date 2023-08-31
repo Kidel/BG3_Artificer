@@ -172,7 +172,7 @@
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Alchemist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Artificer_Elixir_Passive_2"/> TODO Alchemical Savant passive
+                    <attribute id="PassivesAdded" type="LSString" value="Artificer_Elixir_Passive_2;Artificer_AlchemicalSavant_Passive;Artificer_Alchemical_Savant_OnAttack_Passive;Artificer_Alchemical_Savant_OnHeal_Passive"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(b95acc73-fa09-4f76-a829-fc8512c40a41,Alchemist,,,AlwaysPrepared)"/> 
                     <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="0307da4d-8cc8-486f-970c-25676d444a21"/>
@@ -181,7 +181,7 @@
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Alchemist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Artificer_Elixir_Passive_3"/> TODO Restorative Reagents passive
+                    <attribute id="PassivesAdded" type="LSString" value="Artificer_Elixir_Passive_3;Artificer_RestorativeReagents_Passive"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(9f213030-d4da-4c03-add9-59810e0a96af,Alchemist,,,AlwaysPrepared)"/> 
                     <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="07a1f83e-66d0-4598-8b2b-8f2fee49d4b7"/>

@@ -208,54 +208,48 @@ data "Conditions" "ConditionResult((GetModifier(context.Source.Intelligence) + c
 data "StatsFunctors" "ApplyStatus(SELF,ARCANE_JOLT_RESOURCE,100,10)"
 
 
-// TODO change and make visible. This will have the descriptions for the 2 bottom ones
-
 new entry "Artificer_AlchemicalSavant_Passive"
 type "PassiveData"
-data "DisplayName" "TODO;1"
-data "Description" "TODO;1"
-data "Icon" "TODO"
+data "DisplayName" "hb307c069g06b7g4eaegb066g013a76c23c20"
+data "Description" "h317ab036g8f28g42d7g8702g90eb320c94ae"
+data "Icon" "Passive_AlchemicalSavant"
 data "Properties" "Highlighted"
 data "StatsFunctors" ""
 data "ToggleOffFunctors" ""
 data "ToggleOnFunctors" ""
 
-// TODO change and make hidden v
-
-new entry "Artificer_Alchemical_Savant"
+new entry "Artificer_Alchemical_Savant_OnAttack_Passive"
 type "PassiveData"
-data "StatusType" "BOOST"
-data "DisplayName" "TODO"
-data "Description" "TODO"
-data "Icon" "TODO"
-data "StackId" "ALCHEMICAL_SAVANT"
-data "Boosts" "IF(SpellDamageTypeIs(DamageType.Acid) or SpellDamageTypeIs(DamageType.Fire) or SpellDamageTypeIs(DamageType.Necrotic) or SpellDamageTypeIs(DamageType.Poison)):DamageBonus(max(1,IntelligenceModifier))"
+data "DisplayName" "hb307c069g06b7g4eaegb066g013a76c23c20"
+data "Description" "h317ab036g8f28g42d7g8702g90eb320c94ae"
+data "Icon" "Passive_AlchemicalSavant"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsSpell() and not SpellId('Target_Artificer_Alchemical_Savant_Damage')"
+data "StatsFunctors" "ApplyStatus(SELF, ALCHEMICAL_SAVANT_ENABLED, 100, 1);ApplyStatus(ALCHEMICAL_SAVANT_TARGETED, 100, 1);"
+data "Properties" "IsHidden"
 
-new entry "Artificer_Alchemical_Savant_Healing"
+new entry "Artificer_Alchemical_Savant_OnHeal_Passive"
 type "PassiveData"
-data "DisplayName" "TODO"
-data "Description" "TODO"
-data "Icon" "TODO"
+data "DisplayName" "hb307c069g06b7g4eaegb066g013a76c23c20"
+data "Description" "h317ab036g8f28g42d7g8702g90eb320c94ae"
+data "Icon" "Passive_AlchemicalSavant"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnHeal"
-data "Conditions" "HealDoneGreaterThan(0) and IsSpell()"
-data "StatsFunctors" "RegainHitPoints(max(1,IntelligenceModifier))"
-
-//
-
-// TODO change and make visible. This will have the description and unlock Lesser Restoration 
+data "Conditions" "IsSpell() and not SpellId('Target_Artificer_Alchemical_Savant_Heal')"
+data "StatsFunctors" "ApplyStatus(SELF, ALCHEMICAL_SAVANT_HEAL_ENABLED, 100, 1);ApplyStatus(ALCHEMICAL_SAVANT_TARGETED, 100, 1);"
+data "Properties" "IsHidden"
 
 new entry "Artificer_RestorativeReagents_Passive"
 type "PassiveData"
-data "DisplayName" "TODO;1"
-data "Description" "TODO;1"
-data "Icon" "TODO"
+data "DisplayName" "h34ded68cgc442g458cg9191g8dd06177d917"
+data "Description" "h4f43af6cg103fg4363g804dgcdca618719a6"
+data "Icon" "Passive_RestorativeReagents"
 data "Properties" "Highlighted"
 data "StatsFunctors" ""
+data "Boosts" "UnlockSpell(Target_Alchemist_LesserRestoration)"
 data "ToggleOffFunctors" ""
 data "ToggleOnFunctors" ""
-
-// 
 
 new entry "Artificer_Elixir_Passive_1"
 type "PassiveData"
