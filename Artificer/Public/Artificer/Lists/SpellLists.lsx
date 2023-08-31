@@ -102,7 +102,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Alchemist spells at 3rd"/>
-                    <attribute id="Spells" type="LSString" value="Target_HealingWord;Projectile_RayOfSickness;Shout_Produce_Experimental_Elixir"/>
+                    <attribute id="Spells" type="LSString" value="Target_HealingWord;Projectile_RayOfSickness;Shout_Produce_Experimental_Elixir"/> TODO move Shout_Produce_Experimental_Elixir to own row
                     <attribute id="UUID" type="guid" value="e40f44d4-653b-4fbd-ad74-64625cb21ba3"/>
                 </node>
                 <node id="SpellList">

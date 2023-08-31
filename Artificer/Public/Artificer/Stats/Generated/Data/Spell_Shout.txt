@@ -68,6 +68,7 @@ data "VerbalIntent" ""
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent"
 data "PrepareEffect" "5822e00d-08d9-4ac0-8889-7ae3cb56d2d7"
 data "CastEffect" "fe325884-a0ab-494b-8f94-917b4c7c6ffe"
+data "Cooldown" "OncePerShortRest"
 
 new entry "Shout_Produce_Experimental_Healing"
 type "SpellData"

@@ -174,7 +174,7 @@
                     <attribute id="Name" type="LSString" value="Alchemist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(b95acc73-fa09-4f76-a829-fc8512c40a413,Alchemist,,,AlwaysPrepared)"/> TODO Alchemical Savant
+                    <attribute id="Selectors" type="LSString" value="AddSpells(b95acc73-fa09-4f76-a829-fc8512c40a41,Alchemist,,,AlwaysPrepared)"/> TODO Alchemical Savant
                     <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="0307da4d-8cc8-486f-970c-25676d444a21"/>
                 </node>
