@@ -13,45 +13,50 @@
                     <attribute id="UUID" type="guid" value="b9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Magical Tinkering"/>
-                    <attribute id="Spells" type="LSString" value="Target_Light;Target_MinorIllusion"/>
+                    <attribute id="Comment" type="LSString" value="Magical Tinkering as cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Target_Mending_Artificer_Cantrip;Target_Light;Target_MinorIllusion"/>
                     <attribute id="UUID" type="guid" value="c9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Magic Item Adept"/> Replaced by Chemical Adept
-                    <attribute id="Spells" type="LSString" value="Shout_ChemicalAdept"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ChemicalAdept;Target_FindMaterial_Resources"/>
                     <attribute id="UUID" type="guid" value="e9808849-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+                
+                <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="The Right Tool for the Job"/>
+					<attribute id="Spells" type="LSString" value="Shout_RightToolForTheJob"/>
+					<attribute id="UUID" type="guid" value="4cad4983-86fd-4855-8fb5-68d2b8d84b9c"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Spell-Storing Item"/>
-                    <attribute id="Spells" type="LSString" value="placeholder"/> TODO placeholder
+                    <attribute id="Spells" type="LSString" value="Shout_SpellStoring_Item"/>
                     <attribute id="UUID" type="guid" value="f9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Flash of Genius"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlashOfGenius"/>
+                    <attribute id="UUID" type="guid" value="f7778849-c41b-444a-83aa-9777e03e9e16"/>
+                </node>
+
+                
 
                 Infusions
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Infusions lv1"/>
-                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot"/>
                     <attribute id="UUID" type="guid" value="12345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Infusions lv6"/>
-                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Infusion_CreateSpellSlot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath"/>
                     <attribute id="UUID" type="guid" value="62345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Infusions lv10"/>
-                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Infusion_CreateSpellSlot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath;Target_Infusion_ReplicateItem"/>
                     <attribute id="UUID" type="guid" value="22345678-c41b-444a-83aa-9748e03e9e16"/>
-                </node>
-
-                The Right Tool For the Job
-
-				<node id="SpellList">
-					<attribute id="Comment" type="LSString" value="The Right Tool for the Job"/>
-					<attribute id="Spells" type="LSString" value="Shout_RightToolForTheJob"/>
-					<attribute id="UUID" type="guid" value="4cad4983-86fd-4855-8fb5-68d2b8d84b9c"/>
                 </node>
 
                 Spells
@@ -97,7 +102,9 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Alchemist spells at 3rd"/>
+
                     <attribute id="Spells" type="LSString" value="Target_HealingWord;Projectile_RayOfSickness;Shout_Produce_Experimental_Elixir;Shout_Produce_Experimental_Elixir;Shout_Produce_Experimental_Elixir_SpellSlot"/>
+
                     <attribute id="UUID" type="guid" value="e40f44d4-653b-4fbd-ad74-64625cb21ba3"/>
                 </node>
                 <node id="SpellList">
@@ -119,6 +126,11 @@
                 Artillerist always prepared
 
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Companion"/>
+                    <attribute id="Spells" type="LSString" value="Target_ArtilleristCompanion"/>
+                    <attribute id="UUID" type="guid" value="a05aa11f-aa98-412f-a85e-7fae4561a4aa"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 3"/>
                     <attribute id="Spells" type="LSString" value="Shout_Shield_Wizard;Zone_Thunderwave"/>
                     <attribute id="UUID" type="guid" value="1a70cb52-82f5-43ac-902f-df674795d7e2"/>
@@ -130,7 +142,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 9"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Wall_WallOfFire"/> TODO create Wind Wall spell to replace WallOfFire
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Zone_GustOfWind"/>
                     <attribute id="UUID" type="guid" value="9354865e-0af9-48c1-94d4-a2760cba91e3"/>
                 </node>
 
@@ -138,7 +150,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="BattleSmith Companion"/>
-                    <attribute id="Spells" type="LSString" value="Target_BattleSmithCompanion;Target_ArtilleristCompanion"/> TODO move Target_ArtilleristCompanion to Artillerist
+                    <attribute id="Spells" type="LSString" value="Target_BattleSmithCompanion"/>
                     <attribute id="UUID" type="guid" value="c05aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
                 <node id="SpellList">
@@ -155,6 +167,29 @@
                     <attribute id="Comment" type="LSString" value="BattleSmith spells at 9th"/>
                     <attribute id="Spells" type="LSString" value="Shout_AuraOfVitality;Zone_ConjureBarrage"/>
                     <attribute id="UUID" type="guid" value="9b5aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+
+                Armorer Level Abilities/Skills/Spells
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Armor Models"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Artificer_ArmorModel_Guardian;Shout_Artificer_ArmorModel_Infiltrator"/>
+                    <attribute id="UUID" type="guid" value="c8ce4326-daab-48c0-a800-71af91fc2f47"/>
+                </node>
+                Armorer Always Prepared
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 3rd"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MagicMissile;Zone_Thunderwave"/>
+                    <attribute id="UUID" type="guid" value="3b69fa1c-f33d-4e18-890c-ec2078c8af47"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 5th"/>
+                    <attribute id="Spells" type="LSString" value="Shout_MirrorImage;Target_Shatter"/>
+                    <attribute id="UUID" type="guid" value="312ce41d-bdc7-4407-932e-b49a9f313185"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 9th"/>
+                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Zone_LightningBolt"/>
+                    <attribute id="UUID" type="guid" value="dc5ab940-770c-431a-9e5c-af1713cc6d36"/>
                 </node>
 
 			</children>
