@@ -51,18 +51,16 @@
 						<node id="OnUsePeaceActions">
 							<children>
 								<node id="Action">
-									<attribute id="ActionType" type="int32" value="7" />
+									<attribute id="ActionType" type="int32" value="12" />
 									<children>
 										<node id="Attributes">
 											<attribute id="Animation" type="FixedString" value="" />
-											<attribute id="Conditions" type="LSString" value="" />
-											<attribute id="StatsId" type="FixedString" value="Shout_WildShape" /> 
-											<attribute id="StatusDuration" type="int32" value="-1" />
+											<attribute id="SkillID" type="FixedString" value="Shout_DisguiseSelf" />
 											<attribute id="Consume" type="bool" value="True" />
-											<attribute id="IsHiddenStatus" type="bool" value="False" />
-										</node>
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-aa9e-4877c0e8094d" />
+										</node>	
 									</children>
-								</node>
+								</node>^
 							</children>
 						</node>
 						<node id="OnDestroyActions">

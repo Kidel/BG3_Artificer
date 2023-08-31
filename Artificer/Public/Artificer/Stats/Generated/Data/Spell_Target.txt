@@ -301,6 +301,31 @@ data "SpellFlags" "Temporary;RangeIgnoreVerticalThreshold"
 data "TargetRadius" "9"
 
 
+new entry "Target_Alchemist_LesserRestoration"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_LesserRestoration"
+data "Cooldown" "OncePerShortRest"
+data "UseCosts" "ActionPoint:1"
+data "SpellStyleGroup" "Class"
+
+new entry "Target_Alchemist_GreaterRestoration"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_GreaterRestoration"
+data "Cooldown" "OncePerRest"
+data "UseCosts" "ActionPoint:1"
+data "SpellStyleGroup" "Class"
+
+new entry "Target_Alchemist_Heal"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Heal"
+data "Cooldown" "OncePerRest"
+data "UseCosts" "ActionPoint:1"
+data "SpellStyleGroup" "Class"
+
+
 new entry "Target_WindingPath"
 type "SpellData"
 data "SpellType" "Target"
@@ -423,3 +448,4 @@ data "DisplayName" "h6222259eg3214g4772g9085gce3dcff90a4d;1"
 data "Description" "h722224bcg3365g4812ga6a5gb0fa92c75165;1"
 data "DescriptionParams" "DealDamage(1d8, Thunder)"
 data "TooltipDamageList" "DealDamage(1d8, Thunder)"
+
