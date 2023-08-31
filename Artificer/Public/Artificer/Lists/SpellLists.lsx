@@ -101,8 +101,13 @@
                 Alchemist always prepared
 
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Experimental Elixir"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Produce_Experimental_Elixir"/> 
+                    <attribute id="UUID" type="guid" value="000f44d4-653b-4fbd-ad74-64625cb21ba3"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Alchemist spells at 3rd"/>
-                    <attribute id="Spells" type="LSString" value="Target_HealingWord;Projectile_RayOfSickness;Shout_Produce_Experimental_Elixir"/> TODO move Shout_Produce_Experimental_Elixir to own row
+                    <attribute id="Spells" type="LSString" value="Target_HealingWord;Projectile_RayOfSickness"/>
                     <attribute id="UUID" type="guid" value="e40f44d4-653b-4fbd-ad74-64625cb21ba3"/>
                 </node>
                 <node id="SpellList">
