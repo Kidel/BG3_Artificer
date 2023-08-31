@@ -191,8 +191,8 @@
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Alchemist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/> TODO add passive for chemical mastery
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="Selectors" type="LSString" value="AddSpells(0589f222-b610-445f-972b-cfbef376e9e3,ChemicalMastery,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="fb8b7a59-ecdf-4bdb-9829-368aaf61eede"/>
                 </node>
