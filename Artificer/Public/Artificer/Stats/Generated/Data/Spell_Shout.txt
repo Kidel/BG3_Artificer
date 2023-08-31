@@ -1,3 +1,13 @@
+new entry "Shout_AbsorbElements_Artificer"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Shield_Wizard"
+data "InterruptPrototype" "Interrupt_AbsorbElements_Artificer"
+data "DisplayName" "h061f2c2ag7fe0g4eafg8b0dg3a108ace358b;1"
+data "Description" "h765aa8fbg842ag4baag9b89g352140c0b860;3"
+data "DescriptionParams" "1d6"
+data "Icon" "Spell_AbsorbElements_Artificer"
+
 new entry "Shout_RightToolForTheJob"
 type "SpellData"
 data "SpellType" "Shout"

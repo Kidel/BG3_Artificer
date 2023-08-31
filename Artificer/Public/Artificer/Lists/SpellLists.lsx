@@ -9,7 +9,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer cantrips (Intelligence)"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_AcidSplash;Shout_BladeWard;Target_ChillTouch;Target_DancingLights;Projectile_FireBolt;Target_Friends;Target_MageHand;Projectile_PoisonSpray;Projectile_RayOfFrost;Target_ShockingGrasp;Target_TrueStrike"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_AcidSplash;Shout_BladeWard;Target_ChillTouch;Target_DancingLights;Projectile_FireBolt;Target_Guidance;Target_MageHand;Projectile_PoisonSpray;Target_Resistance;Projectile_RayOfFrost;Target_ShockingGrasp;Target_ThornWhip"/>
                     <attribute id="UUID" type="guid" value="b9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
@@ -65,23 +65,23 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spells level 1"/>
-                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Spell_AbsorbElements_Artificer;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness"/>
                     <attribute id="UUID" type="guid" value="ef3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spells level 2"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Aid;Shout_Blur;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Aid;Shout_Blur;Target_ArcaneLock;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web"/>
                     <attribute id="UUID" type="guid" value="2f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spells level 3"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify;Projectile_LightningArrow"/>
                     <attribute id="UUID" type="guid" value="3f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spell scroll list"/>
-                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness;Shout_Aid;Shout_Blur;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web;Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Spell_AbsorbElements_Artificer;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness;Shout_Aid;Shout_Blur;Target_ArcaneLock;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web;Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify;Projectile_LightningArrow"/>
                     <attribute id="UUID" type="guid" value="af3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
 
