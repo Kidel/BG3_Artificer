@@ -165,7 +165,7 @@
                     <attribute id="Name" type="LSString" value="Alchemist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value="Artificer_Elixir_Passive_1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(000f44d4-653b-4fbd-ad74-64625cb21ba3,ExperimentalElixirs,,,AlwaysPrepared);AddSpells(e40f44d4-653b-4fbd-ad74-64625cb21ba3,Alchemist,,,AlwaysPrepared)"/> TODO Experimental Elixir
+                    <attribute id="Selectors" type="LSString" value="AddSpells(000f44d4-653b-4fbd-ad74-64625cb21ba3,ExperimentalElixirs,,,AlwaysPrepared);AddSpells(e40f44d4-653b-4fbd-ad74-64625cb21ba3,Alchemist,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="64cee649-5ec9-4b73-8195-51c857928ed9"/>
                 </node>
