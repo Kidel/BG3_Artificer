@@ -18,6 +18,7 @@ data "PersonalStatusImmunities" "SG_Charmed;SG_Poisoned;BLEEDING;GAPING_WOUND;SU
 data "ActionResources" "ActionPoint:1;BonusActionPoint:1;Movement:12;ReactionActionPoint:1"
 data "PoisonResistance" "Immune"
 data "Class" "Artificer"
+data "StepsType" "Metal"
 
 new entry "Companion_BattleSmith_5"
 type "Character"

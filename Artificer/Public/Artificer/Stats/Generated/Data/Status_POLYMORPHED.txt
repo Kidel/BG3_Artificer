@@ -13,3 +13,10 @@ type "StatusData"
 using "DISGUISE_SELF_ELDRITCH_CANNON"
 data "Icon" "None"
 data "TemplateID" "18b54c47-dc24-47b7-89a8-cfdf72b32354"
+
+
+new entry "DISGUISE_SELF_BATTLESMITH_COMPANION"
+type "StatusData"
+using "DISGUISE_SELF_ELDRITCH_CANNON"
+data "Icon" "None"
+data "TemplateID" "0a92990c-addc-4e52-80f3-8ef926ca7960"
