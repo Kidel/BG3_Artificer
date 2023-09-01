@@ -1089,7 +1089,7 @@ data "Icon" "GenericIcon_Intent_Buff"
 data "StackId" "FAKE_METALLIC"
 data "Boosts" "Tag(ACT2_SHADOW_CURSE_IMMUNE);Tag(CONSTRUCT)"
 data "ApplyEffect" "0c3f3375-681f-4253-9432-24450007e464"
-data "StatusEffect" "698752b6-55fb-4448-8bb6-f7fdb510ac93"
+data "StatusEffect" "777752b6-55fb-4448-8bb6-f7fdb510ac93"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
 data "SoundLoop" ""
 

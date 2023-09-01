@@ -217,6 +217,11 @@ using "Artificer_ArcaneJolt_Passive_1"
 data "Conditions" "ConditionResult((GetModifier(context.Source.Intelligence) + context.Source.ProficiencyBonus) >= 10) and (not HasStatus('ARCANE_JOLT_RESOURCE', context.Source))"
 data "StatsFunctors" "ApplyStatus(SELF,ARCANE_JOLT_RESOURCE,100,10)"
 
+new entry "Artificer_ArcaneJolt_Passive_Dog"
+using "Artificer_ArcaneJolt_Passive_1"
+data "Conditions" "(not HasStatus('ARCANE_JOLT_RESOURCE', context.Source))"
+data "StatsFunctors" "ApplyStatus(SELF,ARCANE_JOLT_RESOURCE,100,4)"
+
 
 new entry "Artificer_AlchemicalSavant_Passive"
 type "PassiveData"
