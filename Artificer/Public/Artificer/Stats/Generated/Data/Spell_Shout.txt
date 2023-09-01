@@ -150,16 +150,6 @@ data "DisplayName" "h0cf06693gf819g4d28g9a80g335e3824f691"
 data "Description" ""
 data "Icon" "Item_ExperimentalElixir"
 
-new entry "Shout_Produce_Experimental_Transformation"
-type "SpellData"
-data "SpellType" "Shout"
-using "Shout_Produce_Experimental_Elixir_Resource"
-data "SpellProperties" "IF(not ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(b59dabde-6e63-4154-863f-63f4147631bf,-1,1,false,false,false);
-IF(ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(af452ffc-407c-4245-8450-dd9603bb4f55,-1,1,false,false,false)"
-data "DisplayName" "he0ea98c8g0da5g4800ga908g82799e9f9554"
-data "Description" ""
-data "Icon" "Item_ExperimentalElixir"
-
 
 new entry "Shout_ChemicalAdept"
 type "SpellData"

@@ -19,33 +19,30 @@
 	<content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">You always have certain spells prepared after you reach particular levels in this class.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="45523fb3deaa14de1766304e0911fbc49ae44" version="1">An Alchemist is an expert at combining reagents to produce mystical effects.  Alchemists use their creations to give life and to leech it away.  Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.</content>
 	<content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Experimental Elixir Of Healing</content>
-	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">The drinker regains a number of hit points equal to 2d4</content>
+	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">The drinker regains a hit points.</content>
 	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1"></content>
 	<content contentuid="h881a9a60g86efg4d27g938bg44ccdfa66007" version="1">Experimental Elixir Of Swiftness</content>
-	<content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">Experimental Elixir Of Swiftness Description</content>
-	<content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1">Experimental Elixir Of Swiftness Technical Description</content>
+	<content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">The drinker's walking speed increases.</content>
+	<content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1"></content>
 	<content contentuid="he840f63fgd75eg459egbaa0gd40813a27ad1" version="1">Experimental Elixir Of Resilience</content>
-	<content contentuid="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="1">Experimental Elixir Of Resilience Description</content>
-	<content contentuid="hc54f8986ge0e9g4129g9641ga485f5688c75" version="1">Experimental Elixir Of Resilience Technical Description</content>
+	<content contentuid="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="1">The drinker gains a bonus to AC.</content>
+	<content contentuid="hc54f8986ge0e9g4129g9641ga485f5688c75" version="1"></content>
 	<content contentuid="hdf075fecg7f0bg4c71gb53cge98be513a083" version="1">Experimental Elixir Of Boldness</content>
-	<content contentuid="he260c9deg7786g4fe1gba1cg78ffb2b44c90" version="1">Experimental Elixir Of Boldness Description</content>
-	<content contentuid="h1c005ea1g2c9dg4796g8997g2fd5ca6f03d2" version="1">Experimental Elixir Of Boldness Technical Description</content>
+	<content contentuid="he260c9deg7786g4fe1gba1cg78ffb2b44c90" version="1">The drinker gets a temporary bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h1c005ea1g2c9dg4796g8997g2fd5ca6f03d2" version="1"></content>
 	<content contentuid="h0cf06693gf819g4d28g9a80g335e3824f691" version="1">Experimental Elixir Of Flight</content>
-	<content contentuid="hc624c03eg6925g4a0dg8955gd270d880ca11" version="1">Experimental Elixir Of Flight Description</content>
-	<content contentuid="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="1">Experimental Elixir Of Flight Technical Description</content>
-	<content contentuid="he0ea98c8g0da5g4800ga908g82799e9f9554" version="1">Experimental Elixir Of Transformation</content>
-	<content contentuid="h7ca563b1g6296g4a15g8599gfe48be37da86" version="1">Experimental Elixir Of Transformation Description</content>
-	<content contentuid="hf4498c39g63d5g41e8g8c3dg9e76f58ddd16" version="1">Experimental Elixir Of Transformation Technical Description</content>
-	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Elemental Elixir</content>
-	<content contentuid="h778d2cb7gfd36g4898g8074gbf56c0aec633" version="1">You can magically produce experimental elixirs with random effects.  The number you can make per Long Rest increases with your level in the class.  You can create additional experimental elixirs by expending a Spell Slot.</content>
+	<content contentuid="hc624c03eg6925g4a0dg8955gd270d880ca11" version="1">The drinker can fly for a limited period.</content>
+	<content contentuid="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="1"></content>
+	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Experimental Elixir</content>
+	<content contentuid="h778d2cb7gfd36g4898g8074gbf56c0aec633" version="1">You can magically produce experimental elixirs with random effects.  The number you can make per Long Rest increases with your level in the class.  You can create additional experimental elixirs by expending a Spell Slot. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The elixirs that are not consumed disappear after a Long Rest.</content>
 	<content contentuid="h888d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce one of your daily elixirs.</content>
 	<content contentuid="h998d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce an elixir consuming a Spell Slot.</content>
 	<content contentuid="hb307c069g06b7g4eaegb066g013a76c23c20" version="1">Alchemical Savant</content>
-	<content contentuid="h317ab036g8f28g42d7g8702g90eb320c94ae" version="1">Whenever you cast a spell, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</content>
+	<content contentuid="h317ab036g8f28g42d7g8702g90eb320c94ae" version="1">You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them.  Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell.  That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</content>
 	<content contentuid="h34ded68cgc442g458cg9191g8dd06177d917" version="1">Restorative Reagent</content>
-	<content contentuid="h4f43af6cg103fg4363g804dgcdca618719a6" version="1">You have learned to incorporate restorative reagents into some of your works: Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6. You can cast Lesser Restoration without expending a Spell Slot and without preparing the spell.</content>
+	<content contentuid="h4f43af6cg103fg4363g804dgcdca618719a6" version="1">You have learned to incorporate restorative reagents into some of your works: whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6. You can cast Lesser Restoration without expending a Spell Slot and without preparing the spell.</content>
 	<content contentuid="h54d102a8gfda8g4f9bgbdd1g2ce47f04414c" version="1">Chemical Mastery</content>
-	<content contentuid="hba71604eg9edag4681ga518g2ec7758d0ba5" version="1">Chemical Mastery Description TODO</content>
+	<content contentuid="hba71604eg9edag4681ga518g2ec7758d0ba5" version="1">You learned how to use your alchemy replicate some magic ingredients from basic elements.  You can expend Salvaged Chemicals to create a wide variety of base components for Alchemy recipes.</content>
 	<content contentuid="h26b4462cgbbf1g416agaf36g0ea23f27eaa0" version="1">Experimental Elixir Charges</content>
 	<content contentuid="h8f96469eg7359g4588gbaefg3f444b9d6895" version="1">You've learned to magically produce Experimental Elixirs. These have a random effect and lasts until a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
 	<content contentuid="h8b5a15a5g7e3dg43afg9bb4g017394ad88aa" version="1">Restorative Reagent Charges</content>
@@ -93,9 +90,9 @@
 	<content contentuid="8883dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt Uses</content>
 	<content contentuid="889f41faag16e8g4399g8efbgc2af8304f248" version="1">You can use this energy a number of times equal to your Intelligence Modifier (minimum of once).  You regain all expended uses when you finish a long rest.</content>
 	<content contentuid="6969dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Damage)</content>
-	<content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">You can deal 2d6 Force damage to a target you've hit during this turn. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
+	<content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">You can deal 2d6 Force damage to a target you've hit during this turn. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Heal)</content>
-	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see within 30 feet of the target.  Healing energy flows into the chosen recipient, restoring 2d6 &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; to it. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
+	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see within 30 feet of the target.  Healing energy flows into the chosen recipient, restoring 2d6 &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; to it. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="2222222c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Deflect Attack</content>
 	<content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">The defender imposes disadvantage on the attack roll of one creature it can see, provided the attack roll is against a creature other than the Steel Defender.</content>
 
@@ -220,8 +217,8 @@
 	<content contentuid="h77fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Armor Model: Infiltrator - Perfected</content>
 	<content contentuid="ha81b99e3gdfebg41b3gbef7gecc642f765c5" version="1">You customize your armor for subtle undertakings.</content>
 	<content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Perfected Armor</content>
-	<content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">Your Arcane Armor gains additional benefits based on its model. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Rebuild after levelup</content>
-	<content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">Guardian: When a Huge or smaller creature you can see arrives within 30 feet of you, you can use your reaction to magically force the creature to make a Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your spell save &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt;, pulling the creature up to 9 meters toward you to an unoccupied space and dealing damage in the process. &lt;br&gt;Infiltrator: Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn.  It has disadvantage on attack rolls against you and takes an extra 1d6 lightning damage from your attacks.</content>
+	<content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">Your Arcane Armor gains additional benefits based on its model. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Rebuild after levelup</content>
+	<content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">Guardian: When a Huge or smaller creature you can see arrives within 30 feet of you, you can use your reaction to magically force the creature to make a Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your spell save &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt;, pulling the creature up to 9 meters toward you to an unoccupied space and dealing damage in the process. &lt;br/&gt;Infiltrator: Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn.  It has disadvantage on attack rolls against you and takes an extra 1d6 lightning damage from your attacks.</content>
 	<content contentuid="h1111159eg3214g4772g9085gce3dcff90a4d" version="1">Thunder Gauntlets</content>
 	<content contentuid="h111114bcg3365g4812ga6a5gb0fa92c75165" version="1">Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals Thunder damage on a hit.  A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.</content>
 	<content contentuid="h2111159eg3214g4772g9085gce3dcff90a4d" version="1">Defensive Field</content>

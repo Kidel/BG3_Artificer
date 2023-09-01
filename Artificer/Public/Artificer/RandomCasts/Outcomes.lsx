@@ -29,11 +29,6 @@
                     <attribute id="Spell" type="FixedString" value="Shout_Produce_Experimental_Flight"/>
                     <attribute id="UUID" type="guid" value="1f8c73ed-e591-4a61-939b-ec211bb69e56"/>
                 </node>
-                <node id="Outcome">
-                    <attribute id="GroupName" type="FixedString" value="ExperimentalElixir"/>
-                    <attribute id="Spell" type="FixedString" value="Shout_Produce_Experimental_Transformation"/>
-                    <attribute id="UUID" type="guid" value="b30897da-8f2a-4fca-a95e-c6a0353c0483"/>
-                </node>
             </children>
         </node>
     </region>
