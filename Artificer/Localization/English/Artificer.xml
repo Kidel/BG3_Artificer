@@ -44,7 +44,7 @@
 	<content contentuid="h998d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce an elixir consuming a Spell Slot.</content>
 	<content contentuid="hb307c069g06b7g4eaegb066g013a76c23c20" version="1">Alchemical Savant</content>
 	<content contentuid="h317ab036g8f28g42d7g8702g90eb320c94ae" version="1">You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them.  Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell.  That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</content>
-	<content contentuid="h34ded68cgc442g458cg9191g8dd06177d917" version="1">Restorative Reagent</content>
+	<content contentuid="h34ded68cgc442g458cg9191g8dd06177d917" version="1">Restorative Reagents</content>
 	<content contentuid="h4f43af6cg103fg4363g804dgcdca618719a6" version="1">You have learned to incorporate restorative reagents into some of your works: whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6. You can cast Lesser Restoration without expending a Spell Slot and without preparing the spell.</content>
 	<content contentuid="h54d102a8gfda8g4f9bgbdd1g2ce47f04414c" version="1">Chemical Mastery</content>
 	<content contentuid="hba71604eg9edag4681ga518g2ec7758d0ba5" version="1">You learned how to use your alchemy replicate some magic ingredients from basic elements.  You can expend Salvaged Chemicals to create a wide variety of base components for Alchemy recipes.</content>

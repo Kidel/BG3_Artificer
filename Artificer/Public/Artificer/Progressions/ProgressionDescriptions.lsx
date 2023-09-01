@@ -140,6 +140,14 @@
                     <attribute id="ProgressionTableId" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="222970a7-8425-472b-9488-9c385d580bf4"/>
                 </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h4f43af6cg103fg4363g804dgcdca618719a6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h34ded68cgc442g458cg9191g8dd06177d917" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="RestorativeReagents"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ProgressionTableId" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="123a4fc4-8425-472b-9488-9c385d580bf4"/>
+                </node>
 
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="47523fb3deaa14de1766304e0911fbc49ae44" version="1"/>

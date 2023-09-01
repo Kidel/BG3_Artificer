@@ -114,6 +114,11 @@
                     <attribute id="UUID" type="guid" value="9f213030-d4da-4c03-add9-59810e0a96af"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist Restorative Reagents"/>
+                    <attribute id="Spells" type="LSString" value="Target_Alchemist_LesserRestoration"/>
+                    <attribute id="UUID" type="guid" value="af213030-d4da-4c03-add9-59810e0a96af"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Alchemist spells at 10th"/>
                     <attribute id="Spells" type="LSString" value="Shout_ChemicalMastery"/>
                     <attribute id="UUID" type="guid" value="0589f222-b610-445f-972b-cfbef376e9e3"/>
