@@ -16,6 +16,7 @@
 					<attribute id="LevelOverride" type="int32" value="12" />
 					<attribute id="LightID" type="FixedString" value="4a2b554e-69c1-4137-b6a8-f8065bf2b5cc" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b52e9a11-99b4-3602-8739-c46d2ff2a42e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="a644d1d6-4098-fc0a-c26b-b016d7457ebd" />
 					<children>
 						<node id="SkillList">
 							<children>

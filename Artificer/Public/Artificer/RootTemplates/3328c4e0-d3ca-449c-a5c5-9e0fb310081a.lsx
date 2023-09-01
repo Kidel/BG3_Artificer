@@ -15,6 +15,7 @@
 					<attribute id="Stats" type="FixedString" value="Companion_BattleSmith_9" />
 					<attribute id="LevelOverride" type="int32" value="9" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="75ab3738-3a01-4900-e0fb-be039451e8f6" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="a644d1d6-4098-fc0a-c26b-b016d7457ebd" />
 					<children>
 						<node id="SkillList">
 							<children>
