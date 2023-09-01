@@ -32,14 +32,7 @@
                     <attribute id="Comment" type="LSString" value="Spell-Storing Item"/>
                     <attribute id="Spells" type="LSString" value="Shout_SpellStoring_Item"/>
                     <attribute id="UUID" type="guid" value="f9808849-c41b-444a-83aa-9748e03e9e16"/>
-                </node>
-                <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Flash of Genius"/>
-                    <attribute id="Spells" type="LSString" value="Target_FlashOfGenius"/>
-                    <attribute id="UUID" type="guid" value="f7778849-c41b-444a-83aa-9777e03e9e16"/>
-                </node>
-
-                
+                </node>                
 
                 Infusions
 
@@ -65,7 +58,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spells level 1"/>
-                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Spell_AbsorbElements_Artificer;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Shout_AbsorbElements_Artificer;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness"/>
                     <attribute id="UUID" type="guid" value="ef3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
                 <node id="SpellList">
@@ -81,7 +74,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spell scroll list"/>
-                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Spell_AbsorbElements_Artificer;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness;Shout_Aid;Shout_Blur;Target_ArcaneLock;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web;Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify;Projectile_LightningArrow"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Shout_AbsorbElements_Artificer;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness;Shout_Aid;Shout_Blur;Target_ArcaneLock;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web;Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify;Projectile_LightningArrow"/>
                     <attribute id="UUID" type="guid" value="af3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
 

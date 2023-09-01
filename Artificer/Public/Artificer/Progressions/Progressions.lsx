@@ -99,7 +99,6 @@
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
                     <attribute id="PassivesAdded" type="LSString" value="Artificer_FlashOfGenius_Passive"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(f7778849-c41b-444a-83aa-9777e03e9e16,FlashOfGenius,,,AlwaysPrepared)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="71d67b34-19af-438f-8e9f-dabc19beed3a"/>

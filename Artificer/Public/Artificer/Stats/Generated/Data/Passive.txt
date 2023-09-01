@@ -135,7 +135,7 @@ type "PassiveData"
 data "Icon" "Interrupt_FlashOfGenius"
 data "DisplayName" "11888f820e5gfdf7g4cc2g9309gb90acd0d2f;1"
 data "Description" "22888f820e5gfdf7g4cc2g9309gb90acd0d2f;1"
-data "Boosts" "UnlockInterrupt(Interrupt_FlashOfGenius_SavingThrow)"
+data "Boosts" "UnlockInterrupt(Interrupt_FlashOfGenius_SavingThrow);UnlockSpell(Target_FlashOfGenius)"
 
 
 new entry "Artificer_ArcaneJolt_OnAttack_Passive"
