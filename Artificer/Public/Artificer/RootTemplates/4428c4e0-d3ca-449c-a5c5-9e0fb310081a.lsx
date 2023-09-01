@@ -13,8 +13,9 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1" />
 					<attribute id="Icon" type="FixedString" value="75ab3738-3a01-4900-e0fb-be039451e8f6-_(Icon_SteelDefender)" />
 					<attribute id="Stats" type="FixedString" value="Companion_BattleSmith_12" />
-					<attribute id="LevelOverride" type="int32" value="10" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="75ab3738-3a01-4900-e0fb-be039451e8f6" />
+					<attribute id="LevelOverride" type="int32" value="12" />
+					<attribute id="LightID" type="FixedString" value="4a2b554e-69c1-4137-b6a8-f8065bf2b5cc" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="b52e9a11-99b4-3602-8739-c46d2ff2a42e" />
 					<children>
 						<node id="SkillList">
 							<children>
@@ -76,9 +77,6 @@
 						</node>
 						<node id="StatusList">
 							<children>
-								<node id="Status">
-									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_STEELDEFENDER" />
-								</node>
 								<node id="Status">
 									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_STEELDEFENDER" />
 								</node>

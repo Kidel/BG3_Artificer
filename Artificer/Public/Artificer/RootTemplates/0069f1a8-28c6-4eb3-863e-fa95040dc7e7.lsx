@@ -10,7 +10,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="d5676054-fe07-4c6d-8433-b79b33a80a89" />
-					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="VisualTemplate" type="FixedString" value="28d1fea3-6468-b217-2076-497d1c86d852" />
 					<attribute id="Scale" type="float" value="0.5" />
 					<attribute id="DisplayName" type="TranslatedString" handle="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1" />
 					<attribute id="Icon" type="FixedString" value="Portrait_Creature_ArcaneTurret_Activated" />
