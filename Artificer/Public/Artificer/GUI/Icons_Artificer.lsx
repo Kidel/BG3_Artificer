@@ -423,49 +423,49 @@
                     <attribute id="V2" type="float" value="0.09375"/> Bottom		
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 90 ROW 3 = 26
+                    <attribute id="MapKey" type="FixedString" value="Passive_ExperimentalElixir"/> 90 ROW 3 = 26
                     <attribute id="U1" type="float" value="0.78125"/> Left
                     <attribute id="U2" type="float" value="0.8125"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom		
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 91 ROW 3 = 27
+                    <attribute id="MapKey" type="FixedString" value="Artificer_Empty_Icon"/> 91 ROW 3 = 27
                     <attribute id="U1" type="float" value="0.8125"/> Left
                     <attribute id="U2" type="float" value="0.84375"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom	
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 92 ROW 3 = 28
+                    <attribute id="MapKey" type="FixedString" value="Item_ExperimentalElixir_Blue"/> 92 ROW 3 = 28
                     <attribute id="U1" type="float" value="0.84375"/> Left
                     <attribute id="U2" type="float" value="0.875"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom		
                 </node>		
                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 93 ROW 3 = 29
+                    <attribute id="MapKey" type="FixedString" value="Item_ExperimentalElixir_Pink"/> 93 ROW 3 = 29
                     <attribute id="U1" type="float" value="0.875"/> Left
                     <attribute id="U2" type="float" value="0.90625"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom
                 </node>					
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 94 ROW 3 = 30
+                    <attribute id="MapKey" type="FixedString" value="Item_ExperimentalElixir_Purple"/> 94 ROW 3 = 30
                     <attribute id="U1" type="float" value="0.90625"/> Left
                     <attribute id="U2" type="float" value="0.9375"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom
                 </node>							
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 95 ROW 3 = 31
+                    <attribute id="MapKey" type="FixedString" value="Item_ExperimentalElixir_Green"/> 95 ROW 3 = 31
                     <attribute id="U1" type="float" value="0.9375"/> Left
                     <attribute id="U2" type="float" value="0.96875"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top
                     <attribute id="V2" type="float" value="0.09375"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 96 ROW 3 = 32
+                    <attribute id="MapKey" type="FixedString" value="Item_ExperimentalElixir_Red"/> 96 ROW 3 = 32
                     <attribute id="U1" type="float" value="0.96875"/> Left
                     <attribute id="U2" type="float" value="1.0"/> Right
                     <attribute id="V1" type="float" value="0.0625"/> Top

@@ -19,20 +19,25 @@
 	<content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">You always have certain spells prepared after you reach particular levels in this class.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="45523fb3deaa14de1766304e0911fbc49ae44" version="1">An Alchemist is an expert at combining reagents to produce mystical effects.  Alchemists use their creations to give life and to leech it away.  Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.</content>
 	<content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Experimental Elixir Of Healing</content>
-	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">The drinker regains a hit points.</content>
-	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1"></content>
+	<content contentuid="h1169aa0dg1091g4fb8g827egc7228b21984d" version="1">Improved Experimental Elixir Of Healing</content>
+	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">A red elixir, producing a warm light.</content>
+	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">The drinker regains a hit points.</content>
 	<content contentuid="h881a9a60g86efg4d27g938bg44ccdfa66007" version="1">Experimental Elixir Of Swiftness</content>
-	<content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">The drinker's walking speed increases.</content>
-	<content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1"></content>
+	<content contentuid="h88119a60g86efg4d27g938bg44ccdfa66007" version="1">Improved Experimental Elixir Of Swiftness</content>
+	<content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">A green elixir, producing flickering light.</content>
+	<content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1">The drinker's walking speed increases.</content>
 	<content contentuid="he840f63fgd75eg459egbaa0gd40813a27ad1" version="1">Experimental Elixir Of Resilience</content>
-	<content contentuid="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="1">The drinker gains a bonus to AC.</content>
-	<content contentuid="hc54f8986ge0e9g4129g9641ga485f5688c75" version="1"></content>
+	<content contentuid="h1140f63fgd75eg459egbaa0gd40813a27ad1" version="1">Improved Experimental Elixir Of Resilience</content>
+	<content contentuid="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="1">A purple elixir, producing a comforting light.</content>
+	<content contentuid="hc54f8986ge0e9g4129g9641ga485f5688c75" version="1">The drinker gains a bonus to AC.</content>
 	<content contentuid="hdf075fecg7f0bg4c71gb53cge98be513a083" version="1">Experimental Elixir Of Boldness</content>
-	<content contentuid="he260c9deg7786g4fe1gba1cg78ffb2b44c90" version="1">The drinker gets a temporary bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
-	<content contentuid="h1c005ea1g2c9dg4796g8997g2fd5ca6f03d2" version="1"></content>
+	<content contentuid="h11075fecg7f0bg4c71gb53cge98be513a083" version="1">Improved Experimental Elixir Of Boldness</content>
+	<content contentuid="he260c9deg7786g4fe1gba1cg78ffb2b44c90" version="1">A pink elixir, producing a confident light.</content>
+	<content contentuid="h1c005ea1g2c9dg4796g8997g2fd5ca6f03d2" version="1">The drinker gets a temporary bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 	<content contentuid="h0cf06693gf819g4d28g9a80g335e3824f691" version="1">Experimental Elixir Of Flight</content>
-	<content contentuid="hc624c03eg6925g4a0dg8955gd270d880ca11" version="1">The drinker can fly for a limited period.</content>
-	<content contentuid="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="1"></content>
+	<content contentuid="h11f06693gf819g4d28g9a80g335e3824f691" version="1">Improved Experimental Elixir Of Flight</content>
+	<content contentuid="hc624c03eg6925g4a0dg8955gd270d880ca11" version="1">A blue elixir, producing a dreamy light.</content>
+	<content contentuid="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="1">The drinker can fly for a limited period.</content>
 	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Experimental Elixir</content>
 	<content contentuid="h778d2cb7gfd36g4898g8074gbf56c0aec633" version="1">You can magically produce experimental elixirs with random effects.  The number you can make per Long Rest increases with your level in the class.  You can create additional experimental elixirs by expending a Spell Slot. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The elixirs that are not consumed disappear after a Long Rest.</content>
 	<content contentuid="h888d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce one of your daily elixirs.</content>
@@ -112,6 +117,7 @@
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
 	<content contentuid="88623fb3deaa14de1766304e0911fbc49ae88" version="1">Infusions</content>
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots: [3]</content>
+	<content contentuid="h779d4496g788ag4a57gb9degb99532438188" version="1">Out Infusion Slots</content>
 	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.</content>
 	<content contentuid="11523fb3deaa14de1766304e0911fbc49ae11" version="1">Magical Tinkering</content>
 	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">You've learned how to invest a spark of magic into mundane objects.</content>

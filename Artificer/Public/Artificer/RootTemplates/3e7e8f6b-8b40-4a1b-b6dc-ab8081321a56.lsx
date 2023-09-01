@@ -13,8 +13,8 @@
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="93f26259-41e2-2caa-9e8a-a5bc8f021cc2" />
-					<attribute id="DisplayName" type="TranslatedString" handle="he840f63fgd75eg459egbaa0gd40813a27ad1" version="2" />
-					<attribute id="Icon" type="FixedString" value="Item_ExperimentalElixir" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1140f63fgd75eg459egbaa0gd40813a27ad1" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_ExperimentalElixir_Purple" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Experimental_Elixir_Of_Resilience_TempHP" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Description" type="TranslatedString" handle="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="4" />

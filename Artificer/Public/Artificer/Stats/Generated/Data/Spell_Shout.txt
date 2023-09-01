@@ -108,7 +108,7 @@ data "SpellProperties" "IF(not ClassLevelHigherOrEqualThan(9,'Artificer')):Summo
 IF(ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(26e29d06-bcee-4dc1-830e-f2a31c3aa7dc,-1,1,false,false,false)"
 data "DisplayName" "h4e69aa0dg1091g4fb8g827egc7228b21984d"
 data "Description" ""
-data "Icon" "Item_ExperimentalElixir"
+data "Icon" "Item_ExperimentalElixir_Red"
 
 new entry "Shout_Produce_Experimental_Swiftness"
 type "SpellData"
@@ -118,7 +118,7 @@ data "SpellProperties" "IF(not ClassLevelHigherOrEqualThan(9,'Artificer')):Summo
 IF(ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(f8953733-c2b6-48b8-871c-0891c002e941,-1,1,false,false,false)"
 data "DisplayName" "h881a9a60g86efg4d27g938bg44ccdfa66007"
 data "Description" ""
-data "Icon" "Item_ExperimentalElixir"
+data "Icon" "Item_ExperimentalElixir_Green"
 
 new entry "Shout_Produce_Experimental_Resilience"
 type "SpellData"
@@ -128,7 +128,7 @@ data "SpellProperties" "IF(not ClassLevelHigherOrEqualThan(9,'Artificer')):Summo
 IF(ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(3e7e8f6b-8b40-4a1b-b6dc-ab8081321a56,-1,1,false,false,false)"
 data "DisplayName" "he840f63fgd75eg459egbaa0gd40813a27ad1"
 data "Description" ""
-data "Icon" "Item_ExperimentalElixir"
+data "Icon" "Item_ExperimentalElixir_Purple"
 
 new entry "Shout_Produce_Experimental_Boldness"
 type "SpellData"
@@ -138,7 +138,7 @@ data "SpellProperties" "IF(not ClassLevelHigherOrEqualThan(9,'Artificer')):Summo
 IF(ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(0cfdd14e-eecd-40e2-bfec-af2e6e6bb612,-1,1,false,false,false)"
 data "DisplayName" "hdf075fecg7f0bg4c71gb53cge98be513a083"
 data "Description" ""
-data "Icon" "Item_ExperimentalElixir"
+data "Icon" "Item_ExperimentalElixir_Pink"
 
 new entry "Shout_Produce_Experimental_Flight"
 type "SpellData"
@@ -148,7 +148,7 @@ data "SpellProperties" "IF(not ClassLevelHigherOrEqualThan(9,'Artificer')):Summo
 IF(ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(4c8faeee-cc8f-45bb-b708-2b4003b86116,-1,1,false,false,false)"
 data "DisplayName" "h0cf06693gf819g4d28g9a80g335e3824f691"
 data "Description" ""
-data "Icon" "Item_ExperimentalElixir"
+data "Icon" "Item_ExperimentalElixir_Blue"
 
 
 new entry "Shout_ChemicalAdept"
