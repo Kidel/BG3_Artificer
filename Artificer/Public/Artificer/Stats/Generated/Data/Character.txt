@@ -19,17 +19,23 @@ data "ActionResources" "ActionPoint:1;BonusActionPoint:1;Movement:12;ReactionAct
 data "PoisonResistance" "Immune"
 data "Class" "Artificer"
 
-new entry "Companion_BattleSmith_6"
+new entry "Companion_BattleSmith_5"
 type "Character"
 using "Companion_BattleSmith_3"
 data "Vitality" "35"
 
-new entry "Companion_BattleSmith_10"
+new entry "Companion_BattleSmith_9"
 type "Character"
-using "Companion_BattleSmith_6"
+using "Companion_BattleSmith_5"
 data "Vitality" "60"
 data "Armor" "12"
 data "Passives" "Artificer_ArcaneJolt_Passive_Dog;Artificer_ArcaneJolt_OnAttack_Passive;Artificer_BattleCompanion_Deflect;PackTactics;ShortResting;Artificer_CompanionsBond_Creature;AttackOfOpportunity;DarknessRules;Darkvision"
+
+new entry "Companion_BattleSmith_12"
+type "Character"
+using "Companion_BattleSmith_9"
+data "Vitality" "80"
+data "Armor" "14"
 
 
 new entry "Companion_Artillerist_EldritchCannon"
