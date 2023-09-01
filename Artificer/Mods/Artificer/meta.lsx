@@ -6,9 +6,9 @@
             <children>
                 <node id="Dependencies"/>
                 <node id="ModuleInfo">
-                    <attribute id="Author" type="LSWString" value="Lykon"/> TODO add all other contributors
+                    <attribute id="Author" type="LSWString" value="Multiple authors, see https://github.com/Kidel/BG3_Artificer/graphs/contributors"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSWString" value="Adds Artificer to the game"/> TODO Add a link to github repo and contributors page
+                    <attribute id="Description" type="LSWString" value="https://github.com/Kidel/BG3_Artificer/blob/main/README.md"/>
                     <attribute id="Folder" type="LSWString" value="Artificer"/> 
                     <attribute id="GMTemplate" type="FixedString" value=""/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>

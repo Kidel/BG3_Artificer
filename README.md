@@ -2,7 +2,7 @@
 Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
 
 ## TODO List
-https://github.com/users/Kidel/projects/1
+https://github.com/Kidel/BG3_Artificer/issues
 
 ## Changes from 5e
 Like Larian, we had to make some changes to Artificer due to the nature of the medium. There is also the fact that we had to adapt to Larian's pre-existing design choices.
