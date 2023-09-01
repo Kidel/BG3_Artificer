@@ -115,7 +115,6 @@ new entry "Projectile_Jump_BattleSmithCompanion"
 type "SpellData"
 data "SpellType" "Projectile"
 using "Projectile_Jump"
-data "DisplayName" "TODO_Remove;1"
 data "SpellAnimation" "5e57443f-284e-47b2-915e-5b6417db269c,,;925779e7-8bf6-4d56-8c4d-42c3bc01c60c,,;50398f4e-dd82-4d6a-ad43-aedd578543d9,,;1c343e00-7e6c-4f53-b588-074a3cdb9c7d,,;5bcdefbb-2194-46c2-ac77-0b2d8472a5f7,,;,,;5fdb66be-7506-411a-a7ea-c4783288aac8,,;,,;,,"
 
 
