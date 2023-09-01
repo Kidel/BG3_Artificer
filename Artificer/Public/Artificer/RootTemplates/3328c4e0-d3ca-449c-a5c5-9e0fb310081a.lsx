@@ -17,11 +17,39 @@
 					<attribute id="Stats" type="FixedString" value="Companion_BattleSmith_9" />
 					<attribute id="LevelOverride" type="int32" value="9" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="c0807a07-7e67-6f66-31d8-437c234a42e9" />
+					<attribute id="SpellSet" type="FixedString" value="ArtificerCompanionSummonActions" />
 					<children>
 						<node id="SkillList">
 							<children>
 								<node id="Skill">
 									<attribute id="Skill" type="FixedString" value="Target_Bite_SteelDefender" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Projectile_Jump_BattleSmithCompanion" />
 									<attribute id="SpellCastingAbility" type="uint8" value="0" />
 									<attribute id="LearningStrategy" type="uint8" value="0" />
 									<attribute id="ScoreModifier" type="float" value="1" />
@@ -85,7 +113,7 @@
 									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_STEELDEFENDER" />
 								</node>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE_CONSTRUCT_ARTIFICER" />
 								</node>
 							</children>
 						</node>

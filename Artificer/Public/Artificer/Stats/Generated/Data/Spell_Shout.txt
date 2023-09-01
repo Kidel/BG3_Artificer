@@ -762,3 +762,11 @@ data "SpellProperties" "SummonInInventory(9f8502bf-727f-40c7-93a3-5fab6ba2e2f5,P
 data "DisplayName" "ha00203ffg8739g4c10g92b9ge0377ea84bc5"
 data "Description" ""
 data "Icon" "Item_LOOT_SCROLL_ProtectionFromEnergy"
+
+
+new entry "Shout_Dismiss_Self_Construct_Artificer"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Dismiss_Self"
+data "SpellAnimation" "5e57443f-284e-47b2-915e-5b6417db269c,,;925779e7-8bf6-4d56-8c4d-42c3bc01c60c,,;50398f4e-dd82-4d6a-ad43-aedd578543d9,,;1c343e00-7e6c-4f53-b588-074a3cdb9c7d,,;5bcdefbb-2194-46c2-ac77-0b2d8472a5f7,,;,,;5fdb66be-7506-411a-a7ea-c4783288aac8,,;,,;,,"
+data "DisplayName" "TODO_Remove;1"
