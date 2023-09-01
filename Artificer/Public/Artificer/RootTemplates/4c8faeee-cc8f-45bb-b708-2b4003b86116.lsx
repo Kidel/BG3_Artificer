@@ -15,7 +15,7 @@
 					<attribute id="PhysicsTemplate" type="FixedString" value="93f26259-41e2-2caa-9e8a-a5bc8f021cc2" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h0cf06693gf819g4d28g9a80g335e3824f691" version="2" />
 					<attribute id="Icon" type="FixedString" value="Item_ExperimentalElixir" />
-					<attribute id="Stats" type="FixedString" value="OBJ_Experimental_Elixir_Of_Flight" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Experimental_Elixir_Of_Flight_TempHP" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Description" type="TranslatedString" handle="hc624c03eg6925g4a0dg8955gd270d880ca11" version="4" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="4" />

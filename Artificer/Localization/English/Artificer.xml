@@ -19,8 +19,8 @@
 	<content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">You always have certain spells prepared after you reach particular levels in this class.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="45523fb3deaa14de1766304e0911fbc49ae44" version="1">An Alchemist is an expert at combining reagents to produce mystical effects.  Alchemists use their creations to give life and to leech it away.  Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.</content>
 	<content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Experimental Elixir Of Healing</content>
-	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">Experimental Elixir Of Healing Description</content>
-	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">Experimental Elixir Of Healing Technical Description</content>
+	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">The drinker regains a number of hit points equal to 2d4</content>
+	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1"></content>
 	<content contentuid="h881a9a60g86efg4d27g938bg44ccdfa66007" version="1">Experimental Elixir Of Swiftness</content>
 	<content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">Experimental Elixir Of Swiftness Description</content>
 	<content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1">Experimental Elixir Of Swiftness Technical Description</content>
@@ -37,16 +37,19 @@
 	<content contentuid="h7ca563b1g6296g4a15g8599gfe48be37da86" version="1">Experimental Elixir Of Transformation Description</content>
 	<content contentuid="hf4498c39g63d5g41e8g8c3dg9e76f58ddd16" version="1">Experimental Elixir Of Transformation Technical Description</content>
 	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Elemental Elixir</content>
+	<content contentuid="h778d2cb7gfd36g4898g8074gbf56c0aec633" version="1">You can magically produce experimental elixirs with random effects.  The number you can make per Long Rest increases with your level in the class.  You can create additional experimental elixirs by expending a Spell Slot.</content>
+	<content contentuid="h888d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce one of your daily elixirs.</content>
+	<content contentuid="h998d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce an elixir consuming a Spell Slot.</content>
 	<content contentuid="hb307c069g06b7g4eaegb066g013a76c23c20" version="1">Alchemical Savant</content>
 	<content contentuid="h317ab036g8f28g42d7g8702g90eb320c94ae" version="1">Whenever you cast a spell, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</content>
 	<content contentuid="h34ded68cgc442g458cg9191g8dd06177d917" version="1">Restorative Reagent</content>
-	<content contentuid="h4f43af6cg103fg4363g804dgcdca618719a6" version="1">You have learned to incorporate restorative reagents into some of your works: Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6. You can cast Lesser Restoration without expending a spell slot and without preparing the spell.</content>
+	<content contentuid="h4f43af6cg103fg4363g804dgcdca618719a6" version="1">You have learned to incorporate restorative reagents into some of your works: Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6. You can cast Lesser Restoration without expending a Spell Slot and without preparing the spell.</content>
 	<content contentuid="h54d102a8gfda8g4f9bgbdd1g2ce47f04414c" version="1">Chemical Mastery</content>
 	<content contentuid="hba71604eg9edag4681ga518g2ec7758d0ba5" version="1">Chemical Mastery Description TODO</content>
 	<content contentuid="h26b4462cgbbf1g416agaf36g0ea23f27eaa0" version="1">Experimental Elixir Charges</content>
 	<content contentuid="h8f96469eg7359g4588gbaefg3f444b9d6895" version="1">You've learned to magically produce Experimental Elixirs. These have a random effect and lasts until a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
 	<content contentuid="h8b5a15a5g7e3dg43afg9bb4g017394ad88aa" version="1">Restorative Reagent Charges</content>
-	<content contentuid="ha703390agfa66g4267gbb32g9185b1ad2410" version="1">You can cast Lesser Restoration without expending a spell slot and without preparing the spell a number of times equal to your Intelligence Modifier (minimum of once)</content>
+	<content contentuid="ha703390agfa66g4267gbb32g9185b1ad2410" version="1">You can cast Lesser Restoration without expending a Spell Slot and without preparing the spell a number of times equal to your Intelligence Modifier (minimum of once)</content>
 
 	<content contentuid="36523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer</content>
 	<content contentuid="37523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer Spells</content>
@@ -119,7 +122,7 @@
 	<content contentuid="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">You've gained the ability to come up with solutions under pressure.  When you or another creature you can see within makes a Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; or a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can use your reaction to add a bonus to the roll.</content>
 	<content contentuid="h77795291g7885g4073gae09ge965b053adee" version="1">Create Spell Slot</content>
-	<content contentuid="h777b555eg9c5fg4a37gb370g47cab9a77bf3" version="1">Spend Infusion Slots to unlock a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
+	<content contentuid="h777b555eg9c5fg4a37gb370g47cab9a77bf3" version="1">Spend Infusion Slots to unlock a &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;.</content>
 	<content contentuid="h9efaa994g1470g4e9fgb79eg5b65ca0eabab" version="1">The Right Tool for the Job</content>
 	<content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">You've learned how to produce exactly the tool you need:  you can magically create thieves Tools, a trap disarmimg kit, or a shovel.</content>
 	<content contentuid="hde264abbg9d67g4000gb383g12ce2ac80341" version="1">Craft: Thieves Tools</content>

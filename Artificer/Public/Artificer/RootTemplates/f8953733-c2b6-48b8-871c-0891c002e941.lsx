@@ -15,7 +15,7 @@
 					<attribute id="PhysicsTemplate" type="FixedString" value="93f26259-41e2-2caa-9e8a-a5bc8f021cc2" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h881a9a60g86efg4d27g938bg44ccdfa66007" version="2" />
 					<attribute id="Icon" type="FixedString" value="Item_ExperimentalElixir" />
-					<attribute id="Stats" type="FixedString" value="OBJ_Experimental_Elixir_Of_Swiftness" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Experimental_Elixir_Of_Swiftness_TempHP" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Description" type="TranslatedString" handle="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="4" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="4" />
