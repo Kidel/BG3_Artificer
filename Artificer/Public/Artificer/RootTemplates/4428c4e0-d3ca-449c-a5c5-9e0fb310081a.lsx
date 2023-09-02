@@ -112,6 +112,9 @@
 								<node id="Status">
 									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE_CONSTRUCT_ARTIFICER" />
 								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="DISGUISE_SELF_BATTLESMITH_COMPANION" />
+								</node>
 							</children>
 						</node>
 						<node id="LocomotionParams" />
