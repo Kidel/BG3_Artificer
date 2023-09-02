@@ -7,6 +7,7 @@ data "DisplayName" "h061f2c2ag7fe0g4eafg8b0dg3a108ace358b;1"
 data "Description" "h765aa8fbg842ag4baag9b89g352140c0b860;3"
 data "DescriptionParams" "1d6"
 data "Icon" "Spell_AbsorbElements_Artificer"
+data "TooltipStatusApply" "ApplyStatus(ABSORB_ELEMENTS_ACTIVE,100,-1)"
 
 new entry "Shout_RightToolForTheJob"
 type "SpellData"
