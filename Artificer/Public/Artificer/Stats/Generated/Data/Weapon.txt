@@ -7,15 +7,14 @@ data "Damage Type" "Force"
 data "Damage" "2d8"
 data "Damage Range" "3000"
 data "WeaponRange" "1500"
-data "ValueLevel" "3"
+data "ValueOverride" "1"
 data "Weight" "0.9"
 data "Slot" "Ranged Main Weapon"
-data "Projectile" "b64b516c-1afd-4f8d-b624-4c9caf06f1c2"
+data "Projectile" "348013df-7958-4ca9-ac9f-80337e054bee"
 data "BoostsOnEquipMainHand" "Proficiency(Firearms);UnlockSpell(Target_FalseLife_Tiny_EldritchCannon);UnlockSpell(Projectile_Artillerist_MagicMissile_Shot_Tiny);UnlockSpell(Zone_BurningHands_Tiny_EldritchCannon)"
-data "Weapon Group" ""
+data "Weapon Group" "MartialRangedWeapon"
 data "Weapon Properties" "Ammunition;Loading;Light;Magical"
 data "Proficiency Group" "Firearms"
-
 
 
 new entry "WPN_Artillerist_Eldritch_Cannon_2"
