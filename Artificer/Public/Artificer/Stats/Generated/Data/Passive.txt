@@ -9,6 +9,24 @@ data "DisplayName" "11523fb3deaa14de1766304e0911fbc49ae11;1"
 data "Properties" "IsHidden"
 
 
+new entry "Fake_Artificer_SleightOfHand_Expertise"
+type "PassiveData"
+data "DisplayName" "12344fb3deaa14de1766304e0911fbc49ae66;1"
+data "Description" "12345fb3deaa14de1766304e0911fbc49ae66;1"
+data "Icon" "PassiveFeature_DungeonDelver_Perception"
+data "StatsFunctors" ""
+data "ToggleOffFunctors" ""
+data "ToggleOnFunctors" ""
+
+new entry "Artificer_SleightOfHand_Expertise"
+type "PassiveData"
+data "DisplayName" "12344fb3deaa14de1766304e0911fbc49ae66;1"
+data "Description" "12345fb3deaa14de1766304e0911fbc49ae66;1"
+data "Icon" "PassiveFeature_DungeonDelver_Perception"
+data "Boosts" "ProficiencyBonus(Skill,SleightOfHand);ExpertiseBonus(SleightOfHand)"
+data "Properties" "IsHidden"
+
+
 new entry "Fake_ExplosiveCannon_Passive"
 type "PassiveData"
 data "DisplayName" "h7750c3cfg334bg448dgad59g079e7e0a2b46;1"

@@ -56,7 +56,7 @@
 										<node id="Attributes">
 											<attribute id="Animation" type="FixedString" value="" />
 											<attribute id="Conditions" type="LSString" value="" />
-											<attribute id="StatsId" type="FixedString" value="Experimental_Elixir_Of_Healing_TempHP" /> 
+											<attribute id="StatsId" type="FixedString" value="Experimental_Elixir_Of_Resilience_TempHP" /> 
 											<attribute id="StatusDuration" type="int32" value="-1" />
 											<attribute id="Consume" type="bool" value="True" />
 											<attribute id="IsHiddenStatus" type="bool" value="False" />
