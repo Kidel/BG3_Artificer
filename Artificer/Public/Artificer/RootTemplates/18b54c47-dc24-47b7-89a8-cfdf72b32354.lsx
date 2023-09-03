@@ -32,7 +32,7 @@
 					<attribute id="ExplodedResourceID" type="FixedString" value="c201a86a-297f-4d0d-16a3-073c1098767b" />
 					<attribute id="DisintegratedResourceID" type="FixedString" value="c201a86a-297f-4d0d-16a3-073c1098767b" />
 					<attribute id="CanOpenDoors" type="bool" value="False" />
-					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="LevelOverride" type="int32" value="9" />
 					<attribute id="LightID" type="FixedString" value="acaa8736-1cee-4eb6-bc38-dbb4d98048e8" />
 					<attribute id="SoundMovementStopEvent" type="FixedString" value="d7d5091b-f262-44f2-6296-0099f0baac88" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="43cea010-fddd-9766-f216-0d9447da020b" />
