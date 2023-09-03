@@ -112,6 +112,7 @@ data "SpellProperties" "GROUND:DealDamage(MainRangedWeapon, Force);GROUND:Execut
 data "RequirementConditions" "not Tagged('AI_BLOCKWEAPONACTIONS') and IsProficientWithEquippedWeapon(context.Source, true, false)"
 data "SpellFlags" "HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;IsDefaultWeaponAction;CanDualWield"
 data "Trajectories" "348013df-7958-4ca9-ac9f-80337e054bee,7bff57fa-fd21-4ab3-9384-83fb14237690"
+data "Cooldown" "OncePerTurn"
 
 
 new entry "Projectile_Jump_BattleSmithCompanion"
