@@ -430,8 +430,6 @@ data "CastSound" "Spell_Passive_Cast_WrathOfTheStorm_Thunder"
 data "TargetSound" "Spell_Passive_Impact_WrathOfTheStorm_Thunder"
 data "CastEffect" "14b37124-6550-4671-8602-7f1349dba9f8"
 data "TargetEffect" "e04b2226-50e5-47ec-888e-4008193fb9ea"
-data "SpellAnimation" "32456253-9787-49c8-9775-4cd93d602f05,,;,,;1b0f0454-b552-4f73-b4f1-42769b13319f,,;4c002ca1-fc5a-4132-b8d1-c440111a46a5,,;5c9e3bb0-8963-4cc3-aa24-c0ba1c49494b,,;,,;c79f1495-5c5c-4e22-bed4-38beb3779b23,,;,,;,,"
-data "PrepareEffect" "d7be823c-3dcc-4b93-bbcf-5fbe2863d26f"
 
 new entry "Target_Artificer_ThunderGauntlets_Offhand"
 type "SpellData"
