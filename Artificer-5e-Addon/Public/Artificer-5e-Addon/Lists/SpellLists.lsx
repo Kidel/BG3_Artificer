@@ -58,7 +58,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spells level 1"/>
-                    <attribute id="Spells" type="LSString" value="Shout_AbsorbElements_Artificer;Target_Catapult;Target_CureWounds;Shout_DetectMagic;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Target_FaerieFire;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Target_Sanctuary;Target_Snare;Zone_TashasCausticBrew"/>
+                    <attribute id="Spells" type="LSString" value="Shout_AbsorbElements_Artificer;Throw_Catapult;Target_CureWounds;Shout_DetectMagic;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Target_FaerieFire;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Target_Sanctuary;Target_Snare;Zone_TashasCausticBrew"/>
                     <attribute id="UUID" type="guid" value="ef3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
                 <node id="SpellList">
@@ -74,7 +74,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spell scroll list"/>
-                    <attribute id="Spells" type="LSString" value="Shout_AbsorbElements_Artificer;Target_Catapult;Target_CureWounds;Shout_DetectMagic;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Target_FaerieFire;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Target_Sanctuary;Target_Snare;Zone_TashasCausticBrew;Shout_Aid;Shout_Blur;Target_ArcaneLock;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Shout_KineticJaunt;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_VortexWarp;Target_Web;Shout_AshardalonsStride;Shout_Blink;Target_Catnap;Target_CreateFoodAndWater;Target_Counterspell;Target_ElementalWeapon;Target_FlameArrows;Target_Fly;Target_GlyphOfWarding;Target_Haste;Target_IntellectFortress;Target_ProtectionFromEnergy;Teleportation_Revivify;Shout_WaterWalk"/>
+                    <attribute id="Spells" type="LSString" value="Shout_AbsorbElements_Artificer;Throw_Catapult;Target_CureWounds;Shout_DetectMagic;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Target_FaerieFire;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Target_Sanctuary;Target_Snare;Zone_TashasCausticBrew;Shout_Aid;Shout_Blur;Target_ArcaneLock;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Shout_KineticJaunt;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_VortexWarp;Target_Web;Shout_AshardalonsStride;Shout_Blink;Target_Catnap;Target_CreateFoodAndWater;Target_Counterspell;Target_ElementalWeapon;Target_FlameArrows;Target_Fly;Target_GlyphOfWarding;Target_Haste;Target_IntellectFortress;Target_ProtectionFromEnergy;Teleportation_Revivify;Shout_WaterWalk"/>
                     <attribute id="UUID" type="guid" value="af3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
 
