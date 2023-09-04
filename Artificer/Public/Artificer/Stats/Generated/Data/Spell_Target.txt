@@ -186,6 +186,8 @@ data "SpellStyleGroup" "Class"
 data "HitAnimationType" "MagicalDamage_External"
 data "Sheathing" "Ranged"
 data "SpellSchool" ""
+data "Cooldown" "OncePerTurn"
+data "UseCosts" "ActionPoint:1"
 
 new entry "Target_EldritchBlast_2_EldritchCannon"
 type "SpellData"

@@ -21,7 +21,7 @@ data "TargetEffect" "53412dd1-8066-4860-a2ae-b27e77bfdab5"
 data "TargetConditions" "not Dead() and not (HasPassive('SculptSpells', context.Source) and Ally())"
 data "CycleConditions" "Enemy() and not Dead()"
 data "HitAnimationType" "MagicalDamage_External"
-data "Cooldown" ""
+data "Cooldown" "OncePerTurn"
 
 new entry "Zone_BurningHands_2_EldritchCannon"
 type "SpellData"
