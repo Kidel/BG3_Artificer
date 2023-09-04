@@ -930,11 +930,12 @@ type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "he53dd9c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
 data "Description" "h5af41faag16e8g4399g8efbgc2af8304f248;1"
-data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
 data "Icon" "Passive_BattleReady"
 data "StackId" "BATTLE_READY_WEAPON"
 data "StackType" "Overwrite"
 data "Boosts" "WeaponAttackRollAbilityOverride(Intelligence)"
+data "StatusGroups" "SG_RemoveOnRespec"
 
 
 new entry "SPELLSTORING_ITEM_RESOURCE"
