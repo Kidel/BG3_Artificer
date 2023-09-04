@@ -281,16 +281,16 @@ data "Icon" "Skill_ArcaneJolt"
 data "PriorityOrder" "2"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnLongRest;OnCreate"
-data "StatsFunctors" "ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,2)"
+data "StatsFunctors" "IF(not HasStatus('EXPERIMENTAL_ELIXIR_RESOURCE_BLOCK', context.Source)):ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,2)"
 data "Properties" "IsHidden"
 
 new entry "Artificer_Elixir_Passive_2"
 using "Artificer_Elixir_Passive_1"
-data "StatsFunctors" "ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,4)"
+data "StatsFunctors" "IF(not HasStatus('EXPERIMENTAL_ELIXIR_RESOURCE_BLOCK', context.Source)):ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,4)"
 
 new entry "Artificer_Elixir_Passive_3"
 using "Artificer_Elixir_Passive_1"
-data "StatsFunctors" "ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,6)"
+data "StatsFunctors" "IF(not HasStatus('EXPERIMENTAL_ELIXIR_RESOURCE_BLOCK', context.Source)):ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,6)"
 
 
 new entry "SpellStoring_Item_Passive_0"
