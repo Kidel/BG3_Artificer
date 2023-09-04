@@ -84,6 +84,22 @@ data "SoundLoop" ""
 data "Properties" "IsHidden"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
+new entry "AURA_OF_ARTIFICER_PASSIVE_5"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h377777777777777777777777777777777777;1"
+data "Description" "h377777777777777777777777777777777777;1"
+data "Icon" "PassiveFeature_Generic_Death"
+data "StackId" "AURA_OF_ARTIFICER_PASSIVE_5"
+data "StackType" "Ignore"
+data "TickType" "EndTurn"
+data "TickFunctors" "IF(not HasStatus('ARTIFICER_FAKE_ENHANCED_WEAPON') and (HasStatus('INFUSION_ENHANCED_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, context.Target)) or HasStatus('INFUSION_ENHANCED_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, context.Target)) or HasStatus('INFUSION_ENHANCED_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, context.Target)) or HasStatus('INFUSION_ENHANCED_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target)) or HasStatus('INFUSION_ENHANCED_WEAPON_L10', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, context.Target)) or HasStatus('INFUSION_ENHANCED_WEAPON_L10', GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, context.Target)) or HasStatus('INFUSION_ENHANCED_WEAPON_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, context.Target)) or HasStatus('INFUSION_ENHANCED_WEAPON_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target)))):ApplyStatus(ARTIFICER_FAKE_ENHANCED_WEAPON,100,-1);IF(not HasStatus('INFUSION_ENHANCED_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, context.Target)) and not HasStatus('INFUSION_ENHANCED_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, context.Target)) and not HasStatus('INFUSION_ENHANCED_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, context.Target)) and not HasStatus('INFUSION_ENHANCED_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target)) and not HasStatus('INFUSION_ENHANCED_WEAPON_L10', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, context.Target)) and not HasStatus('INFUSION_ENHANCED_WEAPON_L10', GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, context.Target)) and not HasStatus('INFUSION_ENHANCED_WEAPON_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, context.Target)) and not HasStatus('INFUSION_ENHANCED_WEAPON_L10', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_FAKE_ENHANCED_WEAPON);IF(not HasStatus('ARTIFICER_FAKE_RADIANT_WEAPON') and (HasStatus('INFUSION_RADIANT_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, context.Target)) or HasStatus('INFUSION_RADIANT_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, context.Target)) or HasStatus('INFUSION_RADIANT_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, context.Target)) or HasStatus('INFUSION_RADIANT_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target)))):ApplyStatus(ARTIFICER_FAKE_RADIANT_WEAPON,100,-1);IF(not HasStatus('INFUSION_RADIANT_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, context.Target)) and not HasStatus('INFUSION_RADIANT_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, context.Target)) and not HasStatus('INFUSION_RADIANT_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, context.Target)) and not HasStatus('INFUSION_RADIANT_WEAPON', GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, context.Target))):RemoveStatus(ARTIFICER_FAKE_RADIANT_WEAPON)"
+data "OnRemoveFunctors" "RemoveStatus(ARTIFICER_FAKE_ENHANCED_WEAPON);RemoveStatus(ARTIFICER_FAKE_RADIANT_WEAPON)"
+data "SoundLoop" ""
+data "Properties" "IsHidden"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
+
 new entry "ARTIFICER_WINDING_PATH_BOOST"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -520,6 +536,20 @@ data "Boosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "ApplyEffect" "6994e8dc-14ac-48a5-9c8e-c1925031e852"
 data "StatusEffect" "ca0b3ab3-dac0-47f7-b313-7ca69c85b5b4"
+
+
+new entry "ARTIFICER_FAKE_ENHANCED_WEAPON"
+data "DisplayName" "h74c2b6ddg453cg4554ga247g3c7e9847b8bd;1"
+data "Description" "haaeb23b5g8c4eg421dgba6cg788a69febd7e;1"
+data "Icon" "Skill_Infusion_EnhancedWeapon"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+new entry "ARTIFICER_FAKE_RADIANT_WEAPON"
+data "DisplayName" "h74c2b6ddg453cg4554ga247g3c7e9847b8bd;1"
+data "Description" "haaeb23b5g8c4eg421dgba6cg788a69febd7e;1"
+data "Icon" "Skill_Infusion_RadiantWeapon"
+data "StatusGroups" "SG_RemoveOnRespec"
+
 
 new entry "INFUSION_BOOTS_OF_THE_WINDING_PATH"
 type "StatusData"
