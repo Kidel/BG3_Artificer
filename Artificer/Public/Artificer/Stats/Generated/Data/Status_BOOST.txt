@@ -539,16 +539,22 @@ data "StatusEffect" "ca0b3ab3-dac0-47f7-b313-7ca69c85b5b4"
 
 
 new entry "ARTIFICER_FAKE_ENHANCED_WEAPON"
+type "StatusData"
+data "StatusType" "BOOST"
 data "DisplayName" "h74c2b6ddg453cg4554ga247g3c7e9847b8bd;1"
 data "Description" "haaeb23b5g8c4eg421dgba6cg788a69febd7e;1"
 data "Icon" "Skill_Infusion_EnhancedWeapon"
 data "StatusGroups" "SG_RemoveOnRespec"
+data "Boosts" ""
 
 new entry "ARTIFICER_FAKE_RADIANT_WEAPON"
+type "StatusData"
+data "StatusType" "BOOST"
 data "DisplayName" "h74c2b6ddg453cg4554ga247g3c7e9847b8bd;1"
 data "Description" "haaeb23b5g8c4eg421dgba6cg788a69febd7e;1"
 data "Icon" "Skill_Infusion_RadiantWeapon"
 data "StatusGroups" "SG_RemoveOnRespec"
+data "Boosts" ""
 
 
 new entry "INFUSION_BOOTS_OF_THE_WINDING_PATH"
