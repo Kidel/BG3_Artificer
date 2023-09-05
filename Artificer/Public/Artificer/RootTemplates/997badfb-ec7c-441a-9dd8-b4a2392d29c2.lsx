@@ -1,56 +1,92 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="4" build="602" />
+	<version major="4" minor="0" revision="0" build="58" />
 	<region id="Templates">
 		<node id="Templates">
-			<children>	
-				<node id="GameObjects"> WPN_Armorer_Reactor
+			<children>
+				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="997badfb-ec7c-441a-9dd8-b4a2392d29c2" />
-					<attribute id="CanShootThrough" type="bool" value="True" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h1111159eg3214g4772g9085gce3dcff90a4d" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="9836e61e8g9b89g4f30gb649gb3a97346a443" version="1" />
-					<attribute id="EquipmentTypeID" type="guid" value="2d85d633-d496-44a1-43a6-950e87ef6d9a" />
-					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
-					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
-					<attribute id="Icon" type="FixedString" value="Spell_Conjuration_MageHand" />
-					<attribute id="IsInspector" type="bool" value="True" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="LevelOverride" type="int64" value="-1" />
 					<attribute id="Name" type="LSString" value="WPN_Armorer_Gauntlets_Guardian_Right" />
 					<attribute id="Stats" type="FixedString" value="WPN_Armorer_Gauntlets_Guardian_Right" />
-					<attribute id="Tooltip" type="uint8" value="2" />
-					<attribute id="Scale" type="float" value="0.5" />
-					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Icon" type="FixedString" value="Spell_Conjuration_MageHand" />
 					<attribute id="VisualTemplate" type="FixedString" value="99707404-da41-44dd-a0d8-9f75fd43c071" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1eab180b-5bf9-48ea-aece-7ba20d1deb78" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hae485f52g1da6g4664gb17egbb3a224b1e45" version="1" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="WalkThrough" type="bool" value="True" />
-					<attribute id="ReadinessFlags" type="uint32" value="128" />
-
-					<attribute id="EquipSound" type="FixedString" value="da469251-95cf-5387-6295-5b1d5ce5a41f" />
-					<attribute id="UnequipSound" type="FixedString" value="503428af-9061-40a7-b9c4-64c8ec78fff3" />
-					<attribute id="ImpactSound" type="FixedString" value="d44f2631-ebea-49ff-79ba-415636e0270a" />
-					<attribute id="InventoryMoveSound" type="FixedString" value="d44f2631-ebea-49ff-79ba-415636e0270a" />
-					<attribute id="DropSound" type="FixedString" value="d44f2631-ebea-49ff-79ba-415636e0270a" />
-					<attribute id="PickupSound" type="FixedString" value="28ea7a9f-b66a-3410-7985-d7cd5cb896f0" />
-
-
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Description" type="TranslatedString" handle="h3921b421gcc2bg4d67gbc65gbdf9e9e153b1" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="2fc3e6f9-120c-4adf-c3b7-9078d7ae12c3" />
+					<attribute id="IsInspector" type="bool" value="True" />
 					<children>
-						<node id="GameMaster" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-7a8c-55cdf27f5cc9" />
+								</node>
+							</children>
+						</node>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.07289286 -0.01255039 -0.4564184" />
+									<attribute id="Max" type="fvec3" value="0.07328856 0.02549566 0.2316022" />
+									<attribute id="Radius" type="float" value="0.182241" />
+									<attribute id="Height" type="float" value="0.0483273" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1574429 -0.01585041 -0.4609683" />
+									<attribute id="Max" type="fvec3" value="0.1378386 0.05479563 0.2361521" />
+									<attribute id="Radius" type="float" value="0.182241" />
+									<attribute id="Height" type="float" value="0.0483273" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.03644643 -0.01255039 -0.2282092" />
+									<attribute id="Max" type="fvec3" value="0.03664428 0.02549566 0.1158011" />
+									<attribute id="Radius" type="float" value="0.0911205" />
+									<attribute id="Height" type="float" value="0.0483273" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster">
+							<attribute id="GameMasterSpawnSubSection" type="TranslatedString" handle="h5c6f4fb6gdef9g4435gba84g79501dee8f2c" version="1" />
+						</node>
 						<node id="OnDestroyActions">
 							<children>
 								<node id="Action">
-									<attribute id="ActionType" type="int64" value="26" />
+									<attribute id="ActionType" type="int32" value="26" />
 									<children>
 										<node id="Attributes">
-											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
 											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
 											<attribute id="PlayOnHUD" type="bool" value="False" />
 										</node>
 									</children>
 								</node>
 							</children>
 						</node>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
 					</children>
-				</node>		
+				</node>
 			</children>
 		</node>
 	</region>
