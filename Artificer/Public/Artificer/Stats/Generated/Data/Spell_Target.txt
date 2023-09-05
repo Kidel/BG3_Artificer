@@ -438,7 +438,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_Artificer_ThunderGauntlets"
 data "UseCosts" "BonusActionPoint:1"
-data "RequirementConditions" "IsOffHandSlotEmpty()"
+data "RequirementConditions" ""
 data "DisplayName" "h1111259eg3214g4772g9085gce3dcff90a4d;1"
 data "Description" "h111124bcg3365g4812ga6a5gb0fa92c75165;1"
 
