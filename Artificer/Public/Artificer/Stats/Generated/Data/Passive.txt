@@ -375,5 +375,4 @@ data "Description" "h777777777777777777777777777777777777;1"
 data "Icon" "Spell_Conjuration_CallLightning"
 data "StatsFunctorContext" "OnEquip;OnUnequip"
 data "StatsFunctors" "ApplyStatus(SELF,ARMORER_CHECK_GLOVE_EFFECT,100,-1)"
-
-//data "Properties" "IsHidden"
+data "Properties" "IsHidden"
