@@ -8,7 +8,7 @@
 					<attribute id="MapKey" type="FixedString" value="997badfb-ec7c-441a-9dd8-b4a2392d29c2" />
 					<attribute id="Name" type="LSString" value="WPN_Armorer_Gauntlets_Guardian_Right" />
 					<attribute id="Stats" type="FixedString" value="WPN_Armorer_Gauntlets_Guardian_Right" />
-					<attribute id="Icon" type="FixedString" value="Spell_Conjuration_MageHand" />
+					<attribute id="Icon" type="FixedString" value="Skill_ThunderGauntlets" />
 					<attribute id="VisualTemplate" type="FixedString" value="99707404-da41-44dd-a0d8-9f75fd43c071" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
@@ -16,13 +16,13 @@
 					<attribute id="ReadinessFlags" type="uint32" value="144" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hae485f52g1da6g4664gb17egbb3a224b1e45" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1111159eg3214g4772g9085gce3dcff90a4d" version="1" />
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="WalkThrough" type="bool" value="True" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
 					<attribute id="Race" type="int8" value="0" />
 					<attribute id="Tooltip" type="uint8" value="2" />
-					<attribute id="Description" type="TranslatedString" handle="h3921b421gcc2bg4d67gbc65gbdf9e9e153b1" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="ha111159eg3214g4772g9085gce3dcff90a4d" version="1" />
 					<attribute id="EquipmentTypeID" type="guid" value="2fc3e6f9-120c-4adf-c3b7-9078d7ae12c3" />
 					<attribute id="IsInspector" type="bool" value="True" />
 					<children>
