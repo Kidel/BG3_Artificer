@@ -367,3 +367,13 @@ data "BoostContext" "OnEquip;OnCreate"
 data "BoostConditions" ""
 data "Boosts" "ActionResource(Movement, 1.5, 0)"
 
+
+new entry "Passive_Armorer_Check_Gloves_Effect"
+type "PassiveData"
+data "DisplayName" "h777777777777777777777777777777777777;1"
+data "Description" "h777777777777777777777777777777777777;1"
+data "Icon" "Spell_Conjuration_CallLightning"
+data "StatsFunctorContext" "OnEquip;OnUnequip"
+data "StatsFunctors" "ApplyStatus(SELF,ARMORER_CHECK_GLOVE_EFFECT,100,-1)"
+
+//data "Properties" "IsHidden"
