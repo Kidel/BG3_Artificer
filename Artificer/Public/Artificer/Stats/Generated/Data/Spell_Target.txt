@@ -155,7 +155,7 @@ using "Target_ArtilleristCompanion"
 data "TargetConditions" "Self()"
 data "DisplayName" "7727e61e8g9b89g4f30gb649gb3a97346a443;1"
 data "SpellContainerID" "Target_ArtilleristCompanion"
-data "SpellProperties" "IF(not ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(777badfb-ec7c-441a-9dd8-b4a2392d29c2,Permanent,1,true,true,true,,,'CombatSummonStack');IF(ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(778badfb-ec7c-441a-9dd8-b4a2392d29c2,Permanent,1,true,true,true,,,'CombatSummonStack')"
+data "SpellProperties" "IF(not ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(777badfb-ec7c-441a-9dd8-b4a2392d29c2,Permanent,1,true,true,true,,,'CombatSummonStack',UNSTOWABLE_CONJURED_WEAPON);IF(ClassLevelHigherOrEqualThan(9,'Artificer')):SummonInInventory(778badfb-ec7c-441a-9dd8-b4a2392d29c2,Permanent,1,true,true,true,,,'CombatSummonStack',UNSTOWABLE_CONJURED_WEAPON)"
 data "Icon" "Skill_EldritchCannon_Tiny"
 
 new entry "Target_EldritchBlast_EldritchCannon"
