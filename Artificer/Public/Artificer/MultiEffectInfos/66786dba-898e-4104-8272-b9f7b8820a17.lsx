@@ -12,7 +12,7 @@
 					<attribute id="DamageType" type="uint32" value="0" />
 					<attribute id="DetachSource" type="bool" value="False" />
 					<attribute id="DetachTarget" type="bool" value="False" />
-					<attribute id="EffectResourceGuid" type="guid" value="117808ac-dff6-fa99-3bcd-0f40adc87c75" />
+					<attribute id="EffectResourceGuid" type="guid" value="7349aad8-1ca1-4923-fd22-d18c9ee287be" />
 					<attribute id="Enabled" type="bool" value="True" />
 					<attribute id="KeepRotation" type="bool" value="True" />
 					<attribute id="KeepScale" type="bool" value="True" />
