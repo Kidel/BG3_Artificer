@@ -99,7 +99,7 @@ data "Description" "h8358452eg4441g4385gae6fg12d286bfd567;7"
 data "TooltipDamageList" "DealDamage(MainRangedWeapon, Force)"
 data "TooltipAttackSave" "RangedWeaponAttack"
 data "CastSound" "Action_Cast_SneakAttackProjectile"
-data "UseCosts" "ActionPoint:1"
+data "UseCosts" "ActionPoint:1;BonusActionPoint:1"
 data "SpellStyleGroup" "Class"
 data "WeaponTypes" "Ammunition"
 data "Sheathing" "Ranged"
@@ -113,6 +113,12 @@ data "RequirementConditions" "not Tagged('AI_BLOCKWEAPONACTIONS') and IsProficie
 data "SpellFlags" "HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;IsDefaultWeaponAction;CanDualWield"
 data "Trajectories" "c63c4527-1bdf-4635-ad59-7d7e2f666fa3"
 data "Cooldown" "OncePerTurn"
+
+new entry "Projectile_RepeatingShot_Fast"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_RepeatingShot"
+data "UseCosts" "ActionPoint:1"
 
 
 new entry "Projectile_Jump_BattleSmithCompanion"
