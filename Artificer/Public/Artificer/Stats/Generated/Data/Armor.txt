@@ -10,7 +10,7 @@ data "Armor Class Ability" "Dexterity"
 data "Ability Modifier Cap" "2"
 data "Boosts" "IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth)"
 data "Weight" "13"
-
+data "ArmorType" "ScaleMail"
 
 
 new entry "REPLICA_ofGreaterHealth_Amulet"
