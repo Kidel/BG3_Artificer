@@ -265,7 +265,7 @@ data "UseCosts" ""
 data "SpellRoll" ""
 data "TooltipAttackSave" ""
 data "SpellFlags" "Temporary;RangeIgnoreVerticalThreshold;IsHarmful"
-data "DeathType" "Force"
+data "DeathType" "Physical"
 data "TargetRadius" "60"
 
 
