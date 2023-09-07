@@ -249,4 +249,14 @@
 	<content contentuid="h722224bcg3365g4812ga6a5gb0fa92c75165" version="1">You can use a reaction to pull a creature that attacks an ally nearby, preventing that attack and dealing damage to the creature.</content>
 	<content contentuid="h8222259eg3214g4772g9085gce3dcff90a4d" version="1">Perfected Armor: Infiltrator</content>
 	<content contentuid="h922224bcg3365g4812ga6a5gb0fa92c75165" version="1">Creatures you hit with Lightning Launcher glimmer with magical light and have Disadvantage on attack rolls and take extra damage from your Lightning Launcher.</content>
+
+
+	<content contentuid="h3854f09fg3063g4abbg9332gf089e61d313e" version="1">Magic Item Savant</content>
+	<content contentuid="h4854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
+	<content contentuid="h4954f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a bonus to damage when you attack or cast a spell while holding a magical weapon. You ignore all class and race requirements when using an item.</content>
+	<content contentuid="h5854f09fg3063g4abbg9332gf089e61d313e" version="1">Magic Item Master</content>
+	<content contentuid="h6854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a second bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
+	<content contentuid="h7854f09fg3063g4abbg9332gf089e61d313e" version="1">Soul of Artifice</content>
+	<content contentuid="h8854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +1 bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; if you're holding a magic or infused weapon.  When you posses a replicated magic item, if you're reduced to 0 hit points but not killed out-right, you can use your reaction causing you to drop to 1 hit point instead of 0.</content>
+
 </contentList>

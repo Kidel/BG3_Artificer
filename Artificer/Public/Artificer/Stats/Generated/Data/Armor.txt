@@ -10,7 +10,7 @@ data "Armor Class Ability" "Dexterity"
 data "Ability Modifier Cap" "2"
 data "Boosts" "IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth)"
 data "Weight" "13"
-
+data "ArmorType" "ScaleMail"
 
 
 new entry "REPLICA_ofGreaterHealth_Amulet"
@@ -20,6 +20,7 @@ data "RootTemplate" "fff63342-30c9-456d-9a57-a88c8596c0c9"
 data "ValueOverride" "1"
 data "Rarity" "VeryRare"
 data "Boosts" "Advantage(SavingThrow, Constitution);AbilityOverrideMinimum(Constitution, 20)"
+data "StatusInInventory" "FLAG_SOUL_OF_ARTIFICE"
 
 new entry "REPLICA_OfGiantHillStrength_Gloves"
 type "Armor"
@@ -28,6 +29,7 @@ data "RootTemplate" "fff1aa27-ce9c-414c-84ff-5e974fd64d89"
 data "ValueOverride" "1"
 data "Rarity" "VeryRare"
 data "Boosts" "RollBonus(SavingThrow, 1, Strength);AbilityOverrideMinimum(Strength, 20)"
+data "StatusInInventory" "FLAG_SOUL_OF_ARTIFICE"
 
 new entry "REPLICA_ReadThoughts_Circlet"
 type "Armor"
@@ -39,6 +41,7 @@ data "Description" "h777550edg6d54g4113gbbdcge6d99b8b2a2f;1"
 data "Rarity" "VeryRare"
 data "Boosts" "UnlockSpell(Shout_MAG_Monk_DetectThought);UnlockSpell(Target_MAG_CounterSpell);Advantage(SavingThrow, Wisdom);Advantage(SavingThrow, Constitution)"
 data "PassivesOnEquip" "MAG_LC_Counterspell_Quarterstaff_Resource_Passive"
+data "StatusInInventory" "FLAG_SOUL_OF_ARTIFICE"
 
 new entry "REPLICA_Flying_Boots"
 type "Armor"
@@ -49,6 +52,7 @@ data "DisplayName" "h888cc24ega0f9g4f4dgb5d3g46ab59579d4b;1"
 data "Description" "h888550edg6d54g4113gbbdcge6d99b8b2a2f;1"
 data "Rarity" "VeryRare"
 data "Boosts" "UnlockSpell(Shout_OncePerShortRest_Infernal_Fly);ActionResource(Movement,3,0);Skill(Acrobatics,2);Skill(Athletics,2)"
+data "StatusInInventory" "FLAG_SOUL_OF_ARTIFICE"
 
 new entry "REPLICA_OfUndeadServant_Ring"
 type "Armor"
@@ -57,3 +61,6 @@ data "RootTemplate" "fffc0cbb-9791-4cc7-95ba-9821902119fa"
 data "ValueOverride" "1"
 data "Rarity" "VeryRare"
 data "Boosts" "UnlockSpell(Target_OncePerShortRest_CreateUndead);Resistance(Necrotic,Resistant)"
+data "StatusInInventory" "FLAG_SOUL_OF_ARTIFICE"
+
+

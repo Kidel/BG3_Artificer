@@ -1322,3 +1322,37 @@ data "RemoveConditions" "HasStatus('ARMOR_MODEL_INFILTRATOR',context.Source) or 
 data "RemoveEvents" "OnSourceStatusApplied"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 data "OnRemoveFunctors" "Unsummon()"
+
+
+new entry "FLAG_SOUL_OF_ARTIFICE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h7854f09fg3063g4abbg9332gf089e61d313e;1"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
+
+new entry "SOUL_OF_ARTIFICE_AVAILABLE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SURVIVAL_INSTINCT"
+data "DisplayName" "h7854f09fg3063g4abbg9332gf089e61d313e;1"
+data "DescriptionParams" "RegainHitPoints(1)"
+data "Icon" "PassiveFeature_RelentlessEndurance"
+data "SoundLoop" ""
+data "SoundStop" ""
+data "StackId" "SOUL_OF_ARTIFICE_AVAILABLE"
+data "Boosts" "DownedStatus(SOUL_OF_ARTIFICE_AVAILABLE_DOWNED,5)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+data "StatusEffect" ""
+
+
+new entry "SOUL_OF_ARTIFICE_AVAILABLE_DOWNED"
+type "StatusData"
+data "StatusType" "DOWNED"
+using "SURVIVAL_INSTINCT_DOWNED"
+data "DisplayName" "hac22fa96g6cc9g4603g9bd7gd9696bba61b3;1"
+data "Icon" "PassiveFeature_RelentlessEndurance"
+data "OnApplyFunctors" "IF(HasStatus('FLAG_SOUL_OF_ARTIFICE')):RemoveStatus(SOUL_OF_ARTIFICE_AVAILABLE);IF(HasStatus('FLAG_SOUL_OF_ARTIFICE')):RegainHitPoints(1,Guaranteed)"
+data "StatusGroups" "SG_Incapacitated"
+data "ApplyEffect" ""
