@@ -49,8 +49,8 @@
 	<content contentuid="h317ab036g8f28g42d7g8702g90eb320c94ae" version="1">You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them.  Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell.  That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</content>
 	<content contentuid="h34ded68cgc442g458cg9191g8dd06177d917" version="1">Restorative Reagents</content>
 	<content contentuid="h4f43af6cg103fg4363g804dgcdca618719a6" version="1">You have learned to incorporate restorative reagents into some of your works: whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6. You can cast Lesser Restoration without expending a Spell Slot and without preparing the spell.</content>
-	<content contentuid="h54d102a8gfda8g4f9bgbdd1g2ce47f04414c" version="1">Chemical Mastery</content>
-	<content contentuid="hba71604eg9edag4681ga518g2ec7758d0ba5" version="1">You learned how to use your alchemy replicate some magic ingredients from basic elements.  You can expend Salvaged Chemicals to create a wide variety of base components for Alchemy recipes.</content>
+	<content contentuid="h54d102a8gfda8g4f9bgbdd1g2ce47f04414c" version="1">Alchemical Mastery</content>
+	<content contentuid="hba71604eg9edag4681ga518g2ec7758d0ba5" version="1">You learned how to use your alchemy replicate some magic ingredients from basic elements.  You can expend Salvaged Elements to create a wide variety of base components for Alchemy recipes.</content>
 	<content contentuid="h26b4462cgbbf1g416agaf36g0ea23f27eaa0" version="1">Experimental Elixir Charges</content>
 	<content contentuid="h8f96469eg7359g4588gbaefg3f444b9d6895" version="1">You've learned to magically produce Experimental Elixirs. These have a random effect and lasts until a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
 	<content contentuid="h8b5a15a5g7e3dg43afg9bb4g017394ad88aa" version="1">Restorative Reagent Charges</content>
@@ -104,15 +104,15 @@
 	<content contentuid="2222222c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Deflect Attack</content>
 	<content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">The defender imposes disadvantage on the attack roll of one creature it can see, provided the attack roll is against a creature other than the Steel Defender.</content>
 
-	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemical Adept</content>
-	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Chemicals to craft them.</content>
-	<content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvage Chemicals</content>
-	<content contentuid="011112faag16e8g4399g8efbgc2af8304f248" version="1">Magically extract useful chemical elements to craft consumable items useful in combat with Chemical Adept.  Certain items might require more units to craft.</content>
-	<content contentuid="1111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvaged Chemicals</content>
-	<content contentuid="111112faag16e8g4399g8efbgc2af8304f248" version="1">You have magically extracted useful chemical elements to craft consumable items useful in combat with Chemical Adept.  Certain items might require more units to craft.</content>
-	<content contentuid="h27112faag16e8g4399g8efbgc2af8304f248" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Requires 2 units of Salvaged Chemicals</content>
-	<content contentuid="2111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemicals Extracted</content>
-	<content contentuid="211112faag16e8g4399g8efbgc2af8304f248" version="1">Useful chemical elements have been already extracted.</content>
+	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Alchemical Adept</content>
+	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Elements to craft them.</content>
+	<content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvage Elements</content>
+	<content contentuid="011112faag16e8g4399g8efbgc2af8304f248" version="1">Magically extract useful alchemical elements to craft consumable items useful in combat or rare ingredients with your Alchemical Adept or Mastery magic.  Certain items might require more units to craft.</content>
+	<content contentuid="1111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvaged Elements</content>
+	<content contentuid="111112faag16e8g4399g8efbgc2af8304f248" version="1">You have magically extracted useful elements to craft consumable items and ingredients.  Certain items might require more units to craft.</content>
+	<content contentuid="h27112faag16e8g4399g8efbgc2af8304f248" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Requires 2 units of Salvaged Elements</content>
+	<content contentuid="2111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Elements Extracted</content>
+	<content contentuid="211112faag16e8g4399g8efbgc2af8304f248" version="1">Useful elements have been extracted.  Might cause health issues or structural damage.</content>
 	<content contentuid="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item</content>
 	<content contentuid="hf3234g16e8321g4399g8efbgc2af8304f248" version="1">You've learned to store spells into scrolls.  The magic lasts until a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, and you can create a number of scrolls equal to your Intelligence Modifier.</content>
 	<content contentuid="h863423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item Charges</content>
