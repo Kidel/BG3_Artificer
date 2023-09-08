@@ -135,6 +135,8 @@
 	<content contentuid="hd0f27fc2gffb5g4e11ga18dg0b0634fb3ac7" version="1">Craft: Trap Disarm Kit</content>
 	<content contentuid="h95a73c80ga7a2g4049g8329g92e1048cf2eb" version="1">Craft: Shovel</content>
 	<content contentuid="h4b087c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Enhanced Defense</content>
+	<content contentuid="h11087c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Enhanced Defense (Armor)</content>
+	<content contentuid="h22087c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Enhanced Defense (Shield)</content>
 	<content contentuid="h57787c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Enhanced Defense Equipped</content>
 	<content contentuid="h39958a9dg4375g4b4egb042ga1ad0cfd6907" version="1">This infusion gives a +1 bonus to the &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; of a piece of armor or shield.  The bonus increases to +2 when you reach 10th level in this class.</content>
 	<content contentuid="hacae19c9gd05cg4e61ga0b9gdcc364c0ae32" version="1">Infusion: Enhanced Arcane Focus</content>
