@@ -1293,6 +1293,7 @@ data "StackType" "Ignore"
 data "Boosts" ""
 data "StatusEffect" "66686dba-898e-4104-8272-b9f7b8820a17"
 data "StatusPropertyFlags" "IgnoreResting;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusGroups" "SG_RemoveOnRespec"
 
 new entry "ARMORER_LEFT_GLOVE_EFFECT"
 type "StatusData"
