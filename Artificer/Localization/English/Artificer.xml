@@ -13,7 +13,10 @@
 
 	<content contentuid="66523fb3deaa14de1766304e0911fbc49ae66" version="1">Artificer</content>
 	<content contentuid="77523fb3deaa14de1766304e0911fbc49ae77" version="1">Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects.  They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.  You can find everything you need to play one of these inventors in the next few sections.</content>
-
+	<!-- USED IN DIALOGUE TEST DO NOT EDIT-->
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<!-- END DIALOGUE TEST HANDLES-->
 	<content contentuid="12344fb3deaa14de1766304e0911fbc49ae66" version="1">Sleight of Hand Expertise</content>
 	<content contentuid="12345fb3deaa14de1766304e0911fbc49ae66" version="1">You gain Proficiency and Expertise in Sleight of Hand checks.</content>
 
