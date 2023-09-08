@@ -1286,7 +1286,7 @@ data "SoundLoop" ""
 data "SoundStop" ""
 data "StackId" "ARMORER_GLOVE_WEAPON_EFFECT"
 data "StackType" "Overwrite"
-data "Boosts" "Tag(ARMORER_GLOVE_WEAPON)"
+data "Boosts" "Tag(ARMORER_GLOVE_WEAPON);WeaponAttackRollAbilityOverride(Intelligence)"
 data "StatusPropertyFlags" "FreezeDuration;IgnoreResting;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 data "Properties" "IsHidden"
 
