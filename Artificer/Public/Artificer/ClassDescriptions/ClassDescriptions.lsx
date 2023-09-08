@@ -24,9 +24,6 @@
                     <attribute id="UUID" type="guid" value="03f972eb-de3c-4cdb-9050-e8e3fa0526eb"/>
 					<children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c"/> Dialogue tag WIZARD (TODO?)
-                        </node>
-                        <node id="Tags">
                             <attribute id="Object" type="guid" value="7773ae27-dc6c-4fc9-9245-710c790c396c"/> Tag ARTIFICER
                         </node>
                     </children>
