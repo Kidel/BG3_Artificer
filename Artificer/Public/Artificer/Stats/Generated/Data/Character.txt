@@ -44,6 +44,15 @@ data "Armor" "15"
 data "Strength" "18"
 data "Dexterity" "18"
 
+new entry "Companion_BattleSmith_15"
+type "Character"
+using "Companion_BattleSmith_12"
+data "Vitality" "80"
+data "Armor" "17"
+data "Strength" "20"
+data "Dexterity" "20"
+data "Passives" "Artificer_ArcaneJolt_Passive_Dog_2;Artificer_ArcaneJolt_OnAttack_Passive;Artificer_BattleCompanion_Deflect_2;PackTactics;ShortResting;Artificer_CompanionsBond_Creature;AttackOfOpportunity;DarknessRules;Darkvision"
+
 
 new entry "Companion_Artillerist_EldritchCannon"
 type "Character"

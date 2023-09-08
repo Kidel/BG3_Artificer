@@ -75,6 +75,24 @@ data "StatsFunctors" ""
 data "ToggleOffFunctors" ""
 data "ToggleOnFunctors" ""
 
+new entry "Fake_FortifiedPosition_Passive"
+type "PassiveData"
+data "DisplayName" "TODO;1"
+data "Description" "TODO;1"
+data "Icon" "TODO"
+data "StatsFunctors" ""
+data "ToggleOffFunctors" ""
+data "ToggleOnFunctors" ""
+
+new entry "Fake_ImprovedDefender_Passive"
+type "PassiveData"
+data "DisplayName" "TODO;1"
+data "Description" "TODO;1"
+data "Icon" "TODO"
+data "StatsFunctors" ""
+data "ToggleOffFunctors" ""
+data "ToggleOnFunctors" ""
+
 
 new entry "Artificer_ArcaneFirearm_OnAttack_Passive"
 type "PassiveData"
@@ -272,6 +290,11 @@ using "Artificer_ArcaneJolt_Passive_1"
 data "Conditions" "(not HasStatus('ARCANE_JOLT_RESOURCE', context.Source))"
 data "StatsFunctors" "IF(not HasStatus('ARCANE_JOLT_RESOURCE_BLOCK', context.Source)):ApplyStatus(SELF,ARCANE_JOLT_RESOURCE,100,4)"
 
+new entry "Artificer_ArcaneJolt_Passive_Dog_2"
+using "Artificer_ArcaneJolt_Passive_1"
+data "Conditions" "(not HasStatus('ARCANE_JOLT_RESOURCE', context.Source))"
+data "StatsFunctors" "IF(not HasStatus('ARCANE_JOLT_RESOURCE_BLOCK', context.Source)):ApplyStatus(SELF,ARCANE_JOLT_RESOURCE,100,6)"
+
 
 new entry "Artificer_AlchemicalSavant_Passive"
 type "PassiveData"
@@ -376,6 +399,13 @@ data "DisplayName" "2222222c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
 data "Description" "3222223aag16e8g4399g8efbgc2af8304f248;1"
 data "Icon" "PassiveFeature_DeflectMissiles"
 data "Boosts" "UnlockInterrupt(Interrupt_BattleSmith_Deflect)"
+
+new entry "Artificer_BattleCompanion_Deflect_2"
+type "PassiveData"
+data "DisplayName" "2222222c1g0a96g40f7g8606gd0e9a5b0d3a4;1"
+data "Description" "3222223aag16e8g4399g8efbgc2af8304f248;1"
+data "Icon" "PassiveFeature_DeflectMissiles"
+data "Boosts" "UnlockInterrupt(Interrupt_BattleSmith_Deflect_2)"
 
 
 new entry "Passive_PoweredSteps"

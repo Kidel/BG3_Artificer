@@ -27,6 +27,11 @@ data "EnableContext" "OnStatusApplied"
 data "InterruptDefaultValue" "Ask;Enabled"
 data "ExtraDescription" ""
 
+new entry "Interrupt_BattleSmith_Deflect_2"
+type "InterruptData"
+using "Interrupt_BattleSmith_Deflect"
+data "Properties" "SetDisadvantage();ApplyStatus(OBSERVER_TARGET,PASSIVE_WARDING_FLARE,100,0);UseSpell(OBSERVER_TARGET,Target_Deflect_Interrupt,true,true,true);DealDamage(1d4+5,Force)"
+
 
 new entry "Interrupt_ArmorModel_Guardian"
 type "InterruptData"
@@ -36,6 +41,15 @@ data "Description" "h722224bcg3365g4812ga6a5gb0fa92c75165;1"
 data "Icon" "Passive_PerfectedArmor"
 data "Conditions" "IsAbleToReact(context.Observer) and Enemy(context.Source,context.Observer) and not Self(context.Target,context.Observer) and HasInterruptedAttack() and not AnyEntityIsItem()"
 data "Properties" "IF(HasInterruptedAttack()):SetRoll(1);UseSpell(OBSERVER_SOURCE,Target_ArmorModel_Guardian_Sentinel_Thunder,true,true,true)"
+
+new entry "Interrupt_ArmorModel_Guardian_L15"
+type "InterruptData"
+using "Interrupt_BattleSmith_Deflect"
+data "DisplayName" "h6222259eg3214g4772g9085gce3dcff90a4d;1"
+data "Description" "h722224bcg3365g4812ga6a5gb0fa92c75165;1"
+data "Icon" "Passive_PerfectedArmor"
+data "Conditions" "IsAbleToReact(context.Observer) and Enemy(context.Source,context.Observer) and not Self(context.Target,context.Observer) and HasInterruptedAttack() and not AnyEntityIsItem()"
+data "Properties" "IF(HasInterruptedAttack()):SetRoll(1);UseSpell(OBSERVER_SOURCE,Target_ArmorModel_Guardian_Sentinel_Thunder_L15,true,true,true)"
 
 
 new entry "Interrupt_AbsorbElements_Artificer"
