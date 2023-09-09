@@ -160,7 +160,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4;AuraOfArtificer_Passive_Technical_Self_6"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="77d67b34-19af-438f-8e9f-dabc19beed3a"/>
@@ -169,8 +169,8 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(InfusionSlots,1,0)"/>
                     <attribute id="Level" type="uint8" value="14"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(77445678-c41b-444a-83aa-9748e03e9e16,2,0,Infusion,,,AlwaysPrepared)"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(77445678-c41b-444a-83aa-9748e03e9e16,2,0,Infusion,,,AlwaysPrepared);SelectSpells(b9808849-c41b-444a-83aa-9748e03e9e16,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Magic_Item_Savant"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="78d67b34-19af-438f-8e9f-dabc19beed3a"/>
@@ -179,7 +179,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
                     <attribute id="Level" type="uint8" value="15"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="79d67b34-19af-438f-8e9f-dabc19beed3a"/>
@@ -198,7 +198,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5)"/>
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4;UnlockedSpellSlotLevel5"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="7bd67b34-19af-438f-8e9f-dabc19beed3a"/>
@@ -207,8 +207,8 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(InfusionSlots,1,0)"/>
                     <attribute id="Level" type="uint8" value="18"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(77445678-c41b-444a-83aa-9748e03e9e16,2,0,Infusion,,,AlwaysPrepared)"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(77445678-c41b-444a-83aa-9748e03e9e16,2,0,Infusion,,,AlwaysPrepared);SelectSpells(b9808849-c41b-444a-83aa-9748e03e9e16,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Magic_Item_Master"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="7cd67b34-19af-438f-8e9f-dabc19beed3a"/>
@@ -218,7 +218,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
                     <attribute id="Level" type="uint8" value="19"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel5"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="7dd67b34-19af-438f-8e9f-dabc19beed3a"/>
@@ -227,7 +227,7 @@
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="20"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_SoulOfArtifice"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="7ed67b34-19af-438f-8e9f-dabc19beed3a"/>

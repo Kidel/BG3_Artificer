@@ -165,9 +165,6 @@ data "Conditions" "not HasStatus('AURA_OF_ARTIFICER_PASSIVE_5')"
 data "StatsFunctors" "ApplyStatus(SELF,AURA_OF_ARTIFICER_PASSIVE_5,100,-1)"
 data "Properties" "IsHidden"
 
-
-// TODO add to progression 
-
 new entry "AuraOfArtificer_Passive_Technical_Self_6"
 type "PassiveData"
 data "DisplayName" "h877777777777777777777777777777777777;1"
