@@ -514,14 +514,14 @@
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Passive_MagicItemSavant"/> 135 ROW 5 = 7
+                    <attribute id="MapKey" type="FixedString" value="Passive_MagicItemSavant_Artificer"/> 135 ROW 5 = 7
                     <attribute id="U1" type="float" value="0.1875"/> Left
                     <attribute id="U2" type="float" value="0.21875"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Passive_MagicItemMaster"/> 136 ROW 5 = 8
+                    <attribute id="MapKey" type="FixedString" value="Passive_MagicItemMaster_Artificer"/> 136 ROW 5 = 8
                     <attribute id="U1" type="float" value="0.21875"/> Left
                     <attribute id="U2" type="float" value="0.25"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
@@ -542,7 +542,7 @@
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Passive_Magic_Item_Adept"/> 139 ROW 5 = 11
+                    <attribute id="MapKey" type="FixedString" value="Passive_MagicItemAdept_Artificer"/> 139 ROW 5 = 11
                     <attribute id="U1" type="float" value="0.3125"/> Left
                     <attribute id="U2" type="float" value="0.34375"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
