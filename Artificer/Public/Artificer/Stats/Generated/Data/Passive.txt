@@ -427,6 +427,14 @@ data "StatsFunctors" "ApplyStatus(SELF,ARMORER_CHECK_GLOVE_EFFECT,100,-1)"
 data "Properties" "IsHidden"
 
 
+new entry "Passive_Magic_Item_Adept"
+type "PassiveData"
+data "DisplayName" "h7777f09fg3063g4abbg9332gf089e61d313e;1"
+data "Description" "h7778f09fg3063g4abbg9332gf089e61d313e;1"
+data "Icon" "Passive_MagicItemAdept"
+data "Properties" "Highlighted"
+data "Boosts" "IF(IsAttack() and WieldingWeapon('Magical', false, false)):CharacterWeaponDamage(1);IF(IsSpell() and WieldingWeapon('Magical', false, false)):DamageBonus(1)"
+
 new entry "Passive_Magic_Item_Savant"
 type "PassiveData"
 data "DisplayName" "h3854f09fg3063g4abbg9332gf089e61d313e;1"

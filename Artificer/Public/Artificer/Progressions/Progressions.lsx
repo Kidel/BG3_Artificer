@@ -127,8 +127,8 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(InfusionSlots,1,0)"/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedInfusionSlots"/> 
-                    <attribute id="Selectors" type="LSString" value="AddSpells(e9808849-c41b-444a-83aa-9748e03e9e16,ChemicalAdept,,,AlwaysPrepared);SelectSpells(b9808849-c41b-444a-83aa-9748e03e9e16,1,0,,,,AlwaysPrepared);SelectSpells(22345678-c41b-444a-83aa-9748e03e9e16,2,0,Infusion,,,AlwaysPrepared)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedInfusionSlots;Passive_Magic_Item_Adept"/> 
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e9808849-c41b-444a-83aa-9748e03e9e16,AlchemicalAdept,,,AlwaysPrepared);SelectSpells(b9808849-c41b-444a-83aa-9748e03e9e16,1,0,,,,AlwaysPrepared);SelectSpells(22345678-c41b-444a-83aa-9748e03e9e16,2,0,Infusion,,,AlwaysPrepared)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="74d67b34-19af-438f-8e9f-dabc19beed3a"/>
