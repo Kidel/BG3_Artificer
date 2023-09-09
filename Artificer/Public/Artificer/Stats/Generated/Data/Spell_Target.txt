@@ -358,7 +358,15 @@ data "Sheathing" "DontChange"
 data "SpellAnimationIntentType" "Peaceful"
 data "SpellAnimation" "5e57443f-284e-47b2-915e-5b6417db269c,,;925779e7-8bf6-4d56-8c4d-42c3bc01c60c,,;50398f4e-dd82-4d6a-ad43-aedd578543d9,,;1c343e00-7e6c-4f53-b588-074a3cdb9c7d,,;5bcdefbb-2194-46c2-ac77-0b2d8472a5f7,,;,,;5fdb66be-7506-411a-a7ea-c4783288aac8,,;,,;,,"
 
+new entry "Target_Artificer_ArcaneJolt_Damage_Improved"
+using "Target_Artificer_ArcaneJolt_Damage"
+data "SpellProperties" "DealDamage(4d6,Force);ApplyStatus(SELF,ARCANE_JOLT_USED,100,0);ApplyStatus(SELF,ARCANE_JOLT_SKILLS_LOCKED_FOR_THE_TURN,100,1)"
+data "TooltipDamageList" "DealDamage(4d6,Force)"
 
+new entry "Target_Artificer_ArcaneJolt_Heal_Improved" 
+using "Target_Artificer_ArcaneJolt_Heal"
+data "SpellProperties" "RegainHitPoints(4d6);ApplyStatus(SELF,ARCANE_JOLT_USED,100,0);ApplyStatus(SELF,ARCANE_JOLT_SKILLS_LOCKED_FOR_THE_TURN,100,1)"
+data "TooltipDamageList" "RegainHitPoints(4d6)"
 
 new entry "Target_Alchemist_LesserRestoration"
 type "SpellData"

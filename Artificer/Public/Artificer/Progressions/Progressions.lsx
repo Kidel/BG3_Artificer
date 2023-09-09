@@ -85,7 +85,7 @@
                     <attribute id="UUID" type="guid" value="6fd67b34-19af-438f-8e9f-dabc19beed3a"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(InfusionSlots,1,0);"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(InfusionSlots,1,0)"/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedInfusionSlots;Artificer_SleightOfHand_Expertise;Fake_Artificer_SleightOfHand_Expertise"/>
@@ -200,6 +200,7 @@
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4;UnlockedSpellSlotLevel5"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(5f3aa11f-cc98-412f-a85e-7fae4561a4d4)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="7bd67b34-19af-438f-8e9f-dabc19beed3a"/>
@@ -220,7 +221,6 @@
                     <attribute id="Level" type="uint8" value="19"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel5"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(5f3aa11f-cc98-412f-a85e-7fae4561a4d4)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="7dd67b34-19af-438f-8e9f-dabc19beed3a"/>

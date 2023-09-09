@@ -98,9 +98,9 @@
 	<content contentuid="8883dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt Uses</content>
 	<content contentuid="889f41faag16e8g4399g8efbgc2af8304f248" version="1">You can use this energy a number of times equal to your Intelligence Modifier (minimum of once).  You regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="6969dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Damage)</content>
-	<content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">You can deal 2d6 Force damage to a target you've hit during this turn. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
+	<content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">You can deal Force damage to a target you've hit during this turn. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Heal)</content>
-	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see within 30 feet of the target.  Healing energy flows into the chosen recipient, restoring 2d6 &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; to it. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
+	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see.  Healing energy flows into the chosen recipient, restoring &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; to it. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="2222222c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Deflect Attack</content>
 	<content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">The defender imposes disadvantage on the attack roll of one creature it can see, provided the attack roll is against a creature other than the Steel Defender.</content>
 
