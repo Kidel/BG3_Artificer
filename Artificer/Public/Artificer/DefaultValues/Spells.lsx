@@ -40,6 +40,38 @@
                     <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="aab7e0ec-e9d5-421c-824c-ace09640c31a"/>
                 </node>
+
+                13-20
+
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Projectile_AcidSplash;Shout_BladeWard;Target_ChillTouch;Target_DancingLights;Projectile_FireBolt;Target_Guidance;Target_MageHand;Projectile_PoisonSpray;Target_Resistance;Projectile_RayOfFrost;Target_ShockingGrasp;Target_ThornWhip"/>
+                    <attribute id="Level" type="int32" value="14"/>
+                    <attribute id="SelectorId" type="LSString" value="Artificer Cantrips"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="ddb7e0ec-e9d5-421c-824c-ace09640c31a"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Projectile_AcidSplash;Shout_BladeWard;Target_ChillTouch;Target_DancingLights;Projectile_FireBolt;Target_Guidance;Target_MageHand;Projectile_PoisonSpray;Target_Resistance;Projectile_RayOfFrost;Target_ShockingGrasp;Target_ThornWhip"/>
+                    <attribute id="Level" type="int32" value="18"/>
+                    <attribute id="SelectorId" type="LSString" value="Artificer Cantrips"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="eeb7e0ec-e9d5-421c-824c-ace09640c31a"/>
+                </node>
+
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_Infusion_ArcanePropulsionArmor;Infusion_CreateSpellSlot;Target_Infusion_ReplicateItem;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus"/>
+                    <attribute id="Level" type="int32" value="14"/>
+                    <attribute id="SelectorId" type="LSString" value="Artificer Infusions"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="bbb7e0ec-e9d5-421c-824c-ace09640c31a"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_Infusion_ArcanePropulsionArmor;Infusion_CreateSpellSlot;Target_Infusion_ReplicateItem;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus"/>
+                    <attribute id="Level" type="int32" value="18"/>
+                    <attribute id="SelectorId" type="LSString" value="Artificer Infusions"/>
+                    <attribute id="TableUUID" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
+                    <attribute id="UUID" type="guid" value="ccb7e0ec-e9d5-421c-824c-ace09640c31a"/>
+                </node>
             </children>
         </node>
     </region>
