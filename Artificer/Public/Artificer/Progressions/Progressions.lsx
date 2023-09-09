@@ -338,6 +338,34 @@
 
                 Armorer 13-20
 
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="Armorer"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(9bd0fcc9-48c1-4d1f-936d-ca248cd553f7,Armorer,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="c31801ef-efbd-407e-8921-88b6b319bd1d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Armorer"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Fake_PerfectedArmor_MkII_Passive"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="d31801ef-efbd-407e-8921-88b6b319bd1d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="Armorer"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(192d130b-6b91-49c6-87e6-4caf4bd9503a,Armorer,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="e31801ef-efbd-407e-8921-88b6b319bd1d"/>
+                </node>
+
                 Artillerist
 
                 <node id="Progression">
@@ -366,6 +394,36 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(9354865e-0af9-48c1-94d4-a2760cba91e3,Artillerist,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="0b9c6714-754b-4cb3-bd7b-c0068092b14b"/>
+                </node>
+
+                Artillerist 13-20
+
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="Artillerist"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>					
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ea35a109-81aa-41fb-b66d-34b4a214d9f8,Artillerist,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="98a42453-c0f2-49c4-a252-672eb16cf207"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Artillerist"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Fake_FortifiedPosition_Passive"/>					
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="99a42453-c0f2-49c4-a252-672eb16cf207"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="Artillerist"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>					
+                    <attribute id="Selectors" type="LSString" value="AddSpells(15057300-c69b-4f2d-a8e4-b92ab8279ad8,Artillerist,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="0aa42453-c0f2-49c4-a252-672eb16cf207"/>
                 </node>
 
                 BattleSmith
@@ -398,6 +456,37 @@
                     <attribute id="TableUUID" type="guid" value="119dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="639ee649-5ec9-4b73-8195-51c857928ed9"/>
                 </node>
+
+                BattleSmith 13-20
+
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="BattleSmith"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e85aaff5-bf0f-4b14-839f-54f098fdb536,BattleSmith,,,AlwaysPrepared)"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="119dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="ce806d07-972b-4dfd-8a1b-3538478170d1"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="BattleSmith"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Fake_ImprovedDefender_Passive"/>
+                    <attribute id="TableUUID" type="guid" value="119dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="de806d07-972b-4dfd-8a1b-3538478170d1"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="BattleSmith"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(01b84aec-5796-4c48-882e-1eb595f88018,BattleSmith,,,AlwaysPrepared)"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="119dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="ee806d07-972b-4dfd-8a1b-3538478170d1"/>
+                </node>
+
             </children>
         </node>
     </region>

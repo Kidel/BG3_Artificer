@@ -136,7 +136,7 @@
                     <attribute id="UUID" type="guid" value="b84d4802-d85c-457b-a0c9-68ab3e66f584"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Alchemist spells at 15th"/>
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 15th (Chemical Mastery)"/>
                     <attribute id="Spells" type="LSString" value="Target_GreaterRestoration_Free_Artificer;Target_Heal_Free_Artificer"/>
                     <attribute id="UUID" type="guid" value="b6047e14-1e77-4a87-ba80-39d44bddbd40"/>
                 </node>
