@@ -1439,8 +1439,6 @@ data "StatusGroups" "SG_RemoveOnRespec"
 data "ApplyEffect" "6994e8dc-14ac-48a5-9c8e-c1925031e852"
 data "StatusEffect" ""
 
-// TODO add subtle status effect to whole body down below
-
 new entry "ARTIFICER_ARCANE_PROPULSION_BOOST"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1449,7 +1447,7 @@ data "DisplayName" "h459b895bg4564g4064g800cge118219eec17;1"
 data "Description" "h61fad7f4g7b21g4f4fgac8fg3223752b38e3;1" 
 data "StackId" "ARTIFICER_ARCANE_PROPULSION_BOOST"
 data "Boosts" "ActionResource(Movement,3,0);UnlockSpell(Projectile_ArcanePropulsion_ForceBlast);UnlockSpell(Zone_ArcanePropulsion_ForceCharge)"
-data "StatusEffect" ""
+data "StatusEffect" "e062357a-3c20-4dea-96a5-119b17eb9044"
 data "Passives" "Passive_Infusion_ArcanePropulsionArmor"
 
 
