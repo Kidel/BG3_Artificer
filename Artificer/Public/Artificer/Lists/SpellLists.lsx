@@ -18,7 +18,7 @@
                     <attribute id="UUID" type="guid" value="c9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Magic Item Adept"/> Replaced by Chemical Adept
+                    <attribute id="Comment" type="LSString" value="Magic Item Adept"/> Replaced by Alchemical Adept
                     <attribute id="Spells" type="LSString" value="Shout_ChemicalAdept;Target_FindMaterial_Resources"/>
                     <attribute id="UUID" type="guid" value="e9808849-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
@@ -38,18 +38,23 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Infusions lv1"/>
-                    <attribute id="Spells" type="LSString" value="Target_Infusion_ArcanePropulsionArmor;Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot"/>
                     <attribute id="UUID" type="guid" value="12345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Infusions lv6"/>
-                    <attribute id="Spells" type="LSString" value="Target_Infusion_ArcanePropulsionArmor;Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Infusion_CreateSpellSlot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Infusion_CreateSpellSlot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath"/>
                     <attribute id="UUID" type="guid" value="62345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Infusions lv10"/>
-                    <attribute id="Spells" type="LSString" value="Target_Infusion_ArcanePropulsionArmor;Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Infusion_CreateSpellSlot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath;Target_Infusion_ReplicateItem"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Infusion_CreateSpellSlot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath;Target_Infusion_ReplicateItem"/>
                     <attribute id="UUID" type="guid" value="22345678-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Infusions lv14"/>
+                    <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Infusion_CreateSpellSlot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath;Target_Infusion_ReplicateItem;Target_Infusion_ArcanePropulsionArmor"/>
+                    <attribute id="UUID" type="guid" value="77445678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
 
                 Spells
@@ -72,23 +77,25 @@
                     <attribute id="UUID" type="guid" value="3f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
 
-                <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Artificer spell scroll list"/>
-                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Shout_AbsorbElements_Artificer;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness;Shout_Aid;Shout_Blur;Target_ArcaneLock;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web;Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify;Projectile_LightningArrow"/>
-                    <attribute id="UUID" type="guid" value="af3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
-                </node>
-
-                Unused, lv12 Artificer has only up to 3rd level spells
+                lv13+ Artificer to prepare
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spells level 4"/>
-                    <attribute id="Spells" type="LSString" value="Target_FreedomOfMovement;Target_Stoneskin;Target_ConjureElementals_Minor_Container;Teleportation_DimensionDoor;Target_Invisibility_Greater;Target_ResilientSphere;Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify;Shout_Aid;Shout_Blur;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web;Target_CureWounds;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness"/>
+                    <attribute id="Spells" type="LSString" value="Target_ArcaneEye;Target_FreedomOfMovement;Target_Stoneskin;Target_ResilientSphere"/>
                     <attribute id="UUID" type="guid" value="4f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artificer spells level 5"/>
-                    <attribute id="Spells" type="LSString" value="Target_GreaterRestoration;Wall_WallOfStone;Target_FreedomOfMovement;Target_Stoneskin;Target_ConjureElementals_Minor_Container;Teleportation_DimensionDoor;Target_Invisibility_Greater;Target_ResilientSphere;Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify;Shout_Aid;Shout_Blur;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web;Target_CureWounds;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness"/>
+                    <attribute id="Spells" type="LSString" value="Target_GreaterRestoration;Wall_WallOfStone"/>
                     <attribute id="UUID" type="guid" value="5f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+
+                All Spells
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artificer spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Shout_AbsorbElements_Artificer;Shout_DisguiseSelf;Target_FaerieFire;Target_Sanctuary;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness;Shout_Aid;Shout_Blur;Target_ArcaneLock;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_Web;Shout_Blink;Target_ElementalWeapon;Target_Counterspell;Projectile_AcidArrow;Target_Fly;Target_Haste;Target_ProtectionFromEnergy;Teleportation_Revivify;Projectile_LightningArrow;Target_ArcaneEye;Target_FreedomOfMovement;Target_Stoneskin;Target_ResilientSphere;Target_GreaterRestoration;Wall_WallOfStone"/>
+                    <attribute id="UUID" type="guid" value="af3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
 
                 Alchemist always prepared
@@ -123,6 +130,21 @@
                     <attribute id="Spells" type="LSString" value="Shout_ChemicalMastery"/>
                     <attribute id="UUID" type="guid" value="0589f222-b610-445f-972b-cfbef376e9e3"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 13th"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blight;Target_DeathWard"/>
+                    <attribute id="UUID" type="guid" value="b84d4802-d85c-457b-a0c9-68ab3e66f584"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 15th"/>
+                    <attribute id="Spells" type="LSString" value="Target_GreaterRestoration_Free_Artificer;Target_Heal_Free_Artificer"/>
+                    <attribute id="UUID" type="guid" value="b6047e14-1e77-4a87-ba80-39d44bddbd40"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 17th"/>
+                    <attribute id="Spells" type="LSString" value="Target_Cloudkill;Teleportation_Revivify_Deva"/>
+                    <attribute id="UUID" type="guid" value="70255b3f-18b7-4667-b13d-f0c5ac53761f"/>
+                </node>
 
                 Artillerist always prepared
 
@@ -143,8 +165,18 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 9"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Zone_GustOfWind"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Zone_GustOfWind"/> had to replace missing Wall of Wind with Gust of Wind
                     <attribute id="UUID" type="guid" value="9354865e-0af9-48c1-94d4-a2760cba91e3"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 13"/>
+                    <attribute id="Spells" type="LSString" value="Target_IceStorm;Wall_WallOfFire"/>
+                    <attribute id="UUID" type="guid" value="ea35a109-81aa-41fb-b66d-34b4a214d9f8"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 17"/>
+                    <attribute id="Spells" type="LSString" value="Zone_ConeOfCold;Wall_WallOfStone"/> had to replace missing Wall of Force with Wall of Stone
+                    <attribute id="UUID" type="guid" value="15057300-c69b-4f2d-a8e4-b92ab8279ad8"/>
                 </node>
 
                 BattleSmith always prepared
@@ -169,13 +201,18 @@
                     <attribute id="Spells" type="LSString" value="Shout_AuraOfVitality;Zone_ConjureBarrage"/>
                     <attribute id="UUID" type="guid" value="9b5aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                 </node>
-
-                Armorer Level Abilities/Skills/Spells
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Armorer Armor Models"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Artificer_ArmorModel_Guardian;Shout_Artificer_ArmorModel_Infiltrator"/>
-                    <attribute id="UUID" type="guid" value="c8ce4326-daab-48c0-a800-71af91fc2f47"/>
+                    <attribute id="Comment" type="LSString" value="BattleSmith spells at 13th"/>
+                    <attribute id="Spells" type="LSString" value="Target_DeathWard;Shout_FireShield"/> had to replace missing Aura of Purity with Death Ward
+                    <attribute id="UUID" type="guid" value="e85aaff5-bf0f-4b14-839f-54f098fdb536"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BattleSmith spells at 17th"/>
+                    <attribute id="Spells" type="LSString" value="Target_Smite_Banishing;Target_CureWounds_Mass"/>
+                    <attribute id="UUID" type="guid" value="01b84aec-5796-4c48-882e-1eb595f88018"/>
+                </node>
+
+
                 Armorer Always Prepared
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Armorer Level 3rd"/>
@@ -192,7 +229,23 @@
                     <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Zone_LightningBolt"/>
                     <attribute id="UUID" type="guid" value="dc5ab940-770c-431a-9e5c-af1713cc6d36"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 13th"/>
+                    <attribute id="Spells" type="LSString" value="Shout_FireShield;Target_Invisibility_Greater"/>
+                    <attribute id="UUID" type="guid" value="9bd0fcc9-48c1-4d1f-936d-ca248cd553f7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 17th"/>
+                    <attribute id="Spells" type="LSString" value="Teleportation_ArcaneGate;Wall_WallOfStone"/> had to replace missing Wall of Force with Wall of Stone and Passwall with Arcane Gate
+                    <attribute id="UUID" type="guid" value="192d130b-6b91-49c6-87e6-4caf4bd9503a"/>
+                </node>
 
+                Armorer Armor Models
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Armor Models"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Artificer_ArmorModel_Guardian;Shout_Artificer_ArmorModel_Infiltrator"/>
+                    <attribute id="UUID" type="guid" value="c8ce4326-daab-48c0-a800-71af91fc2f47"/>
+                </node>
 			</children>
         </node>
     </region>
