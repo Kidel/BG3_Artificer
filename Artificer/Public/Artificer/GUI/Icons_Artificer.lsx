@@ -479,63 +479,63 @@
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 130 ROW 5 = 2
+                    <attribute id="MapKey" type="FixedString" value="Skill_Infusion_ArcanePropulsionArmor"/> 130 ROW 5 = 2
                     <attribute id="U1" type="float" value="0.03125"/> Left
                     <attribute id="U2" type="float" value="0.0625"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 131 ROW 5 = 3
+                    <attribute id="MapKey" type="FixedString" value="Skill_ArcanePropulsion_Charge"/> 131 ROW 5 = 3
                     <attribute id="U1" type="float" value="0.0625"/> Left
                     <attribute id="U2" type="float" value="0.09375"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 132 ROW 5 = 4
+                    <attribute id="MapKey" type="FixedString" value="Skill_ArcanePropulsion_Blast"/> 132 ROW 5 = 4
                     <attribute id="U1" type="float" value="0.09375"/> Left
                     <attribute id="U2" type="float" value="0.125"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 133 ROW 5 = 5
+                    <attribute id="MapKey" type="FixedString" value="Passive_ImprovedDefender"/> 133 ROW 5 = 5
                     <attribute id="U1" type="float" value="0.125"/> Left
                     <attribute id="U2" type="float" value="0.15625"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 134 ROW 5 = 6
+                    <attribute id="MapKey" type="FixedString" value="Passive_PerfectedArmorMkii"/> 134 ROW 5 = 6
                     <attribute id="U1" type="float" value="0.15625"/> Left
                     <attribute id="U2" type="float" value="0.1875"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 135 ROW 5 = 7
+                    <attribute id="MapKey" type="FixedString" value="Passive_MagicItemSavant"/> 135 ROW 5 = 7
                     <attribute id="U1" type="float" value="0.1875"/> Left
                     <attribute id="U2" type="float" value="0.21875"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 136 ROW 5 = 8
+                    <attribute id="MapKey" type="FixedString" value="Passive_MagicItemMaster"/> 136 ROW 5 = 8
                     <attribute id="U1" type="float" value="0.21875"/> Left
                     <attribute id="U2" type="float" value="0.25"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 137 ROW 5 = 9
+                    <attribute id="MapKey" type="FixedString" value="Passive_Alchemist_ChemicalMastery"/> 137 ROW 5 = 9
                     <attribute id="U1" type="float" value="0.25"/> Left
                     <attribute id="U2" type="float" value="0.28125"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 138 ROW 5 = 10
+                    <attribute id="MapKey" type="FixedString" value="Passive_FortifiedPosition"/> 138 ROW 5 = 10
                     <attribute id="U1" type="float" value="0.28125"/> Left
                     <attribute id="U2" type="float" value="0.3125"/> Right
                     <attribute id="V1" type="float" value="0.125"/> Top
