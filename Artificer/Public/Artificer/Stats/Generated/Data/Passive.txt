@@ -449,7 +449,7 @@ data "DisplayName" "h5854f09fg3063g4abbg9332gf089e61d313e;1"
 data "Description" "h6854f09fg3063g4abbg9332gf089e61d313e;1"
 data "Icon" "Passive_MagicItemMaster_Artificer"
 data "Properties" "Highlighted"
-data "Boosts" "IF(IsAttack() and HasWeaponProperty(WeaponProperties.Magical, GetActiveWeapon(context.Source))):CharacterWeaponDamage(1);IF(IsSpell() and HasWeaponProperty(WeaponProperties.Magical, GetActiveWeapon(context.Source))):DamageBonus(1)"
+data "Boosts" "IF(IsAttack() and HasWeaponProperty(WeaponProperties.Magical, GetActiveWeapon(context.Source))):CharacterWeaponDamage(2);IF(IsSpell() and HasWeaponProperty(WeaponProperties.Magical, GetActiveWeapon(context.Source))):DamageBonus(2)"
 
 new entry "Passive_SoulOfArtifice"
 type "PassiveData"

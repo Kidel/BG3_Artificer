@@ -482,7 +482,7 @@ new entry "Target_Artificer_LightningLauncher_Improved"
 type "SpellData"
 data "SpellType" "Target"
 using "Target_Artificer_LightningLauncher"
-data "SpellSuccess" "ApplyStatus(LIGHTNING_LAUNCHER_HIT,100,1);DealDamage(1d6,Lightning,Magical);IF(not ClassLevelHigherOrEqualThan(15,'Artificer')):ApplyStatus(ARMOR_MODEL_INFILTRATOR_FAERIE_FIRE, 100, 1);IF(ClassLevelHigherOrEqualThan(15,'Artificer')):ApplyStatus(ARMOR_MODEL_INFILTRATOR_FAERIE_FIRE_L15, 100, 1)"
+data "SpellSuccess" "ApplyStatus(LIGHTNING_LAUNCHER_HIT,100,1);DealDamage(1d6+IntelligenceModifier,Lightning,Magical);IF(not ClassLevelHigherOrEqualThan(15,'Artificer')):ApplyStatus(ARMOR_MODEL_INFILTRATOR_FAERIE_FIRE, 100, 1);IF(ClassLevelHigherOrEqualThan(15,'Artificer')):ApplyStatus(ARMOR_MODEL_INFILTRATOR_FAERIE_FIRE_L15, 100, 1);IF(ClassLevelHigherOrEqualThan(15,'Artificer')):DealDamage(1d6,Lightning,Magical)"
 data "TooltipStatusApply" "ApplyStatus(ARMOR_MODEL_INFILTRATOR_FAERIE_FIRE,100,1)"
 
 new entry "Target_Artificer_DefensiveField"

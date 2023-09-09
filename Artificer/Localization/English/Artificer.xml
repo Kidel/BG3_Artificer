@@ -261,19 +261,18 @@
 	<content contentuid="h922224ccg3365g4812ga6a5gb0fa92c75165" version="1">Creatures you hit with Lightning Launcher glimmer with magical light and have Disadvantage on attack rolls and take extra damage from your Lightning Launcher.  You additionally gain Advantage against them.</content>
 
 	<content contentuid="h7777f09fg3063g4abbg9332gf089e61d313e" version="1">Magic Item Adept</content>
-	<content contentuid="h7778f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
+	<content contentuid="h7778f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +1 bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
 	<content contentuid="h3854f09fg3063g4abbg9332gf089e61d313e" version="1">Magic Item Savant</content>
-	<content contentuid="h4854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
-	<content contentuid="h4954f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a bonus to damage when you attack or cast a spell while holding a magical weapon. You ignore all class and race requirements when using an item.</content>
+	<content contentuid="h4854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +1 bonus to damage when you attack or cast a spell while holding a magical weapon. You ignore all class and race requirements when using an item.</content>
 	<content contentuid="h5854f09fg3063g4abbg9332gf089e61d313e" version="1">Magic Item Master</content>
-	<content contentuid="h6854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a second bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
+	<content contentuid="h6854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +2 bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
 	<content contentuid="h7854f09fg3063g4abbg9332gf089e61d313e" version="1">Soul of Artifice</content>
 	<content contentuid="h8854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +1 bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; if you're holding a magic or infused weapon.  When you posses a replicated magic item, if you're reduced to 0 hit points but not killed out-right, you can use your reaction causing you to drop to 1 hit point instead of 0.</content>
 
 	<content contentuid="hf370db3cg613dg4943gafe8ge316307ce44e" version="1">Chemical Mastery</content>
 	<content contentuid="h9dab0330gd89ag4b76g87d8gfbcfdfcd8c3c" version="1">You have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments.  Once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; you can cast Greater Restoration and Heal without expending a Spell Slot.  You also get resistance to Poison damage and Acid damage, as well as immunity to being poisoned.</content>
 	<content contentuid="h0e497d40g28b2g47c5g8947g915af0c1bfd5" version="1">Perfected Armor MkII</content>
-	<content contentuid="hb53d6847g7d5cg463cg91d9g1d296d25b2c5" version="1">The benefits gained from your Perfected Armor improve further: your Guardian reaction now additionally deals damage and your Lightning Launcher now give you advantage against the hit creature.</content>
+	<content contentuid="hb53d6847g7d5cg463cg91d9g1d296d25b2c5" version="1">The benefits gained from your Perfected Armor improve further: your Guardian reaction now additionally deals damage, while your Lightning Launcher now deals 1d6 extra damage and gives you advantage against the hit creature.</content>
 
 	<content contentuid="h91e92732g0969g4c2egb478gfdf53e2fd6e4" version="1">Fortified Position</content>
 	<content contentuid="h0258e5e2gbdb4g4005gbb9cg95d489be1871" version="1">You're a master at forming well-defended emplacements using Eldritch Cannon: you can now summon two of them with the same action.</content>
