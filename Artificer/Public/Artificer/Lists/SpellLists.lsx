@@ -52,7 +52,7 @@
                     <attribute id="UUID" type="guid" value="22345678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Infusions lv14"/>
+                    <attribute id="Comment" type="LSString" value="Infusions lv14"/> And 18
                     <attribute id="Spells" type="LSString" value="Target_Infusion_EnhancedDefense;Target_Infusion_EnhancedWeapon;Target_Infusion_EnhancedArcaneFocus;Target_Infusion_BagOfHolding;Target_Infusion_RadiantWeapon;Infusion_Homunculus;Target_Infusion_RepeatingShot;Infusion_CreateSpellSlot;Target_Infusion_ReturningWeapon;Target_Infusion_ResistantArmor;Target_Infusion_BootsOfTheWindingPath;Target_Infusion_ReplicateItem;Target_Infusion_ArcanePropulsionArmor"/>
                     <attribute id="UUID" type="guid" value="77445678-c41b-444a-83aa-9748e03e9e16"/>
                 </node>
@@ -175,7 +175,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 17"/>
-                    <attribute id="Spells" type="LSString" value="Zone_ConeOfCold;Wall_WallOfStone"/> had to replace missing Wall of Force with Wall of Stone
+                    <attribute id="Spells" type="LSString" value="Zone_ConeOfCold;Wall_BladeBarrier_Artificer"/> had to replace missing Wall of Force with Blade Barrier
                     <attribute id="UUID" type="guid" value="15057300-c69b-4f2d-a8e4-b92ab8279ad8"/>
                 </node>
 
@@ -236,7 +236,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Armorer Level 17th"/>
-                    <attribute id="Spells" type="LSString" value="Teleportation_ArcaneGate;Wall_WallOfStone"/> had to replace missing Wall of Force with Wall of Stone and Passwall with Arcane Gate
+                    <attribute id="Spells" type="LSString" value="Teleportation_ArcaneGate_Artificer;Wall_BladeBarrier_Artificer"/> had to replace missing Wall of Force with Blade Barrier and Passwall with Arcane Gate
                     <attribute id="UUID" type="guid" value="192d130b-6b91-49c6-87e6-4caf4bd9503a"/>
                 </node>
 

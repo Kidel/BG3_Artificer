@@ -1,0 +1,6 @@
+new entry "Teleportation_ArcaneGate_Artificer"
+type "SpellData"
+data "SpellType" "Teleportation"
+using "Teleportation_ArcaneGate"
+data "Level" "5"
+data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:5"

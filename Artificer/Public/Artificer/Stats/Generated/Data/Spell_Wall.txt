@@ -1,0 +1,6 @@
+new entry "Wall_BladeBarrier_Artificer"
+type "SpellData"
+data "SpellType" "Wall"
+using "Wall_BladeBarrier"
+data "Level" "5"
+data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:5"
