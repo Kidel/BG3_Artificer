@@ -270,9 +270,39 @@
                     <attribute id="Name" type="LSString" value="Alchemist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/> 
-                    <attribute id="Selectors" type="LSString" value="AddSpells(0589f222-b610-445f-972b-cfbef376e9e3,ChemicalMastery,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(0589f222-b610-445f-972b-cfbef376e9e3,AlchemicalMastery,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="fb8b7a59-ecdf-4bdb-9829-368aaf61eede"/>
+                </node>
+
+                Alchemist 13-20
+
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="Alchemist"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="Selectors" type="LSString" value="AddSpells(b84d4802-d85c-457b-a0c9-68ab3e66f584,Alchemist,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="6a44ab52-5857-453e-bd29-09ab42958364"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Alchemist"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Alchemist_Chemical_Mastery"/> 
+                    <attribute id="Selectors" type="LSString" value="AddSpells(b6047e14-1e77-4a87-ba80-39d44bddbd40,ChemicalMastery,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="17cab49d-d471-4d12-9e21-b17269742136"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="Alchemist"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="Selectors" type="LSString" value="AddSpells(70255b3f-18b7-4667-b13d-f0c5ac53761f,Alchemist,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
+                    <attribute id="UUID" type="guid" value="254acbd7-a3c1-4947-9e4c-3274942d60e5"/>
                 </node>
 
                 Armorer
@@ -305,6 +335,8 @@
                     <attribute id="TableUUID" type="guid" value="339dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="4bf5f26f-cf74-4bfd-a15d-b14c9150abd0"/>
                 </node>
+
+                Armorer 13-20
 
                 Artillerist
 
