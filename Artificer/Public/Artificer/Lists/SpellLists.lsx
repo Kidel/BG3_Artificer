@@ -142,7 +142,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Alchemist spells at 17th"/>
-                    <attribute id="Spells" type="LSString" value="Target_Cloudkill;Teleportation_Revivify_Deva"/>
+                    <attribute id="Spells" type="LSString" value="Target_Cloudkill;Teleportation_Revivify"/>
                     <attribute id="UUID" type="guid" value="70255b3f-18b7-4667-b13d-f0c5ac53761f"/>
                 </node>
 
