@@ -22,6 +22,7 @@ data "TargetConditions" "not Dead() and not (HasPassive('SculptSpells', context.
 data "CycleConditions" "Enemy() and not Dead()"
 data "HitAnimationType" "MagicalDamage_External"
 data "Cooldown" "OncePerTurn"
+data "SpellFlags" "IsSpell;CanAreaDamageEvade;IsHarmful"
 
 new entry "Zone_BurningHands_2_EldritchCannon"
 type "SpellData"

@@ -442,6 +442,8 @@ data "Description" "h4854f09fg3063g4abbg9332gf089e61d313e;1"
 data "Icon" "Passive_MagicItemSavant_Artificer"
 data "Properties" "Highlighted"
 data "Boosts" "IF(IsAttack() and HasWeaponProperty(WeaponProperties.Magical, GetActiveWeapon(context.Source))):CharacterWeaponDamage(1);IF(IsSpell() and HasWeaponProperty(WeaponProperties.Magical, GetActiveWeapon(context.Source))):DamageBonus(1)"
+data "StatsFunctorContext" "OnCreate;OnLongRest"
+data "StatsFunctors" "ApplyStatus(SELF,MAGIC_ITEM_ADEPT_OVERRIDES,100,-1)"
 
 new entry "Passive_Magic_Item_Master"
 type "PassiveData"

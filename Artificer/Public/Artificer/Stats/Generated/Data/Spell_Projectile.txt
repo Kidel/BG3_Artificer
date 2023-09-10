@@ -21,7 +21,7 @@ data "SpellSuccess" "DealDamage(2d8+ProficiencyBonus,Force,Magical);Force(5, Ori
 data "TooltipDamageList" "DealDamage(2d8+ProficiencyBonus,Force)"
 data "SpellRoll" "Attack(AttackType.RangedSpellAttack) and not HasStatus('WeaponAttackCheese')"
 data "TooltipAttackSave" "RangedSpellAttack"
-data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;AddFallDamageOnLand"
+data "SpellFlags" "IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;AddFallDamageOnLand"
 
 new entry "Projectile_Artillerist_MagicMissile_Shot_2_Tiny"
 type "SpellData"
