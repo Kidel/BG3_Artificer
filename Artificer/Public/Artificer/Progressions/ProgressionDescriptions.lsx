@@ -79,7 +79,7 @@
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="456741faag16e8g4399g8efbgc2af8304f248" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1"/>
-                    <attribute id="SelectorId" type="FixedString" value="ChemicalAdept"/>
+                    <attribute id="SelectorId" type="FixedString" value="AlchemicalAdept"/>
                     <attribute id="Hidden" type="bool" value="false"/>
                     <attribute id="ProgressionTableId" type="guid" value="6b701f1f-c477-43f0-9afe-0e169f65fc7a"/>
                     <attribute id="UUID" type="guid" value="33111111-8425-472b-9488-9c385d580bf4"/>
