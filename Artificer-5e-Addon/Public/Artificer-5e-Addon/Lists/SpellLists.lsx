@@ -108,7 +108,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 9"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Zone_GustOfWind"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Zone_GustOfWind"/> had to replace missing Wall of Wind with Gust of Wind
                     <attribute id="UUID" type="guid" value="9354865e-0af9-48c1-94d4-a2760cba91e3"/>
                 </node>
                 <node id="SpellList">
@@ -118,7 +118,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 17"/>
-                    <attribute id="Spells" type="LSString" value="Zone_ConeOfCold;Wall_BladeBarrier_Artificer"/>had to replace missing Wall of Force with Blade Barrier
+                    <attribute id="Spells" type="LSString" value="Zone_ConeOfCold;Wall_BladeBarrier_Artificer"/> had to replace missing Wall of Force with Blade Barrier
                     <attribute id="UUID" type="guid" value="15057300-c69b-4f2d-a8e4-b92ab8279ad8"/>
                 </node>
 
