@@ -423,7 +423,7 @@
                     <attribute id="Name" type="LSString" value="Artillerist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value="Fake_FortifiedPosition_Passive"/>					
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(b05aa11f-aa98-412f-a85e-7fae4561a4aa,,,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="449dfad5-31e0-41b6-aad9-41a55c2f8354"/>
                     <attribute id="UUID" type="guid" value="99a42453-c0f2-49c4-a252-672eb16cf207"/>
                 </node>

@@ -174,6 +174,11 @@
                     <attribute id="UUID" type="guid" value="ea35a109-81aa-41fb-b66d-34b4a214d9f8"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Companion L15"/>
+                    <attribute id="Spells" type="LSString" value="Target_ArtilleristCompanion_L15"/>
+                    <attribute id="UUID" type="guid" value="b05aa11f-aa98-412f-a85e-7fae4561a4aa"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 17"/>
                     <attribute id="Spells" type="LSString" value="Zone_ConeOfCold;Wall_BladeBarrier_Artificer"/> had to replace missing Wall of Force with Blade Barrier
                     <attribute id="UUID" type="guid" value="15057300-c69b-4f2d-a8e4-b92ab8279ad8"/>
