@@ -18,6 +18,9 @@
 	<content contentuid="12344fb3deaa14de1766304e0911fbc49ae66" version="1">Sleight of Hand Expertise</content>
 	<content contentuid="12345fb3deaa14de1766304e0911fbc49ae66" version="1">You gain Proficiency and Expertise in Sleight of Hand checks.</content>
 
+	<content contentuid="77877fb3deaa14de1766304e0911fbc49ae66" version="1">Rounded Up Spellcaster Level</content>
+	<content contentuid="77899fb3deaa14de1766304e0911fbc49ae66" version="1">Levels in Artificer will give extra Spell Slots compared to other half-casters when multiclassing.</content>
+
 	<content contentuid="34523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist</content>
 	<content contentuid="35523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist Spells</content>
 	<content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">You always have certain spells prepared after you reach particular levels in this class.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
