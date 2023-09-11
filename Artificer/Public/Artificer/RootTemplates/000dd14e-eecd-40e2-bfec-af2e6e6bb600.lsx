@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="327" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects"> Blacksmith Outfit 1B
+					<attribute id="Description" type="TranslatedString" handle="TODO" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="TODO" version="1" />
+					<attribute id="Icon" type="FixedString" value="ARM_Artificer_BlacksmithOutfit" /> 
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="000dd14e-eecd-40e2-bfec-af2e6e6bb600" /> 
+					<attribute id="Name" type="LSString" value="ARM_Artificer_BlacksmithOutfit" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="b78fabcc-d2df-4c74-b5d4-1eda6dc4c071" /> Points to ARM_Hide
+					<attribute id="Stats" type="FixedString" value="ARM_Artificer_BlacksmithOutfit" /> 
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="2" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ParentRace">
+									<children>	
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-49a0-e970236b1bd5" /> Githyanki_Male
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>		
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-00ac-8eb0a513fab0" /> Githyanki_Female
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>											
+									</children>
+								</node>	
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="MaterialPresets" />
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="False" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
+													<attribute id="Value" type="fvec3" value="0.03561437 0.05112205 0.0891935" />
+												</node>
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="False" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
+													<attribute id="Value" type="fvec3" value="0.3 0.3 0.3" />
+												</node>	
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="False" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
+													<attribute id="Value" type="fvec3" value="0.2 0.2 0.2" />
+												</node>													
+											</children>
+										</node>
+									</children>
+								</node>								
+								<node id="Visuals"> Race and each visual displayed on that race.
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-3ba1-ac2c98f3055d" /> Human_Male
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="1aa20ef7-e1ab-704e-4e4a-f957a835d1e9" /> HUM_M_CLT_Blacksmith_A_Body
+												</node>				
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="6e99d28a-ccb8-89c7-a86d-f8532da902ae" /> HUM_M_CLT_Blacksmith_A_Pants
+												</node>	
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="bf305048-0a7d-5c22-03cb-3ec129df2973" /> HUM_M_CLT_Blacksmith_A_Scarf
+												</node>		
+												
+											</children>
+										</node>									
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-1fb7-1a911969587f" /> Human_Female
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0f4c63b4-df59-c729-156f-08cc9a3c8a00" /> HUM_F_CLT_Blacksmith_Body
+												</node>	
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="27d62490-3434-1ccc-35c8-59a8c73ad2ad" /> HUM_F_CLT_Blacksmith_Pants
+												</node>	
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="83d4858b-5c0f-8f46-3b84-5f5539e2eb49" /> HUM_F_CLT_Blacksmith_Scarf
+												</node>			
+																						
+											</children>
+										</node>		
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-49a0-e970236b1bd5" /> Githyanki_Male
+											<children>
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="7e464bb5-5d54-9277-b278-fee2938600a4" /> 
+												</node>		
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="c6e8f00c-47d0-1367-6fcc-e1eaa4ff3513" /> 
+												</node>	
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="82edab8e-2f44-3d11-04ce-4941af2b2630" /> 
+												</node>				
+																			
+											</children>
+										</node>	
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-00ac-8eb0a513fab0" /> Githyanki_Female
+											<children>
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="b6f5f20c-8615-384e-dd91-b420b0e859d8" /> 
+												</node>		
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="b4896c61-61c8-a97b-96cc-8d9caccbf99b" /> 
+												</node>	
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="c91308d2-a162-d358-a924-f7b0b541cdb7" /> 
+												</node>			
+																														
+											</children>
+										</node>										
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-e0ad-5412f629839f" /> Dwarf_Male
+											<children>
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="002e6e74-0e41-22aa-80be-c7a24cfd4925" /> 
+												</node>		
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="a291ab88-e49e-4f0d-ffdb-a930232bee15" /> 
+												</node>	
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="22f8a562-009e-da0d-e345-bd39df9f58dd" /> 
+												</node>		
+																				
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8684-8f9347e14921" /> Dwarf_Female
+											<children>
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="cc6290bc-af5d-ee94-d1e1-75cef05bc45e" /> 
+												</node>		
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="da0466d4-1d44-5901-cfaa-412da5ffbe37" /> 
+												</node>	
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="c7f396d1-2bec-5afe-22db-6a7ca2d8ccae" /> 
+												</node>			
+																				
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a933e2a8-aee1-4ecb-d280-478f06b724f0" /> Halfling_Male
+											<children>
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="f6a2685e-31e4-170a-8a11-2ea280dde38d" /> 
+												</node>		
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="556ebdde-576e-a948-9a9d-99fbc56f0d3a" /> 
+												</node>	
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="194208a7-f701-f534-c5ec-eee586e7857f" /> 
+												</node>				
+																							
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="8f00cf38-4588-433a-7581-cd8af3bb333f" /> Halfling_Female
+											<children>
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="a4511fc8-090a-d58a-5b69-1f531e6a0274" /> 
+												</node>		
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="c5e9515c-c878-9d94-812e-c0f7d2342e02" /> 
+												</node>	
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="b4d02db9-7372-0d22-0f91-337c9550ff89" /> 
+												</node>		
+																						
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="5640e766-aa53-428d-5b81-0b6af94eca5a" /> Gnome_Male
+											<children>
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="8e009d5a-5d53-fdad-d401-e26e10b37e6c" /> 
+												</node>		
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="1064361d-2c0e-c169-8ddd-1b8f02278747" /> 
+												</node>	
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="30670ca7-bda2-60c8-d59e-d94d29bbe97b" /> 
+												</node>	
+														
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="c491d027-4332-4fda-8f94-3d4a77f6aa2b" /> Gnome_Female
+											<children>
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="6835bc53-21a2-fddd-6a5a-4e1c0f3dee4d" /> 
+												</node>		
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="580f896f-e37a-904b-5cb5-633048ee82fa" /> 
+												</node>	
+												<node id="MapValue"> 
+													<attribute id="Object" type="FixedString" value="219edb38-1796-7eca-e0a6-124a77152c95" /> 
+												</node>		
+														
+											</children>
+										</node>			
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="e39505f7-f576-4e70-9ea9-298e38cd111a" /> Strong_Male_2nd
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="77325a73-454f-955d-6452-d82d45a6efc7" /> HUM_MS_CLT_Blacksmith_A_Body
+												</node>		
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="cde4bdad-0878-cb3f-3d93-c9da4fec661a" /> HUM_MS_CLT_Blacksmith_A_Pants
+												</node>	
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="b7dc7279-2915-ddc3-2aab-e53fe39071f4" /> HUM_MS_CLT_Blacksmith_A_Scarf
+												</node>				
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-9bb3-f38b0fa1548b" /> Strong_Female_2nd
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="6af91e21-ba1d-dc72-4907-f8370fd8c90e" /> HUM_FS_CLT_Blacksmith_Body
+												</node>		
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="42300a99-3b57-8c63-e764-0e9b17bfeee4" /> HUM_FS_CLT_Blacksmith_Pants
+												</node>		
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="c3a65066-ff52-ee1f-b3c5-0c1943caa613" /> HUM_FS_CLT_Blacksmith_Scarf
+												</node>				
+																					
+											</children>
+										</node>											
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>	
+			</children>
+		</node>
+	</region>
+</save>
