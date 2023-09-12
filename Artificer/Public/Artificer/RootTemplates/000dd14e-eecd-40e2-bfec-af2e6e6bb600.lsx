@@ -211,7 +211,7 @@
 											<attribute id="MapKey" type="guid" value="c491d027-4332-4fda-8f94-3d4a77f6aa2b" /> Gnome_Female
 											<children>
 												<node id="MapValue"> 
-													<attribute id="Object" type="FixedString" value="6835bc53-21a2-fddd-6a5a-4e1c0f3dee4d" /> 
+													<attribute id="Object" type="FixedString" value="7735bc53-21a2-fddd-6a5a-4e1c0f3dee4d" /> 
 												</node>		
 												<node id="MapValue"> 
 													<attribute id="Object" type="FixedString" value="580f896f-e37a-904b-5cb5-633048ee82fa" /> 
@@ -241,7 +241,7 @@
 											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-9bb3-f38b0fa1548b" /> Strong_Female_2nd
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="6af91e21-ba1d-dc72-4907-f8370fd8c90e" /> HUM_FS_CLT_Blacksmith_Body
+													<attribute id="Object" type="FixedString" value="77f91e21-ba1d-dc72-4907-f8370fd8c90e" /> HUM_FS_CLT_Blacksmith_Body
 												</node>		
 												<node id="MapValue">
 													<attribute id="Object" type="FixedString" value="42300a99-3b57-8c63-e764-0e9b17bfeee4" /> HUM_FS_CLT_Blacksmith_Pants
