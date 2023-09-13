@@ -250,9 +250,7 @@
 													<attribute id="Object" type="FixedString" value="ade7aafa-b913-bc93-d53e-2aff9d7c5781" />  ARM_Leather_A_2_Shoulderpads
 												</node>	
 
-												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="77dda027-4595-c6b2-4be4-096aaf2a3473" />  
-												</node>	
+												
 
 											</children>
 										</node>			
@@ -273,9 +271,7 @@
 													<attribute id="Object" type="FixedString" value="0074fc0b-7b63-0029-ad0e-550e9d7dd57b" />  ARM_Leather_A_2_Shoulderpads
 												</node>	
 
-												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="7753473d-c466-ad9c-3383-fca03bdde15c" />
-												</node>
+												
 
 											</children>
 										</node>
@@ -296,9 +292,7 @@
 													<attribute id="Object" type="FixedString" value="448f888a-dd1a-3c21-6b02-525dc951d6ad" />  ARM_Leather_A_2_Shoulderpads
 												</node>		
 
-												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="77bfadc7-631c-2ee7-2a0c-3e1ec2cc59b6" />  
-												</node>		
+											
 				
 											</children>
 										</node>											
