@@ -68,9 +68,7 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="lowerarm" />
-						</node>
+						
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -398,9 +396,7 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="lowerarm" />
-						</node>
+						
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -506,9 +502,7 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="lowerarm" />
-						</node>
+						
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
