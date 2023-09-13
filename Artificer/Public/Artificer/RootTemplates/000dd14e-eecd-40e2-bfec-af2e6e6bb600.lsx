@@ -44,28 +44,16 @@
 										<node id="MaterialOverrides">
 											<attribute id="MaterialResource" type="FixedString" value="" />
 											<children>
-												<node id="MaterialPresets" />
-												<node id="Vector3Parameters">
-													<attribute id="Color" type="bool" value="False" />
-													<attribute id="Custom" type="bool" value="False" />
-													<attribute id="Enabled" type="bool" value="True" />
-													<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
-													<attribute id="Value" type="fvec3" value="0.03561437 0.05112205 0.0891935" />
+												<node id="MaterialPresets">
+													<children>
+														<node id="Object">
+															<attribute id="MapKey" type="FixedString" value="02 Colour" />
+															<attribute id="ForcePresetValues" type="bool" value="False" />
+															<attribute id="MaterialPresetResource" type="FixedString" value="f9f539d5-1092-5372-5656-ded8cd68dc82" />
+															<attribute id="GroupName" type="FixedString" value="02 Colour" />
+														</node>
+													</children>
 												</node>
-												<node id="Vector3Parameters">
-													<attribute id="Color" type="bool" value="False" />
-													<attribute id="Custom" type="bool" value="False" />
-													<attribute id="Enabled" type="bool" value="True" />
-													<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
-													<attribute id="Value" type="fvec3" value="0.3 0.3 0.3" />
-												</node>	
-												<node id="Vector3Parameters">
-													<attribute id="Color" type="bool" value="False" />
-													<attribute id="Custom" type="bool" value="False" />
-													<attribute id="Enabled" type="bool" value="True" />
-													<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
-													<attribute id="Value" type="fvec3" value="0.2 0.2 0.2" />
-												</node>													
 											</children>
 										</node>
 									</children>
