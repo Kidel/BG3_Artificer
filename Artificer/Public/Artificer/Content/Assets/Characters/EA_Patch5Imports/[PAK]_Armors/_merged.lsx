@@ -170,7 +170,6 @@
 					</children>
 				</node>
 
-
 				
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
