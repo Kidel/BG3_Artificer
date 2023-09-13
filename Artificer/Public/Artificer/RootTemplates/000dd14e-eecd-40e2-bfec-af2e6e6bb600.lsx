@@ -30,7 +30,11 @@
 										<node id="Object">
 											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-00ac-8eb0a513fab0" /> Githyanki_Female
 											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
-										</node>											
+										</node>			
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-c5ba-15ff6e699764" /> Dragonborn_Male
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>				
 									</children>
 								</node>	
 								<node id="ShortHair" />
@@ -254,6 +258,27 @@
 
 											</children>
 										</node>			
+
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-c5ba-15ff6e699764" /> Dragonborn_Male
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="78325a73-454f-955d-6452-d82d45a6efc7" /> Dragonborn_M_CLT_Blacksmith_A_Body
+												</node>		
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="cde4bdad-0878-cb3f-3d93-c9da4fec661a" /> HUM_MS_CLT_Blacksmith_A_Pants
+												</node>	
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="b7dc7279-2915-ddc3-2aab-e53fe39071f4" /> HUM_MS_CLT_Blacksmith_A_Scarf
+												</node>		
+			
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0074fc0b-7b63-0029-ad0e-550e9d7dd57b" />  ARM_Leather_A_2_Shoulderpads
+												</node>	
+											</children>
+										</node>
+
+
 										<node id="Object">
 											<attribute id="MapKey" type="guid" value="e39505f7-f576-4e70-9ea9-298e38cd111a" /> Strong_Male_2nd
 											<children>
@@ -275,6 +300,10 @@
 
 											</children>
 										</node>
+
+										
+
+
 										<node id="Object">
 											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-9bb3-f38b0fa1548b" /> Strong_Female_2nd
 											<children>

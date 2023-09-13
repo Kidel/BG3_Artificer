@@ -88,6 +88,89 @@
 				</node>
 
 
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.6431361 1.891777 0.2216346" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.6416727 0.5479928 -0.1864166" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="78325a73-454f-955d-6452-d82d45a6efc7" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Dragonborn_M_CLT_Blacksmith_A_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Male/Dragonborn_M_CLT_Blacksmith_A_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Male/Dragonborn_M_CLT_Blacksmith_A_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="Dragonborn_M_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="Dragonborn_M_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="Dragonborn_M_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="Dragonborn_M_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="Dragonborn_M_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD4.4" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="lowerarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>
+
+
 				
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
