@@ -34,7 +34,11 @@
 										<node id="Object">
 											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-c5ba-15ff6e699764" /> Dragonborn_Male
 											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
-										</node>				
+										</node>			
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-859b-8037a7168ea7" /> Dragonborn_Female
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>			
 									</children>
 								</node>	
 								<node id="ShortHair" />
@@ -269,7 +273,7 @@
 													<attribute id="Object" type="FixedString" value="cde4bdad-0878-cb3f-3d93-c9da4fec661a" /> HUM_MS_CLT_Blacksmith_A_Pants
 												</node>	
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="b7dc7279-2915-ddc3-2aab-e53fe39071f4" /> HUM_MS_CLT_Blacksmith_A_Scarf
+													<attribute id="Object" type="FixedString" value="77dc7279-2915-ddc3-2aab-e53fe39071f4" /> HUM_MS_CLT_Blacksmith_A_Scarf
 												</node>		
 			
 												<node id="MapValue">
@@ -277,6 +281,25 @@
 												</node>	
 											</children>
 										</node>
+
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-859b-8037a7168ea7" /> Dragonborn_Female
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="77f91e21-ba1d-dc72-4907-f8370fd8c90e" /> HUM_FS_CLT_Blacksmith_Body
+												</node>		
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="42300a99-3b57-8c63-e764-0e9b17bfeee4" /> HUM_FS_CLT_Blacksmith_Pants
+												</node>		
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="77a65066-ff52-ee1f-b3c5-0c1943caa613" /> HUM_FS_CLT_Blacksmith_Scarf
+												</node>			
+
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="448f888a-dd1a-3c21-6b02-525dc951d6ad" />  ARM_Leather_A_2_Shoulderpads
+												</node>		
+											</children>
+										</node>		
 
 
 										<node id="Object">
@@ -289,7 +312,7 @@
 													<attribute id="Object" type="FixedString" value="cde4bdad-0878-cb3f-3d93-c9da4fec661a" /> HUM_MS_CLT_Blacksmith_A_Pants
 												</node>	
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="b7dc7279-2915-ddc3-2aab-e53fe39071f4" /> HUM_MS_CLT_Blacksmith_A_Scarf
+													<attribute id="Object" type="FixedString" value="78dc7279-2915-ddc3-2aab-e53fe39071f4" /> HUM_MS_CLT_Blacksmith_A_Scarf
 												</node>		
 			
 												<node id="MapValue">
@@ -320,11 +343,11 @@
 												<node id="MapValue">
 													<attribute id="Object" type="FixedString" value="448f888a-dd1a-3c21-6b02-525dc951d6ad" />  ARM_Leather_A_2_Shoulderpads
 												</node>		
-
-											
-				
 											</children>
 										</node>											
+
+										
+
 									</children>
 								</node>
 							</children>
