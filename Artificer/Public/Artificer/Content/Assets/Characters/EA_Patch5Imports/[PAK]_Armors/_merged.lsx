@@ -62,9 +62,7 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Torso" />
 						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="upperarm" />
-						</node>
+						
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
