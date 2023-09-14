@@ -72,7 +72,7 @@
 											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-3ba1-ac2c98f3055d" /> Human_Male
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="1aa20ef7-e1ab-704e-4e4a-f957a835d1e9" /> HUM_M_CLT_Blacksmith_A_Body
+													<attribute id="Object" type="FixedString" value="77720ef7-e1ab-704e-4e4a-f957a835d1e9" /> HUM_M_CLT_Blacksmith_A_Body
 												</node>				
 												<node id="MapValue">
 													<attribute id="Object" type="FixedString" value="6e99d28a-ccb8-89c7-a86d-f8532da902ae" /> HUM_M_CLT_Blacksmith_A_Pants
@@ -92,7 +92,7 @@
 											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-1fb7-1a911969587f" /> Human_Female
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="0f4c63b4-df59-c729-156f-08cc9a3c8a00" /> HUM_F_CLT_Blacksmith_Body
+													<attribute id="Object" type="FixedString" value="777c63b4-df59-c729-156f-08cc9a3c8a00" /> HUM_F_CLT_Blacksmith_Body
 												</node>	
 												<node id="MapValue">
 													<attribute id="Object" type="FixedString" value="27d62490-3434-1ccc-35c8-59a8c73ad2ad" /> HUM_F_CLT_Blacksmith_Pants
@@ -112,7 +112,7 @@
 											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-49a0-e970236b1bd5" /> Githyanki_Male
 											<children>
 												<node id="MapValue"> 
-													<attribute id="Object" type="FixedString" value="7e464bb5-5d54-9277-b278-fee2938600a4" /> 
+													<attribute id="Object" type="FixedString" value="77764bb5-5d54-9277-b278-fee2938600a4" /> 
 												</node>		
 												<node id="MapValue"> 
 													<attribute id="Object" type="FixedString" value="c6e8f00c-47d0-1367-6fcc-e1eaa4ff3513" /> 
@@ -131,7 +131,7 @@
 											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-00ac-8eb0a513fab0" /> Githyanki_Female
 											<children>
 												<node id="MapValue"> 
-													<attribute id="Object" type="FixedString" value="b6f5f20c-8615-384e-dd91-b420b0e859d8" /> 
+													<attribute id="Object" type="FixedString" value="7775f20c-8615-384e-dd91-b420b0e859d8" /> 
 												</node>		
 												<node id="MapValue"> 
 													<attribute id="Object" type="FixedString" value="b4896c61-61c8-a97b-96cc-8d9caccbf99b" /> 
@@ -150,7 +150,7 @@
 											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-e0ad-5412f629839f" /> Dwarf_Male
 											<children>
 												<node id="MapValue"> 
-													<attribute id="Object" type="FixedString" value="002e6e74-0e41-22aa-80be-c7a24cfd4925" /> 
+													<attribute id="Object" type="FixedString" value="777e6e74-0e41-22aa-80be-c7a24cfd4925" /> 
 												</node>		
 												<node id="MapValue"> 
 													<attribute id="Object" type="FixedString" value="a291ab88-e49e-4f0d-ffdb-a930232bee15" /> 
@@ -169,7 +169,7 @@
 											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8684-8f9347e14921" /> Dwarf_Female
 											<children>
 												<node id="MapValue"> 
-													<attribute id="Object" type="FixedString" value="cc6290bc-af5d-ee94-d1e1-75cef05bc45e" /> 
+													<attribute id="Object" type="FixedString" value="777290bc-af5d-ee94-d1e1-75cef05bc45e" /> 
 												</node>		
 												<node id="MapValue"> 
 													<attribute id="Object" type="FixedString" value="da0466d4-1d44-5901-cfaa-412da5ffbe37" /> 
@@ -188,7 +188,7 @@
 											<attribute id="MapKey" type="guid" value="a933e2a8-aee1-4ecb-d280-478f06b724f0" /> Halfling_Male
 											<children>
 												<node id="MapValue"> 
-													<attribute id="Object" type="FixedString" value="f6a2685e-31e4-170a-8a11-2ea280dde38d" /> 
+													<attribute id="Object" type="FixedString" value="7772685e-31e4-170a-8a11-2ea280dde38d" /> 
 												</node>		
 												<node id="MapValue"> 
 													<attribute id="Object" type="FixedString" value="556ebdde-576e-a948-9a9d-99fbc56f0d3a" /> 
@@ -207,7 +207,7 @@
 											<attribute id="MapKey" type="guid" value="8f00cf38-4588-433a-7581-cd8af3bb333f" /> Halfling_Female
 											<children>
 												<node id="MapValue"> 
-													<attribute id="Object" type="FixedString" value="a4511fc8-090a-d58a-5b69-1f531e6a0274" /> 
+													<attribute id="Object" type="FixedString" value="77711fc8-090a-d58a-5b69-1f531e6a0274" /> 
 												</node>		
 												<node id="MapValue"> 
 													<attribute id="Object" type="FixedString" value="c5e9515c-c878-9d94-812e-c0f7d2342e02" /> 
@@ -226,7 +226,7 @@
 											<attribute id="MapKey" type="guid" value="5640e766-aa53-428d-5b81-0b6af94eca5a" /> Gnome_Male
 											<children>
 												<node id="MapValue"> 
-													<attribute id="Object" type="FixedString" value="8e009d5a-5d53-fdad-d401-e26e10b37e6c" /> 
+													<attribute id="Object" type="FixedString" value="77709d5a-5d53-fdad-d401-e26e10b37e6c" /> 
 												</node>		
 												<node id="MapValue"> 
 													<attribute id="Object" type="FixedString" value="1064361d-2c0e-c169-8ddd-1b8f02278747" /> 
