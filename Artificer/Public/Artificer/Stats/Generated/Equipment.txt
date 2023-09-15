@@ -13,9 +13,9 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
-add equipment entry "ARM_Boots_Leather"
+add equipment entry "ARM_Shoes"
 add equipmentgroup
-add equipment entry "ARM_Artificer_RingMail_Body"
+add equipment entry "ARM_Artificer_BlacksmithOutfit"
 add equipmentgroup
 add equipment entry "ARM_Shield"
 add equipmentgroup

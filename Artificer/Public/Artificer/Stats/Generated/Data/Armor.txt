@@ -12,6 +12,12 @@ data "Boosts" "IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvant
 data "Weight" "13"
 data "ArmorType" "ScaleMail"
 
+new entry "ARM_Artificer_BlacksmithOutfit"
+type "Armor"
+using "ARM_Artificer_RingMail_Body"
+data "RootTemplate" "000dd14e-eecd-40e2-bfec-af2e6e6bb600"
+data "DisplayName" "heecbcd55ged1dg4a44gaf30g3614ba7c5788"
+data "Description" "h463018ecgbd05g4002g9584gcfc750efe37a"
 
 new entry "REPLICA_ofGreaterHealth_Amulet"
 type "Armor"
