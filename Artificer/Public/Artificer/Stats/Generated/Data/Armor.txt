@@ -19,6 +19,11 @@ data "RootTemplate" "000dd14e-eecd-40e2-bfec-af2e6e6bb600"
 data "DisplayName" "heecbcd55ged1dg4a44gaf30g3614ba7c5788"
 data "Description" "h463018ecgbd05g4002g9584gcfc750efe37a"
 
+new entry "ARM_Artificer_Alchemist"
+type "Armor"
+using "ARM_Artificer_RingMail_Body"
+data "RootTemplate" "0002c054-daad-4ab5-94a8-c2103b7387df"
+
 new entry "REPLICA_ofGreaterHealth_Amulet"
 type "Armor"
 using "_Amulet_Magic"
