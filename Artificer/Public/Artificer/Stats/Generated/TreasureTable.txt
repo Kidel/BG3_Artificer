@@ -4,6 +4,14 @@ new subtable "1,1"
 object category "I_ARM_Artificer_RingMail_Body",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Artificer_BlacksmithOutfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Artificer_Alchemist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Artificer_Artillerist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Artificer_Armorer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Artificer_BattleSmith",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_Entrance_Trade"
 CanMerge 1
@@ -25,4 +33,3 @@ new subtable "1,1"
 object category "I_ARM_Artificer_RingMail_Body",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Artificer_BlacksmithOutfit",1,0,0,0,0,0,0,0
-
