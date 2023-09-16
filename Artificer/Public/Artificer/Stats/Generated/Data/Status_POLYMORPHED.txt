@@ -20,3 +20,10 @@ type "StatusData"
 using "DISGUISE_SELF_ELDRITCH_CANNON"
 data "Icon" "None"
 data "TemplateID" "0a92990c-addc-4e52-80f3-8ef926ca7960"
+
+
+new entry "DISGUISE_SELF_OOZE"
+type "StatusData"
+using "DISGUISE_SELF_ELDRITCH_CANNON"
+data "Icon" "None"
+data "TemplateID" "1de5b868-e741-4a07-9ebe-7aad4bbb5869"
