@@ -51,7 +51,6 @@ data "ArmorType" "Cloth"
 data "Proficiency Group" ""
 data "PassivesOnEquip" "ARM_Artificer_Alchemist_WitheringBarrier_Passive"
 data "Boosts" "UnlockSpell(Target_SummonAlchemistSlime)"
-// TODO see MAG_Druid_Nature_Regeneration_Passive
 
 new entry "ARM_Artificer_Artillerist"
 type "Armor"
