@@ -49,7 +49,7 @@ data "RootTemplate" "0002c054-daad-4ab5-94a8-c2103b7387df"
 data "ArmorClass" "13"
 data "ArmorType" "Cloth"
 data "Proficiency Group" ""
-data "PassivesOnEquip" "ARM_Alchemist_Regeneration_Passive;ARM_AlchemistDamageBonus;ARM_Alchemist_HealOnDamage"
+data "PassivesOnEquip" "ARM_Artificer_Alchemist_WitheringBarrier_Passive"
 data "Boosts" "UnlockSpell(Target_SummonAlchemistSlime)"
 // TODO see MAG_Druid_Nature_Regeneration_Passive
 

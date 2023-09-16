@@ -13,7 +13,7 @@
 					<attribute id="VisualTemplate" type="FixedString" value="98c88592-3ab0-3821-a422-8bb983394a35" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="ab1d6276-4387-dbab-c8a6-3624ba2a4886" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h161232a0g2839g4b31g89fcg24313c1d402e" version="2" />
-					<attribute id="Icon" type="FixedString" value="Generated_MAG_EndGame_Plate_Armor_Magic" />
+					<attribute id="Icon" type="FixedString" value="Armor_Artificer_Armorer" />
 					<attribute id="Stats" type="FixedString" value="ARM_Artificer_Armorer" />
 					<attribute id="Description" type="TranslatedString" handle="heff80441g1a21g4423g8873gda728b6ad472" version="1" />
 					<children>

@@ -495,3 +495,33 @@ data "Properties" "IsHidden"
 data "StatsFunctorContext" "OnDamage"
 data "Conditions" "IsWeaponAttack()"
 data "StatsFunctors" "DealDamage(1d4, Force)"
+
+
+
+
+
+
+new entry "ARM_Artificer_Alchemist_WitheringBarrier_Passive"
+type "PassiveData"
+data "DisplayName" "TODO;1"
+data "Description" "TODO;1"
+data "Icon" "TODO"
+data "DescriptionParams" "GainTemporaryHitPoints(2d6);DealDamage(1d6, Acid);Distance(3)"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsDamageTypePoison() or IsDamageTypeAcid()"
+data "StatsFunctors" "IF(not HasStatus('MAG_ALCHEMIST_WITHERING_BARRIER', context.Source)):ApplyStatus(SWAP, MAG_ALCHEMIST_WITHERING_BARRIER, 100, -1)"
+
+
+new entry "MAG_SarevokArmor_WitheringBarrier_AOE_Passive"
+type "PassiveData"
+using "ARM_Artificer_Alchemist_WitheringBarrier_Passive"
+data "Description" ""
+data "DescriptionParams" ""
+data "Icon" ""
+data "PriorityOrder" ""
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttacked"
+data "Conditions" "IsMeleeAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "CreateExplosion(SWAP, Projectile_MAG_Alchemist_WitheringBarrier_Explosion)"
+
