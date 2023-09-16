@@ -24,6 +24,21 @@ type "Armor"
 using "ARM_Artificer_RingMail_Body"
 data "RootTemplate" "0002c054-daad-4ab5-94a8-c2103b7387df"
 
+new entry "ARM_Artificer_Artillerist"
+type "Armor"
+using "ARM_Artificer_RingMail_Body"
+data "RootTemplate" "000b2caf-8d36-42cf-b389-d774229ed18c"
+
+new entry "ARM_Artificer_Armorer"
+type "Armor"
+using "ARM_Artificer_RingMail_Body"
+data "RootTemplate" "000d1c52-920c-4260-b131-84229acd00fe"
+
+new entry "ARM_Artificer_BattleSmith"
+type "Armor"
+using "ARM_Artificer_RingMail_Body"
+data "RootTemplate" "000c4744-f1c8-4c01-b220-8e91cb26779c"
+
 new entry "REPLICA_ofGreaterHealth_Amulet"
 type "Armor"
 using "_Amulet_Magic"
