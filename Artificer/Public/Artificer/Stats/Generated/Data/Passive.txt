@@ -583,7 +583,7 @@ data "Boosts" "Advantage(Skill,Stealth)"
 
 new entry "UNI_ArtificerHammer_Passive"
 type "PassiveData"
-data "DisplayName" "Deconstruction;1"
+data "DisplayName" "h7d80071bga99bg463ag8d37gcc4c72000004;1"
 data "Description" "h7d80071bga99bg463ag8d37gcc4c73000004;1"
 data "Icon" "PassiveFeature_GreatWeaponMaster_BonusDamage"
 data "DescriptionParams" "DealDamage(4d8 + 5,Force)"
