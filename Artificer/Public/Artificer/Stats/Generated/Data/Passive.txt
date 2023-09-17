@@ -525,3 +525,13 @@ data "StatsFunctorContext" "OnAttacked"
 data "Conditions" "IsMeleeAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
 data "StatsFunctors" "CreateExplosion(SWAP, Projectile_MAG_Alchemist_WitheringBarrier_Explosion)"
 
+
+new entry "ARM_ArtilleristRifleAlternativeSummon"
+type "PassiveData"
+data "DisplayName" "TODO;1"
+data "Description" "TODO;1"
+data "Icon" "TODO"
+data "Properties" "Highlighted"
+data "StatsFunctors" ""
+data "ToggleOffFunctors" ""
+data "ToggleOnFunctors" ""

@@ -31,6 +31,14 @@ data "SpellSuccess" "DealDamage(max(1,3d8+ProficiencyBonus),Force,Magical);Force
 data "TooltipDamageList" "DealDamage(3d8+ProficiencyBonus,Force)"
 data "UseCosts" "BonusActionPoint:1"
 
+new entry "Projectile_Artillerist_MagicMissile_Shot_Rifle"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_Artillerist_MagicMissile_Shot_Tiny"
+data "SpellSuccess" "DealDamage(max(1,4d8+ProficiencyBonus),Force,Magical);Force(5, OriginToTarget)"
+data "TooltipDamageList" "DealDamage(4d8+ProficiencyBonus,Force)"
+data "UseCosts" "BonusActionPoint:1"
+
 new entry "Projectile_Cannon_SelfDestructExplosion"
 type "SpellData"
 data "SpellType" "Projectile"
