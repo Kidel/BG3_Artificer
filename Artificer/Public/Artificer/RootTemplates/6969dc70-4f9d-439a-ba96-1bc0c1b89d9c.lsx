@@ -24,7 +24,7 @@
 					<attribute id="VocalAngryResourceID" type="FixedString" value="d1199519-9f3b-9360-2c7a-1bcb3e44f528" />
 					<attribute id="VocalBoredResourceID" type="FixedString" value="c32a991d-574d-ed49-3ef0-6e31925f62f7" />
 					<attribute id="VocalRelaxedResourceID" type="FixedString" value="f0afc15c-970a-c6d8-b017-68a9d838a0a8" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="643038b5-6cc9-5d62-00c1-ff574ce55d8b" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="5aa209a5-70eb-8b0a-74c3-6c55e1ebb131" />
 					<attribute id="IsLootable" type="bool" value="False" />
 					<attribute id="DisableEquipping" type="bool" value="True" />
 					<children>
