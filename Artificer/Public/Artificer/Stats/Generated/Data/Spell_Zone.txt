@@ -55,6 +55,15 @@ data "SpellFail" "DealDamage(3d8/2, Fire,Magical)"
 data "DescriptionParams" "DealDamage(3d8,Fire)"
 data "TooltipDamageList" "DealDamage(3d8,Fire)"
 
+new entry "Zone_BurningHands_Rifle_EldritchCannon"
+type "SpellData"
+data "SpellType" "Zone"
+using "Zone_BurningHands_Tiny_EldritchCannon"
+data "SpellSuccess" "DealDamage(4d8, Fire,Magical)"
+data "SpellFail" "DealDamage(43d8/2, Fire,Magical)"
+data "DescriptionParams" "DealDamage(4d8,Fire)"
+data "TooltipDamageList" "DealDamage(4d8,Fire)"
+
 
 new entry "Zone_ArcanePropulsion_ForceCharge"
 type "SpellData"

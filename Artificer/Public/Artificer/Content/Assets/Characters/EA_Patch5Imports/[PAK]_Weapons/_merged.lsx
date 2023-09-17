@@ -89,6 +89,50 @@
 					<attribute id="Width" type="int32" value="1024" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855942" />
 				</node>
+
+
+				<node id="Resource">
+					<attribute id="Depth" type="int64" value="1" />
+					<attribute id="Height" type="int64" value="1024" />
+					<attribute id="ID" type="FixedString" value="077ac22b-5df9-4c1c-808b-6cc880e4910d" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Cannon_B_BM_AMX_1" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Weapons/Humans/WPN_HUM_Cannon_B/Resources/WPN_HUM_Cannon_B_BM_AMX_1.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="WPN_HUM_Cannon_B_BM" />
+					<attribute id="Type" type="int64" value="1" />
+					<attribute id="Width" type="int64" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+				</node>			
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="077c3888-fd1a-e584-7f2e-2ad59ac445da" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Cannon_B_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Weapons/Humans/WPN_HUM_Cannon_B/Resources/WPN_HUM_Cannon_B_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="WPN_HUM_Cannon_B_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855942" />
+				</node>			
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="07736201-b864-eae6-4a84-9fa413a00179" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Cannon_B_PM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Weapons/Humans/WPN_HUM_Cannon_B/Resources/WPN_HUM_Cannon_B_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="WPN_HUM_Cannon_B_PM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855942" />
+				</node>
 			</children>
 		</node>
 	</region>		

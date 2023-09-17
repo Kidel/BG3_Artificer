@@ -10,13 +10,13 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="9beee5c9-279e-49d8-a4a8-18f9ee0b1519" />
-					<attribute id="VisualTemplate" type="FixedString" value="3773c64c-c5a9-9baf-1b85-6bee029ee044" />
-					<attribute id="PhysicsTemplate" type="FixedString" value="950614ec-c898-c384-3bbe-3cb58a07cfde" />
+					<attribute id="VisualTemplate" type="FixedString" value="28d1fea3-6468-b217-2076-497d1c86d852" />
+					<attribute id="DeathEffect" type="guid" value="eb0aa43b-fcdc-4ef2-548c-0ef60775834e" />
 					<attribute id="DisplayName" type="TranslatedString" handle="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1" />
 					<attribute id="Icon" type="FixedString" value="Portrait_Unknown" />
 					<attribute id="Stats" type="FixedString" value="Companion_BattleSmith_9" />
 					<attribute id="LevelOverride" type="int32" value="9" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="c0807a07-7e67-6f66-31d8-437c234a42e9" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="5aa209a5-70eb-8b0a-74c3-6c55e1ebb131" />
 					<attribute id="SpellSet" type="FixedString" value="ArtificerCompanionSummonActions" />
 					<children>
 						<node id="SkillList">
