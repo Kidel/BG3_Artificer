@@ -10,10 +10,10 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="ParentTemplateId" type="FixedString" value="83603f36-d158-4a0e-b9c9-358413ba3a92" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h539e411cgba60g4d25g8ea3g126f35c18252" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="TODO" version="1" />
 					<attribute id="Icon" type="FixedString" value="Generated_MAG_Bhaalist_Armor_Magic" />
 					<attribute id="Stats" type="FixedString" value="ARM_Artificer_Artillerist" />
-					<attribute id="Description" type="TranslatedString" handle="h0d2f6185g994dg4411ga5f8g71f1258bcd97" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="TODO" version="1" />
 					<children>
 						<node id="Tags">
 							<children>

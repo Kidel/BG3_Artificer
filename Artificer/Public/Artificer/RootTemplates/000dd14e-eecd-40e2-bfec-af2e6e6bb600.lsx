@@ -5,8 +5,8 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects"> Blacksmith Outfit
-					<attribute id="Description" type="TranslatedString" handle="h463018ecgbd05g4002g9584gcfc750efe37a" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="heecbcd55ged1dg4a44gaf30g3614ba7c5788" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="TODO" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="TODO" version="1" />
 					<attribute id="Icon" type="FixedString" value="Armor_WorkerArmor" /> 
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="000dd14e-eecd-40e2-bfec-af2e6e6bb600" /> 
