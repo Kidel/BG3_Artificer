@@ -14,6 +14,8 @@
 					<attribute id="PhysicsTemplate" type="FixedString" value="8fa3a884-c99a-5500-90be-c122251c5686" />
 					<attribute id="Icon" type="FixedString" value="Armor_Artificer_Alchemist" />
 					<attribute id="Stats" type="LSString" value="ARM_Artificer_Alchemist" />
+					<attribute id="Description" type="TranslatedString" handle="h7d80071bga99bg463ag8d37gcc4c71000003" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7d80071bga99bg463ag8d37gcc4c70000003" version="1" />
 					<children>
 						<node id="Bounds">
 							<children>

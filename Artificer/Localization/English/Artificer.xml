@@ -288,4 +288,44 @@
 	<content contentuid="h0bcbee6ag0e91g4054g85f8g86814bbf0198" version="1">Your Arcane Jolt and steel defender become more powerful: the extra damage and the healing of your Arcane Jolt both increase to 4d6; whenever your steel defender uses its Deflect Attack, the attacker takes Force damage.</content>
 
 
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000001" version="1">Armor of Arcane Firearms</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000001" version="1">The first prototype of this armor was created by Jan Jansen around 1369 and became famous for being used during the battles that led to the defeat of the mad wizard Irenicus.  It was later perfected by an inventor from Lantan who won its designs in a dice game.  It entered the market only sixty years later, but it is now considered the standard equipment for any skilled artificer in artillery.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000001" version="1">Eldritch Cannon MkII</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000001" version="1">Magic weaved into this armor allows the wearer to build a stronger Tiny Eldritch Cannon instead of the normal one.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000001" version="1">Eldritch Cannon Overdrive</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000001" version="1">Infuse your Small Eldritch Cannon with Lightning magic, granting it a bonus to attacks and new abilities.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000001" version="1">Infused with Lightning magic, which grants a bonus to attacks and new abilities.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000002" version="1">Armor of the Arcane Tempest</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000002" version="1">This armor is a replica of its namesake made by the Gondian craftsmen present in the Wonderbringer's Temple in Tilverton.  They were made for the craftsmen responsible for defending the city.  In 1372, due to a cataclysm caused by the Shade Enclave, Tilverton disappeared, and with it, these artifacts.  In 1409, a group of adventurers seeking fortune exploring the hole left in place of the city found some pages containing schematics.  Apparently, they were the original designs of the now-lost armors.  No one managed to replicate the originals, and the ones now circulating are the best reproductions.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000002" version="1">Soundless Metal</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000002" version="1">When an Arcane Armor model is active, the wearer gets no Disadvantage on Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000002" version="1">Tempestuous Armor</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000002" version="1">When the wearer deals Thunder or Lightning damage it gains a barrier.  Upon receiving a melee attack, the barrier explodes dealing damage.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000002" version="1">Upon receiving a melee attack, the barrier explodes dealing damage.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000003" version="1">Robes of the Alchemist</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000003" version="1">The nature of this robes can be traced back to the distant Cormanthor.  These garments were used by the alchemists of the Jaerle House, a Vhaerunite Drow house.  Like all equipment created by Drow, it is efficient and practical.  It spread throughout Faerûn when an adventurer managed to steal one from the corpse of a Drow killed during an ambush.  Upon returning to Shadowdale, they commissioned a tanner to make modifications to make it less evil.  The tailor took advantage of the work to create a design and make new ones.  One of these reached an artificer, and the rest is history.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000003" version="1">Corrosive Armor</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000003" version="1">When the wearer deals Acid or Poison damage it gains a barrier.  Upon receiving a melee attack, the barrier explodes dealing Necrotic damage.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000003" version="1">Upon receiving a melee attack, the barrier explodes dealing Necrotic damage.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000003" version="1">Summon Ooze</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000003" version="1">Summons a Ooze to fight at your side dealing Acid attacks.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000005" version="1">Armor of Battle Inventions</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000005" version="1">This armor is the legacy of an adventurer who traveled along the Sword Coast during 1372.  It was designed to be efficient and functional in any situation, equipped with an arcane energy condenser to enhance its steel defender's performance.  It is said that the first one was made from scrap pieces acquired from junk dealers.  When the adventurer became famous, they created a more defined prototype of such armor and later shared the knowledge with the priests of Gond to gift it to inventors throughout Faerûn.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000005" version="1">Charged Arcane Jolt</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000005" version="1">Adds etra Lightning damage or extra healing to Arcane Jolt.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000005" version="1">Steel Defender Overdrive</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000005" version="1">Infuse your Steel Defender with Lightning magic, granting it a bonus to attacks and new abilities.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000005" version="1">Infused with Lightning magic, which grants a bonus to attacks and new abilities.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000004" version="1">The Deconstructor</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000004" version="1">The years an artificer puts into their work is mostly for creating wonders.  However, sometimes the creation might be a touch too good and needs to be put down quickly in order to save face and insurance premiums.  Too many explosions tend to get the law man involved, so it might be best to put it out of commission before too many eye catch a glimpse...  Also good for clearing obstacles.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000004" version="1">Deconstruction</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000004" version="1">Weapon attacks deal devastating damage to items and constructs.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000004" version="1">Electrocution</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000004" version="1">Weapon attacks extra Ligntning damage.</content>
+
+
 </contentList>

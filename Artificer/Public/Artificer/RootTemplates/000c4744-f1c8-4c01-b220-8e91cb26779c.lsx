@@ -5,8 +5,8 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects"> BG Watch Leather 1
-					<attribute id="Description" type="TranslatedString" handle="TODO" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="TODO" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h7d80071bga99bg463ag8d37gcc4c71000005" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7d80071bga99bg463ag8d37gcc4c70000005" version="1" />
 					<attribute id="Icon" type="FixedString" value="Armor_Artificer_BattleSmith" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="000c4744-f1c8-4c01-b220-8e91cb26779c" /> 
