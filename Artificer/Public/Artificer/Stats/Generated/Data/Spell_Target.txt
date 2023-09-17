@@ -284,6 +284,7 @@ data "Description" "22888f820e5gfdf7g4cc2g9309gb90acd0d2f;1"
 data "SpellProperties" "ApplyStatus(FLASH_OF_GENIUS, 100, 1)"
 data "TooltipStatusApply" "ApplyStatus(FLASH_OF_GENIUS, 100, 1)"
 data "UseCosts" "ReactionActionPoint:1"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell"
 
 
 new entry "Target_Artificer_ArcaneFirearm_Damage"
