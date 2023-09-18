@@ -5,16 +5,16 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="00081fef-1877-4eac-820d-dc3210ff0b36" />
-					<attribute id="Name" type="LSString" value="UNI_ArtificerHammer" />
+					<attribute id="MapKey" type="FixedString" value="00181fef-1877-4eac-820d-dc3210ff0b36" />
+					<attribute id="Name" type="LSString" value="UNI_ArtificerHammer_Leg" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="ParentTemplateId" type="FixedString" value="7e8ef269-0e7b-4352-8828-89c5fced943c" />
 					<attribute id="ReadinessFlags" type="uint32" value="16" />
 					<attribute id="VisualTemplate" type="FixedString" value="2532e152-9c8d-771a-10a4-52b5b162fe97" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h7d80071bga99bg463ag8d37gcc4c70000004" version="1" />
-					<attribute id="Stats" type="FixedString" value="UNI_ArtificerHammer" />
-					<attribute id="Description" type="TranslatedString" handle="h7d80071bga99bg463ag8d37gcc4c71000004" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7d80071bga99bg463ag8d37gcc4c76000004" version="1" />
+					<attribute id="Stats" type="FixedString" value="UNI_ArtificerHammer_Leg" />
+					<attribute id="Description" type="TranslatedString" handle="h7d80071bga99bg463ag8d37gcc4c77000004" version="1" />
 					<attribute id="EquipmentTypeID" type="guid" value="ab54402e-d3f3-497d-819b-9b51af1827b8" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="95c1af40-8cc3-4552-b523-fcf7fb44b20b" />
 					<children>
