@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="h777777777777777777777777777777777777" version="1">Debug</content>
+	<content contentuid="h777777777777777777777777777777777778" version="1">Debug [1]</content>
 	<content contentuid="h177777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer</content>
 	<content contentuid="h277777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer - Passive (Technical)</content>
 	<content contentuid="h377777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer - Passive</content>
@@ -11,6 +12,9 @@
 
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Sturdy Armour</content>
 
+	<content contentuid="heecbcd55ged1dg4a44gaf30g3614ba7c5788" version="1">Worker Armour</content>
+	<content contentuid="h463018ecgbd05g4002g9584gcfc750efe37a" version="1">A sturdy set of armour that's good for fighting and for building stuff.</content>
+
 	<content contentuid="66523fb3deaa14de1766304e0911fbc49ae66" version="1">Artificer</content>
 	<content contentuid="77523fb3deaa14de1766304e0911fbc49ae77" version="1">Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects.  They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.  You can find everything you need to play one of these inventors in the next few sections.</content>
 	<!-- USED IN DIALOGUE TEST DO NOT EDIT-->
@@ -19,6 +23,9 @@
 	<!-- END DIALOGUE TEST HANDLES-->
 	<content contentuid="12344fb3deaa14de1766304e0911fbc49ae66" version="1">Sleight of Hand Expertise</content>
 	<content contentuid="12345fb3deaa14de1766304e0911fbc49ae66" version="1">You gain Proficiency and Expertise in Sleight of Hand checks.</content>
+
+	<content contentuid="77877fb3deaa14de1766304e0911fbc49ae66" version="1">Rounded Up Spellcaster Level</content>
+	<content contentuid="77899fb3deaa14de1766304e0911fbc49ae66" version="1">Levels in Artificer will give extra Spell Slots compared to other half-casters when multiclassing.</content>
 
 	<content contentuid="34523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist</content>
 	<content contentuid="35523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist Spells</content>
@@ -30,6 +37,7 @@
 	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">The drinker regains a hit points.</content>
 	<content contentuid="h881a9a60g86efg4d27g938bg44ccdfa66007" version="1">Experimental Elixir Of Swiftness</content>
 	<content contentuid="h88119a60g86efg4d27g938bg44ccdfa66007" version="1">Improved Experimental Elixir Of Swiftness</content>
+	<content contentuid="h69116960g86efg4d27g938bg44ccdfa66007" version="1">The creature's movement speed is doubled.</content>
 	<content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">A green elixir, producing flickering light.</content>
 	<content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1">The drinker's walking speed increases.</content>
 	<content contentuid="he840f63fgd75eg459egbaa0gd40813a27ad1" version="1">Experimental Elixir Of Resilience</content>
@@ -45,15 +53,15 @@
 	<content contentuid="hc624c03eg6925g4a0dg8955gd270d880ca11" version="1">A blue elixir, producing a dreamy light.</content>
 	<content contentuid="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="1">The drinker can fly for a limited period.</content>
 	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce Experimental Elixir</content>
-	<content contentuid="h778d2cb7gfd36g4898g8074gbf56c0aec633" version="1">You can magically produce experimental elixirs with random effects.  The number you can make per Long Rest increases with your level in the class.  You can create additional experimental elixirs by expending a Spell Slot. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The elixirs that are not consumed disappear after a Long Rest.</content>
+	<content contentuid="h778d2cb7gfd36g4898g8074gbf56c0aec633" version="1">You can magically produce experimental elixirs with random effects.  The number you can make per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; increases with your level in the class.  You can create additional experimental elixirs by expending a Spell Slot. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The elixirs that are not consumed disappear after a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="h888d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce one of your daily elixirs.</content>
 	<content contentuid="h998d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Produce an elixir consuming a Spell Slot.</content>
 	<content contentuid="hb307c069g06b7g4eaegb066g013a76c23c20" version="1">Alchemical Savant</content>
-	<content contentuid="h317ab036g8f28g42d7g8702g90eb320c94ae" version="1">You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them.  Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell.  That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</content>
+	<content contentuid="h317ab036g8f28g42d7g8702g90eb320c94ae" version="1">You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them.  Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell.  That roll must restore hit points or be a Damage Roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</content>
 	<content contentuid="h34ded68cgc442g458cg9191g8dd06177d917" version="1">Restorative Reagents</content>
 	<content contentuid="h4f43af6cg103fg4363g804dgcdca618719a6" version="1">You have learned to incorporate restorative reagents into some of your works: whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6. You can cast Lesser Restoration without expending a Spell Slot and without preparing the spell.</content>
-	<content contentuid="h54d102a8gfda8g4f9bgbdd1g2ce47f04414c" version="1">Chemical Mastery</content>
-	<content contentuid="hba71604eg9edag4681ga518g2ec7758d0ba5" version="1">You learned how to use your alchemy replicate some magic ingredients from basic elements.  You can expend Salvaged Chemicals to create a wide variety of base components for Alchemy recipes.</content>
+	<content contentuid="h54d102a8gfda8g4f9bgbdd1g2ce47f04414c" version="1">Alchemical Mastery</content>
+	<content contentuid="hba71604eg9edag4681ga518g2ec7758d0ba5" version="1">You learned how to use your alchemy replicate some magic ingredients from basic elements.  You can expend Salvaged Elements to create a wide variety of base components for Alchemy recipes.</content>
 	<content contentuid="h26b4462cgbbf1g416agaf36g0ea23f27eaa0" version="1">Experimental Elixir Charges</content>
 	<content contentuid="h8f96469eg7359g4588gbaefg3f444b9d6895" version="1">You've learned to magically produce Experimental Elixirs. These have a random effect and lasts until a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
 	<content contentuid="h8b5a15a5g7e3dg43afg9bb4g017394ad88aa" version="1">Restorative Reagent Charges</content>
@@ -78,9 +86,9 @@
 	<content contentuid="3326e61e8g9b89g4f30gb649gb3a97346a443" version="1">Protector</content>
 	<content contentuid="3336e61e8g9b89g4f30gb649gb3a97346a443" version="1">The cannon emits a burst of positive energy that grants itself and each creature of your choice a number of temporary hit points.</content>
 	<content contentuid="h4d740fa9g3b35g4011ga4d0g6a00e076ca21" version="1">Arcane Firearm</content>
-	<content contentuid="h99fef735gf7bcg4fa4gbec8g8a8500cd5f69" version="1">You know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells.  When you cast a spell, you can add 1d8 to one damage roll.</content>
+	<content contentuid="h99fef735gf7bcg4fa4gbec8g8a8500cd5f69" version="1">You know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells.  When you cast a spell, you can add 1d8 to one Damage Roll.</content>
 	<content contentuid="h7750c3cfg334bg448dgad59g079e7e0a2b46" version="1">Explosive Cannon</content>
-	<content contentuid="h776b31c4g0908g4b94g872ag9e61113a5b65" version="1">The cannon's damage rolls all increase by 1d8.  You can command the cannon to detonate.  Doing so destroys the cannon and forces each creature in range to make a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h776b31c4g0908g4b94g872ag9e61113a5b65" version="1">The cannon's Damage Rolls all increase by 1d8.  You can command the cannon to detonate.  Doing so destroys the cannon and forces each creature in range to make a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
 	<content contentuid="h3250c3cfg334bg448dgad59g079e7e0a2b46" version="1">Self Destruct</content>
 	<content contentuid="he26b31c4g0908g4b94g872ag9e61113a5b65" version="1">Orders the cannon to eject all stored energy into a violent explosion.  Involved creatures must succeed a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; to avoid taking full damage.</content>
 
@@ -95,27 +103,27 @@
 	<content contentuid="77062bb49gc270g4353gb6ebgf4c2248ea879" version="1">Force-Empowered Rend</content>
 	<content contentuid="77bf1636cgabfcg4312gbf40g99c410daea86" version="2">Deals Force damage to the target.</content>
 	<content contentuid="he53dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Battle Ready</content>
-	<content contentuid="h5af41faag16e8g4399g8efbgc2af8304f248" version="1">When attacking with a magical weapon, you use your Intelligence for your Attack and Damage rolls instead of your Strength or Dexterity.</content>
+	<content contentuid="h5af41faag16e8g4399g8efbgc2af8304f248" version="1">When attacking with a magical weapon, you use your Intelligence for your Attack and Damage Rolls instead of your Strength or Dexterity.</content>
 	<content contentuid="7773dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt</content>
 	<content contentuid="778f41faag16e8g4399g8efbgc2af8304f248" version="1">You've learn new ways to channel arcane energy to harm or heal.  When you hit a target with a magic weapon attack, you can channel magical energy through the strike to deal an extra 2d6 Force damage to the target or to restoring 2d6 &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; to a creature or construct you can see.</content>
 	<content contentuid="8883dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt Uses</content>
-	<content contentuid="889f41faag16e8g4399g8efbgc2af8304f248" version="1">You can use this energy a number of times equal to your Intelligence Modifier (minimum of once).  You regain all expended uses when you finish a long rest.</content>
+	<content contentuid="889f41faag16e8g4399g8efbgc2af8304f248" version="1">You can use this energy a number of times equal to your Intelligence Modifier plus your Proficiency Bonus.  You regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="6969dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Damage)</content>
-	<content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">You can deal 2d6 Force damage to a target you've hit during this turn. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
+	<content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">You can deal Force damage to a target you've hit during this turn. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Heal)</content>
-	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see within 30 feet of the target.  Healing energy flows into the chosen recipient, restoring 2d6 &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; to it. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
+	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see.  Healing energy flows into the chosen recipient, restoring &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; to it. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="2222222c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Deflect Attack</content>
 	<content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">The defender imposes disadvantage on the attack roll of one creature it can see, provided the attack roll is against a creature other than the Steel Defender.</content>
 
-	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemical Adept</content>
-	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Chemicals to craft them.</content>
-	<content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvage Chemicals</content>
-	<content contentuid="011112faag16e8g4399g8efbgc2af8304f248" version="1">Magically extract useful chemical elements to craft consumable items useful in combat with Chemical Adept.  Certain items might require more units to craft.</content>
-	<content contentuid="1111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvaged Chemicals</content>
-	<content contentuid="111112faag16e8g4399g8efbgc2af8304f248" version="1">You have magically extracted useful chemical elements to craft consumable items useful in combat with Chemical Adept.  Certain items might require more units to craft.</content>
-	<content contentuid="h27112faag16e8g4399g8efbgc2af8304f248" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Requires 2 units of Salvaged Chemicals</content>
-	<content contentuid="2111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Chemicals Extracted</content>
-	<content contentuid="211112faag16e8g4399g8efbgc2af8304f248" version="1">Useful chemical elements have been already extracted.</content>
+	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Alchemical Adept</content>
+	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Elements to craft them.</content>
+	<content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvage Elements</content>
+	<content contentuid="011112faag16e8g4399g8efbgc2af8304f248" version="1">Magically extract useful alchemical elements to craft consumable items useful in combat or rare ingredients with your Alchemical Adept or Mastery magic.  Certain items might require more units to craft.</content>
+	<content contentuid="1111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvaged Elements</content>
+	<content contentuid="111112faag16e8g4399g8efbgc2af8304f248" version="1">You have magically extracted useful elements to craft consumable items and ingredients.  Certain items might require more units to craft.</content>
+	<content contentuid="h27112faag16e8g4399g8efbgc2af8304f248" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Requires 2 units of Salvaged Elements</content>
+	<content contentuid="2111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Elements Extracted</content>
+	<content contentuid="211112faag16e8g4399g8efbgc2af8304f248" version="1">Useful elements have been extracted.  Might cause health issues or structural damage.</content>
 	<content contentuid="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item</content>
 	<content contentuid="hf3234g16e8321g4399g8efbgc2af8304f248" version="1">You've learned to store spells into scrolls.  The magic lasts until a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, and you can create a number of scrolls equal to your Intelligence Modifier.</content>
 	<content contentuid="h863423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item Charges</content>
@@ -129,11 +137,11 @@
 	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">You've learned how to invest a spark of magic into mundane objects.</content>
 	<content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
 	<content contentuid="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Flash of Genius</content>
-	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">You've gained the ability to come up with solutions under pressure.  When you or another creature you can see within makes an &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; or a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can use your reaction to add a bonus to the roll.</content>
+	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">You've gained the ability to come up with solutions under pressure.  When you or another creature you can see makes an &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; or a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can use your reaction to add a bonus to the roll.</content>
 	<content contentuid="h77795291g7885g4073gae09ge965b053adee" version="1">Create Spell Slot</content>
 	<content contentuid="h777b555eg9c5fg4a37gb370g47cab9a77bf3" version="1">Spend Infusion Slots to unlock a &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;.</content>
 	<content contentuid="h9efaa994g1470g4e9fgb79eg5b65ca0eabab" version="1">The Right Tool for the Job</content>
-	<content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">You've learned how to produce exactly the tool you need:  you can magically create thieves Tools, a trap disarmimg kit, or a shovel.</content>
+	<content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">You've learned how to produce exactly the tool you need:  you can magically create thieves tools, a trap disarmimg kit, or a shovel.</content>
 	<content contentuid="hde264abbg9d67g4000gb383g12ce2ac80341" version="1">Craft: Thieves Tools</content>
 	<content contentuid="hd0f27fc2gffb5g4e11ga18dg0b0634fb3ac7" version="1">Craft: Trap Disarm Kit</content>
 	<content contentuid="h95a73c80ga7a2g4049g8329g92e1048cf2eb" version="1">Craft: Shovel</content>
@@ -145,19 +153,19 @@
 	<content contentuid="hacae19c9gd05cg4e61ga0b9gdcc364c0ae32" version="1">Infusion: Enhanced Arcane Focus</content>
 	<content contentuid="h60cef40bg0029g48d8ga8eeg9c64c231b614" version="1">The target creature gains a +1 bonus to spell &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and spell &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; &lt;LSTag Tooltip="DifficultyClass"&gt;DCs&lt;/LSTag&gt;.  The bonus increases to +2 when you reach 10th level in this class.</content>
 	<content contentuid="h74c2b6ddg453cg4554ga247g3c7e9847b8bd" version="1">Infusion: Enhanced Weapon</content>
-	<content contentuid="haaeb23b5g8c4eg421dgba6cg788a69febd7e" version="1">The target weapon becomes magical and grants a +1 bonus to Attack and Damage rolls made with it.  The bonus increases to +2 when you reach 10th level in this class.</content>
+	<content contentuid="haaeb23b5g8c4eg421dgba6cg788a69febd7e" version="1">The target weapon becomes magical and grants a +1 bonus to Attack and Damage Rolls made with it.  The bonus increases to +2 when you reach 10th level in this class.</content>
 	<content contentuid="he90dc261g9bf3g4b67gbf1eg3f728c2cdf7c" version="1">Infusion: Armor of Magical Strength</content>
 	<content contentuid="hb4c39b3dgd96dg4076g8bdcg302e2029ba5f" version="1">Infusion: Boots of the Winding Path</content>
 	<content contentuid="h22f3c61276f345b7af738e62c34e8f8defef" version="1">You can infuse a pair of boots allowing the wearer to increase their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [1] and don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
 	<content contentuid="hca0258e6g810eg49adga6c2gf721366b6d9c" version="1">Infusion: Helm of Awareness</content>
 	<content contentuid="he89f91cagc783g4f8dg9ac7gbba426757c6e" version="1">Infusion: Mind Sharpener</content>
 	<content contentuid="h5bb0aa44gdd6dg475cgb896g1ee6e25f808a" version="1">Infusion: Radiant Weapon</content>
-	<content contentuid="h78612d52g9edeg471eg9c3fg2e0bf8c4d057" version="1">The target weapon becomes magical and grants a +1 bonus to Attack and Damage rolls made with it.  It sheds a bright light.</content>
+	<content contentuid="h78612d52g9edeg471eg9c3fg2e0bf8c4d057" version="1">The target weapon becomes magical and grants a +1 bonus to Attack and Damage Rolls made with it.  It sheds a bright light.</content>
 	<content contentuid="h5660aa44gdd6dg475cgb896g1ee6e25f8066" version="1">Infusion: Returning Weapon</content>
-	<content contentuid="h7760aa44gdd6dg477cgb896g1ee6e25f8077" version="1">You can infuse a weapon to grant a + 1 bonus to Attack and Damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</content>
-	<content contentuid="h9960aa4499d6dg477cgb896g1ee6e25f8997" version="1">Infuse a weapon with magic, granting a + 1 bonus to Attack and Damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</content>
+	<content contentuid="h7760aa44gdd6dg477cgb896g1ee6e25f8077" version="1">You can infuse a weapon to grant a + 1 bonus to Attack and Damage Rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</content>
+	<content contentuid="h9960aa4499d6dg477cgb896g1ee6e25f8997" version="1">Infuse a weapon with magic, granting a + 1 bonus to Attack and Damage Rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</content>
 	<content contentuid="h35a784f2gfef9g4d32g909dgb2596a0f2baa" version="1">Infusion: Repeating Shot</content>
-	<content contentuid="had7f84f2gfef9g4d32g909dgb2596a0f2ccc" version="1">Infuse a ranged weapon with magic, granting a +1 bonus to Attack and Damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.  If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it, allowing to attack twice per turn.  The ammunition created by the weapon vanishes the instant after it hits or misses a target.  The attacks become faster when you reach 10th level in this class.</content>
+	<content contentuid="had7f84f2gfef9g4d32g909dgb2596a0f2ccc" version="1">Infuse a Crossbow with magic, granting a +1 bonus to Attack and Damage Rolls made with it when it's used to make a ranged attack.  If you equip it in your Main Hand and you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it, allowing to attack two targets once per turn.  The attacks become faster when you reach 10th level in this class, requiring no Bonus Action.</content>
 	<content contentuid="hc0f7ac54391a4420688e6f814692e99a8ccc" version="1">Infusion: Resistant Armor</content>
 	<content contentuid="hc6bbc38e41b25457cb813aa8a4c96b313ccc" version="1">While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.</content>
 	<content contentuid="hc4ad6526d19724cf98e69fb6fa0d7818accc" version="1">Infusion: Resistant Armor (Acid)</content>
@@ -212,7 +220,7 @@
 	<content contentuid="777f10276g7415g42b3g9b15g056514104f5f" version="3">Summon a spider-shaped homunculus with a poisonous &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;Bite&lt;/LSTag&gt;.</content>
 
 	<content contentuid="h1234564ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replicate Magic Item</content>
-	<content contentuid="h7891014ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Using this infusion, you replicate a particular magic items.  Each item will consume an Infusion Slot and will disappear at Long Rest.</content>
+	<content contentuid="h7891014ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Using this infusion, you replicate a particular magic items.  Each item will consume an Infusion Slot and will disappear at &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="h777cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replica: Circlet of Mind Reading</content>
 	<content contentuid="h777550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">This magic circlet enables its wearer to read minds.  Unlocks the ability to read minds and predict the next moves.</content>
 	<content contentuid="h888cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replica: Flying Boots</content>
@@ -220,6 +228,13 @@
 	<content contentuid="hfff13be0g55d1g413dg93b9g2f0b17780151" version="1">Replica: Crypt Lord Ring</content>
 	<content contentuid="hfff60a15geebfg4c4dga6a1g741690720575" version="1">Replica: Amulet of Health</content>
 	<content contentuid="hfff574eagad02g478bga5b9gff638f0f278e" version="1">Replica: Gauntlets of Giant Strength</content>
+
+	<content contentuid="h459b895bg4564g4064g800cge118219eec17" version="1">Infusion: Arcane Propulsion Armor</content>
+	<content contentuid="h61fad7f4g7b21g4f4fgac8fg3223752b38e3" version="1">You learn how to infuse your armor with arcane magic, allowing its wearer move faster and use Force attacks.  Once per turn you can attack using Force blasts and area attacks, and all your weapon attacks deal additional Force damage.</content>
+	<content contentuid="hb87b8cc5g3c9bg4690g8100g8aee4432cf18" version="1">Arcane Propulsion Charge</content>
+	<content contentuid="h11e4951cg210dg4143g9306g1d6c7733a5c1" version="1">You use the propulstion from your armor to deal a devastating attack with your weapon.</content>
+	<content contentuid="h797aa447g66e8g4c92g90f8g084aa97c9e1e" version="1">Arcane Propulsion Blast</content>
+	<content contentuid="hae87f8d1g52e7g4011g9858gdbed01f13c2c" version="1">You can channel magic through both of your gauntlets and emit Force projectiles.</content>
 
 	<content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Arcane Armor</content>
 	<content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Your metallurgical pursuits have led to you making armor a conduit for your magic.  As an action, you can turn a suit of armor you are wearing into Arcane Armor.</content>
@@ -231,8 +246,8 @@
 	<content contentuid="h77fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Armor Model: Infiltrator - Perfected</content>
 	<content contentuid="ha81b99e3gdfebg41b3gbef7gecc642f765c5" version="1">You customize your armor for subtle undertakings.</content>
 	<content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Perfected Armor</content>
-	<content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">Your Arcane Armor gains additional benefits based on its model. &lt;br/&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Rebuild after levelup</content>
-	<content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">Guardian: When a creature you can see attacks an ally nearby, you can use your reaction to magically force the creature to make a Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your spell save &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt;, pulling the creature toward you to an unoccupied space and dealing damage in the process. &lt;br/&gt;Infiltrator: Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn.  It has disadvantage on attack rolls against you and takes an extra 1d6 lightning damage from your attacks.</content>
+	<content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">Your Arcane Armor gains additional benefits based on its model. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Rebuild after levelup</content>
+	<content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">Guardian: When a creature you can see attacks an ally nearby, you can use your reaction to magically force the creature to make a Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your spell save &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt;, pulling the creature toward you to an unoccupied space and dealing damage in the process. &lt;br&gt;Infiltrator: Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn.  It has disadvantage on attack rolls against you and takes an extra 1d6 lightning damage from your attacks.</content>
 	<content contentuid="h1111159eg3214g4772g9085gce3dcff90a4d" version="1">Thunder Gauntlets</content>
 	<content contentuid="ha111159eg3214g4772g9085gce3dcff90a4d" version="1">Your right gauntlet is imbued with energy.</content>
 	<content contentuid="h111114bcg3365g4812ga6a5gb0fa92c75165" version="1">Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals Thunder damage on a hit.  A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.</content>
@@ -251,7 +266,70 @@
 	<content contentuid="h4222259eg3214g4772g9085gce3dcff90a4d" version="1">Dampening Field</content>
 	<content contentuid="h522224bcg3365g4812ga6a5gb0fa92c75165" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.  If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.</content>
 	<content contentuid="h6222259eg3214g4772g9085gce3dcff90a4d" version="1">Perfected Armor: Guardian</content>
-	<content contentuid="h722224bcg3365g4812ga6a5gb0fa92c75165" version="1">You can use a reaction to pull a creature that attacks an ally nearby, preventing that attack and dealing damage to the creature.</content>
+	<content contentuid="h722224bcg3365g4812ga6a5gb0fa92c75165" version="1">You can use a reaction to pull a creature that attacks an ally nearby, preventing that attack.</content>
 	<content contentuid="h8222259eg3214g4772g9085gce3dcff90a4d" version="1">Perfected Armor: Infiltrator</content>
 	<content contentuid="h922224bcg3365g4812ga6a5gb0fa92c75165" version="1">Creatures you hit with Lightning Launcher glimmer with magical light and have Disadvantage on attack rolls and take extra damage from your Lightning Launcher.</content>
+	<content contentuid="h922224ccg3365g4812ga6a5gb0fa92c75165" version="1">Creatures you hit with Lightning Launcher glimmer with magical light and have Disadvantage on attack rolls and take extra damage from your Lightning Launcher.  You additionally gain Advantage against them.</content>
+
+	<content contentuid="h7777f09fg3063g4abbg9332gf089e61d313e" version="1">Magic Item Adept</content>
+	<content contentuid="h7778f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +1 bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
+	<content contentuid="h3854f09fg3063g4abbg9332gf089e61d313e" version="1">Magic Item Savant</content>
+	<content contentuid="h4854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +1 bonus to damage when you attack or cast a spell while holding a magical weapon. You ignore all class and race requirements when using an item.</content>
+	<content contentuid="h5854f09fg3063g4abbg9332gf089e61d313e" version="1">Magic Item Master</content>
+	<content contentuid="h6854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +2 bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
+	<content contentuid="h7854f09fg3063g4abbg9332gf089e61d313e" version="1">Soul of Artifice</content>
+	<content contentuid="h8854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +1 bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; if you're holding a magic or infused weapon.  When you posses a replicated magic item, if you're reduced to 0 hit points but not killed out-right, you can use your reaction causing you to drop to 1 hit point instead of 0.</content>
+
+	<content contentuid="hf370db3cg613dg4943gafe8ge316307ce44e" version="1">Chemical Mastery</content>
+	<content contentuid="h9dab0330gd89ag4b76g87d8gfbcfdfcd8c3c" version="1">You have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments.  Once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; you can cast Greater Restoration and Heal without expending a Spell Slot.  You also get resistance to Poison damage and Acid damage, as well as immunity to being poisoned.</content>
+	<content contentuid="h0e497d40g28b2g47c5g8947g915af0c1bfd5" version="1">Perfected Armor MkII</content>
+	<content contentuid="hb53d6847g7d5cg463cg91d9g1d296d25b2c5" version="1">The benefits gained from your Perfected Armor improve further: your Guardian reaction now additionally deals damage, while your Lightning Launcher now deals 1d6 extra damage and gives you advantage against the hit creature.</content>
+
+	<content contentuid="h91e92732g0969g4c2egb478gfdf53e2fd6e4" version="1">Fortified Position</content>
+	<content contentuid="h0258e5e2gbdb4g4005gbb9cg95d489be1871" version="1">You're a master at forming well-defended emplacements using Eldritch Cannon: you can now summon two of them with the same action.</content>
+	<content contentuid="hd44d7d4ag0cefg4e26g9519g1a311c277e91" version="1">Improved Defender</content>
+	<content contentuid="h0bcbee6ag0e91g4054g85f8g86814bbf0198" version="1">Your Arcane Jolt and steel defender become more powerful: the extra damage and the healing of your Arcane Jolt both increase to 4d6; whenever your steel defender uses its Deflect Attack, the attacker takes Force damage.</content>
+
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000001" version="1">Armor of Arcane Firearms</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000001" version="1">The first prototype of this armor was created by Jan Jansen around 1369 and became famous for being used during the battles that led to the defeat of the mad wizard Irenicus.  It was later perfected by an inventor from Lantan who won its designs in a dice game.  It entered the market only sixty years later, but it is now considered the standard equipment for any skilled artificer in artillery.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000001" version="1">Eldritch Cannon MkII</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000001" version="1">Magic weaved into this armor allows the wearer to build a stronger Tiny Eldritch Cannon instead of the normal one.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000001" version="1">Eldritch Cannon Overdrive</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000001" version="1">Infuse your Small Eldritch Cannon with Lightning magic, granting it a bonus to attacks and new abilities.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000001" version="1">Infused with Lightning magic, which grants a bonus to attacks and new abilities.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000002" version="1">Armor of the Arcane Tempest</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000002" version="1">This armor is a replica of its namesake made by the Gondian craftsmen present in the Wonderbringer's Temple in Tilverton.  They were made for the craftsmen responsible for defending the city.  In 1372, due to a cataclysm caused by the Shade Enclave, Tilverton disappeared, and with it, these artifacts.  In 1409, a group of adventurers seeking fortune exploring the hole left in place of the city found some pages containing schematics.  Apparently, they were the original designs of the now-lost armors.  No one managed to replicate the originals, and the ones now circulating are the best reproductions.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000002" version="1">Soundless Metal</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000002" version="1">When an Arcane Armor model is active, the wearer gets no Disadvantage on Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000002" version="1">Tempestuous Armor</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000002" version="1">When the wearer deals Thunder or Lightning damage it gains a barrier.  Upon receiving a melee attack, the barrier explodes dealing damage.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000002" version="1">Upon receiving a melee attack, the barrier explodes dealing damage.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000003" version="1">Robes of the Alchemist</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000003" version="1">The nature of this robes can be traced back to the distant Cormanthor.  These garments were used by the alchemists of the Jaerle House, a Vhaerunite Drow house.  Like all equipment created by Drow, it is efficient and practical.  It spread throughout Faerûn when an adventurer managed to steal one from the corpse of a Drow killed during an ambush.  Upon returning to Shadowdale, they commissioned a tanner to make modifications to make it less evil.  The tailor took advantage of the work to create a design and make new ones.  One of these reached an artificer, and the rest is history.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000003" version="1">Corrosive Armor</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000003" version="1">When the wearer deals Acid or Poison damage it gains a barrier.  Upon receiving a melee attack, the barrier explodes dealing Necrotic damage.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000003" version="1">Upon receiving a melee attack, the barrier explodes dealing Necrotic damage.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000003" version="1">Summon Ooze</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000003" version="1">Summons a Ooze to fight at your side dealing Acid attacks.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000005" version="1">Armor of Battle Inventions</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000005" version="1">This armor is the legacy of an adventurer who traveled along the Sword Coast during 1372.  It was designed to be efficient and functional in any situation, equipped with an arcane energy condenser to enhance its steel defender's performance.  It is said that the first one was made from scrap pieces acquired from junk dealers.  When the adventurer became famous, they created a more defined prototype of such armor and later shared the knowledge with the priests of Gond to gift it to inventors throughout Faerûn.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000005" version="1">Charged Arcane Jolt</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000005" version="1">Adds etra Lightning damage or extra healing to Arcane Jolt.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000005" version="1">Steel Defender Overdrive</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000005" version="1">Infuse your Steel Defender with Lightning magic, granting it a bonus to attacks and new abilities.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000005" version="1">Infused with Lightning magic, which grants a bonus to attacks and new abilities.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000004" version="1">The Deconstructor</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000004" version="1">The years an artificer puts into their work is mostly for creating wonders.  However, sometimes the creation might be a touch too good and needs to be put down quickly in order to save face and insurance premiums.  Too many explosions tend to get the law man involved, so it might be best to put it out of commission before too many eye catch a glimpse...  Also good for clearing obstacles.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000004" version="1">Deconstruction</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000004" version="1">Weapon attacks deal devastating damage to items and constructs.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000004" version="1">Electrocution</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000004" version="1">Weapon attacks extra Ligntning damage.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000004" version="1">Draconic Deconstructor</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c77000004" version="1">It is unclear if The Deconstructor was originally an attempt to replicate this wonder or if day a powerful dragon just decided to bestow their gift on a well made hammer.  It's also possible that this is just the result of a collaboration between talented artisans and clerics.  All we know is that this weapon is as good as its more common version, but carries a very powerful blessing.</content>
+	
 </contentList>

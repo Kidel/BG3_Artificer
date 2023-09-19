@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="320" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="00081fef-1877-4eac-820d-dc3210ff0b36" />
+					<attribute id="Name" type="LSString" value="UNI_ArtificerHammer" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7e8ef269-0e7b-4352-8828-89c5fced943c" />
+					<attribute id="ReadinessFlags" type="uint32" value="16" />
+					<attribute id="VisualTemplate" type="FixedString" value="2532e152-9c8d-771a-10a4-52b5b162fe97" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7d80071bga99bg463ag8d37gcc4c70000004" version="1" />
+					<attribute id="Stats" type="FixedString" value="UNI_ArtificerHammer" />
+					<attribute id="Description" type="TranslatedString" handle="h7d80071bga99bg463ag8d37gcc4c71000004" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="ab54402e-d3f3-497d-819b-9b51af1827b8" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="95c1af40-8cc3-4552-b523-fcf7fb44b20b" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7b96246c-54ba-43ea-1db0-0b4ead20f135" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-69bc-f9659632c866" />
+								</node>
+							</children>
+						</node>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1617671 -0.01497807 -0.8862602" />
+									<attribute id="Max" type="fvec3" value="0.1014783 0.03706054 0.4109869" />
+									<attribute id="Radius" type="float" value="0.283448" />
+									<attribute id="Height" type="float" value="0.0765833" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.123009 -0.0008221231 -0.6482352" />
+									<attribute id="Max" type="fvec3" value="0.09072898 0.05259413 0.1435194" />
+									<attribute id="Radius" type="float" value="0.141724" />
+									<attribute id="Height" type="float" value="0.0765833" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1617671 -0.01497807 -0.8862601" />
+									<attribute id="Max" type="fvec3" value="0.1014783 0.03706054 0.410987" />
+									<attribute id="Radius" type="float" value="0.283448" />
+									<attribute id="Height" type="float" value="0.0765833" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

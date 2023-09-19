@@ -1,0 +1,20 @@
+function ArtificerLevelOdd(entity)
+    local entity = entity or context.Source
+    return ConditionResult((entity.GetClassLevel('Artificer') == 1) or (entity.GetClassLevel('Artificer') == 3) or (entity.GetClassLevel('Artificer') == 5) or (entity.GetClassLevel('Artificer') == 7) or (entity.GetClassLevel('Artificer') == 9) or (entity.GetClassLevel('Artificer') == 11) or (entity.GetClassLevel('Artificer') == 13) or (entity.GetClassLevel('Artificer') == 15) or (entity.GetClassLevel('Artificer') == 17) or (entity.GetClassLevel('Artificer') == 19))
+end
+
+function ArtificerMulticlass(entity)
+    local entity = entity or context.Source
+    return ConditionResult((entity.Level > entity.GetClassLevel('Artificer')))
+end
+
+function ArtificerSpellcasterLevelEqualTo(level, entity)
+    local entity = entity or context.Source
+    return ConditionResult(((math.floor((entity.GetClassLevel('Artificer')/2) + 0.51)) + entity.GetClassLevel('Wizard') + entity.GetClassLevel('Cleric') + entity.GetClassLevel('Druid') + entity.GetClassLevel('Bard') + entity.GetClassLevel('Sorcerer')) + math.floor((entity.GetClassLevel('Paladin')/2) + (entity.GetClassLevel('Ranger')/2)) == level)
+end
+
+function ArtificerSpellcasterLevelEqualOrGreaterThan(level, entity)
+    local entity = entity or context.Source
+    return ConditionResult(((math.floor((entity.GetClassLevel('Artificer')/2) + 0.51)) + entity.GetClassLevel('Wizard') + entity.GetClassLevel('Cleric') + entity.GetClassLevel('Druid') + entity.GetClassLevel('Bard') + entity.GetClassLevel('Sorcerer')) + math.floor((entity.GetClassLevel('Paladin')/2) + (entity.GetClassLevel('Ranger')/2)) >= level)
+end
+

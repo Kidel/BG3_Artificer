@@ -1,0 +1,2545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+            <children>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.6431361 1.891777 0.2216346" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.6416727 0.5479928 -0.1864166" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="69695a73-454f-955d-6452-d82d45a6efc7" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="CLT_Blacksmith_A_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/CLT_Blacksmith_A_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/CLT_Blacksmith_A_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD4.4" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>
+				
+                <node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.6431361 1.891777 0.2216346" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.6416727 0.5479928 -0.1864166" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="77325a73-454f-955d-6452-d82d45a6efc7" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HUM_MS_CLT_Blacksmith_A_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_MaleStrong/HUM_MS_CLT_Blacksmith_A_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_MaleStrong/HUM_MS_CLT_Blacksmith_A_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD4.4" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.6431361 1.891777 0.2216346" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.6416727 0.5479928 -0.1864166" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="78325a73-454f-955d-6452-d82d45a6efc7" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Dragonborn_M_CLT_Blacksmith_A_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Male/Dragonborn_M_CLT_Blacksmith_A_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Male/Dragonborn_M_CLT_Blacksmith_A_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="Dragonborn_M_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="Dragonborn_M_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="Dragonborn_M_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="Dragonborn_M_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="Dragonborn_M_CLT_Blacksmith_A_Body.HUM_MS_CLT_Blacksmith_A_Body_Mesh_LOD4.4" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>
+
+				
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.6165807 1.769166 0.194786" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.6116565 0.3562174 -0.1932521" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="77f91e21-ba1d-dc72-4907-f8370fd8c90e" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HUM_FS_CLT_Blacksmith_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_FemaleStrong/HUM_FS_CLT_Blacksmith_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_FemaleStrong/HUM_FS_CLT_Blacksmith_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="1 1 1" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="1 1 1" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="True" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="1 1 1" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh.2" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="1 1 1" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="1 1 1" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="True" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="1 1 1" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh_LOD1.5" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="1 1 1" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="1 1 1" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="True" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="1 1 1" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh_LOD2.8" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="1 1 1" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="1 1 1" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="True" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="1 1 1" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh_LOD3.11" />
+						</node>
+						<node id="ClothProxyMapping">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh.2" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqVVWtQVVUYXV8EvqLM7II8Ks0EB0MT8SKIGoGZmYKXhw7QTJY9R8wgpsdg0EwlNVOTOfkIbTKzGh+VvXPSHhM2QymQWiH0GLUJK1P840i6W3t/5+Zp7mATZ/Y6+3znu2fv/X1rLUJSIV1YhAqpQpW7h/hsTAf2owvfo5PzErmHeByl0okyMfw7Cos9OIpj2MdMY1rwLb7DEfyKbvyBHkZO4Bk8jedc5ucOy2WezJccTObT12jHNwgik/PlWIFJ0BX38nvtxHbeuzFHimQuRzdulL8wS2a71XtxCmd4zZTTOIkZSMNE5GECRhPTMBVXcZ6KFN6nuHXtubZgM0c15mEIY0MxmPeLEcd5NRa7dzbzRwzlHTgP4lWjFGWMVKKc+LPLOYifcBgXIRmxzIpFFOrwIN9EYyDnD7mcpWhAPR5w8ztxF35ADAahP68Yxg7jIA7hVizEAizBvYxswuvEhbgDI8TuZ5ObGTNEdP9buJfF3P193q66EJIO2E7Zfp3toD1lFfPseTRTexeura2qola1r3pqJbWGWj0/+isZxypeinhJkCCvNiSIVjXISLzoHtqwB7vcaPPq1oosRluxEx/jE6IxWTJJEiXb7SdbdjD+ET7FNnzB98a8gzeJW4lvYDeaeYK38SEj77sKXyiD5C1cwJErlyOXsV3MsetZ3M3sZkx2XzbIQD8Zj/4yDlNlisRIPxfPc5gsl0m0RAmIImMRJekYBZFUpLMOesaA1HJWixoEZJhbPYAmxPPJzmtcRDNXoQRr8DxWMtaIBCQiXwqRKBs5M+YFZMhqvIqNSJeVyJQMWYdleByPoZFvk/AocS02YD2ecN98Da8wc5yM5TohF7nfMWeizMYEKcJcxBELuUaqt5NaskWZGclJP/o5qXzzo3LPz0Dlnr/vloOLPG4oJzWnwzlDSIqZYZ3kGCrlbpTQBcrpA504jmI5wGiP5yEH0EL8Db/TR9RJvqJHtOBPOkrYQ55FFk4gh95iTCZ1H2S/s52ffEnczzX3cXTxe+3s/F6P7fPF+pb1kyPk+Wn0wnJe2X6KvD+DGyQNBXxS5q/Acn4thU/TPBVYVzHmCucoqgP1ENWCjahvDEY0XcCYMpR6vlEMv2/EurntSz2WcjTA+oMxDS4+wOEhjJKRUoFb6A/WGarZ6SWs/C/urXWJ2zBSlAM1fFfNrM2MLaCj3A6r9xpmW47aHN2h9k6roV1T1M6G9Ws1qx3069GvI1VNnk81/1c7ynP1Cv+61iWCsoceEfaKVrqAMTvpANthc4zZRlfY/o+um//lDDv47jN6RtgZ3sVAUWfYync58gH/77znvt3snSXH7XyAw1yHGXSGGM8frpVpksRTJUkyr2je7bngzpWKKzGcqwTcCQLUfxPsPE5Ud2Htr8JqqPYTZZhY1TfxV6p31b5Wo5G6fxIv4ymkyAaspeqtb8yisq+R8RLCzahEEWZiDm5CgeRLgdttIWP5Ytet9Sqmp4t0Dz+qk6hL+FF3rlq2ipjO0Yvrpdf96iRVYcxoamGM00gKwuq4mnGL6chjta7jSJbhHPZXQkacLw8716nDI8R6qLdcIg140e1uHV5iDdZDdzKG569zc437/++oq6iHqMZV130p2o9+dft1rd/261GVqFpTlammInUUqaZIJitvI1mnfDs3x7QjyhzliXJDWaEc0O6fu19nO/VfPYrsTl99+RtwTIY2" />
+													<attribute id="Name" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Mesh_LOD3.10" />
+													<attribute id="NbClosestVertices" type="int32" value="1308" />
+												</node>
+											</children>
+										</node>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+													<attribute id="Name" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Mesh_LOD2.7" />
+													<attribute id="NbClosestVertices" type="int32" value="1953" />
+												</node>
+											</children>
+										</node>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqVV2mQVsUVPReEYRNZBIIwEBhmGCLMMOwMMAzDDOswsu+iUQOypCr5kRIhIEQj4pKgMe5BVESiVajRGCWCGk0lYqxg5UeSMqVhiybBKBgpSoQvp+95j69nPqAm1dXndt++r7vf63733vMe/oj9rL/DaxhhI62bBay2/diDkWyVWyYTsNr2YC81e2j9Km1fxa+9/oL1DezGLFtss1m/jUzmdep+iyttjq0grsAcjsy10J9HOY8zZjJzbT77xzDXFtrfEMY/w19xDJ/hP8T3Kf/ieJwzvYHfc51n8aLr3qHFQjvKOt8+xlGE2T52PM6RTzj+Pu7iXp/FLvyZvT/xuec4/hz7mcw7+AP20SrY38XZf8TyCT7Hp675t6N6+zjLnXib9m+y7MMW/MtHF/n+59sivsmdfPrHLJ9jBG23eHsU2yNwN8qJo4nvcgdvU47k0yNxD/FufEEsxxjibr7ZC3zDt/AbvuW7lG/R+k32duMVlhfwEuuL+CVLWPdiX/0l7wWrLZjH77CAJej/6TYzvX2F4wzHEwi9ad6ebnU2zX6KaXYCP3H78ZjA1gRMpfa/rplqX6HOat1+Ike+YjmNWjtDPIXJNsVOYyK+pPZLajKZan9qkuMwVGEcaw364XLiSfZqUI1K6vpiCOUw4ljKShRSMxT38rnhlOUYjgpiGB1OHEb8wuccR5tq9odyrntcc69jW3uechdGcad7UW67+D1e4QmM4lcbzfIyRzuiE7ETOmI+Swe227HdAe0Attv7PGPQk7Knt192LLcsjnK8FAv9qUs5/iE+oPwIHxLboy26cC6j/iM0oUUTNEX61PM+22jL4hzMw2zONQ8LKOfiSsq5WIwD+DvnO4CLOO8hHGTvIHt5uMRnEBoupmyqm+DYxvEirtmMJbTzHXs43og26IFWPtIK69GavTVYjRuxjprVbrOOvUxmjbfXYwM20i6087iTlnzPhbgehfYBlvv+Cu0QZZE1d5sWaE6b1t4+hCPc8T9YW/KJBbgWV+MqfBffxDNsLaZcxHddRN0Y/w5tHFtbkNJcw2cW89nl+BZXOMxZw2w8I2t9Fg/7WoVWZMvdbhlaWnOrYAn6AluG3nYd9deij/W2Am8vxUrWZXga1+HnxFUur+G+9FQLa2mtbSAGc+7BaG4tbJCv0spH8zh/JUtor+CzSzHW2x0cN0LtINXWaKW55Jx5lmfdbRxLJWV362HN2K5yXcAMmtGiivrQ97OjNp9W+YlsamCVbGZlvGoZlMLYMytlrwRFbBZRV4LebPdhKUUZ/64iFLOUsDWWtTe+jgLucSxbFfiV77YMA5GhfQHtw3gf9HJ9gWP4azKZzvga/6EurunM1nw8hAeInSk74UHcR/kI5UPoSqu2tL6MrUfQjRbdsJn9BzAHk1lmYxYexmB7kLiDFoOs1AazPoyn+ER3PnuZr7LZ8WbH7o4/dNzB+W5nyep/4HiL460IVnd4+zbcgq3YlOi3Uqq9Cbfh0US/NbEM+LMEH8d27mUHSuw+7nqq7/V+vuH9qGUdakPsSbcssacod6Iv+0/gDjyJMhtkA1lKrcSm8l2nYAm+hxv4xkt472eyP4vz1eIKDPFTLqPtoMQ+zLaTJej72hMIo0M4Wos6TKP9MBtqNcQ6zODzUzCMvTpU23RaTqdmhrdrrKt1YQTvYjO47g1cM/S6crWAIzjvdu5UZ1ps27n37cmKxRwr9l1JU+wjU+jvA06gPIMgp7hN0IcYEEbf8/zhNbxOKUvlDyO53n5ks4hqxz24cBahzOEMY8xEU9xXxFH0V0xXHFdMz42estcMp/xdFE8VQxVPFVsVSRVV43iaG1MUTRRZFFN6RlFD8eIUI2FYVRg0JxOcRF3AUziZRJa9nDuOLKOjSJHrG+Wj5OXkqeSj5K9iT5V6nqzXqu9/qs76H/kceRj5ltiryJ/EniTXh1RQjkHjPcnlCYZ8IMWgSb1K8DDyLSFr6E+sokwxaPpSfiPCysT/yBfJ/8gXxV5I/ke+SE9phvoeKfgi+SX5IvmlYtoOOOuXgjfaHHmemyO/dHvknc7vkeR/5Hlupaf5f33OTnoZ+YpMRj4neA/eASujzPqcqxKfo/3neh55LfmW2KvIh8ifdHUvIk8yk3WJz1YY4QD3CelfdjI6ZZ1X8DnTk68t+6CpTrxQ1s/0NZ2yTkfzV9l43tMevLG9kpgY4mNA6fOpV5Ts4XdYmny3VMRMMWiaJogkhuabNJZgKZpaiu7befubJH9Bir5b/gUDkMXCBONV4hlkqci+FiHbWuvzrEaQ32cmtg4Bb8KaJBO7CcINUFa2IcrK2jHH2EDsaMo20qyjAzUboWzkUQi3McJtQuhtY7zbyrrNUXfvMd443cDHXSPsZ/15Gv1Y+1t6OqGluLCWOw37Xn125+vcRjvU3sJO2pn2oz0o0moPW7naY0jXCquE+fuZVpHflmdYnXylc2enHaLsK867dFI6kfhfq//HhX8tfbuGGLjqSgSWuhJiqWJVMyMmNd2xzrE2wclkS+JEacQ8F05O2JNihHixVsyy43T1+uz4GC0asuPjCUdWfAnfbdI52LF48dEcdixeHP934sVixGLH4sVixJ/m8GIxYrFj8eLAiFN2nDLiwI4vzIvFiMWOY14sPyDuJo4mniVNW7Kirgkzyk9uyxqkt0VnF59gfI4xR54RMeUTiE85cORp0YkHviymnMmINcd8WTchsOb6dyPmzronpxFugm5LzKNz74mYtW6LTjnUlGvrxHWCYtxi2TpNMWt9w5hxx1y7wudpPNeW14pRf6U4tc5FKGYtlt0++nPFDY9QHqLMQ+CPfrL+rY7gMPXi1+La4tfi2jHL1ipi2WLch8n2ikyMbyUZ4LKEX4tri1+La4tfi2sf5B4OJFxbzE43SrerMVz7kvMy7vW8iYF3t0F8M+Pvdj6uLZYtxt2QazMn9Hb6JQ/xW15Prrsg4dfPEAPrvhrfSbh2/UiR9Zwx19aXb8zpHEb4yjH71pfXnMr8wxn0acDBl7InDq7TWeVcXHw8MPGnIY6QmxUrH66whsx6FU9sKcSpdXbhHdsnkTH3rZX9xiw7F5VRKHNQthDza0UWsSdlrcozlR/GbDSXadaPRDHrDPGoMUxQHDDL+2pMnC7mbjGei8dlPYyYWsrsxJWyfubCeV2c0eVmbmnONt6zN2VraZ7WK+fb1s/Qzp87NcxAGp+H5GYjjc9JhP8Dwn+r0Q==" />
+													<attribute id="Name" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Mesh_LOD1.4" />
+													<attribute id="NbClosestVertices" type="int32" value="2961" />
+												</node>
+											</children>
+										</node>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+													<attribute id="Name" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Mesh.1" />
+													<attribute id="NbClosestVertices" type="int32" value="3546" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh_LOD1.5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh_LOD2.8" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh_LOD3.11" />
+								</node>
+							</children>
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Belt_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Belt_Mesh_LOD1.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Mesh_LOD1.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh_LOD1.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Belt_Mesh_LOD2.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Mesh_LOD2.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh_LOD2.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Belt_Mesh_LOD3.9" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Mesh_LOD3.10" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Body.HUM_FS_CLT_Blacksmith_Body_Cloth_Mesh_LOD3.11" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_01" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>
+
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.4250289 1.080964 0.1167603" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.4235178 0.2475774 -0.1627165" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="7735bc53-21a2-fddd-6a5a-4e1c0f3dee4d" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GNO_F_CLT_Blacksmith_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Gnomes/_Female/GNO_F_CLT_Blacksmith_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Gnomes/_Female/GNO_F_CLT_Blacksmith_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Blacksmith_Body.GNO_F_CLT_Blacksmith_Belt_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Blacksmith_Body.GNO_F_CLT_Blacksmith_Body_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Blacksmith_Body.GNO_F_CLT_Blacksmith_Belt_Mesh_LOD1.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Blacksmith_Body.GNO_F_CLT_Blacksmith_Body_Mesh_LOD1.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Blacksmith_Body.GNO_F_CLT_Blacksmith_Belt_Mesh_LOD2.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Blacksmith_Body.GNO_F_CLT_Blacksmith_Body_Mesh_LOD2.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Blacksmith_Body.GNO_F_CLT_Blacksmith_Belt_Mesh_LOD3.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Blacksmith_Body.GNO_F_CLT_Blacksmith_Body_Mesh_LOD3.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Blacksmith_Body.GNO_F_CLT_Blacksmith_Belt_Mesh_LOD4.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Blacksmith_Body.GNO_F_CLT_Blacksmith_Body_Mesh_LOD4.9" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+					</children>
+				</node>
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.5913201 1.689893 0.1515889" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.5898892 0.5001482 -0.1863696" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="77720ef7-e1ab-704e-4e4a-f957a835d1e9" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HUM_M_CLT_Blacksmith_A_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_Male/HUM_M_CLT_Blacksmith_A_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_Male/HUM_M_CLT_Blacksmith_A_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="80" />
+							<attribute id="AnimDriveSpringForce" type="float" value="80" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="130" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Cloth_Mesh.1" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="80" />
+							<attribute id="AnimDriveSpringForce" type="float" value="80" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="130" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Cloth_Mesh_LOD1.3" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="80" />
+							<attribute id="AnimDriveSpringForce" type="float" value="80" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="130" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Cloth_Mesh_LOD2.5" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="80" />
+							<attribute id="AnimDriveSpringForce" type="float" value="80" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="130" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Cloth_Mesh_LOD3.7" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="80" />
+							<attribute id="AnimDriveSpringForce" type="float" value="80" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="130" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Cloth_Mesh_LOD4.9" />
+						</node>
+						<node id="ClothProxyMapping">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Cloth_Mesh.1" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+													<attribute id="Name" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Mesh.0" />
+													<attribute id="NbClosestVertices" type="int32" value="3744" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Cloth_Mesh_LOD1.3" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+													<attribute id="Name" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Mesh_LOD1.2" />
+													<attribute id="NbClosestVertices" type="int32" value="3036" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Cloth_Mesh_LOD2.5" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+													<attribute id="Name" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Mesh_LOD2.4" />
+													<attribute id="NbClosestVertices" type="int32" value="1911" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Cloth_Mesh_LOD3.7" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNq1lHtblEcMxQMVEBcRCiiICrLI1YpbLIiirKKiUkAQsFa5tYB+/y+Q/jLn3TL4Pvqf+z6TZDKXzSTn5NhW7R+7yjhm/Gn/Mn+J/QK5as/M+a3YK1vjO7QjxhpyxZ7bU1ZfYT1B1+1t8ofX/R7yiU2Z9G82g/3axvim7E6a17i/zj8s2SL6OMXwlvPuRzaAtWf7dsAXeh95wPmI5A2zZexle5PGNN9drDHkdLrf/TXnn6cXubei22zdOrA70BXGhl1mrCNjtdf6efOhvbMma2G8Y6c8F7Erds3MriObiGvTPloz3wa+X9BbyfMe3YwcxHcdvWl/c1Mf9/RxpgXfoN1AHiAvML9o7Yw27Db2DLDzKFnuvdaDFVGF3cqsx37FjvocFxlTpbSnNc3kkVQmo3b1oppaU02joi+Kyuq2crZzqcwr53m2lVtJ5XbEvtpNxghyLuk5m0XPon/nm7X79kd64wP7hHVit5nN26k9tHnGHbwzIOM+e2vJ8wDfJHoS7b5gn9Ouz9S4xq5FRo29p7ZgVXtsX+wRa3H/F2YfmIVvHD3BN07UcdJ9AmucGLuIsAMERPTr+NvT2VtEdULGe9J6vKdindbNvljttCEbpnKXTLb7UPJX056PdoXKX7Ft9gwj3bdt13bAwg5rH/CMcqaKv5uoq9xyi1O3kSes/kW0Ny2y2IV2/0reRopsCLdCrJApHCrDyu2P0ZjLHI25FA7L2GtgKVAk3AhjZ12ifq5LHBYxrqFXCv9T+Jh3iegJi6k7BFujZ0wyc59K+/NeUecfokfUklxCC7HqFULqt/1hL/WGwOoy1Y6+MHGuP4g1rTC/jUj7sXLuK8/xir70Eve8DzThbSm6QTOejSLbyr9yew09UDBdHG9PqAm/pc4wUPA99vSbWC8EiumKsFGF3v/5pVXZL8nMamHnssHBM2yIa2W+iCm5LLNGfBFTxAhxQWjPES7Z4H5IcX+WMVdEEtx3D/a75x1A3I/xKbF8vugAC0h3sV5cOE3/rvjjJUMF689HHjGPpRXlRHzP2V2hIu4VGNjJFzcM87JgdSfsFaPF7m1eGowOe5cXnzF6NHF9CKtKXN3pRnfxuivVQ6xXDMp/3gFy7qtessvdoMw4sUyMkMy58D0WCNVlxB6kyOMG9/2MR9Hz3e8mz3SSuidkdFrVopF/90b+w/M+yS3+xz160Y3UaQbJnjK5gx7lrbuM8IgdQvj3WJDjSogq46GMBOU/r125gqqXavTjbPzsPPwHdOv7TA==" />
+													<attribute id="Name" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Mesh_LOD3.6" />
+													<attribute id="NbClosestVertices" type="int32" value="1224" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Cloth_Mesh_LOD4.9" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqNUotSAkEMiw8EFD0fIKDgExUcETwFVOT/P2tNmz3dmZMZuSHt7t722iRV1BFCDRNUsI0L7DBuMNslghj466LDE63BGEIbGbMOTmFnXcYGtrDHp4ExNnHG1Rl6zHqMfVYfooYrr3bp8drzGitO8IgnjJhd82SEG+IYz8ymuMUD8YU45HshWJyiyp4njiHssNd67EE71WSiFDXdCjmaEZs44psn3skxWlx9ep5h6TPuw7KM+SEO8MXH4jn/fT49ZjkrDTDjvRyv7HaGe3zAZpzjjncvufuGdyy4WvBk7vWX3M24+8WzgddQP+pBnGsiofW5igynKLa3OdVFnE6q2b/Cey3eb/v6V7t2rGkahSB1jOOCsUKXClemyjO/sMt4SxWmznrtR4tpxCG/XGcHQz+XOtqXEwa8m0c/2CzHZNZYbzE7dX4LtjP2t3TO587zIbHPaBVCEMPG6jyyatwVvA28Q6vedOZa8Vs5T1bsouHz2resbgjyZNmZcuM6TxbO/NuTqRvXYerAdShnyo3yXoplH8qB8l7qt3WuS70n9uQxoRyV9iy3pJ5JvSFXlL1RdoWcIF2kvrQuK57qronU53+U/QY0wbNg" />
+													<attribute id="Name" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Mesh_LOD4.8" />
+													<attribute id="NbClosestVertices" type="int32" value="618" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_CLT_Blacksmith_A_Body.HUM_M_CLT_Blacksmith_A_Body_Mesh_LOD2.2" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_01" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>
+
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.5065208 1.573519 0.156186" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.5066479 0.4856993 -0.1659939" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="777c63b4-df59-c729-156f-08cc9a3c8a00" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HUM_F_CLT_Blacksmith_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_Female/HUM_F_CLT_Blacksmith_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_Female/HUM_F_CLT_Blacksmith_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="100" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="150" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh.2" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="100" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="150" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh_LOD1.5" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="100" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="150" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh_LOD2.8" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="100" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="150" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh_LOD3.11" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="100" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="150" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh_LOD4.14" />
+						</node>
+						<node id="ClothProxyMapping">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh.2" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+													<attribute id="Name" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Mesh.1" />
+													<attribute id="NbClosestVertices" type="int32" value="3546" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh_LOD1.5" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqdV3uQ1lUZfg64LuRuXHYX9gZ7YREqvOGFmHHIBDM1IhOEAaXAxoEMS1iEtGn6IxdTKQREqAnSZCGQy0IqakE4owZ5KbVEVMwLUpSCNxQLT8/7Pt9v93y74Kx93/ze8573nPOe63t5GsKAUIQGp//Gp1CI11nGWBiODyaN/Ike7/RVGH0Fr6Iw/BNF4XW8jJdwMfZhP/7B/78o20/6Bj/r+RieYFkUHkNxKA5P4FnW/0LJs6S7+P3N+V3oEXaR7x2exJ8p2YEnSV/Ai6SP4AXsoPQp8k+xz1/Zqyz0CkZLQk9yMb7kc5WEPuRfxNPs/TSe4Yjz8WW2nM/aKI77HfntsD5bnTfND2MnHscj/HZQ8gx+z36jcB6M+wp7nYcvkTPJSOdH4g8oC9tZnosB+CLpOZxlFLmRqKXka76Si1m+zD0Z/1U8hG34O77Olte8dS/2sN41vIa9lI6B9TH5Q9S9jSf3OGtvermTKzuAN/ntxJ/wKOUHWMb4KNcd41t4x+lBvIsLuNOHcSH+SO4d0hjfw3Okh9j2Ht52/YfxIQ7hfX6H8QF2s/YcR+zm/3kcwYn4HL6AIaSDWbfS6s9TXkNJDcuBpHeg2ukgNHDnfBssY6xy/dXoxxOoZr8BHHkh2weybODZXED+HEpi3IbtpGO8/yUYzd3vwSU8he/gKtybo9/GDMzy2ibc59TkMe5BlzCOZ9Yl7ME4jOW4i7CV8q5hLwqCjYuxxTVv4ui7cT/HTacGSYzehy3U1t35Ar+d45zO8LH3kLbgu/ie6cQ9LO/Gb9h/E+5ybg3pXVhFbjTfxkU4iTNMxymc4X7qNT0nU3YqJcZvYXk6+69k20qXnISTWZ7q/OkYxtLamp2L8TS2DuWIs1g/jVyMZ2E460O9dRj5ZmozfgNXudZX1NK6qpVc1ypvb8Zq0jVsMWqr/S1sN1fjR5T8GAHg15W7u9r3OpavejS/sXy/tahDFb969EcXjgvYQCpt66jXZljNdUhygKtYxx5r+a3jfy3ldi/1qA/H0XdIspma1vO/GRv5X0+J0f0ooKQb/wWUgH0KOMp2V5ej9aEg1PErD7WhkrLyUMGyItzG/rXeZ4SfRjNG8MRSviosRCX71nCk9a8Mt2IxfoaFuJW9buP7WYxFuIV8v7CItCZUBaOmYRH6cdwtuIm9b0QTrG5y42+gpDpktIkabk7qMd6AeZQ2UTrPuflYQN7ofJY3U+cC/pdiGekyL5diOb8V5G7Hr6hhKcsFrN9B+XLc6dwKtvTHElstuSq+/C6hnru5ibu5neUSnvdi0iXkY7yKb34WJtNeZsP4GGdBshnOm7SRtQfJGZ3OtxvjZD+92U4n41K2fRonYGCYyVGNuAYz+VIeRAnls1HmXClpGfqSm+Y6vsFRNtI0XMZaJeXGX+p8GfqwrY9Lvum0EhUsy0n74HJchkmYkpNPomwKZTFKMgkTqeFyymOscEkFJeXUaXwj1xajragRD6AX+RKurJRabXV9vc94luX8j2etlD1j7MvWUlzLnT2AH2IufsDvGu5xDmVzYX1qQ9az1DWZnr7UUOZapKc29HK+N+rIZbQX3/F16EFdvcn14inaWfb0nj287AmLqMX4Por4XYdizj+H6+geCsPA0C28Qq7I+1sELgxpLO4YhRV/FQHT6GNRvRiKPhO46vK8GKToo0iUxaBtyGJQOUdU5EZN8P7y2/LV8ttj6AEtlpk3lmcex5axeT459bHyM/Kc8jbyM/I58hsTUO7zWv/3GaVE/4OU/9B58zCZlzAPURdS/yDbr2J9IeQBZPvyA/IAsnp5AHmD1OozSzerl6XLrmXRqS0vcxvuaL+f1HJtXx9xd0ec/4Cl7FZWLItWTX2OMDbHaJFb8Xs3JBlCiqAILnuX7cveG3NWL0tvs3fZvr3UIsz0/rJ62btsX/Yu29cssvGOti+rl73L9o9m9ZPcxs3SZeOdt27TadY93tdU5jpl3X19fWa517rfmku7am/dmaWa5cpa56BHYqFmke1tcwhzIDvbwTzVNhrjYGZCoidyRDFt7gRc7+Ov50i9ZL1q9VH/QfTtn4HRGn6D+FbudPlhvvT/5t2vzrltrs96z1/76+wf5sHiTrXblySKQSb/Kel8thptyvEWi36Ri0fGx2ix6Oe5eJRFJZPYq7bW5S7JaIwWlURXoI1a7KsOP4H0pxqs9Zew1htxBs5kZmO5jXFDmekot7E85/NQtjM8yXbOZjQf7tRifbNH+bPJT2V8uAJT+U3xSDGV3xV8TfaKvgW9pYn+mq7kDUxs9SpXUqI1nMHPVnAmZ9Xswz0L04yaJZvLZtGM6Sz5+k2zqHLsNItW1qeM7lh5nbKXNIfRmac2km8pE1s9c+oz9znd7zTFEUIQwg4HvfUg3mL5NtGB/GqGC9o8bUa1o32J/jaUl8318VgvQ3mG+DKs15vIrSPiE9YT7muP+EqCcJ98ozzesRHfKFIhvq0J7hPiE9YT7hPWE+77eMQnrGe4ryGH9XS/umtZtyw6xTJCLkIihhem+WvIbkd3k95Rivh0X8J9QnySCPGZ3DjTJtwnDCj0Z9jwXaS3LDwoJChUeIgnqRvPv33duBBietqKM8KM6d6FHIUWdQ5CiDoNq2XI8f/DjEJGsprUjkSFFtMzF2a8N0GO6pla3CqezRoIJQk3rfZWoUjhx5YOKFL4UVhSCGgd78pQ0BukG4lq1kMoUohSKFKIUihSiFIoUtitO21rY+5tGJbcksOS5jdOOSaW1CtKseQwx2VClMc6sY5YsoUrjFFYUriyPaI0vLc6d0p2YjbKEOWGHIoUojR0OTeHKDNf3ebTRNsjygPHvIXsbI3Px5h22iNac+MiGLqMUee/3uUbc9TuQuiygOVmCGMqi64/Csb0/MTzxhQJZujPoqvdVLdcXqhby0eg7XctVJjSLDo3taLCFAkqnqZZn9CZsJhw1rQEQ03J0TaslNJ83GTxojOIJsuNDLkIpwhHpFggnx4tY0/zdmXsH+V5ktRbftKc5+h5TpbhpKeq8+x8ZqKsoPO5QccMofN5guj/AEmHt0o=" />
+													<attribute id="Name" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Mesh_LOD1.4" />
+													<attribute id="NbClosestVertices" type="int32" value="2751" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh_LOD2.8" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqNlotXVVUQh3+JtVAoNcggH5Ag5qMnpYmKgkEpoFDSRSDDFQ81XmlCEiQiGGL8zbtvZs71HhYrVuuuM3v27Jl99p49+zt3Vr/pdy1oFrmpX/VAf+uZUnpG+5yf6es8Ka24PK8Wrei8TtE7pSNoq3itodloC/0VndZX9I7ic1KH9UKHeNaw1OgoslbfqwaPl1pWnerxqdX7+kAf0jvBz+apd3nYI2P+Bf2lz4kZYf4LvGFZG7qIfOWeZ2kv6qya6TXrDNoZfYR+2uc7jv4F8ze4bv4N9BrVxIyfseNJ9j1JO6W3dZXxq7T9atNltaJd1lW3v5N5NhHzaSYtX5saw+eu9mkCn1aff8zlPg1ju8uax1zb0P7Mvh9Pk9U6wPMuP7NXZ/KOfsZ/g92NEJ1Suzr1je77aIfa0af0LWu545aXGteo7vGkZO046zquT/Qes1b5XCkd5C1VaD/RD4u0S2UaUkE/6i29idxDm1KVx1XroH7BY0hv4DHEaNRGnMXOOY9sR54jY/msRiYjb5GNfAbyMp+NSu3Vdzx/oM0j9yKf0j5Vj3r1WH/i20OvV3P0KtzykOeGbvoTWi3jfUQs6pGeIG9QifbUUn32LqvLlBZd/4HxW/gt4nmMWkkpzqKX+D7mNh+bZVBLmqE6b9E+0bTbZ9CnuVEz9BaQs4ybvYl2icqx2Y4R0UiWGpBxjnlpuUqpyyuvkp2b3U6tTWbrd59u9H4yUUke2tzSpW6V6zZr6qLtYg233b7bpZ3kLlnUbk5e2ApuL/jJlyNTmvb4K24fZJfXNECvAlmB7Tor6cjOooJMD3hMSmEJWTqXeeXt+bOLM4rsRcYiV3n5X3mLjEV+Ig+RgfweY3f5PRrNTD6nNb5toq3SBtnWYUoLbDHCBcGKfLPRI+irGd+KZKuhH2RbYyylF/TWIFkdhDPmnPRKMtYFOW32emx1kK6WqBN+U4J4wbpD1GCfz/ZccSJxFpFn494y716GfSNOzhIDh11eUNzH4t3M30qz5G9lkDAYuOd1vbXxTJDZYEvc3DjNuK1GwzE8xnKsu0y0Ea7IN2NdiW8TWI1wdqMPcCpWw9XEGB2Db8HG+8zU7lzrdO0KK5iivcfIKH7DeI6z61F87RYa8dbdpxPbOH6TPA+yqlvPqLjid/bl6yzl85OXO+cq9r59F7GqWEnwaM79H1LTj7La3VrDSzLZ6HS2Gi7A1pQidt7vzFPaHhU5ZlGPM7mdZma/6TwLjgXTgm9GtBpkiWOLGa9KNLObUqYizWzNQbCgWRCsSLOd9pLnWJmPlmUsKrGrQ9eRVtMFqqwVqrRR2dcUBAteFdllscGubu50v/sUslzFmmP+mC2oVe4rHfRoe5dVUNTRAG8pz2hmsoK9zm1hWp5jWz1L9rx8pX90iSq6pHP+7TtHzTTra+SX1IxVzcdZ5czm/lnFv5f4vxH/HPLf6O3f5f/zRd55JSFjJflV/QuPde7T" />
+													<attribute id="Name" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Mesh_LOD2.7" />
+													<attribute id="NbClosestVertices" type="int32" value="1272" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Belt_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Belt_Mesh_LOD1.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Mesh_LOD1.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh_LOD1.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Belt_Mesh_LOD2.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Mesh_LOD2.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Blacksmith_Body.HUM_F_CLT_Blacksmith_Body_Cloth_Mesh_LOD2.8" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.5693849 1.670894 0.1543061" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.56883 0.5001482 -0.1400436" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="77764bb5-5d54-9277-b278-fee2938600a4" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTY_M_CLT_Blacksmith_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Githyanki/_Male/GTY_M_CLT_Blacksmith_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Githyanki/_Male/GTY_M_CLT_Blacksmith_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Blacksmith_Body.GTY_M_CLT_Blacksmith_Body_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Blacksmith_Body.GTY_M_CLT_Blacksmith_Body_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Blacksmith_Body.GTY_M_CLT_Blacksmith_Body_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Blacksmith_Body.GTY_M_CLT_Blacksmith_Body_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Blacksmith_Body.GTY_M_CLT_Blacksmith_Body_Mesh_LOD4.4" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>
+
+
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.5068036 1.572427 0.1435786" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.507412 0.4997704 -0.1610062" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="7775f20c-8615-384e-dd91-b420b0e859d8" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTY_F_CLT_Blacksmith_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Githyanki/_Female/GTY_F_CLT_Blacksmith_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Githyanki/_Female/GTY_F_CLT_Blacksmith_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_CLT_Blacksmith_Body.GTY_F_CLT_Blacksmith_Belt_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_CLT_Blacksmith_Body.GTY_F_CLT_Blacksmith_Body_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_CLT_Blacksmith_Body.GTY_F_CLT_Blacksmith_Belt_Mesh_LOD1.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_CLT_Blacksmith_Body.GTY_F_CLT_Blacksmith_Body_Mesh_LOD1.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_CLT_Blacksmith_Body.GTY_F_CLT_Blacksmith_Belt_Mesh_LOD2.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_CLT_Blacksmith_Body.GTY_F_CLT_Blacksmith_Body_Mesh_LOD2.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_CLT_Blacksmith_Body.GTY_F_CLT_Blacksmith_Belt_Mesh_LOD3.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_CLT_Blacksmith_Body.GTY_F_CLT_Blacksmith_Body_Mesh_LOD3.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_CLT_Blacksmith_Body.GTY_F_CLT_Blacksmith_Belt_Mesh_LOD4.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_CLT_Blacksmith_Body.GTY_F_CLT_Blacksmith_Body_Mesh_LOD4.9" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.6175342 1.293494 0.2125911" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.6109611 0.3072844 -0.251489" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="777e6e74-0e41-22aa-80be-c7a24cfd4925" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DWR_M_CLT_Blacksmith_A_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dwarves/_Male/DWR_M_CLT_Blacksmith_A_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dwarves/_Male/DWR_M_CLT_Blacksmith_A_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_CLT_Blacksmith_A_Body.DWR_M_CLT_Blacksmith_A_Body_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_CLT_Blacksmith_A_Body.DWR_M_CLT_Blacksmith_A_Body_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_CLT_Blacksmith_A_Body.DWR_M_CLT_Blacksmith_A_Body_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_CLT_Blacksmith_A_Body.DWR_M_CLT_Blacksmith_A_Body_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_CLT_Blacksmith_A_Body.DWR_M_CLT_Blacksmith_A_Body_Mesh_LOD4.4" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>
+
+
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.5148765 1.210791 0.1817716" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.5142469 0.2648581 -0.1786669" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="777290bc-af5d-ee94-d1e1-75cef05bc45e" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DWR_F_CLT_Blacksmith_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dwarves/_Female/DWR_F_CLT_Blacksmith_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dwarves/_Female/DWR_F_CLT_Blacksmith_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_CLT_Blacksmith_Body.DWR_F_CLT_Blacksmith_Belt_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_CLT_Blacksmith_Body.DWR_F_CLT_Blacksmith_Body_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_CLT_Blacksmith_Body.DWR_F_CLT_Blacksmith_Belt_Mesh_LOD1.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_CLT_Blacksmith_Body.DWR_F_CLT_Blacksmith_Body_Mesh_LOD1.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_CLT_Blacksmith_Body.DWR_F_CLT_Blacksmith_Belt_Mesh_LOD2.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_CLT_Blacksmith_Body.DWR_F_CLT_Blacksmith_Body_Mesh_LOD2.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_CLT_Blacksmith_Body.DWR_F_CLT_Blacksmith_Belt_Mesh_LOD3.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_CLT_Blacksmith_Body.DWR_F_CLT_Blacksmith_Body_Mesh_LOD3.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_CLT_Blacksmith_Body.DWR_F_CLT_Blacksmith_Belt_Mesh_LOD4.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_CLT_Blacksmith_Body.DWR_F_CLT_Blacksmith_Body_Mesh_LOD4.9" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.501301 1.122951 0.1364843" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.4944897 0.272147 -0.2199395" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="7772685e-31e4-170a-8a11-2ea280dde38d" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HFL_M_CLT_Blacksmith_A_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Halflings/_Male/HFL_M_CLT_Blacksmith_A_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Halflings/_Male/HFL_M_CLT_Blacksmith_A_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_M_CLT_Blacksmith_A_Body.HFL_M_CLT_Blacksmith_A_Body_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_M_CLT_Blacksmith_A_Body.HFL_M_CLT_Blacksmith_A_Body_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_M_CLT_Blacksmith_A_Body.HFL_M_CLT_Blacksmith_A_Body_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_M_CLT_Blacksmith_A_Body.HFL_M_CLT_Blacksmith_A_Body_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_M_CLT_Blacksmith_A_Body.HFL_M_CLT_Blacksmith_A_Body_Mesh_LOD4.4" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.4582356 1.068682 0.1136135" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.4613486 0.20547 -0.1852412" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="77711fc8-090a-d58a-5b69-1f531e6a0274" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HFL_F_CLT_Blacksmith_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Halflings/_Female/HFL_F_CLT_Blacksmith_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Halflings/_Female/HFL_F_CLT_Blacksmith_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_F_CLT_Blacksmith_Body.HFL_F_CLT_Blacksmith_Belt_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_F_CLT_Blacksmith_Body.HFL_F_CLT_Blacksmith_Body_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_F_CLT_Blacksmith_Body.HFL_F_CLT_Blacksmith_Belt_Mesh_LOD1.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_F_CLT_Blacksmith_Body.HFL_F_CLT_Blacksmith_Body_Mesh_LOD1.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_F_CLT_Blacksmith_Body.HFL_F_CLT_Blacksmith_Belt_Mesh_LOD2.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_F_CLT_Blacksmith_Body.HFL_F_CLT_Blacksmith_Body_Mesh_LOD2.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_F_CLT_Blacksmith_Body.HFL_F_CLT_Blacksmith_Belt_Mesh_LOD3.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_F_CLT_Blacksmith_Body.HFL_F_CLT_Blacksmith_Body_Mesh_LOD3.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="eafc9ba1-61cb-0788-c6f6-899fcba4c6e3" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_F_CLT_Blacksmith_Body.HFL_F_CLT_Blacksmith_Belt_Mesh_LOD4.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_F_CLT_Blacksmith_Body.HFL_F_CLT_Blacksmith_Body_Mesh_LOD4.9" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.5003451 1.11184 0.1458413" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.4981815 0.2600158 -0.1652012" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="77709d5a-5d53-fdad-d401-e26e10b37e6c" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GNO_M_CLT_Blacksmith_A_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Gnomes/_Male/GNO_M_CLT_Blacksmith_A_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Gnomes/_Male/GNO_M_CLT_Blacksmith_A_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_CLT_Blacksmith_A_Body.GNO_M_CLT_Blacksmith_A_Body_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_CLT_Blacksmith_A_Body.GNO_M_CLT_Blacksmith_A_Body_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_CLT_Blacksmith_A_Body.GNO_M_CLT_Blacksmith_A_Body_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_CLT_Blacksmith_A_Body.GNO_M_CLT_Blacksmith_A_Body_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="3b3ab9d9-2d71-fb51-96e5-e40c2334fccd" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_CLT_Blacksmith_A_Body.GNO_M_CLT_Blacksmith_A_Body_Mesh_LOD4.4" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Scarf 
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.09391759 1.830558 0.1014216" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09744332 1.647422 -0.1072138" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="77a65066-ff52-ee1f-b3c5-0c1943caa613" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Dragonborn_F_CLT_Blacksmith_Scarf" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Female/HUM_FS_CLT_Blacksmith_Scarf.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Female/HUM_FS_CLT_Blacksmith_Scarf.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Scarf.HUM_FS_CLT_Blacksmith_Scarf_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Scarf.HUM_FS_CLT_Blacksmith_Scarf_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Scarf.HUM_FS_CLT_Blacksmith_Scarf_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_CLT_Blacksmith_Scarf.HUM_FS_CLT_Blacksmith_Scarf_Mesh_LOD3.3" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.130136 1.957098 0.1233601" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1181689 1.749404 -0.1227754" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="77dc7279-2915-ddc3-2aab-e53fe39071f4" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Dragonborn_M_CLT_Blacksmith_A_Scarf" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Male/HUM_MS_CLT_Blacksmith_A_Scarf.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Male/HUM_MS_CLT_Blacksmith_A_Scarf.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Scarf.HUM_MS_CLT_Blacksmith_A_Scarf_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Scarf.HUM_MS_CLT_Blacksmith_A_Scarf_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Scarf.HUM_MS_CLT_Blacksmith_A_Scarf_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Scarf.HUM_MS_CLT_Blacksmith_A_Scarf_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Scarf.HUM_MS_CLT_Blacksmith_A_Scarf_Mesh_LOD4.4" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.130136 1.957098 0.1233601" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1181689 1.749404 -0.1227754" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="78dc7279-2915-ddc3-2aab-e53fe39071f4" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HUM_MS_CLT_Blacksmith_A_Scarf" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_MaleStrong/HUM_MS_CLT_Blacksmith_A_Scarf.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_MaleStrong/HUM_MS_CLT_Blacksmith_A_Scarf.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Scarf.HUM_MS_CLT_Blacksmith_A_Scarf_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Scarf.HUM_MS_CLT_Blacksmith_A_Scarf_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Scarf.HUM_MS_CLT_Blacksmith_A_Scarf_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Scarf.HUM_MS_CLT_Blacksmith_A_Scarf_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="200daba7-b80d-c270-1d88-8ec55cc50cd2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_MS_CLT_Blacksmith_A_Scarf.HUM_MS_CLT_Blacksmith_A_Scarf_Mesh_LOD4.4" />
+						</node>
+					</children>
+				</node>
+
+				Replacement shirts 
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.7691954 1.930012 0.204199" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.7691567 1.17982 -0.190342" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="7753473d-c466-ad9c-3383-fca03bdde15c" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="HRC_M_CLT_Jacket_E" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_MaleStrong/HRC_M_CLT_Jacket_E.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_MaleStrong/HRC_M_CLT_Jacket_E.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="7162918e-24d7-17c0-42f1-a2b330f426dc" />
+							<attribute id="ObjectID" type="FixedString" value="HRC_M_CLT_Jacket_E.HRC_M_CLT_Jacket_E_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="7162918e-24d7-17c0-42f1-a2b330f426dc" />
+							<attribute id="ObjectID" type="FixedString" value="HRC_M_CLT_Jacket_E.HRC_M_CLT_Jacket_E_Mesh_LOD1.1" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="wrists" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="lowerarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+					</children>
+				</node>
+
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.8173429 1.80625 0.1632665" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.8180726 1.10274 -0.2010476" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="77bfadc7-631c-2ee7-2a0c-3e1ec2cc59b6" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="HRC_F_CLT_Jacket_E" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_FealeStrong/HRC_F_CLT_Jacket_E.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_FealeStrong/HRC_F_CLT_Jacket_E.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="117b2dda-b0c4-fb6a-b11a-db9a4128727b" />
+							<attribute id="ObjectID" type="FixedString" value="HRC_F_CLT_Jacket_E.HRC_F_CLT_Jacket_E_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="117b2dda-b0c4-fb6a-b11a-db9a4128727b" />
+							<attribute id="ObjectID" type="FixedString" value="HRC_F_CLT_Jacket_E.HRC_F_CLT_Jacket_E_Mesh_LOD1.1" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="lowerarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.5968418 1.100476 0.1052599" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.5975581 0.60057 -0.1520892" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="77dda027-4595-c6b2-4be4-096aaf2a3473" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="GNO_F_CLT_Jacket_E" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Gnomes/_Female/GNO_F_CLT_Jacket_E.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Gnomes/_Female/GNO_F_CLT_Jacket_E.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="117b2dda-b0c4-fb6a-b11a-db9a4128727b" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Jacket_E.GNO_F_CLT_Jacket_E_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="117b2dda-b0c4-fb6a-b11a-db9a4128727b" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_F_CLT_Jacket_E.GNO_F_CLT_Jacket_E_Mesh_LOD1.1" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="lowerarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+					</children>
+				</node>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.6959962 1.747785 0.1551547" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.6989867 0.3868456 -0.1758956" />
+					<attribute id="Center" type="fvec3" value="-0.001495272 1.067315 -0.01037043" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="717ecdca-5cc6-41a4-9862-9592ad6873e7" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="32" />
+					<attribute id="Name" type="LSString" value="HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body_AMX_1" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.9883986" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/_Male/Resources/HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/_Male/Resources/HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="24dd95a5-5a3f-ef44-1a3d-35ee9de0b43e" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body.HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="24dd95a5-5a3f-ef44-1a3d-35ee9de0b43e" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body.HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body_Mesh_LOD1.1" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+					</children>
+				</node>		
+
+
+
+            </children>
+        </node>
+    </region>
+</save>
