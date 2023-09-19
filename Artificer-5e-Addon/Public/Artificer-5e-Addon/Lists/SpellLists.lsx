@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                Artificer Spell Levels 1-5
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artificer cantrips (Intelligence)"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_AcidSplash;Target_BoomingBlade;Target_CreateBonfire;Target_DancingLights;Projectile_FireBolt;Target_Frostbite;Target_GreenFlameBlade;Target_Guidance;Target_Light;Target_LightningLure;Target_MageHand;Target_MagicStone;Target_Mending_Artificer_Cantrip;Projectile_PoisonSpray;Target_Prestidigitation;Projectile_RayOfFrost;Target_Resistance;Target_ShockingGrasp;Target_SpareTheDying;Shout_SwordBurst;Target_ThornWhip;Shout_Thunderclap"/>
+                    <attribute id="UUID" type="guid" value="b9808849-c41b-444a-83aa-9748e03e9e16"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artificer spells level 1"/>
+                    <attribute id="Spells" type="LSString" value="Throw_Catapult;Target_CureWounds;Shout_AbsorbElements_Artificer;Shout_DetectMagic;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Target_FaerieFire;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness;Target_Sanctuary;Target_Snare;Zone_TashasCausticBrew"/>
+                    <attribute id="UUID" type="guid" value="ef3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artificer spells level 2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Aid;Target_ArcaneLock;Shout_Blur;Target_ArcaneLock;Target_ContinualFlame;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Shout_KineticJaunt;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_VortexWarp;Target_Web"/>
+                    <attribute id="UUID" type="guid" value="2f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artificer spells level 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_AshardalonsStride;Shout_Blink;Target_Catnap;Target_CreateFoodAndWater;Target_Counterspell;Target_ElementalWeapon;Target_FlameArrows;Target_Fly;Target_GlyphOfWarding;Target_Haste;Target_IntellectFortress;Target_ProtectionFromEnergy;Teleportation_Revivify;Shout_WaterWalk"/>
+                    <attribute id="UUID" type="guid" value="3f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artificer spells level 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_ArcaneEye;Target_FreedomOfMovement;Target_ResilientSphere;Target_Stoneskin"/>
+                    <attribute id="UUID" type="guid" value="4f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artificer spells level 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_GreaterRestoration;Target_SkillEmpowerment;Wall_WallOfStone"/>
+                    <attribute id="UUID" type="guid" value="5f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artificer spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_AcidSplash;Target_BoomingBlade;Target_CreateBonfire;Target_DancingLights;Projectile_FireBolt;Target_Frostbite;Target_GreenFlameBlade;Target_Guidance;Target_Light;Target_LightningLure;Target_MageHand;Target_MagicStone;Target_Mending_Artificer_Cantrip;Projectile_PoisonSpray;Target_Prestidigitation;Projectile_RayOfFrost;Target_Resistance;Target_ShockingGrasp;Target_SpareTheDying;Shout_SwordBurst;Target_ThornWhip;Shout_Thunderclap;Throw_Catapult;Target_CureWounds;Shout_AbsorbElements_Artificer;Shout_DetectMagic;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Target_FaerieFire;Shout_FalseLife;Shout_FeatherFall;Target_Grease;Target_Jump;Target_Longstrider;Projectile_RayOfSickness;Target_Sanctuary;Target_Snare;Zone_TashasCausticBrew;Shout_Aid;Target_ArcaneLock;Shout_Blur;Target_ArcaneLock;Target_ContinualFlame;Target_Darkvision;Target_EnhanceAbility;Target_EnlargeReduce;Target_HeatMetal;Target_Invisibility;Shout_KineticJaunt;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Shout_SeeInvisibility;Target_VortexWarp;Target_Web;Shout_AshardalonsStride;Shout_Blink;Target_Catnap;Target_CreateFoodAndWater;Target_Counterspell;Target_ElementalWeapon;Target_FlameArrows;Target_Fly;Target_GlyphOfWarding;Target_Haste;Target_IntellectFortress;Target_ProtectionFromEnergy;Teleportation_Revivify;Shout_WaterWalk;Target_ArcaneEye;Target_FreedomOfMovement;Target_ResilientSphere;Target_Stoneskin;Target_GreaterRestoration;Target_SkillEmpowerment;Wall_WallOfStone"/>
+                    <attribute id="UUID" type="guid" value="af3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+                Sub Class Extended Spells
+                Alchemist
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 3rd"/>
+                    <attribute id="Spells" type="LSString" value="Target_HealingWord;Projectile_RayOfSickness"/>
+                    <attribute id="UUID" type="guid" value="e40f44d4-653b-4fbd-ad74-64625cb21ba3"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 5th"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlamingSphere;Projectile_AcidArrow"/>
+                    <attribute id="UUID" type="guid" value="b95acc73-fa09-4f76-a829-fc8512c40a41"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 9th"/>
+                    <attribute id="Spells" type="LSString" value="Target_GaseousForm;Shout_HealingWord_Mass"/>
+                    <attribute id="UUID" type="guid" value="9f213030-d4da-4c03-add9-59810e0a96af"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 13th"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blight;Target_DeathWard"/>
+                    <attribute id="UUID" type="guid" value="b84d4802-d85c-457b-a0c9-68ab3e66f584"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Alchemist spells at 17th"/>
+                    <attribute id="Spells" type="LSString" value="Target_Cloudkill;Teleportation_Revivify"/>
+                    <attribute id="UUID" type="guid" value="70255b3f-18b7-4667-b13d-f0c5ac53761f"/>
+                </node>
+
+                Armorer
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 3rd"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MagicMissile;Zone_Thunderwave"/>
+                    <attribute id="UUID" type="guid" value="3b69fa1c-f33d-4e18-890c-ec2078c8af47"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 5th"/>
+                    <attribute id="Spells" type="LSString" value="Shout_MirrorImage;Target_Shatter"/>
+                    <attribute id="UUID" type="guid" value="312ce41d-bdc7-4407-932e-b49a9f313185"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 9th"/>
+                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Zone_LightningBolt"/>
+                    <attribute id="UUID" type="guid" value="dc5ab940-770c-431a-9e5c-af1713cc6d36"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 13th"/>
+                    <attribute id="Spells" type="LSString" value="Shout_FireShield;Target_Invisibility_Greater"/>
+                    <attribute id="UUID" type="guid" value="9bd0fcc9-48c1-4d1f-936d-ca248cd553f7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Armorer Level 17th"/>
+                    <attribute id="Spells" type="LSString" value="Teleportation_ArcaneGate_Artificer;Wall_BladeBarrier_Artificer"/>had to replace missing Wall of Force with Blade Barrier and Passwall with Arcane Gate
+                    <attribute id="UUID" type="guid" value="192d130b-6b91-49c6-87e6-4caf4bd9503a"/>
+                </node>
+
+                Artillerist
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Shield_Wizard;Zone_Thunderwave"/>
+                    <attribute id="UUID" type="guid" value="1a70cb52-82f5-43ac-902f-df674795d7e2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 5"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_ScorchingRay;Target_Shatter"/>
+                    <attribute id="UUID" type="guid" value="6b549067-9fab-4c77-8390-32eb257f1d00"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 9"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Zone_GustOfWind"/> had to replace missing Wall of Wind with Gust of Wind
+                    <attribute id="UUID" type="guid" value="9354865e-0af9-48c1-94d4-a2760cba91e3"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 13"/>
+                    <attribute id="Spells" type="LSString" value="Target_IceStorm;Wall_WallOfFire"/>
+                    <attribute id="UUID" type="guid" value="ea35a109-81aa-41fb-b66d-34b4a214d9f8"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Artillerist Artificer Level 17"/>
+                    <attribute id="Spells" type="LSString" value="Zone_ConeOfCold;Wall_BladeBarrier_Artificer"/> had to replace missing Wall of Force with Blade Barrier
+                    <attribute id="UUID" type="guid" value="15057300-c69b-4f2d-a8e4-b92ab8279ad8"/>
+                </node>
+
+                BattleSmith
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BattleSmith spells at 3rd"/>
+                    <attribute id="Spells" type="LSString" value="Target_Heroism;Shout_Shield_Wizard"/>
+                    <attribute id="UUID" type="guid" value="3b5aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BattleSmith spells at 5th"/>
+                    <attribute id="Spells" type="LSString" value="Target_Smite_Branding_Container;Target_WardingBond"/>
+                    <attribute id="UUID" type="guid" value="5b5aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BattleSmith spells at 9th"/>
+                    <attribute id="Spells" type="LSString" value="Shout_AuraOfVitality;Zone_ConjureBarrage"/>
+                    <attribute id="UUID" type="guid" value="9b5aa11f-cc98-412f-a85e-7fae4561a4d4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BattleSmith spells at 13th"/>
+                    <attribute id="Spells" type="LSString" value="Shout_AuraOfPurity;Shout_FireShield"/>
+                    <attribute id="UUID" type="guid" value="e85aaff5-bf0f-4b14-839f-54f098fdb536"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BattleSmith spells at 17th"/>
+                    <attribute id="Spells" type="LSString" value="Target_Smite_Banishing;Target_CureWounds_Mass"/>
+                    <attribute id="UUID" type="guid" value="01b84aec-5796-4c48-882e-1eb595f88018"/>
+                </node>
+
+            </children>
+        </node>
+    </region>
+</save>
