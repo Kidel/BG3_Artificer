@@ -191,14 +191,14 @@ type "PassiveData"
 data "Properties" "IsHidden"
 data "StatsFunctorContext" "OnStatusApplied"
 data "Conditions" "StatusId('ASTRAL_PLANE') or StatusId('CRE_ASTRALPRISON_GRAVITY')"
-data "StatsFunctors" "ApplyStatus(INFUSION_BAG_OF_HOLDING_DISABLED)"
+data "StatsFunctors" "IF(HasStatus('INFUSION_BAG_OF_HOLDING')):ApplyStatus(INFUSION_BAG_OF_HOLDING_DISABLED,100,-1)"
 
 new entry "AstralPlane_BagOfHolding_Check_Disabled"
 type "PassiveData"
 data "Properties" "IsHidden"
 data "StatsFunctorContext" "OnStatusRemoved"
 data "Conditions" "StatusId('ASTRAL_PLANE') or StatusId('CRE_ASTRALPRISON_GRAVITY')"
-data "StatsFunctors" "RemoveStatus(INFUSION_BAG_OF_HOLDING_DISABLED)"
+data "StatsFunctors" "IF(HasStatus('INFUSION_BAG_OF_HOLDING_DISABLED')):RemoveStatus(INFUSION_BAG_OF_HOLDING_DISABLED,100,-1)"
 
 
 new entry "Artificer_BattleReady"
