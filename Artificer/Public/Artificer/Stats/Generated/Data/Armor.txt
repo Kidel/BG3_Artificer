@@ -10,7 +10,7 @@ data "Armor Class Ability" "Dexterity"
 data "Ability Modifier Cap" "2"
 data "Boosts" "IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth)"
 data "Weight" "13"
-data "ArmorType" "StuddedLeather"
+data "ArmorType" "ScaleMail"
 
 new entry "ARM_Artificer_BlacksmithOutfit"
 type "Armor"
