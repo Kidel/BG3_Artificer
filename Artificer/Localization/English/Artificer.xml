@@ -110,7 +110,7 @@
 	<content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arcane Jolt (Heal)</content>
 	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see.  Healing energy flows into the chosen recipient, restoring &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; to it. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="2222222c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Deflect Attack</content>
-	<content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">The defender imposes disadvantage on the attack roll of one creature it can see, provided the attack roll is against a creature other than the Steel Defender.</content>
+	<content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">The Steel Defender can impose &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on the attack roll of one nearby creature it can see, provided the attack roll is against a creature other than the Steel Defender and that the target is within [1].</content>
 
 	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Alchemical Adept</content>
 	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Elements to craft them.</content>
