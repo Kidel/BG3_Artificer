@@ -62,6 +62,17 @@ data "PassivesOnEquip" "ARM_Ambusher_2_Passive;ARM_ArtilleristRifleAlternativeSu
 data "Boosts" "IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth);UnlockSpell(Target_EldritchCannonOverdrive)"
 
 
+new entry "ARM_SteampunkMonocle"
+type "Armor"
+using "_Head_Magic_Circlet"
+data "RootTemplate" "0000b30f-dc6f-4264-b7af-9dc0eff51bb0"
+data "ValueLevel" "6"
+data "ValueUUID" "a229f048-70b0-4b0c-88cb-29b5c6bdb2d0"
+data "Rarity" "Rare"
+data "Boosts" "AbilityOverrideMinimum(Intelligence,19)"
+
+
+
 
 new entry "REPLICA_ofGreaterHealth_Amulet"
 type "Armor"
