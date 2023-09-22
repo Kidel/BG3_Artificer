@@ -1574,6 +1574,7 @@ data "Icon" "Action_LightningBlast"
 data "StackId" "STEEL_DEFENDER_OVERDRIVE"
 data "Boosts" "UnlockSpell(Target_UNI_MistyStep_NightWalkers);UnlockSpell(Shout_GoadingRoar_Bear_Summon);DamageBonus(1d6, Lightning, false);RollBonus(Attack, 3)"
 data "OnApplyFunctors" "UnlockSpell(Target_UNI_MistyStep_NightWalkers);UnlockSpell(Shout_GoadingRoar_Bear_Summon)"
+data "Passives" "ExtraAttack"
 data "StatusPropertyFlags" "ApplyToDead"
 data "StatusEffect" "e062357a-3c20-4dea-96a5-119b17eb9044"
 
