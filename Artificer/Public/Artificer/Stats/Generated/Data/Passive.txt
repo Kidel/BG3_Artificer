@@ -611,3 +611,4 @@ data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnDamage"
 data "Conditions" "IsWeaponAttack() and not (Item() or Tagged('CONSTRUCT'))"
 data "StatsFunctors" "DealDamage(1d6,Lightning,Magical)"
+

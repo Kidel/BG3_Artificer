@@ -28,7 +28,7 @@ data "ValueOverride" "5000"
 data "ArmorClass" "17"
 data "Proficiency Group" "MediumArmor"
 data "PassivesOnEquip" "ARM_MagicalPlate_2_Passive;ARM_ExtraJolt_Bonus_Passive"
-data "Boosts" "IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth);UnlockSpell(Target_SteelDefenderOverdrive)"
+data "Boosts" "IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth);UnlockSpell(Target_SteelDefenderOverdrive);UnlockSpell(Target_BattleSmithCompanion_SteelWatch)"
 data "Unique" "1"
 
 new entry "ARM_Artificer_Armorer"
