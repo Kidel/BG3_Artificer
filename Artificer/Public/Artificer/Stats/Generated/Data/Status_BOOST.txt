@@ -1593,3 +1593,11 @@ data "StatusGroups" ""
 data "StatusEffect" ""
 data "ManagedStatusEffectType" ""
 data "ManagedStatusEffectGroup" ""
+
+
+new entry "BATTLESMITH_COMPANION"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Icon" "None"
+data "StatusPropertyFlags" "ApplyToDead;FreezeDuration;IgnoreResting;DisableCombatlog;DisablePortraitIndicator;DisableOverhead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"

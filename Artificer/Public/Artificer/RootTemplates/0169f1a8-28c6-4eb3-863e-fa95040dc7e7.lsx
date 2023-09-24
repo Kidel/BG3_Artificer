@@ -24,7 +24,7 @@
 					<attribute id="VocalBoredResourceID" type="FixedString" value="9083b899-a1ad-3fc0-e7ad-45b77df12d9b" />
 					<attribute id="VocalRelaxedResourceID" type="FixedString" value="606c53ba-0408-52af-189e-d2f5d5c6d53f" />
 					<attribute id="VocalExhaustedResourceID" type="FixedString" value="917dbf37-fd95-dea0-5eb5-1c82c023e0d8" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="5aa209a5-70eb-8b0a-74c3-6c55e1ebb131" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="7e80dd2a-19f6-4411-8a52-35c3878ef4c8" />
 					<attribute id="IsLootable" type="bool" value="False" />
 					<attribute id="DisableEquipping" type="bool" value="True" />
 					<attribute id="SwarmGroup" type="FixedString" value="" />

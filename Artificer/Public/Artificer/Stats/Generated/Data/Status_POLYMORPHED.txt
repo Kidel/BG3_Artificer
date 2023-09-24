@@ -15,15 +15,23 @@ data "Icon" "None"
 data "TemplateID" "18b54c47-dc24-47b7-89a8-cfdf72b32354"
 
 
+new entry "DISGUISE_SELF_OOZE"
+type "StatusData"
+using "DISGUISE_SELF_ELDRITCH_CANNON"
+data "Icon" "None"
+data "TemplateID" "1de5b868-e741-4a07-9ebe-7aad4bbb5869"
+
+
+// deprecated
+
 new entry "DISGUISE_SELF_BATTLESMITH_COMPANION"
 type "StatusData"
 using "DISGUISE_SELF_ELDRITCH_CANNON"
 data "Icon" "None"
 data "TemplateID" "0772990c-addc-4e52-80f3-8ef926ca7960"
 
-
-new entry "DISGUISE_SELF_OOZE"
+new entry "DISGUISE_SELF_BATTLESMITH_COMPANION_DOG"
 type "StatusData"
 using "DISGUISE_SELF_ELDRITCH_CANNON"
 data "Icon" "None"
-data "TemplateID" "1de5b868-e741-4a07-9ebe-7aad4bbb5869"
+data "TemplateID" "38d08e45-0e02-4d0f-b1ff-3f4f5d3365c4"

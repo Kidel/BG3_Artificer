@@ -13,10 +13,10 @@
 					<attribute id="VisualTemplate" type="FixedString" value="3773c64c-c5a9-9baf-1b85-6bee029ee044" />
 					<attribute id="DeathEffect" type="guid" value="eb0aa43b-fcdc-4ef2-548c-0ef60775834e" />
 					<attribute id="DisplayName" type="TranslatedString" handle="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1" />
-					<attribute id="Icon" type="FixedString" value="Portrait_Unknown" />
+					<attribute id="Icon" type="FixedString" value="bc9d0d73-430b-c54e-2219-6c473ab3a92b-EQP_Automaton_Halberd_(Icon_Automaton)" />
 					<attribute id="Stats" type="FixedString" value="Companion_BattleSmith_3" />
 					<attribute id="LevelOverride" type="int32" value="3" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="5aa209a5-70eb-8b0a-74c3-6c55e1ebb131" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="bc9d0d73-430b-c54e-2219-6c473ab3a92b" />
 					<attribute id="SpellSet" type="FixedString" value="ArtificerCompanionSummonActions" />
 					<children>
 						<node id="SkillList">
@@ -111,9 +111,6 @@
 								</node>
 								<node id="Status">
 									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE_CONSTRUCT_ARTIFICER" />
-								</node>
-								<node id="Status">
-									<attribute id="Object" type="FixedString" value="DISGUISE_SELF_BATTLESMITH_COMPANION" />
 								</node>
 							</children>
 						</node>
