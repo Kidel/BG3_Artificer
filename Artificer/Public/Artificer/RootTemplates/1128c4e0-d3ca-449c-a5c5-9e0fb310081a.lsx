@@ -18,7 +18,22 @@
 					<attribute id="LevelOverride" type="int32" value="3" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="bc9d0d73-430b-c54e-2219-6c473ab3a92b" />
 					<attribute id="SpellSet" type="FixedString" value="ArtificerCompanionSummonActions" />
+					<attribute id="Archetype" type="FixedString" value="melee" />
+					<attribute id="Race" type="guid" value="318e4b03-b7b6-4851-6da3-fb56f108aa46" />
 					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-43b9-e7751bfa41fa" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="6427d19c-0b93-4079-6fb7-47265094c581" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="22e5209c-eaeb-40dc-efb6-71a34179c210" />
+								</node>
+							</children>
+						</node>
 						<node id="SkillList">
 							<children>
 								<node id="Skill">

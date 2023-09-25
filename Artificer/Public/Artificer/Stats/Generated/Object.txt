@@ -111,12 +111,3 @@ data "Priority" "1"
 data "MinLevel" "1"
 data "ValueOverride" "1"
 
-
-new entry "BOOK_SteelWatch_Blueprints"
-type "Armor"
-using "OBJ_Book"
-data "RootTemplate" "000a329d-6efd-44e1-92a9-8a32f981fa0e"
-data "ObjectCategory" "BookScholar"
-data "ValueOverride" "3000"
-data "Rarity" "VeryRare"
-data "StatusInInventory" "ACTIVATE_STEEL_DEFENDER_MODEL"
