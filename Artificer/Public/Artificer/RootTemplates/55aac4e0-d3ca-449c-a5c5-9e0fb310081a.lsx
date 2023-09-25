@@ -5,26 +5,30 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="1128c4e0-d3ca-449c-a5c5-9e0fb310081a" />
-					<attribute id="Name" type="LSString" value="BM_WolfCompanion_Summon_CompanionsBond" />
+					<attribute id="MapKey" type="FixedString" value="55aac4e0-d3ca-449c-a5c5-9e0fb310081a" />
+					<attribute id="Scale" type="float" value="0.65" />
+					<attribute id="Name" type="LSString" value="BM_WolfCompanion_Summon_CompanionsBond_sw" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="9beee5c9-279e-49d8-a4a8-18f9ee0b1519" />
 					<attribute id="VisualTemplate" type="FixedString" value="3773c64c-c5a9-9baf-1b85-6bee029ee044" />
 					<attribute id="DeathEffect" type="guid" value="eb0aa43b-fcdc-4ef2-548c-0ef60775834e" />
-					<attribute id="DisplayName" type="TranslatedString" handle="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1" />
-					<attribute id="Icon" type="FixedString" value="bc9d0d73-430b-c54e-2219-6c473ab3a92b-EQP_Automaton_Halberd_(Icon_Automaton)" />
-					<attribute id="Stats" type="FixedString" value="Companion_BattleSmith_3" />
-					<attribute id="LevelOverride" type="int32" value="3" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="bc9d0d73-430b-c54e-2219-6c473ab3a92b" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4e91f783gd66bg40bcg807ag0a259f51737c" version="1" />
+					<attribute id="Icon" type="FixedString" value="99bbbe19-a70b-45c1-d778-498f7e420e90-EQP_SteelWatcher_HeavyCrossbow_(Icon_SteelWatcher_Biped)" />
+					<attribute id="Stats" type="FixedString" value="Companion_BattleSmith_15" />
+					<attribute id="LevelOverride" type="int32" value="15" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="99bbbe19-a70b-45c1-d778-498f7e420e90" />
 					<attribute id="SpellSet" type="FixedString" value="ArtificerCompanionSummonActions" />
 					<attribute id="Archetype" type="FixedString" value="melee" />
-					<attribute id="Race" type="guid" value="318e4b03-b7b6-4851-6da3-fb56f108aa46" />
+					<attribute id="Race" type="guid" value="37d3e534-02e1-4887-8ea9-9c0af9fcd6a8" />
 					<children>
 						<node id="Tags">
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-43b9-e7751bfa41fa" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="bc09a589-e076-4b2d-868b-ccf8b6cb4944" />
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="6427d19c-0b93-4079-6fb7-47265094c581" />

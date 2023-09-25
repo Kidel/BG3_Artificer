@@ -125,3 +125,13 @@ data "Boosts" "UnlockSpell(Target_OncePerShortRest_CreateUndead);Resistance(Necr
 data "StatusInInventory" "FLAG_SOUL_OF_ARTIFICE"
 
 
+
+new entry "BOOK_SteelWatch_Blueprints"
+type "Armor"
+using "_Toys"
+data "RootTemplate" "000a329d-6efd-44e1-92a9-8a32f981fa0e"
+data "ObjectCategory" "BookScholar"
+data "ValueOverride" "3000"
+data "Rarity" "VeryRare"
+data "StatusInInventory" "ACTIVATE_STEEL_DEFENDER_MODEL"
+data "Unique" "1"

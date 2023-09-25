@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="8" build="402" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="000a329d-6efd-44e1-92a9-8a32f981fa0e" />
+					<attribute id="Name" type="LSString" value="BOOK_SteelWatch_Blueprints" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1ac45157-d063-4314-8832-c50062a885dd" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="VisualTemplate" type="FixedString" value="916f78a4-779b-3e43-28eb-eefc26d9683d" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="a89e6faf-7c71-8ec4-7df5-23a739f455db" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h778820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_BOOK_GEN_Scroll_Parchment_A_Close" />
+					<attribute id="Stats" type="FixedString" value="BOOK_SteelWatch_Blueprints" />
+					<attribute id="Description" type="TranslatedString" handle="h778920e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.2753707 0.001044631 -0.4160153" />
+									<attribute id="Max" type="fvec3" value="0.2753707 0.6624097 0.08334029" />
+									<attribute id="Radius" type="float" value="0.2487564" />
+									<attribute id="Height" type="float" value="0.6613651" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.2753707 0.001044631 -0.4160153" />
+									<attribute id="Max" type="fvec3" value="0.2753707 0.6624097 0.08334029" />
+									<attribute id="Radius" type="float" value="0.2487564" />
+									<attribute id="Height" type="float" value="0.6613651" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1376854 0.001044631 -0.2080076" />
+									<attribute id="Max" type="fvec3" value="0.1376854 0.6624097 0.04167014" />
+									<attribute id="Radius" type="float" value="0.1243782" />
+									<attribute id="Height" type="float" value="0.6613651" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -37,4 +37,5 @@ new subtable "1,1"
 object category "I_UNI_ArtificerHammer",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_UNI_ArtificerHammer_Leg",1,0,0,0,0,0,0,0
-
+new subtable "1,1"
+object category "I_BOOK_SteelWatch_Blueprints",1,0,0,0,0,0,0,0
