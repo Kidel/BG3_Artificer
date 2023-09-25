@@ -83,6 +83,7 @@ data "PassivesOnEquip" "UNI_ArtificerHammer_Passive;UNI_ArtificerHammer_Passive_
 data "Weapon Properties" "Thrown;Melee;Dippable;Versatile"
 data "Proficiency Group" "Warhammers;MartialWeapons"
 data "ObjectCategory" "MagicWeapons"
+data "ValueOverride" "4000"
 data "Unique" "1"
 
 new entry "UNI_ArtificerHammer_Leg"
@@ -101,4 +102,5 @@ data "PassivesOnEquip" "UNI_ArtificerHammer_Passive;UNI_ArtificerHammer_Passive_
 data "Weapon Properties" "Thrown;Melee;Dippable;Versatile"
 data "Proficiency Group" "Warhammers;MartialWeapons"
 data "ObjectCategory" "MagicWeapons"
+data "ValueOverride" "8000"
 data "Unique" "1"
