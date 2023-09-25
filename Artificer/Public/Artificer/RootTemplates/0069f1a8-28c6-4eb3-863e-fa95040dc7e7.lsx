@@ -28,11 +28,11 @@
 					<attribute id="IsLootable" type="bool" value="False" />
 					<attribute id="DisableEquipping" type="bool" value="True" />
 					<attribute id="SwarmGroup" type="FixedString" value="" />
-					<attribute id="BloodType" type="FixedString" value="" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
 					<attribute id="LightChannel" type="uint8" value="5" />
 					<attribute id="Archetype" type="FixedString" value="ranged" />
-					<attribute id="Race" type="guid" value="318e4b03-b7b6-4851-6da3-fb56f108aa46" />
+					<attribute id="Race" type="guid" value="959e884c-d96c-4f09-ea91-4ae9355871bf" />
+					<attribute id="BloodType" type="FixedString" value="" />
 					<children>
 						<node id="Tags">
 							<children>

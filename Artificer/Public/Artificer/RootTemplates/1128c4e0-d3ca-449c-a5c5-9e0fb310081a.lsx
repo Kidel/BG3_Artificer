@@ -20,6 +20,15 @@
 					<attribute id="SpellSet" type="FixedString" value="ArtificerCompanionSummonActions" />
 					<attribute id="Archetype" type="FixedString" value="melee" />
 					<attribute id="Race" type="guid" value="318e4b03-b7b6-4851-6da3-fb56f108aa46" />
+					<attribute id="VocalDeathResourceID" type="FixedString" value="" />
+					<attribute id="VocalPainResourceID" type="FixedString" value="" />
+					<attribute id="VocalVictoryResourceID" type="FixedString" value="" />
+					<attribute id="VocalExhaustedResourceID" type="FixedString" value="" />
+					<attribute id="VocalDodgeResourceID" type="FixedString" value="" />
+					<attribute id="VocalAngryResourceID" type="FixedString" value="" />
+					<attribute id="VocalRelaxedResourceID" type="FixedString" value="" />
+					<attribute id="VocalInitiativeResourceID" type="FixedString" value="" />
+					<attribute id="BloodType" type="FixedString" value="" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -31,6 +40,34 @@
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="22e5209c-eaeb-40dc-efb6-71a34179c210" />
+								</node>
+							</children>
+						</node>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Min" type="fvec3" value="-0.40751 -0.00135875 -0.1058585" />
+									<attribute id="Max" type="fvec3" value="0.40751 1.93354 0.0630085" />
+									<attribute id="Radius" type="float" value="0.249" />
+									<attribute id="Height" type="float" value="2.5" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+									<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+									<attribute id="Radius" type="float" value="0.2" />
+									<attribute id="Height" type="float" value="2.5" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+									<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+									<attribute id="Radius" type="float" value="0.499" />
+									<attribute id="Height" type="float" value="2.5" />
 								</node>
 							</children>
 						</node>
@@ -130,6 +167,38 @@
 							</children>
 						</node>
 						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="00efc7b5-aa56-44d2-f282-f3ef450e1e1e" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="FootStepInfos">
+							<children>
+								<node id="FootStepInfo">
+									<attribute id="Name" type="LSString" value="Footstep_L" />
+									<attribute id="FootPrintEffectName" type="LSString" value="VFX_Characters_FootStep_Human_L_Foot_01" />
+									<attribute id="FootSmearEffectName" type="LSString" value="VFX_Characters_FootSmear_Human_L_Foot_01" />
+									<attribute id="FootSlideEffectName" type="LSString" value="" />
+									<attribute id="FootHearingEffectName" type="LSString" value="" />
+									<attribute id="FootBoneName" type="FixedString" value="Dummy_L_Foot_01" />
+									<attribute id="FootSoundEventName" type="FixedString" value="Movement_Footstep_L" />
+									<attribute id="FootScuffEventName" type="FixedString" value="Movement_Scuff" />
+								</node>
+								<node id="FootStepInfo">
+									<attribute id="Name" type="LSString" value="Footstep_R" />
+									<attribute id="FootPrintEffectName" type="LSString" value="VFX_Characters_FootStep_Human_L_Foot_01" />
+									<attribute id="FootSmearEffectName" type="LSString" value="VFX_Characters_FootSmear_Human_L_Foot_01" />
+									<attribute id="FootSlideEffectName" type="LSString" value="" />
+									<attribute id="FootHearingEffectName" type="LSString" value="" />
+									<attribute id="FootBoneName" type="FixedString" value="Dummy_R_Foot_01" />
+									<attribute id="FootSoundEventName" type="FixedString" value="Movement_Footstep_R" />
+									<attribute id="FootScuffEventName" type="FixedString" value="Movement_Scuff" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 			</children>

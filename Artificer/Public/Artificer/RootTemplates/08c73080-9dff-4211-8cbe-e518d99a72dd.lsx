@@ -13,8 +13,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="f70a73e6-4e7f-4c80-9c18-4fd7d6837628" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h4e91f783gd66bg40bcg807ag0a259f51737c" version="2" />
 					<attribute id="Icon" type="FixedString" value="99bbbe19-a70b-45c1-d778-498f7e420e90-EQP_SteelWatcher_HeavyCrossbow_(Icon_SteelWatcher_Biped)" />
-					<attribute id="Stats" type="FixedString" value="Steel_Watcher_Biped" />
-					<attribute id="Equipment" type="FixedString" value="EQP_SteelWatcher_Greatsword_B" />
+					<attribute id="Stats" type="FixedString" value="Companion_BattleSmith_3" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="4287973c-8320-27a2-fbdb-280c5fe56f21" />
 					<attribute id="ExplosionFX" type="FixedString" value="VFX_Enemies_Steelwatcher_Biped_SelfDestruct_Explosion_Impact_01" />
 					<attribute id="LevelOverride" type="int32" value="11" />
@@ -23,21 +22,18 @@
 					<attribute id="InventoryType" type="uint8" value="41" />
 					<attribute id="Race" type="guid" value="37d3e534-02e1-4887-8ea9-9c0af9fcd6a8" />
 					<attribute id="Faction" type="guid" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Archetype" type="FixedString" value="steel_watcher_biped" />
+					<attribute id="Archetype" type="FixedString" value="melee" />
 					<children>
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="bc09a589-e076-4b2d-868b-ccf8b6cb4944" />
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="53c3304c-032d-4c49-df86-b3003ab0136b" />
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="abadcad5-9229-4999-7a8c-55cdf27f5cc9" />
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-43b9-e7751bfa41fa" />
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="6427d19c-0b93-4079-6fb7-47265094c581" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="22e5209c-eaeb-40dc-efb6-71a34179c210" />
 								</node>
 							</children>
 						</node>
@@ -228,19 +224,7 @@
 								</node>
 							</children>
 						</node>
-						<node id="StatusList">
-							<children>
-								<node id="Status">
-									<attribute id="Object" type="FixedString" value="STEELWATCHER_OVERRIDE_MHA" />
-								</node>
-								<node id="Status">
-									<attribute id="Object" type="FixedString" value="STEELWATCHER_BIPED_SELFDESTRUCT_BEGIN_TECHNICAL" />
-								</node>
-								<node id="Status">
-									<attribute id="Object" type="FixedString" value="STEELWATCHER_GUARD_TAG" />
-								</node>
-							</children>
-						</node>
+						
 						<node id="FootStepInfos">
 							<children>
 								<node id="FootStepInfo">
