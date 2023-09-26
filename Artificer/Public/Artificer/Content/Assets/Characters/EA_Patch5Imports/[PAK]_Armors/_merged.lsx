@@ -2470,11 +2470,681 @@
 
 
 
+				Monocle
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0001ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HUM_M_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0002ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HUM_F_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Humans/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0003ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTY_M_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Githyanki/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Githyanki/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0004ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTY_F_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
 
 
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0005ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DWR_M_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dwarves/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dwarves/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0006ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DWR_F_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dwarves/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dwarves/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0007ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="TIF_M_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Tieflings/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Tieflings/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0008ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="TIF_F_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Tieflings/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Tieflings/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
 
 
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0009ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HAL_M_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Halflings/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Halflings/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
 
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0010ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HAL_F_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Halflings/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Halflings/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0011ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GNO_M_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Gnomes/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Gnomes/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0012ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GNO_F_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Gnomes/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Gnomes/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0013ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Dragonborn_M_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0014ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Dragonborn_F_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Dragonborn/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
 
 
 
@@ -2482,61 +3152,145 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.6959962 1.747785 0.1551547" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.6989867 0.3868456 -0.1758956" />
-					<attribute id="Center" type="fvec3" value="-0.001495272 1.067315 -0.01037043" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="717ecdca-5cc6-41a4-9862-9592ad6873e7" />
-					<attribute id="Initialized" type="bool" value="True" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="MaterialType" type="uint8" value="32" />
-					<attribute id="Name" type="LSString" value="HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body_AMX_1" />
+					<attribute id="ID" type="FixedString" value="0015ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HalfOrcs_M_CLT_Headwear_Caretaker_Monocle" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
-					<attribute id="Radius" type="float" value="0.9883986" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
-					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/_Male/Resources/HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body.GR2" />
-					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/_Male/Resources/HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body.Dummy_Root.0" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/HalfOrcs/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/HalfOrcs/_Male/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
 					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
 						</node>
-						<node id="Base" />
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="24dd95a5-5a3f-ef44-1a3d-35ee9de0b43e" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body.HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body_Mesh.0" />
-							<attribute id="Physics" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
 						</node>
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="24dd95a5-5a3f-ef44-1a3d-35ee9de0b43e" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body.HUM_M_ARM_Laezel_Githyanki_HalfPlate_A_Body_Mesh_LOD1.1" />
-							<attribute id="Physics" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Torso" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="decolletage_02" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
 						</node>
 					</children>
-				</node>		
+				</node>
 
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0016ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HalfOrcs_F_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/HalfOrcs/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/HalfOrcs/_Female/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08759451 1.894573 0.0878928" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07872506 1.764606 -0.121873" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0017ee8b-2a13-fb7b-7318-ac8b3f66aace" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="TIF_FS_CLT_Headwear_Caretaker_Monocle" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Artificer/Assets/Characters/_Models/Tieflings/_FemaleStrong/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Artificer/Assets/Characters/_Models/Tieflings/_FemaleStrong/Resources/GTY_M_CLT_Headwear_Caretaker_Monocle.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="865346be-5d02-df18-0201-18efd8689ae2" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Glass_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="34201dcb-f7ad-b632-7bc1-acd00140d44d" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_M_CLT_Headwear_Caretaker_Monocle.GTY_M_CLT_Headwear_Caretaker_Monocle_Mesh.1" />
+						</node>
+					</children>
+				</node>
 
 
             </children>

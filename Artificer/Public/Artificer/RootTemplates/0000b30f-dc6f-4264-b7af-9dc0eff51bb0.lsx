@@ -64,34 +64,34 @@
 								<node id="Visuals">
 									<children>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-3ba1-ac2c98f3055d" />
+											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-3ba1-ac2c98f3055d" /> Human Male
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0001ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-1fb7-1a911969587f" />
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-1fb7-1a911969587f" /> Human Female
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0002ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="6503c830-9200-409a-26bd-578958384a7a" />
+											<attribute id="MapKey" type="guid" value="6503c830-9200-409a-26bd-578958384a7a" /> Tiefling Male
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0007ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-aa86-0409c619a524" />
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-aa86-0409c619a524" /> Tiefling Female
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0008ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
@@ -99,7 +99,7 @@
 											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-49a0-e970236b1bd5" /> Gith M
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0003ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
@@ -107,87 +107,90 @@
 											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-00ac-8eb0a513fab0" /> Gith F
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0004ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-e0ad-5412f629839f" />
+											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-e0ad-5412f629839f" /> Dwarf Male
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0005ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8684-8f9347e14921" />
+											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8684-8f9347e14921" /> Dwarf Female
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0006ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="a933e2a8-aee1-4ecb-d280-478f06b724f0" />
+											<attribute id="MapKey" type="guid" value="a933e2a8-aee1-4ecb-d280-478f06b724f0" /> Halfling Male
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0009ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="8f00cf38-4588-433a-7581-cd8af3bb333f" />
+											<attribute id="MapKey" type="guid" value="8f00cf38-4588-433a-7581-cd8af3bb333f" /> Halfling Female
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0010ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="5640e766-aa53-428d-5b81-0b6af94eca5a" />
+											<attribute id="MapKey" type="guid" value="5640e766-aa53-428d-5b81-0b6af94eca5a" /> Gnome Male
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0011ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="c491d027-4332-4fda-8f94-3d4a77f6aa2b" />
+											<attribute id="MapKey" type="guid" value="c491d027-4332-4fda-8f94-3d4a77f6aa2b" /> Gnome Female
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0012ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-c5ba-15ff6e699764" />
+											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-c5ba-15ff6e699764" /> Dragonborn Male
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0013ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
+
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="eb81b1de-985e-4e3a-7385-17571fdc5ca1" />
+											<attribute id="MapKey" type="guid" value="6dd3db4f-e2db-4097-2eb8-f312f9792e4c" /> HRC_M
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0015ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
+
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="6dd3db4f-e2db-4097-2eb8-f312f9792e4c" />
+											<attribute id="MapKey" type="guid" value="eb81b1de-985e-4e3a-7385-17571fdc5ca1" /> HRC_F
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0016ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
+										
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-3aa5-8b369b654ac0" />
+											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-3aa5-8b369b654ac0" /> Tieflings _FemaleStrong
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
+													<attribute id="Object" type="FixedString" value="0017ee8b-2a13-fb7b-7318-ac8b3f66aace" />
 												</node>
 											</children>
 										</node>
@@ -218,12 +221,12 @@
 											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-c5ba-15ff6e699764" />
+											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-c5ba-15ff6e699764" /> Dragonborn M
 											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-859b-8037a7168ea7" />
-											<attribute id="MapValue" type="guid" value="9a8bbeba-850c-402f-c5ba-15ff6e699764" />
+											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-859b-8037a7168ea7" /> Dragonborn F
+											<attribute id="MapValue" type="guid" value="9a8bbeba-850c-402f-c5ba-15ff6e699764" /> Dragonborn M
 										</node>
 										<node id="Object">
 											<attribute id="MapKey" type="guid" value="eb81b1de-985e-4e3a-7385-17571fdc5ca1" />
