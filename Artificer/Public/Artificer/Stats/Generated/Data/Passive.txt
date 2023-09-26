@@ -109,10 +109,10 @@ type "PassiveData"
 data "DisplayName" "h4d740fa9g3b35g4011ga4d0g6a00e076ca21"
 data "Description" "h99fef735gf7bcg4fa4gbec8g8a8500cd5f69"
 data "Icon" "Passive_ArcaneFirearm"
-data "Properties" "OncePerAttack;Highlighted"
+data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnDamage"
 data "Conditions" "IsSpell() and not SpellId('Target_Artificer_ArcaneFirearm_Damage')"
-data "StatsFunctors" "ApplyStatus(ARCANE_FIREARM_TARGETED, 100, 0);"
+data "StatsFunctors" "ApplyStatus(SELF, ARCANE_FIREARM_ENABLED, 100, 1);ApplyStatus(ARCANE_FIREARM_TARGETED, 100, 1);"
 
 
 new entry "AuraOfArtificer_Technical"

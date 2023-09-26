@@ -854,14 +854,13 @@ data "Icon" "Passive_ArcaneFirearm"
 data "StackId" "ARCANE_FIREARM_ENABLED"
 data "StackType" "Overwrite"
 data "TickType" "EndTurn"
-data "Boosts" "UnlockSpell(Target_Artificer_ArcaneFirearm_Damage)"
+data "Boosts" "UnlockSpell(Target_Artificer_ArcaneFirearm_Damage);UnlockSpellVariant(SpellId('Target_Artificer_ArcaneFirearm_Damage'),ModifyIconGlow())"
 data "RemoveConditions" "SpellId('Target_Artificer_ArcaneFirearm_Damage')"
 data "OnRemoveFunctors" ""
 data "RemoveEvents" "OnSpellCast"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "e062357a-3c20-4dea-96a5-119b17eb9044"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
-
 
 new entry "ARCANE_FIREARM_TARGETED"
 type "StatusData"
@@ -870,11 +869,13 @@ data "DisplayName" "h4d740fa9g3b35g4011ga4d0g6a00e076ca21"
 data "Description" ""
 data "Icon" "Passive_ArcaneFirearm"
 data "StackId" "ARCANE_FIREARM_TARGETED"
-data "Unique" "1"
-data "StatusPropertyFlags" "DisableCombatlog;DisablePortraitIndicator"
-data "OnApplyFunctors" "CreateExplosion(Projectile_ArcaneFirearm_Explosion)"
+data "RemoveConditions" "HasStatus('ARCANE_FIREARM_TARGETED_OVERRIDE')"
+data "RemoveEvents" "OnStatusApplied"
+data "StackType" "Overwrite"
+data "TickType" "EndTurn"
+data "Properties" "IsHidden"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
-// deprecated
 
 new entry "ARCANE_FIREARM_TARGETED_OVERRIDE"
 type "StatusData"
@@ -898,7 +899,6 @@ data "SoundLoop" ""
 data "Properties" "IsHidden"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
-// end deprecated
 
 
 new entry "ARCANE_JOLT_RESOURCE"
