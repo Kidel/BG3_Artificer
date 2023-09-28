@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="9" build="0" />
 	<region id="VisualBank">
 		<node id="VisualBank">
-            <children>
-
+			<children>
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -62,14 +61,12 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Torso" />
 						</node>
-						
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="upperarm" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -84,8 +81,7 @@
 						</node>
 					</children>
 				</node>
-				
-                <node id="Resource">
+				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
@@ -142,14 +138,12 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Torso" />
 						</node>
-						
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="upperarm" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -164,8 +158,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -223,14 +215,12 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Torso" />
 						</node>
-						
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="upperarm" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -245,8 +235,6 @@
 						</node>
 					</children>
 				</node>
-
-				
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -551,7 +539,6 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="upperarm" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_01" />
 						</node>
@@ -572,9 +559,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -660,7 +644,6 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="upperarm" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
@@ -681,31 +664,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
-
-
-
-
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -1049,9 +1007,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -1380,7 +1335,6 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -1398,8 +1352,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -1477,10 +1429,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -1569,7 +1517,6 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -1587,8 +1534,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -1652,7 +1597,6 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -1667,10 +1611,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -1759,7 +1699,6 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -1777,8 +1716,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -1842,7 +1779,6 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -1857,8 +1793,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -1947,7 +1881,6 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -1965,8 +1898,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2030,7 +1961,6 @@
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="decolletage_02" />
 						</node>
-
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Shoulders" />
 						</node>
@@ -2045,71 +1975,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				Scarf 
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2161,8 +2026,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2219,8 +2082,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2277,10 +2138,6 @@
 						</node>
 					</children>
 				</node>
-
-				Replacement shirts 
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2340,9 +2197,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2399,8 +2253,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2460,18 +2312,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
-
-
-
-
-
-
-
-				Monocle
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2519,7 +2359,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2567,7 +2406,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2615,7 +2453,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2663,8 +2500,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2712,7 +2547,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2760,7 +2594,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2808,7 +2641,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2856,8 +2688,6 @@
 						</node>
 					</children>
 				</node>
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2905,7 +2735,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -2953,7 +2782,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -3001,7 +2829,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -3049,7 +2876,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -3097,7 +2923,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -3145,9 +2970,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -3195,7 +3017,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -3243,7 +3064,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -3291,9 +3111,7 @@
 						</node>
 					</children>
 				</node>
-
-
-            </children>
-        </node>
-    </region>
+			</children>
+		</node>
+	</region>
 </save>

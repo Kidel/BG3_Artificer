@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="327" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects"> Blacksmith Outfit
+					<attribute id="Description" type="TranslatedString" handle="h7a37366fgb92ag4763gbe95gcb12472b3973" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hab2b0095g72d4g4c4cg9eedge617f63eb57d" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_TOOL_GEN_Hammer_Repair_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="000dd14e-eecd-40e2-bfec-af2e6e6bb60a" /> 
+					<attribute id="Name" type="LSString" value="OBJ_Tool_Artificer_Hammer_Craft" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="b78fabcc-d2df-4c74-b5d4-1eda6dc4c071" /> Points to ARM_Hide
+					<attribute id="Stats" type="FixedString" value="OBJ_Tool_Artificer_Hammer_Craft" /> 
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<attribute id="VisualTemplate" type="FixedString" value="d0360d6a-1bef-c0a8-9518-4b43fe9006d2" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="652c095f-9b05-5bd4-3ec3-1ffcde9b8139" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h77770ee8g980fg4327ga0e9g46dd7368310e" version="1" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="23" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="CombineSlots" type="int8" value="3" />
+											<attribute id="IsBase" type="bool" value="True" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						
+						<node id="GameMaster" />
+					</children>
+				</node>	
+			</children>
+		</node>
+	</region>
+</save>

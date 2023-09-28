@@ -9,15 +9,15 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="heecbcd55ged1dg4a44gaf30g3614ba7c5788" version="1" />
 					<attribute id="Icon" type="FixedString" value="Armor_WorkerArmor" /> 
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="000dd14e-eecd-40e2-bfec-af2e6e6bb600" /> 
-					<attribute id="Name" type="LSString" value="ARM_Artificer_BlacksmithOutfit" /> 
+					<attribute id="MapKey" type="FixedString" value="000dd14e-eecd-40e2-bfec-af2e6e6bb602" /> 
+					<attribute id="Name" type="LSString" value="ARM_Artificer_BlacksmithOutfit_Rare" /> 
 					<attribute id="ParentTemplateId" type="FixedString" value="b78fabcc-d2df-4c74-b5d4-1eda6dc4c071" /> Points to ARM_Hide
-					<attribute id="Stats" type="FixedString" value="ARM_Artificer_BlacksmithOutfit" /> 
+					<attribute id="Stats" type="FixedString" value="ARM_Artificer_BlacksmithOutfit_Rare" /> 
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
 					<attribute id="VisualTemplate" type="FixedString" value="69695a73-454f-955d-6452-d82d45a6efc7" />
 					<children>
-
+						
 						<node id="Equipment">
 							<attribute id="EquipmentSlots" type="uint32" value="2" />
 							<attribute id="VisualSetSlot" type="uint32" value="0" />
