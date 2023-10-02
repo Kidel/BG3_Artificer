@@ -22,6 +22,16 @@ object category "I_ARM_Artificer_BlacksmithOutfit",1,0,0,0,0,0,0,0
 new treasuretable "LOW_Guildhall_FetchersBrat_Trade"
 CanMerge 1
 new subtable "1,1"
+object category "I_BOOK_SteelWatch_Blueprints",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MurderTribunal_Merchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_BOOK_SteelWatch_Blueprints",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_OrinsImpersonation_Smith"
+CanMerge 1
+new subtable "1,1"
 object category "I_ARM_Artificer_RingMail_Body",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Artificer_BlacksmithOutfit",1,0,0,0,0,0,0,0
@@ -37,5 +47,3 @@ new subtable "1,1"
 object category "I_UNI_ArtificerHammer",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_UNI_ArtificerHammer_Leg",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_BOOK_SteelWatch_Blueprints",1,0,0,0,0,0,0,0
