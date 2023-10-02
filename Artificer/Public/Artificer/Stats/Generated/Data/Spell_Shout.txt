@@ -436,7 +436,7 @@ data "SpellContainerID" "Shout_ChemicalMastery"
 data "RequirementConditions" "StatusGroupDurationEqualOrMoreThan(context.Source,'ADEPT_MATERIAL_RESOURCE_STACK',2)"
 data "TooltipPermanentWarnings" "h27112faag16e8g4399g8efbgc2af8304f248"
 data "SpellProperties" "ApplyStatus(ADEPT_MATERIAL_RESOURCE_STACK_REMOVE_DOUBLE, 100, 1);SummonInInventory(a6015724-3ee4-4398-b157-a33b1024a7d4,Permanent,1,false,false,false,,,,ADEPT_MATERIAL_RESOURCE_LOOTED)"
-data "DisplayName" "h96c12904g14a3g4504ga835g6ca6bfec5e36 "
+data "DisplayName" "h96c12904g14a3g4504ga835g6ca6bfec5e36"
 data "Description" "haae311ceg47e8g43d2ga72eg9b00a2e4f3cd"
 data "Icon" "Item_ALCH_Extract_ShadowrootSac"
 
