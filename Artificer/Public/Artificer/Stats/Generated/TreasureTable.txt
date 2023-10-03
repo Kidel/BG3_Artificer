@@ -11,6 +11,8 @@ new subtable "1,1"
 object category "I_ARM_Artificer_RingMail_Body",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Artificer_BlacksmithOutfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_SteampunkMonocle",1,0,0,0,0,0,0,0
 
 new treasuretable "HAV_HarperQuarterMaster"
 CanMerge 1
@@ -18,6 +20,8 @@ new subtable "1,1"
 object category "I_ARM_Artificer_RingMail_Body",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Artificer_BlacksmithOutfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_SteampunkMonocle",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_Guildhall_FetchersBrat_Trade"
 CanMerge 1
@@ -47,3 +51,7 @@ new subtable "1,1"
 object category "I_UNI_ArtificerHammer",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_UNI_ArtificerHammer_Leg",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_SteampunkMonocle",1,0,0,0,0,0,0,0
+
+
