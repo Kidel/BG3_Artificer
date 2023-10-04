@@ -11,18 +11,19 @@ data "ValueOverride" "1"
 data "Weight" "0.9"
 data "Slot" "Ranged Main Weapon"
 data "Projectile" "348013df-7958-4ca9-ac9f-80337e054bee"
-data "BoostsOnEquipMainHand" "Proficiency(Firearms);UnlockSpell(Target_FalseLife_Tiny_EldritchCannon);UnlockSpell(Projectile_Artillerist_MagicMissile_Shot_Tiny);UnlockSpell(Zone_BurningHands_Tiny_EldritchCannon);ELDRITCH_CANNON_TINY_ATTACK_OVERRIDE_1"
+data "BoostsOnEquipMainHand" "Proficiency(Firearms);UnlockSpell(Target_FalseLife_Tiny_EldritchCannon);UnlockSpell(Projectile_Artillerist_MagicMissile_Shot_Tiny);UnlockSpell(Zone_BurningHands_Tiny_EldritchCannon)"
 data "Weapon Group" "MartialRangedWeapon"
 data "Weapon Properties" "Ammunition;Loading;Light;Magical"
 data "Proficiency Group" "Firearms"
-
+data "DefaultBoosts" "WeaponProperty(Magical);WeaponAttackRollAbilityOverride(Intelligence)"
+data "StatusOnEquip" "ELDRITCH_CANNON_TINY_ATTACK_OVERRIDE_1"
 
 new entry "WPN_Artillerist_Eldritch_Cannon_2"
 type "Weapon"
 using "WPN_Artillerist_Eldritch_Cannon"
 data "RootTemplate" "778badfb-ec7c-441a-9dd8-b4a2392d29c2"
 data "BoostsOnEquipMainHand" "Proficiency(Firearms);UnlockSpell(Target_FalseLife_Tiny_EldritchCannon);UnlockSpell(Projectile_Artillerist_MagicMissile_Shot_2_Tiny);UnlockSpell(Zone_BurningHands_2_Tiny_EldritchCannon)"
-
+data "StatusOnEquip" "ELDRITCH_CANNON_TINY_ATTACK_OVERRIDE_1"
 
 new entry "WPN_Artillerist_Eldritch_Cannon_2h"
 type "Weapon"
@@ -40,6 +41,8 @@ data "BoostsOnEquipMainHand" "Proficiency(Firearms);UnlockSpell(Target_FalseLife
 data "Weapon Group" "MartialRangedWeapon"
 data "Weapon Properties" "Ammunition;Loading;Twohanded;Magical;Unstowable"
 data "Proficiency Group" "Firearms"
+data "DefaultBoosts" "WeaponProperty(Magical)"
+data "StatusOnEquip" "ELDRITCH_CANNON_TINY_ATTACK_OVERRIDE_3"
 
 
 new entry "WPN_Armorer_Gauntlets_Guardian_Right"
