@@ -22,7 +22,7 @@ data "SpellType" "Projectile"
 using "Projectile_OffhandAttack"
 data "Trajectories" "3eaf2c46-46a9-4b52-8e05-fae7dc4e548b"
 data "Icon" "PassiveFeature_RepellingBlast"
-data "DisplayName" "2226e61e8g9b89g4f30gb649gb3a97346a443;1"
+data "DisplayName" "2226e61e8g9b89g4f30gb649gb3a97346a444;1"
 data "Description" "2236e61e8g9b89g4f30gb649gb3a97346a443;1"
 data "PrepareSound" "Spell_Prepare_Damage_Force_Gen_L1to3"
 data "PrepareLoopSound" "Spell_Prepare_Damage_Force_Gen_L1to3_Loop"
@@ -54,6 +54,36 @@ data "SpellType" "Projectile"
 using "Projectile_Artillerist_MagicMissile_Shot_Tiny"
 data "SpellSuccess" "DealDamage(max(1,4d8+ProficiencyBonus),Force,Magical);Force(5, OriginToTarget)"
 data "TooltipDamageList" "DealDamage(4d8+ProficiencyBonus,Force)"
+
+
+// renames
+
+new entry "Force Ballista"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_Artillerist_MagicMissile_Shot_Tiny"
+
+new entry "Force Ballista Level 2"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_Artillerist_MagicMissile_Shot_2_Tiny"
+
+new entry "Force Ballista - OffHand"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_Artillerist_MagicMissile_Shot_Tiny_Offhand"
+
+new entry "Force Ballista Level 2 - OffHand"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_Artillerist_MagicMissile_Shot_2_Tiny_Offhand"
+
+new entry "Force Ballista Level 3"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_Artillerist_MagicMissile_Shot_Rifle"
+
+// end renames
 
 
 new entry "Projectile_MainHandAttack_NoOffhand_ForGun"
