@@ -13,13 +13,13 @@
 					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="VisualTemplate" type="FixedString" value="cf2dee8b-2a13-fb7b-7318-ac8b3f66aace" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="2e1a42e4-0d6a-afd1-adbb-5c978f90ce58" />
-					<attribute id="DisplayName" type="TranslatedString" handle="TODO" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h12310ee8g980fg4327ga0e9g46dd7368310e" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h12315ee8g980fg4327ga0e9g46dd7368310e" version="1" />
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="WalkThrough" type="bool" value="True" />
 					<attribute id="Icon" type="FixedString" value="TODO" />
 					<attribute id="Stats" type="FixedString" value="ARM_SteampunkMonocle" />
 					<attribute id="Tooltip" type="uint8" value="2" />
-					<attribute id="Description" type="TranslatedString" handle="TODO" version="1" />
 					<children>
 						<node id="Bounds">
 							<children>

@@ -96,10 +96,10 @@ new entry "ARM_SteampunkMonocle"
 type "Armor"
 using "_Head_Magic_Circlet"
 data "RootTemplate" "0000b30f-dc6f-4264-b7af-9dc0eff51bb0"
-data "ValueLevel" "6"
-data "ValueUUID" "a229f048-70b0-4b0c-88cb-29b5c6bdb2d0"
+data "ValueOverride" "500"
 data "Rarity" "Rare"
-data "Boosts" "AbilityOverrideMinimum(Intelligence,19)"
+data "Boosts" ""
+data "PassivesOnEquip" "DevilsSight"
 
 
 
