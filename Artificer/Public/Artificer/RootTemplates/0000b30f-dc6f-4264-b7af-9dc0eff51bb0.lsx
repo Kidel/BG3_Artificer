@@ -17,7 +17,7 @@
 					<attribute id="Description" type="TranslatedString" handle="h12315ee8g980fg4327ga0e9g46dd7368310e" version="1" />
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="WalkThrough" type="bool" value="True" />
-					<attribute id="Icon" type="FixedString" value="TODO" />
+					<attribute id="Icon" type="FixedString" value="Armor_Monocle_Artificer" />
 					<attribute id="Stats" type="FixedString" value="ARM_SteampunkMonocle" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<children>

@@ -98,7 +98,7 @@ using "_Head_Magic_Circlet"
 data "RootTemplate" "0000b30f-dc6f-4264-b7af-9dc0eff51bb0"
 data "ValueOverride" "500"
 data "Rarity" "Rare"
-data "Boosts" ""
+data "Boosts" "Advantage(Skill,Perception)"
 data "PassivesOnEquip" "DevilsSight"
 
 
