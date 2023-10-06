@@ -13,6 +13,8 @@ new subtable "1,1"
 object category "I_ARM_Artificer_BlacksmithOutfit",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_SteampunkMonocle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
 
 new treasuretable "HAV_HarperQuarterMaster"
 CanMerge 1
@@ -22,6 +24,8 @@ new subtable "1,1"
 object category "I_ARM_Artificer_BlacksmithOutfit",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_SteampunkMonocle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_Guildhall_FetchersBrat_Trade"
 CanMerge 1
@@ -32,6 +36,8 @@ new treasuretable "LOW_MurderTribunal_Merchant"
 CanMerge 1
 new subtable "1,1"
 object category "I_BOOK_SteelWatch_Blueprints",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_OrinsImpersonation_Smith"
 CanMerge 1
@@ -53,5 +59,7 @@ new subtable "1,1"
 object category "I_UNI_ArtificerHammer_Leg",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_SteampunkMonocle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
 
 

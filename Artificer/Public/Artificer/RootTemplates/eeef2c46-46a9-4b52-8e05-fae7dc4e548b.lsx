@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="407" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="NeedsImpactSFX" type="bool" value="True" />
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
+					<attribute id="CastShadow" type="bool" value="False" />
+					<attribute id="DetachBeam" type="bool" value="True" />
+					<attribute id="Flag" type="int32" value="0" />
+
+					<attribute id="TrajectoryType" type="uint8" value="1" />
+					
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Projectiles_BrandingSmite_Radiant_Impact_01" />
+					<attribute id="GroundImpactFX" type="LSString" value="VFX_Combat_GroundImpact_Projectile_01" />
+					<attribute id="TrailFX" type="FixedString" value="VFX_Projectiles_DivineStrike_Radiant_01" />
+					
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LifeTime" type="float" value="20" />
+					<attribute id="MapKey" type="FixedString" value="eeef2c46-46a9-4b52-8e05-fae7dc4e548b" />
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_EldritchBlast_01" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="PreviewPathImpactFX" type="FixedString" value="VFX_UI_DestinationBeam_Projectile_01" />
+					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
+					<attribute id="Speed" type="float" value="160" />
+
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VelocityMode" type="uint8" value="1" />
+					<attribute id="InitialSpeed" type="float" value="160" />
+					<attribute id="Acceleration" type="float" value="30" />
+					<attribute id="VisualTemplate" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+
+					<attribute id="DestroyTrailFXOnImpact" type="bool" value="True" />
+					<children>
+						<node id="Bounds" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

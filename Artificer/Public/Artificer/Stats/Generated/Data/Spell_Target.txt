@@ -295,6 +295,7 @@ data "MemoryCost" "1"
 data "PrepareEffect" "1162f3ba-ed65-4cd0-9e1f-5882414c0097"
 data "CastEffect" "fb2cd1f1-3fb7-4efc-87cc-61f08868f567"
 data "Sheathing" "Ranged"
+data "Cooldown" "OncePerCombat"
 
 new entry "Target_FalseLife_Tiny_EldritchCannon"
 type "SpellData"
