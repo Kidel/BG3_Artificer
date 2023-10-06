@@ -1,4 +1,4 @@
-new entry "Gun Shot"
+new entry "Pistol Shot"
 type "SpellData"
 data "SpellType" "Projectile"
 using "Projectile_MainHandAttack"
@@ -18,7 +18,7 @@ data "SpellAnimation" "73afb4e5-8cfe-4479-95cf-16889597fee3,,;9583ecee-cf6c-4735
 data "CastSound" "Spell_Cast_Damage_BrandingSmiteRanged_L1to3"
 data "Trajectories" "eeef2c46-46a9-4b52-8e05-fae7dc4e548b"
 
-new entry "Gun Shot - OffHand"
+new entry "Pistol Shot - OffHand"
 type "SpellData"
 data "SpellType" "Projectile"
 using "Projectile_OffhandAttack"

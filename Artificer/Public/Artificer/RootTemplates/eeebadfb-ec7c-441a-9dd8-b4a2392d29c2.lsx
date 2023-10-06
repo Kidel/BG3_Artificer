@@ -9,7 +9,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="haeeeeee8g980fg4327ga0e9g46dd7368310e" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hbeeeeee8g980fg4327ga0e9g46dd7368310e" version="1" />
 					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-fb95-ea56cb3f229e" /> WPN_HUM_HandCrossbow_A_0
-					<attribute id="Icon" type="FixedString" value="TODO" />
+					<attribute id="Icon" type="FixedString" value="Weapon_Artificer_Flintlock" />
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int64" value="-1" />
