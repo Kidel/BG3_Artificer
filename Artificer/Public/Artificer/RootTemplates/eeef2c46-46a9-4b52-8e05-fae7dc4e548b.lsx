@@ -30,13 +30,13 @@
 					<attribute id="PhysicsTemplate" type="FixedString" value="" />
 					<attribute id="PreviewPathImpactFX" type="FixedString" value="VFX_UI_DestinationBeam_Projectile_01" />
 					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
-					<attribute id="Speed" type="float" value="200" />
+					<attribute id="Speed" type="float" value="160" />
 
 					<attribute id="Type" type="FixedString" value="projectile" />
 					<attribute id="VelocityMode" type="uint8" value="1" />
-					<attribute id="InitialSpeed" type="float" value="180" />
-					<attribute id="Acceleration" type="float" value="60" />
-					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="InitialSpeed" type="float" value="160" />
+					<attribute id="Acceleration" type="float" value="30" />
+					<attribute id="VisualTemplate" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 
 					<attribute id="DestroyTrailFXOnImpact" type="bool" value="True" />
 					<children>

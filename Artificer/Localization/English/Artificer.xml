@@ -79,7 +79,7 @@
 	<content contentuid="1126e61e8g9b89g4f30gb649gb3a97346a443" version="1">Flamethrower</content>
 	<content contentuid="1136e61e8g9b89g4f30gb649gb3a97346a443" version="1">The cannon exhales fire in an adjacent cone that you designate.  Each creature in that area must make a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your spell save &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt;, taking 2d8 fire damage on a failed save or half as much damage on a successful one.  The fire ignites any flammable objects in the area that aren't being worn or carried.</content>
 	<content contentuid="2226e61e8g9b89g4f30gb649gb3a97346a443" version="1">Force Ballista</content>
-	<content contentuid="2226e61e8g9b89g4f30gb649gb3a97346a444" version="1">Force Ballista - OffHand</content>
+	<content contentuid="2226e61e8g9b89g4f30gb649gb3a97346a444" version="1">Off-Hand Force Ballista</content>
 	<content contentuid="2236e61e8g9b89g4f30gb649gb3a97346a443" version="1">Make a ranged spell attack, originating from the cannon, at one creature or object within range.  On a hit, the target takes damage and is pushed up to away from the cannon.</content>
 	<content contentuid="3326e61e8g9b89g4f30gb649gb3a97346a443" version="1">Protector</content>
 	<content contentuid="3336e61e8g9b89g4f30gb649gb3a97346a443" version="1">The cannon emits a burst of positive energy that grants itself and each creature of your choice a number of temporary hit points.</content>
@@ -346,5 +346,9 @@
 	<content contentuid="heeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Firearm</content>
 	<content contentuid="heeeefee8g980fg4327ga0e9g46dd7368310e" version="1">A mechanism that allows to shoot projectiles thanks to power of runepowder.</content>
 
+	<content contentuid="h000f7c68ge983g4735g979eg25c197ee9962" version="1">Ranged Attack (Firearm)</content>
+	<content contentuid="h001f7c68ge983g4735g979eg25c197ee9962" version="1">Make a ranged attack with your firearm.</content>
+	<content contentuid="h010f7c68ge983g4735g979eg25c197ee9962" version="1">Off-Hand Ranged Attack (Firearm)</content>
+	<content contentuid="h011f7c68ge983g4735g979eg25c197ee9962" version="1">Make a ranged attack with your off-hand firearm.</content>
 
 </contentList>
