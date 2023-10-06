@@ -6,7 +6,7 @@
             <children>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(Skill,SleightOfHand);Proficiency(SimpleWeapons);Proficiency(HandCrossbows);Proficiency(LightCrossbows);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(Firearms);ActionResource(SpellSlot,2,1)"/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(Skill,SleightOfHand);Proficiency(SimpleWeapons);Proficiency(HandCrossbows);Proficiency(LightCrossbows);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(Firearms);Proficiency(Slings);ActionResource(SpellSlot,2,1)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;Passive_ArtificerExtraSlots;MagicalTinkering;ExperimentalAlchemy;AuraOfArtificer_Technical;AuraOfArtificer_Passive_Technical_Self;AuraOfArtificer_Passive_Technical_Self_2;AuraOfArtificer_Passive_Technical_Self_3;AuraOfArtificer_Passive_Technical_Self_4;AuraOfArtificer_Passive_Technical_Self_5"/>
@@ -17,7 +17,7 @@
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(Skill,SleightOfHand);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(Firearms);"/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(Skill,SleightOfHand);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(Firearms);Proficiency(Slings)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Artificer"/>

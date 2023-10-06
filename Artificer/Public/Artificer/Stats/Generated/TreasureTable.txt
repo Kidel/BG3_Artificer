@@ -15,6 +15,8 @@ new subtable "1,1"
 object category "I_ARM_SteampunkMonocle",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle",1,0,0,0,0,0,0,0
 
 new treasuretable "HAV_HarperQuarterMaster"
 CanMerge 1
@@ -38,6 +40,8 @@ new subtable "1,1"
 object category "I_BOOK_SteelWatch_Blueprints",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_OrinsImpersonation_Smith"
 CanMerge 1
@@ -61,5 +65,7 @@ new subtable "1,1"
 object category "I_ARM_SteampunkMonocle",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle",1,0,0,0,0,0,0,0
 
 

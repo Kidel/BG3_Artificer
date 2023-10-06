@@ -4,7 +4,7 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>	
-				<node id="GameObjects"> WPN_Artillerist_Eldritch_Cannon
+				<node id="GameObjects"> 
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="DisplayName" type="TranslatedString" handle="haeeeeee8g980fg4327ga0e9g46dd7368310e" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hbeeeeee8g980fg4327ga0e9g46dd7368310e" version="1" />

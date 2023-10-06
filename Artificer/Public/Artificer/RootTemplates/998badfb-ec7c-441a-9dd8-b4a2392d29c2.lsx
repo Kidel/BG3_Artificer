@@ -33,6 +33,13 @@
 								</node>
 							</children>
 						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
 						<node id="Bounds">
 							<children>
 								<node id="Bound">
