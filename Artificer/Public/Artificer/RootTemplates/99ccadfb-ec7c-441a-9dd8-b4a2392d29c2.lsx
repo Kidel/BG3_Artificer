@@ -5,25 +5,24 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="998badfb-ec7c-441a-9dd8-b4a2392d29c2" />
-					<attribute id="Name" type="LSString" value="WPN_Armorer_Gauntlets_Guardian_Left" />
-					<attribute id="Stats" type="FixedString" value="WPN_Armorer_Gauntlets_Guardian_Left" />
+					<attribute id="MapKey" type="FixedString" value="99ccadfb-ec7c-441a-9dd8-b4a2392d29c2" />
+					<attribute id="Name" type="LSString" value="WPN_Armorer_Gauntlets_Infiltrator_Left" />
+					<attribute id="Stats" type="FixedString" value="WPN_Armorer_Gauntlets_Infiltrator_Left" />
 					<attribute id="Icon" type="FixedString" value="Item_ArcReactor" />
-					<attribute id="VisualTemplate" type="FixedString" value="99807404-da41-44dd-a0d8-9f75fd43c071" />
+					<attribute id="VisualTemplate" type="FixedString" value="99707404-da41-44dd-a0d8-9f75fd43c071" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="ParentTemplateId" type="FixedString" value="1eab180b-5bf9-48ea-aece-7ba20d1deb78" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a5d843ab-c3af-4e60-a925-bb2e15828938" />
 					<attribute id="ReadinessFlags" type="uint32" value="144" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h7866559eg3214g4772g9085gce3dcff90a4d" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1333259eg3214g4772g9085gce3dcff90a4d" version="1" />
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="WalkThrough" type="bool" value="True" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
 					<attribute id="Race" type="int8" value="0" />
 					<attribute id="Tooltip" type="uint8" value="2" />
-					<attribute id="Description" type="TranslatedString" handle="h7966559eg3214g4772g9085gce3dcff90a4d" version="1" />
-					<attribute id="EquipmentTypeID" type="guid" value="2fc3e6f9-120c-4adf-c3b7-9078d7ae12c3" />
+					<attribute id="Description" type="TranslatedString" handle="hc966559eg3214g4772g9085gce3dcff90a4d" version="1" />
 					<attribute id="IsInspector" type="bool" value="True" />
 					<children>
 						<node id="Tags">

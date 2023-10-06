@@ -38,6 +38,9 @@
 								<node id="Status">
 									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
 								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="ARMORER_GLOVE_WEAPON_EFFECT" />
+								</node>
 							</children>
 						</node>
 						<node id="Bounds">

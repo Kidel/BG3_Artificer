@@ -251,16 +251,20 @@
 	<content contentuid="h1111159eg3214g4772g9085gce3dcff90a4d" version="1">Thunder Gauntlets</content>
 	<content contentuid="ha111159eg3214g4772g9085gce3dcff90a4d" version="1">Your right gauntlet is imbued with energy.</content>
 	<content contentuid="h111114bcg3365g4812ga6a5gb0fa92c75165" version="1">Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals Thunder damage on a hit.  A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.</content>
-	<content contentuid="h1111259eg3214g4772g9085gce3dcff90a4d" version="1">Thunder Gauntlets Off Hand</content>
+	<content contentuid="h1111259eg3214g4772g9085gce3dcff90a4d" version="1">Off-Hand Thunder Gauntlets</content>
 	<content contentuid="ha111259eg3214g4772g9085gce3dcff90a4d" version="1">Your left gauntlet is imbued with energy.</content>
 	<content contentuid="h111124bcg3365g4812ga6a5gb0fa92c75165" version="1">Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals Thunder damage on a hit.  A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.</content>
 	<content contentuid="h7766559eg3214g4772g9085gce3dcff90a4d" version="1">Thunder Emitter</content>
-	<content contentuid="h7866559eg3214g4772g9085gce3dcff90a4d" version="1">Thunder Emitter Off Hand</content>
+	<content contentuid="h7866559eg3214g4772g9085gce3dcff90a4d" version="1">Off-Hand Thunder Emitter</content>
 	<content contentuid="h7966559eg3214g4772g9085gce3dcff90a4d" version="1">This device can be added on top of gauntlets (or bare hands) to make Thunder Gauntlets.  Each of them counts as a simple melee weapon while you aren't holding anything else.</content>
 	<content contentuid="h2111159eg3214g4772g9085gce3dcff90a4d" version="1">Defensive Field</content>
 	<content contentuid="h211114bcg3365g4812ga6a5gb0fa92c75165" version="1">As a bonus action, you can gain temporary hit points.</content>
 	<content contentuid="h1222259eg3214g4772g9085gce3dcff90a4d" version="1">Lightning Launcher</content>
-	<content contentuid="h222224bcg3365g4812ga6a5gb0fa92c75165" version="1">You can emit lightnings from your hands.  Once on each of your turns when you hit a creature with it, you can deal an extra Lightning damage to that target.</content>
+	<content contentuid="h1333259eg3214g4772g9085gce3dcff90a4d" version="1">Off-Hand Lightning Launcher</content>
+	<content contentuid="h1c22259eg3214g4772g9085gce3dcff90a4d" version="1">Chest Mounted Lightning Launcher</content>
+	<content contentuid="hc966559eg3214g4772g9085gce3dcff90a4d" version="1">This device can be added on top of gauntlets (or bare hands) to make Lightning Launchers.  Each of them counts as a ranged weapon while you aren't holding anything else.</content>
+	<content contentuid="h222224bcg3365g4812ga6a5gb0fa92c75165" version="1">You can shoot lightnings from your hands.  Once on each of your turns when you hit a creature with it, you can deal an extra Lightning damage to that target.</content>
+	<content contentuid="hc22224bcg3365g4812ga6a5gb0fa92c75165" version="1">You can shoot lightnings from your chest.  Once on each of your turns when you hit a creature with it, you can deal an extra Lightning damage to that target.</content>
 	<content contentuid="h2222259eg3214g4772g9085gce3dcff90a4d" version="1">Powered Steps</content>
 	<content contentuid="h322224bcg3365g4812ga6a5gb0fa92c75165" version="1">Your walking speed increases by 1.5 meters.</content>
 	<content contentuid="h4222259eg3214g4772g9085gce3dcff90a4d" version="1">Dampening Field</content>
@@ -353,4 +357,7 @@
 	<content contentuid="h001f7c68ge983g4735g979eg25c197ee9962" version="1">Make a ranged attack with your firearm.</content>
 	<content contentuid="h010f7c68ge983g4735g979eg25c197ee9962" version="1">Off-Hand Ranged Attack (Firearm)</content>
 	<content contentuid="h011f7c68ge983g4735g979eg25c197ee9962" version="1">Make a ranged attack with your off-hand firearm.</content>
+
+	<content contentuid="h9cd08861g50cfg4a67gb598gdbe47fbce245" version="1">Firearm</content>
+	<content contentuid="hc5bd4565g187cg49e2ga99eg43b33c5b8142" version="1">Firearms</content>
 </contentList>
