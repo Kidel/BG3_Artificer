@@ -139,7 +139,7 @@
 	<content contentuid="h77795291g7885g4073gae09ge965b053adee" version="1">Create Spell Slot</content>
 	<content contentuid="h777b555eg9c5fg4a37gb370g47cab9a77bf3" version="1">Spend Infusion Slots to unlock a &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;.</content>
 	<content contentuid="h9efaa994g1470g4e9fgb79eg5b65ca0eabab" version="1">The Right Tool for the Job</content>
-	<content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">You've learned how to produce exactly the tool you need:  you can magically create thieves tools, a trap disarmimg kit, or a shovel.</content>
+	<content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">You've learned how to produce exactly the tool you need:  you can magically create thieves tools, a trap disarming kit, or a shovel.</content>
 	<content contentuid="hde264abbg9d67g4000gb383g12ce2ac80341" version="1">Craft: Thieves Tools</content>
 	<content contentuid="hd0f27fc2gffb5g4e11ga18dg0b0634fb3ac7" version="1">Craft: Trap Disarm Kit</content>
 	<content contentuid="h95a73c80ga7a2g4049g8329g92e1048cf2eb" version="1">Craft: Shovel</content>
@@ -340,5 +340,11 @@
 
 	<content contentuid="h12310ee8g980fg4327ga0e9g46dd7368310e" version="1">Darkvision Monocle</content>
 	<content contentuid="h12315ee8g980fg4327ga0e9g46dd7368310e" version="1">A strange monocle of Githyanki origin. Makes the wearer able to see even in magical darkness.</content>
+
+	<content contentuid="haeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Flintlock Pistol</content>
+	<content contentuid="hbeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Firearms are becoming more and more widespread in Faerûn as Lantanese priests of Gond the Wondermaker are making and spreading them throughout the Realms. The Lantanese have mastered flintlock weapons-making, and can regularly produce high-quality pistols.</content>
+	<content contentuid="heeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Firearm</content>
+	<content contentuid="heeeefee8g980fg4327ga0e9g46dd7368310e" version="1">A mechanism that allows to shoot projectiles thanks to power of runepowder.</content>
+
 
 </contentList>

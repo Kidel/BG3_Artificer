@@ -597,7 +597,7 @@ data "DescriptionParams" "DealDamage(4d8 + 5,Force)"
 data "TooltipConditionalDamage" "DealDamage(4d8 + 5,Force)"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnDamage"
-data "Conditions" "IsWeaponAttack() and IsMeleeAttack()and (Item() or Tagged('CONSTRUCT'))"
+data "Conditions" "IsWeaponAttack() and IsMeleeAttack() and (Item() or Tagged('CONSTRUCT'))"
 data "StatsFunctors" "DealDamage(4d8 + 5,Force,Magical)"
 
 new entry "UNI_ArtificerHammer_Passive_DamageBonus"
