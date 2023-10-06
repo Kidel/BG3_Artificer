@@ -62,6 +62,7 @@ data "BoostsOnEquipMainHand" ""
 data "BoostsOnEquipOffHand" ""
 data "ValueOverride" "1"
 data "DefaultBoosts" "WeaponProperty(Magical);WeaponAttackRollAbilityOverride(Intelligence)"
+data "WeaponFunctors" "ApplyStatus(THUNDER_GAUNTLETS_DEBUFF,100,1);ApplyStatus(SELF,NO_DISADVANTAGE_FROM_THUNDER_GAUNTLETS,100,1)"
 
 new entry "WPN_Armorer_Gauntlets_Guardian_Left"
 type "Weapon"
