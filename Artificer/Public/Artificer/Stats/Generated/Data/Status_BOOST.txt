@@ -1243,7 +1243,7 @@ data "StackType" "Overwrite"
 data "Boosts" "Advantage(Ability, Dexterity);"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "RemoveConditions" "not WearingArmor()"
-data "StatusEffect" "b3e7fa61-37d7-4696-bf6e-31b46beba46b"
+data "StatusEffect" "70e3142f-6fde-4718-815f-a419e6bfaa23"
 
 new entry "EXPERIMENTAL_ELIXIR_RESOURCE"
 type "StatusData"
