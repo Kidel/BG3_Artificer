@@ -350,14 +350,16 @@ data "Icon" "Skill_ArcaneJolt"
 data "PriorityOrder" "2"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnLongRest;OnCreate"
-data "StatsFunctors" "IF(not HasStatus('EXPERIMENTAL_ELIXIR_RESOURCE_BLOCK', context.Source)):ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,2)"
+data "StatsFunctors" "IF(not ClassLevelHigherOrEqualThan(6,'Artificer') and not HasStatus('EXPERIMENTAL_ELIXIR_RESOURCE_BLOCK', context.Source)):ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,2)"
 data "Properties" "IsHidden"
 
 new entry "Artificer_Elixir_Passive_2"
+type "PassiveData"
 using "Artificer_Elixir_Passive_1"
-data "StatsFunctors" "IF(not HasStatus('EXPERIMENTAL_ELIXIR_RESOURCE_BLOCK', context.Source)):ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,4)"
+data "StatsFunctors" "IF(not ClassLevelHigherOrEqualThan(15,'Artificer') and not HasStatus('EXPERIMENTAL_ELIXIR_RESOURCE_BLOCK', context.Source)):ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,4)"
 
 new entry "Artificer_Elixir_Passive_3"
+type "PassiveData"
 using "Artificer_Elixir_Passive_1"
 data "StatsFunctors" "IF(not HasStatus('EXPERIMENTAL_ELIXIR_RESOURCE_BLOCK', context.Source)):ApplyStatus(SELF,EXPERIMENTAL_ELIXIR_RESOURCE,100,6)"
 
