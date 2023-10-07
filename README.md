@@ -1,7 +1,7 @@
 # Baldur's Gate 3 Artificer
 Collaborative effort to bring Artificer and its subclasses to Baldur's Gate 3
 
-![Banner](https://github.com/Kidel/BG3_Artificer/assets/3390842/7899b9dc-a428-4efa-a2dd-1d7b333eb45b)
+![Banner](https://github.com/Kidel/BG3_Artificer/assets/3390842/cd8bba8a-74f4-4a89-8ad4-06446085ed28)
 
 ## TODO List
 https://github.com/Kidel/BG3_Artificer/issues
