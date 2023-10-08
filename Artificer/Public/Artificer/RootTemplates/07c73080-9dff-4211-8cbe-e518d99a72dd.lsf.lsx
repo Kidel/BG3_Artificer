@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="07c73080-9dff-4211-8cbe-e518d99a72dd" />
+					<attribute id="Scale" type="float" value="0.65" />
+					<attribute id="Name" type="LSString" value="BASE_WATCHER_Steel_Quadruped_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d12bbe44-373f-4304-b808-0316d03a5d82" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="RecieveDecal" type="bool" value="True" />
+					<attribute id="Icon" type="FixedString" value="2b079223-b098-e4ca-a17e-09642e97abba-_(Icon_SteelWatcher_Quadruped)" />
+					<attribute id="Stats" type="FixedString" value="" />
+					<attribute id="ExplodedResourceID" type="FixedString" value="e67fc4c5-bc7b-11dd-8fc9-4d28c898961f" />
+					<attribute id="LevelOverride" type="int32" value="0" />
+					<attribute id="LightID" type="FixedString" value="" />
+					<attribute id="SoundMovementStopEvent" type="FixedString" value="" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="2b079223-b098-e4ca-a17e-09642e97abba" />
+					<attribute id="IsLootable" type="bool" value="False" />
+					<attribute id="LightChannel" type="uint8" value="0" />
+					<attribute id="DeathRaycastMinLength" type="float" value="0.4" />
+					<attribute id="DeathRaycastMaxLength" type="float" value="1" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_SteelWatcher_Quadruped" />
+					<attribute id="Faction" type="guid" value="00000000-0000-0000-0000-000000000000" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Min" type="fvec3" value="-2.849427 0.01194406 -1.469029" />
+									<attribute id="Max" type="fvec3" value="2.849427 3.892586 2.329619" />
+									<attribute id="Radius" type="float" value="1.6" />
+									<attribute id="Height" type="float" value="3.5" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Min" type="fvec3" value="-2.849427 0.01194406 -1.469029" />
+									<attribute id="Max" type="fvec3" value="2.849427 3.892586 2.329619" />
+									<attribute id="Radius" type="float" value="1.8" />
+									<attribute id="Height" type="float" value="3.5" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Min" type="fvec3" value="-2.849427 0.01194406 -1.469029" />
+									<attribute id="Max" type="fvec3" value="2.849427 3.892586 2.329619" />
+									<attribute id="Radius" type="float" value="2.2" />
+									<attribute id="Height" type="float" value="3.5" />
+								</node>
+							</children>
+						</node>
+						<node id="EquipmentTypes" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="86df429e-511e-3ec1-0699-1fec5d93caa7" />
+								</node>
+							</children>
+						</node>
+						<node id="Treasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Monster_SteelWatcher" />
+								</node>
+							</children>
+						</node>
+						<node id="PickingPhysics" />
+						<node id="FootStepInfos">
+							<children>
+								<node id="FootStepInfo">
+									<attribute id="Name" type="LSString" value="Footstep_Front_Left" />
+									<attribute id="FootPrintEffectName" type="LSString" value="" />
+									<attribute id="FootSmearEffectName" type="LSString" value="" />
+									<attribute id="FootSlideEffectName" type="LSString" value="" />
+									<attribute id="FootHearingEffectName" type="LSString" value="" />
+									<attribute id="FootBoneName" type="FixedString" value="Dummy_L_Foot_01" />
+									<attribute id="FootSoundEventName" type="FixedString" value="Movement_Footsteps_RaceLayer_Steelwatcher_Quad" />
+									<attribute id="FootScuffEventName" type="FixedString" value="Movement_Scuff" />
+								</node>
+								<node id="FootStepInfo">
+									<attribute id="Name" type="LSString" value="Footstep_Front_Right" />
+									<attribute id="FootPrintEffectName" type="LSString" value="" />
+									<attribute id="FootSmearEffectName" type="LSString" value="" />
+									<attribute id="FootSlideEffectName" type="LSString" value="" />
+									<attribute id="FootHearingEffectName" type="LSString" value="" />
+									<attribute id="FootBoneName" type="FixedString" value="Dummy_R_Foot_01" />
+									<attribute id="FootSoundEventName" type="FixedString" value="Movement_Footsteps_RaceLayer_Steelwatcher_Quad" />
+									<attribute id="FootScuffEventName" type="FixedString" value="Movement_Scuff" />
+								</node>
+								<node id="FootStepInfo">
+									<attribute id="Name" type="LSString" value="Footstep_Back_Left" />
+									<attribute id="FootPrintEffectName" type="LSString" value="" />
+									<attribute id="FootSmearEffectName" type="LSString" value="" />
+									<attribute id="FootSlideEffectName" type="LSString" value="" />
+									<attribute id="FootHearingEffectName" type="LSString" value="" />
+									<attribute id="FootBoneName" type="FixedString" value="Dummy_L_Foot_02" />
+									<attribute id="FootSoundEventName" type="FixedString" value="Movement_Footsteps_RaceLayer_Steelwatcher_Rear" />
+									<attribute id="FootScuffEventName" type="FixedString" value="Movement_Scuff" />
+								</node>
+								<node id="FootStepInfo">
+									<attribute id="Name" type="LSString" value="Footstep_Back_Right" />
+									<attribute id="FootPrintEffectName" type="LSString" value="" />
+									<attribute id="FootSmearEffectName" type="LSString" value="" />
+									<attribute id="FootSlideEffectName" type="LSString" value="" />
+									<attribute id="FootHearingEffectName" type="LSString" value="" />
+									<attribute id="FootBoneName" type="FixedString" value="Dummy_R_Foot_02" />
+									<attribute id="FootSoundEventName" type="FixedString" value="Movement_Footsteps_RaceLayer_Steelwatcher_Rear" />
+									<attribute id="FootScuffEventName" type="FixedString" value="Movement_Scuff" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams">
+							<attribute id="WorldClimbingSpeed" type="float" value="10" />
+							<attribute id="MovementAcceleration" type="float" value="8.5" />
+							<attribute id="MovementSpeedStroll" type="float" value="0.8" />
+							<attribute id="MovementSpeedSprint" type="float" value="5" />
+							<attribute id="MovementSpeedDash" type="float" value="5" />
+							<attribute id="MovementStepUpHeight" type="float" value="0.9" />
+							<attribute id="MovementTiltToRemap" type="FixedString" value="" />
+							<attribute id="SteeringSpeedCurveWithoutTransitions" type="FixedString" value="" />
+							<attribute id="WorldClimbingBlendspace_DownA" type="FixedString" value="575b6b01-b21a-62ff-7883-433fe47bf23a" />
+							<attribute id="WorldClimbingBlendspace_DownB" type="FixedString" value="4a6f8da3-6276-967f-8f1a-13f41c17c949" />
+							<attribute id="WorldClimbingBlendspace_DownBHeight" type="float" value="1.5" />
+							<attribute id="WorldClimbingBlendspace_UpA" type="FixedString" value="b566ed99-b547-2b59-7c7e-7ab982e9675b" />
+							<attribute id="WorldClimbingBlendspace_UpB" type="FixedString" value="6944f681-0d92-8f01-8c1d-f76e5505d236" />
+							<attribute id="WorldClimbingBlendspace_UpBHeight" type="float" value="1.5" />
+							<attribute id="LadderBlendspace_Attach_Down" type="FixedString" value="" />
+							<attribute id="LadderBlendspace_Attach_Up" type="FixedString" value="" />
+							<attribute id="LadderBlendspace_Detach_Down" type="FixedString" value="" />
+							<attribute id="LadderBlendspace_Detach_Up" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

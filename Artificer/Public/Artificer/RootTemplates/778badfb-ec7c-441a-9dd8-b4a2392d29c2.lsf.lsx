@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="7727e61e8g9b89g4f30gb649gb3a97346a443" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="7736e61e8g9b89g4f30gb649gb3a97346a443" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" />
+					<attribute id="Icon" type="FixedString" value="Weapon_EldritchCannon" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int64" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="778badfb-ec7c-441a-9dd8-b4a2392d29c2" />
+					<attribute id="Name" type="LSString" value="WPN_Artillerist_Eldritch_Cannon" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a5d843ab-c3af-4e60-a925-bb2e15828938" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="WPN_Artillerist_Eldritch_Cannon_2" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Scale" type="float" value="1.5" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="77707404-da41-44dd-a0d8-9f75fd43c071" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<children>
+						<node id="GameMaster" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int64" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

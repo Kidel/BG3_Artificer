@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="fff63342-30c9-456d-9a57-a88c8596c0c9" />
+					<attribute id="Name" type="LSString" value="REPLICA_ofGreaterHealth_Amulet" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1bbbc944-19a4-4001-8be3-edb2d8784828" />
+					<attribute id="VisualTemplate" type="FixedString" value="53565df3-8529-7fc4-3d9a-32d6725bd0f0" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="0e0667eb-33f9-8b22-a709-a75741249b90" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfff60a15geebfg4c4dga6a1g741690720575" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_MAG_ofGreaterHealth_Amulet" />
+					<attribute id="Stats" type="FixedString" value="REPLICA_ofGreaterHealth_Amulet" />
+					<attribute id="Description" type="TranslatedString" handle="hb2617fecga713g40d4gac24g28705701eaf3" version="1" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1066049 -0.01105703 -0.1203697" />
+									<attribute id="Max" type="fvec3" value="0.1207666 0.04910439 0.5164719" />
+									<attribute id="Radius" type="float" value="0.2165065" />
+									<attribute id="Height" type="float" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1066049 -0.01105703 -0.1203697" />
+									<attribute id="Max" type="fvec3" value="0.1207666 0.04910439 0.5164719" />
+									<attribute id="Radius" type="float" value="0.433013" />
+									<attribute id="Height" type="float" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1066049 -0.01105703 -0.1203697" />
+									<attribute id="Max" type="fvec3" value="0.1207666 0.04910439 0.5164719" />
+									<attribute id="Radius" type="float" value="0.433013" />
+									<attribute id="Height" type="float" value="1" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

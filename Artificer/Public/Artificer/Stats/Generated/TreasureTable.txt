@@ -42,6 +42,10 @@ new subtable "1,1"
 object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Artificer_Rifle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle_1",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_OrinsImpersonation_Smith"
 CanMerge 1
@@ -67,5 +71,9 @@ new subtable "1,1"
 object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Artificer_Rifle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle_1",1,0,0,0,0,0,0,0
 
 
