@@ -749,222 +749,23 @@
                     <attribute id="V1" type="float" value="0.125"/> Top
                     <attribute id="V2" type="float" value="0.15625"/> Bottom
                 </node>		
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 161 ROW 6 = 1
-                    <attribute id="U1" type="float" value="0.0"/> Left side
-                    <attribute id="U2" type="float" value="0.03125"/> Right side
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>		
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 162 ROW 6 = 2
-                    <attribute id="U1" type="float" value="0.03125"/> Left
-                    <attribute id="U2" type="float" value="0.0625"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>		
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 163 ROW 6 = 3
-                    <attribute id="U1" type="float" value="0.0625"/> Left
-                    <attribute id="U2" type="float" value="0.09375"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>		
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 164 ROW 6 = 4
-                    <attribute id="U1" type="float" value="0.09375"/> Left
-                    <attribute id="U2" type="float" value="0.125"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>		
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 165 ROW 6 = 5
-                    <attribute id="U1" type="float" value="0.125"/> Left
-                    <attribute id="U2" type="float" value="0.15625"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>	
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 166 ROW 6 = 6
-                    <attribute id="U1" type="float" value="0.15625"/> Left
-                    <attribute id="U2" type="float" value="0.1875"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>					
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 167 ROW 6 = 7
-                    <attribute id="U1" type="float" value="0.1875"/> Left
-                    <attribute id="U2" type="float" value="0.21875"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>				
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 168 ROW 6 = 8
-                    <attribute id="U1" type="float" value="0.21875"/> Left
-                    <attribute id="U2" type="float" value="0.25"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>				
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 169 ROW 6 = 9
-                    <attribute id="U1" type="float" value="0.25"/> Left
-                    <attribute id="U2" type="float" value="0.28125"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>				
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 170 ROW 6 = 10
-                    <attribute id="U1" type="float" value="0.28125"/> Left
-                    <attribute id="U2" type="float" value="0.3125"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>				
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 171 ROW 6 = 11
-                    <attribute id="U1" type="float" value="0.3125"/> Left
-                    <attribute id="U2" type="float" value="0.34375"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>				
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 172 ROW 6 = 12
-                    <attribute id="U1" type="float" value="0.34375"/> Left
-                    <attribute id="U2" type="float" value="0.375"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>				
                 
-                Row 6 pos 13 moved up
-
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 174 ROW 6 = 14
-                    <attribute id="U1" type="float" value="0.40625"/> Left
-                    <attribute id="U2" type="float" value="0.4375"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>		
-                
-                Row 6 pos 15 moved up
-
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 176 ROW 6 = 16
-                    <attribute id="U1" type="float" value="0.46875"/> Left
-                    <attribute id="U2" type="float" value="0.5"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>				
-
-                Row 6 pos 17 moved up
-
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 178 ROW 6 = 18
-                    <attribute id="U1" type="float" value="0.53125"/> Left
-                    <attribute id="U2" type="float" value="0.5625"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>		
-
-                Row 6 pos 19 moved up
-
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 180 ROW 6 = 20
-                    <attribute id="U1" type="float" value="0.59375"/> Left
-                    <attribute id="U2" type="float" value="0.625"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>		
-               
-                Row 6 pos 21 moved up
-
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 182 ROW 6 = 22
-                    <attribute id="U1" type="float" value="0.65625"/> Left
-                    <attribute id="U2" type="float" value="0.6875"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom	
-                </node>	
-                
-                Row 6 pos 23 moved up
-
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 184 ROW 6 = 24
-                    <attribute id="U1" type="float" value="0.71875"/> Left
-                    <attribute id="U2" type="float" value="0.75"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom	
-                </node>	
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 185 ROW 6 = 25
-                    <attribute id="U1" type="float" value="0.75"/> Left
-                    <attribute id="U2" type="float" value="0.78125"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom	
-                </node>		
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 186 ROW 6 = 26
-                    <attribute id="U1" type="float" value="0.78125"/> Left
-                    <attribute id="U2" type="float" value="0.8125"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom	
-                </node>	
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 187 ROW 6 = 27
-                    <attribute id="U1" type="float" value="0.8125"/> Left
-                    <attribute id="U2" type="float" value="0.84375"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom	
-                </node>		
-               <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 188 ROW 6 = 28
-                    <attribute id="U1" type="float" value="0.84375"/> Left
-                    <attribute id="U2" type="float" value="0.875"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>			
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 189 ROW 6 = 29
-                    <attribute id="U1" type="float" value="0.875"/> Left
-                    <attribute id="U2" type="float" value="0.90625"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>							
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 190 ROW 6 = 30
-                    <attribute id="U1" type="float" value="0.90625"/> Left
-                    <attribute id="U2" type="float" value="0.9375"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>		
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 191 ROW 6 = 31
-                    <attribute id="U1" type="float" value="0.9375"/> Left
-                    <attribute id="U2" type="float" value="0.96875"/> Right					
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>		
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 192 ROW 6 = 32
-                    <attribute id="U1" type="float" value="0.96875"/> Left
-                    <attribute id="U2" type="float" value="1.0"/> Right
-                    <attribute id="V1" type="float" value="0.15625"/> Top
-                    <attribute id="V2" type="float" value="0.1875"/> Bottom
-                </node>		
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 193 ROW 7 = 1
+                    <attribute id="MapKey" type="FixedString" value="Skill_ThunderGauntlets_Bonus"/> 193 ROW 7 = 1
                     <attribute id="U1" type="float" value="0.0"/> Left side
                     <attribute id="U2" type="float" value="0.03125"/> Right side
                     <attribute id="V1" type="float" value="0.1875"/> Top
                     <attribute id="V2" type="float" value="0.21875"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 194 ROW 7 = 2
+                    <attribute id="MapKey" type="FixedString" value="Skill_LightningLauncher_Bonus"/> 194 ROW 7 = 2
                     <attribute id="U1" type="float" value="0.03125"/> Left
                     <attribute id="U2" type="float" value="0.0625"/> Right
                     <attribute id="V1" type="float" value="0.1875"/> Top
                     <attribute id="V2" type="float" value="0.21875"/> Bottom
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 195 ROW 7 = 3
+                    <attribute id="MapKey" type="FixedString" value="Skill_LightningLauncher_Chest"/> 195 ROW 7 = 3
                     <attribute id="U1" type="float" value="0.0625"/> Left
                     <attribute id="U2" type="float" value="0.09375"/> Right
                     <attribute id="V1" type="float" value="0.1875"/> Top

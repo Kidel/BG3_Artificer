@@ -527,6 +527,7 @@ data "DisplayName" "h1111259eg3214g4772g9085gce3dcff90a4d;1"
 data "Description" "h111124bcg3365g4812ga6a5gb0fa92c75165;1"
 data "SpellSuccess" "DealDamage(OffhandMeleeWeapon+IntelligenceModifier,OffhandMeleeWeaponDamageType,Magical);ExecuteWeaponFunctors(OffHand)"
 data "TooltipDamageList" "DealDamage(OffhandMeleeWeapon+IntelligenceModifier, OffhandMeleeWeaponDamageType)"
+data "Icon" "Skill_ThunderGauntlets_Bonus"
 
 new entry "Target_Artificer_DefensiveField"
 type "SpellData"

@@ -360,4 +360,15 @@
 
 	<content contentuid="h9cd08861g50cfg4a67gb598gdbe47fbce245" version="1">Firearm</content>
 	<content contentuid="hc5bd4565g187cg49e2ga99eg43b33c5b8142" version="1">Firearms</content>
+
+	<content contentuid="hfffd4565g187cg49e2ga99eg43b33c5b8142" version="1">Gunner</content>
+	<content contentuid="hffff4565g187cg49e2ga99eg43b33c5b8142" version="1">Gunner: Point-Blank</content>
+	<content contentuid="hfffff565g187cg49e2ga99eg43b33c5b8142" version="1">Gunner: Proficiency</content>
+	<content contentuid="hddfff565g187cg49e2ga99eg43b33c5b8142" version="1">Gunner: Bonus Dexterity</content>
+	<content contentuid="hdffff565g187cg49e2ga99eg43b33c5b8142" version="1">Increase your Dexterity by 1, to a maximum of 20.</content>
+	<content contentuid="hffddd565g187cg49e2ga99eg43b33c5b8142" version="1">You have a quick hand and keen eye when employing firearms, granting you the following benefits:&lt;br&gt;&lt;br&gt;Increase your Dexterity by 1, to a maximum of 20.&lt;br&gt;You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with firearms.&lt;br&gt;When you make firearm attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hccddd565g187cg49e2ga99eg43b33c5b8142" version="1">When you make firearm attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hccddf565g187cg49e2ga99eg43b33c5b8142" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with firearms.</content>
+	<content contentuid="hbbddf565g187cg49e2ga99eg43b33c5b8142" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with firearms.&lt;br&gt;&lt;br&gt;When you make firearm attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+
 </contentList>
