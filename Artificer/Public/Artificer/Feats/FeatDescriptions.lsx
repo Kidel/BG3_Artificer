@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="FeatDescriptions">
+        <node id="root">
+            <children>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hffddd565g187cg49e2ga99eg43b33c5b8142" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfffd4565g187cg49e2ga99eg43b33c5b8142" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Artificer_FirearmsProficiency_Gunner"/>
+                    <attribute id="FeatId" type="guid" value="a5f9cdb8-2b2a-4691-a2bf-0139bebec3e4"/>
+                    <attribute id="UUID" type="guid" value="8f08f549-3346-40bc-ad30-5aa4b5c918de"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

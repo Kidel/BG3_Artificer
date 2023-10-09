@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="Feats">
+        <node id="root">
+            <children>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Artificer_FirearmsProficiency_Gunner"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Artificer_Firearms_DexBonus;Artificer_FirearmsProficiency_Gunner;Artificer_Firearms_PointBlank"/>
+                    <attribute id="UUID" type="guid" value="a5f9cdb8-2b2a-4691-a2bf-0139bebec3e4"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
