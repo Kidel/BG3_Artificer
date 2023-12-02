@@ -87,7 +87,7 @@ type "Armor"
 using "ARM_Artificer_BattleSmith"
 data "RootTemplate" "000b2caf-8d36-42cf-b389-d774229ed18c"
 data "ArmorClass" "16"
-data "ArmorType" "StuddedLeather"
+data "ArmorType" "ScaleMail"
 data "PassivesOnEquip" "ARM_Ambusher_2_Passive;ARM_ArtilleristRifleAlternativeSummon"
 data "Boosts" "IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth);UnlockSpell(Target_EldritchCannonOverdrive)"
 
