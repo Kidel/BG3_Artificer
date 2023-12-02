@@ -36,7 +36,7 @@
 					<attribute id="VelocityMode" type="uint8" value="1" />
 					<attribute id="InitialSpeed" type="float" value="160" />
 					<attribute id="Acceleration" type="float" value="30" />
-					<attribute id="VisualTemplate" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
 
 					<attribute id="DestroyTrailFXOnImpact" type="bool" value="True" />
 					<children>
