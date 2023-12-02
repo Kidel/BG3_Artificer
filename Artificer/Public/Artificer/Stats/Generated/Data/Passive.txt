@@ -654,7 +654,7 @@ data "DescriptionParams" "DealDamage(1d6,Lightning)"
 data "TooltipConditionalDamage" "DealDamage(1d6,Lightning)"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnDamage"
-data "Conditions" "IsWeaponAttack() and IsMeleeAttack() and Character() and not (Item() or Tagged('CONSTRUCT'))"
+data "Conditions" "IsWeaponAttack() and IsMeleeAttack() and Character() and not (Item())"
 data "StatsFunctors" "DealDamage(1d6,Lightning,Magical)"
 
 new entry "Artificer_Firearms_PointBlank"
