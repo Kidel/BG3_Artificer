@@ -25,7 +25,7 @@ data "Conditions" "IsAbleToReact(context.Observer) and not Self(context.Source,c
 data "Properties" "SetDisadvantage();ApplyStatus(OBSERVER_TARGET,INTERRUPT_FIGHTINGSTYLE_PROTECTION,100,0)"
 data "Cost" "ReactionActionPoint:1"
 data "InterruptDefaultValue" "Ask;Enabled"
-data "EnableCondition" "Tagged('MINDFLAYER')"
+data "EnableCondition" "Tagged('MINDFLAYER') or Tagged('CONSTRUCT')"
 data "EnableContext" "OnStatusApplied;OnEquip"
 data "ExtraDescription" ""
 
