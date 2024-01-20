@@ -43,6 +43,7 @@ data "Description" "h722224bcg3365g4812ga6a5gb0fa92c75165;1"
 data "Icon" "Passive_PerfectedArmor"
 data "Conditions" "IsAbleToReact(context.Observer) and Enemy(context.Source,context.Observer) and not Self(context.Target,context.Observer) and HasInterruptedAttack() and not AnyEntityIsItem()"
 data "Properties" "IF(HasInterruptedAttack()):SetRoll(1);UseSpell(OBSERVER_SOURCE,Target_ArmorModel_Guardian_Sentinel_Thunder,true,true,true)"
+data "EnableCondition" "not HasStatus('SG_Polymorph') or Tagged('MINDFLAYER')"
 
 new entry "Interrupt_ArmorModel_Guardian_L15"
 type "InterruptData"
@@ -52,6 +53,7 @@ data "Description" "h722224bcg3365g4812ga6a5gb0fa92c75165;1"
 data "Icon" "Passive_PerfectedArmor"
 data "Conditions" "IsAbleToReact(context.Observer) and Enemy(context.Source,context.Observer) and not Self(context.Target,context.Observer) and HasInterruptedAttack() and not AnyEntityIsItem()"
 data "Properties" "IF(HasInterruptedAttack()):SetRoll(1);UseSpell(OBSERVER_SOURCE,Target_ArmorModel_Guardian_Sentinel_Thunder_L15,true,true,true)"
+data "EnableCondition" "not HasStatus('SG_Polymorph') or Tagged('MINDFLAYER')"
 
 
 new entry "Interrupt_AbsorbElements_Artificer"
