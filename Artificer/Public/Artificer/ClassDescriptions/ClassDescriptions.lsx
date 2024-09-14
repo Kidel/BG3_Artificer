@@ -10,7 +10,7 @@
                     <attribute id="Description" type="TranslatedString" handle="77523fb3deaa14de1766304e0911fbc49ae77" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="66523fb3deaa14de1766304e0911fbc49ae66" version="1"/>
                     <attribute id="HpPerLevel" type="int32" value="5"/>
-                    <attribute id="IsDefaultForUseSpellAction" type="bool" value="true"/>
+                    <attribute id="IsDefaultForUseSpellAction" type="bool" value="false"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Artificer"/>
@@ -38,6 +38,7 @@
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Alchemist"/> 
+                    <attribute id="IsDefaultForUseSpellAction" type="bool" value="false"/>
                     <attribute id="ParentGuid" type="guid" value="03f972eb-de3c-4cdb-9050-e8e3fa0526eb"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="229dfad5-31e0-41b6-aad9-41a55c2f8354"/>
@@ -61,6 +62,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="36523fb3deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="IsDefaultForUseSpellAction" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Armorer"/> 
                     <attribute id="ParentGuid" type="guid" value="03f972eb-de3c-4cdb-9050-e8e3fa0526eb"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
@@ -85,6 +87,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="38523fb3deaa14de1766304e0911fbc49ae33" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="IsDefaultForUseSpellAction" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Artillerist"/> 
                     <attribute id="ParentGuid" type="guid" value="03f972eb-de3c-4cdb-9050-e8e3fa0526eb"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
