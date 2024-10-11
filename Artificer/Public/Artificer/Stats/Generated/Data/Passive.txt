@@ -219,7 +219,7 @@ data "DisplayName" "h0caa271dg838fg43cfgbb0bg029e8fa4e67a;2"
 data "Description" "772d30149g1349g4008g9807g532569db7932;2"
 data "Icon" "PassiveFeature_CompanionsBond"
 data "Properties" "Highlighted"
-data "Boosts" "AddProficiencyToDamage();AddProficiencyToAC() "
+data "Boosts" "IF(SpellId('Target_Bite_SteelDefender')):AddProficiencyToDamage();AddProficiencyToAC() "
 
 
 new entry "Artificer_FlashOfGenius_Passive"
