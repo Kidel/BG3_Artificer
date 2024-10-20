@@ -32,7 +32,7 @@ data "ExtraDescription" ""
 new entry "Interrupt_BattleSmith_Deflect_2"
 type "InterruptData"
 using "Interrupt_BattleSmith_Deflect"
-data "Properties" "SetDisadvantage();ApplyStatus(OBSERVER_TARGET,PASSIVE_WARDING_FLARE,100,0);UseSpell(OBSERVER_TARGET,Target_Deflect_Interrupt,true,true,true);DealDamage(1d4+5,Force)"
+data "Properties" "SetDisadvantage();ApplyStatus(OBSERVER_TARGET,PASSIVE_WARDING_FLARE,100,0);UseSpell(OBSERVER_TARGET,Target_Deflect_Interrupt,true,true,true);DealDamage(SWAP, 1d4+5,Force)"
 
 
 new entry "Interrupt_ArmorModel_Guardian"
